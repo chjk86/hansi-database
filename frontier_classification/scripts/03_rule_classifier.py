@@ -17,7 +17,7 @@ import re
 
 from common import (
     parse_gold_poems, full_plain, title_plain, author_of, is_frontier,
-    load_collection, AUTHOR_FILE,
+    load_collection, title_in_gold, AUTHOR_FILE,
 )
 
 TIERS_PATH = "../thesaurus/thesaurus_tiers.json"
@@ -62,7 +62,7 @@ def pilot_all_authors(classify):
         flagged = 0
         skipped = 0
         for title, body in rows:
-            if title in gold_titles[author]:
+            if title_in_gold(title, gold_titles[author]):
                 skipped += 1
                 continue
             pred, _, _ = classify(title + body)

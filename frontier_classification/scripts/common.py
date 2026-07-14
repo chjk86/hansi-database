@@ -41,6 +41,20 @@ def author_of(poem_block):
     return m.group(1) if m else None
 
 
+def title_in_gold(corpus_title, gold_titles):
+    """Check whether a corpus poem title corresponds to a gold-tagged poem.
+
+    Exact match isn't enough: a handful of gold titles refer to a whole
+    numbered series (e.g. gold has bare "楊經理北征歌" while the corpus has
+    it split into "楊經理北征歌 十首", "楊經理北征歌 十首 其三", ...). Treat
+    the corpus title as a gold match if it exactly equals a gold title, or is
+    that gold title followed by a space and a series/count suffix.
+    """
+    if corpus_title in gold_titles:
+        return True
+    return any(corpus_title.startswith(gt + " ") for gt in gold_titles if gt)
+
+
 def load_collection(path):
     """Load a `<title>...</title>,<text>...</text>` per-line collection file.
 
