@@ -20,7 +20,7 @@ from common import (
     load_collection, AUTHOR_FILE,
 )
 
-GOLD_PATH = "../data/변새시_1차정리본.txt"
+GOLD_PATH = "../data/변새시_2차정리본.txt"
 CORPUS_BASE = "../../2025_munzip_title_text_ver/"
 TIERS_PATH = "../thesaurus/thesaurus_tiers.json"
 OUT_PATH = "../results/ambiguous_scored.txt"

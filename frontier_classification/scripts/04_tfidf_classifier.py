@@ -33,7 +33,7 @@ from common import (
 # rather than imported from 03_rule_classifier.py. Keep the thesaurus tiers
 # file as the single source of truth if you change the wordlists.
 
-GOLD_PATH = "../data/변새시_1차정리본.txt"
+GOLD_PATH = "../data/변새시_2차정리본.txt"
 CORPUS_BASE = "../../2025_munzip_title_text_ver/"
 TIERS_PATH = "../thesaurus/thesaurus_tiers.json"
 OUT_PATH = "../results/tfidf_vs_rule_results.txt"

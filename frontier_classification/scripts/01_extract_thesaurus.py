@@ -6,7 +6,7 @@ Pulls three sources of candidate terms out of every poem tagged category="fronti
   - <Allusion target="..."/> targets (classical allusions)
 
 Usage: python 01_extract_thesaurus.py
-Reads:  ../data/변새시_1차정리본.txt
+Reads:  ../data/변새시_2차정리본.txt
 Writes: ../thesaurus/thesaurus_raw.json
 """
 import json
@@ -15,7 +15,7 @@ from collections import Counter
 
 from common import parse_gold_poems, is_frontier
 
-GOLD_PATH = "../data/변새시_1차정리본.txt"
+GOLD_PATH = "../data/변새시_2차정리본.txt"
 OUT_PATH = "../thesaurus/thesaurus_raw.json"
 
 
