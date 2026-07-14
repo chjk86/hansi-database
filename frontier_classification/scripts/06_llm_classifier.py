@@ -37,7 +37,7 @@ import time
 
 from common import (
     parse_gold_poems, full_plain, title_plain, author_of, is_frontier,
-    load_collection, AUTHOR_FILE,
+    load_collection, title_in_gold, AUTHOR_FILE,
 )
 
 GOLD_PATH = "../data/변새시_2차정리본.txt"
@@ -121,7 +121,7 @@ def build_ambiguous_sample(n):
     ambiguous = []
     for author, fn in AUTHOR_FILE.items():
         for title, body in load_collection(CORPUS_BASE + fn):
-            if title in gold_titles[author]:
+            if title_in_gold(title, gold_titles[author]):
                 continue
             full = title + body
             if any(t in full for t in specific):
