@@ -1,0 +1,7177 @@
+{
+  "terms": [
+    {
+      "token": "將軍",
+      "freq": 44,
+      "sources": [
+        "evidence",
+        "term"
+      ]
+    },
+    {
+      "token": "孤城",
+      "freq": 23,
+      "sources": [
+        "evidence",
+        "term"
+      ]
+    },
+    {
+      "token": "塞下",
+      "freq": 20,
+      "sources": [
+        "evidence",
+        "term"
+      ]
+    },
+    {
+      "token": "單于",
+      "freq": 15,
+      "sources": [
+        "evidence",
+        "term"
+      ]
+    },
+    {
+      "token": "殺氣",
+      "freq": 15,
+      "sources": [
+        "evidence",
+        "term"
+      ]
+    },
+    {
+      "token": "明妃",
+      "freq": 14,
+      "sources": [
+        "evidence",
+        "term"
+      ]
+    },
+    {
+      "token": "戍樓",
+      "freq": 14,
+      "sources": [
+        "evidence",
+        "term"
+      ]
+    },
+    {
+      "token": "長城",
+      "freq": 12,
+      "sources": [
+        "evidence",
+        "term"
+      ]
+    },
+    {
+      "token": "西塞",
+      "freq": 12,
+      "sources": [
+        "evidence",
+        "term"
+      ]
+    },
+    {
+      "token": "胡兒",
+      "freq": 12,
+      "sources": [
+        "evidence",
+        "term"
+      ]
+    },
+    {
+      "token": "陰山",
+      "freq": 12,
+      "sources": [
+        "evidence",
+        "term"
+      ]
+    },
+    {
+      "token": "絶塞",
+      "freq": 12,
+      "sources": [
+        "evidence",
+        "term"
+      ]
+    },
+    {
+      "token": "壯士",
+      "freq": 11,
+      "sources": [
+        "evidence",
+        "term"
+      ]
+    },
+    {
+      "token": "風沙",
+      "freq": 11,
+      "sources": [
+        "evidence",
+        "term"
+      ]
+    },
+    {
+      "token": "從軍",
+      "freq": 11,
+      "sources": [
+        "evidence",
+        "term"
+      ]
+    },
+    {
+      "token": "千里",
+      "freq": 10,
+      "sources": [
+        "evidence",
+        "term"
+      ]
+    },
+    {
+      "token": "龍荒",
+      "freq": 10,
+      "sources": [
+        "evidence",
+        "term"
+      ]
+    },
+    {
+      "token": "漢將",
+      "freq": 10,
+      "sources": [
+        "evidence",
+        "term"
+      ]
+    },
+    {
+      "token": "陰風",
+      "freq": 10,
+      "sources": [
+        "evidence",
+        "term"
+      ]
+    },
+    {
+      "token": "邊城",
+      "freq": 10,
+      "sources": [
+        "evidence",
+        "term"
+      ]
+    },
+    {
+      "token": "關月",
+      "freq": 10,
+      "sources": [
+        "evidence",
+        "term"
+      ]
+    },
+    {
+      "token": "塞下曲",
+      "freq": 10,
+      "sources": [
+        "evidence"
+      ]
+    },
+    {
+      "token": "茫茫",
+      "freq": 9,
+      "sources": [
+        "evidence",
+        "term"
+      ]
+    },
+    {
+      "token": "關山",
+      "freq": 9,
+      "sources": [
+        "evidence",
+        "term"
+      ]
+    },
+    {
+      "token": "煙塵",
+      "freq": 9,
+      "sources": [
+        "evidence",
+        "term"
+      ]
+    },
+    {
+      "token": "元戎",
+      "freq": 9,
+      "sources": [
+        "evidence",
+        "term"
+      ]
+    },
+    {
+      "token": "胡笳",
+      "freq": 9,
+      "sources": [
+        "evidence",
+        "term"
+      ]
+    },
+    {
+      "token": "出塞",
+      "freq": 9,
+      "sources": [
+        "evidence",
+        "term"
+      ]
+    },
+    {
+      "token": "畫角",
+      "freq": 9,
+      "sources": [
+        "evidence",
+        "term"
+      ]
+    },
+    {
+      "token": "靑海",
+      "freq": 8,
+      "sources": [
+        "evidence",
+        "term"
+      ]
+    },
+    {
+      "token": "節度",
+      "freq": 8,
+      "sources": [
+        "evidence",
+        "term"
+      ]
+    },
+    {
+      "token": "旌旗",
+      "freq": 8,
+      "sources": [
+        "evidence",
+        "term"
+      ]
+    },
+    {
+      "token": "風塵",
+      "freq": 8,
+      "sources": [
+        "evidence",
+        "term"
+      ]
+    },
+    {
+      "token": "鐵馬",
+      "freq": 8,
+      "sources": [
+        "evidence",
+        "term"
+      ]
+    },
+    {
+      "token": "次韻",
+      "freq": 7,
+      "sources": [
+        "term"
+      ]
+    },
+    {
+      "token": "提督",
+      "freq": 7,
+      "sources": [
+        "term"
+      ]
+    },
+    {
+      "token": "安邊",
+      "freq": 7,
+      "sources": [
+        "evidence",
+        "term"
+      ]
+    },
+    {
+      "token": "塞外",
+      "freq": 7,
+      "sources": [
+        "evidence",
+        "term"
+      ]
+    },
+    {
+      "token": "玉帳",
+      "freq": 7,
+      "sources": [
+        "evidence",
+        "term"
+      ]
+    },
+    {
+      "token": "遠遊",
+      "freq": 7,
+      "sources": [
+        "evidence",
+        "term"
+      ]
+    },
+    {
+      "token": "胡騎",
+      "freq": 7,
+      "sources": [
+        "evidence",
+        "term"
+      ]
+    },
+    {
+      "token": "書劍",
+      "freq": 7,
+      "sources": [
+        "evidence",
+        "term"
+      ]
+    },
+    {
+      "token": "金河",
+      "freq": 7,
+      "sources": [
+        "evidence",
+        "term"
+      ]
+    },
+    {
+      "token": "龍泉",
+      "freq": 7,
+      "sources": [
+        "evidence",
+        "term"
+      ]
+    },
+    {
+      "token": "書生",
+      "freq": 6,
+      "sources": [
+        "term"
+      ]
+    },
+    {
+      "token": "意氣",
+      "freq": 6,
+      "sources": [
+        "term"
+      ]
+    },
+    {
+      "token": "關西",
+      "freq": 6,
+      "sources": [
+        "evidence",
+        "term"
+      ]
+    },
+    {
+      "token": "一片",
+      "freq": 6,
+      "sources": [
+        "evidence",
+        "term"
+      ]
+    },
+    {
+      "token": "男兒",
+      "freq": 6,
+      "sources": [
+        "evidence",
+        "term"
+      ]
+    },
+    {
+      "token": "走馬",
+      "freq": 6,
+      "sources": [
+        "evidence",
+        "term"
+      ]
+    },
+    {
+      "token": "沙磧",
+      "freq": 6,
+      "sources": [
+        "evidence",
+        "term"
+      ]
+    },
+    {
+      "token": "丹心",
+      "freq": 6,
+      "sources": [
+        "evidence",
+        "term"
+      ]
+    },
+    {
+      "token": "緩帶",
+      "freq": 6,
+      "sources": [
+        "evidence",
+        "term"
+      ]
+    },
+    {
+      "token": "邊思",
+      "freq": 6,
+      "sources": [
+        "evidence",
+        "term"
+      ]
+    },
+    {
+      "token": "白羽",
+      "freq": 6,
+      "sources": [
+        "evidence",
+        "term"
+      ]
+    },
+    {
+      "token": "烽火",
+      "freq": 6,
+      "sources": [
+        "evidence",
+        "term"
+      ]
+    },
+    {
+      "token": "絶域",
+      "freq": 6,
+      "sources": [
+        "evidence",
+        "term"
+      ]
+    },
+    {
+      "token": "胡地",
+      "freq": 6,
+      "sources": [
+        "evidence",
+        "term"
+      ]
+    },
+    {
+      "token": "鞍馬",
+      "freq": 6,
+      "sources": [
+        "evidence",
+        "term"
+      ]
+    },
+    {
+      "token": "朝廷",
+      "freq": 5,
+      "sources": [
+        "term"
+      ]
+    },
+    {
+      "token": "至今",
+      "freq": 5,
+      "sources": [
+        "term"
+      ]
+    },
+    {
+      "token": "卽事",
+      "freq": 5,
+      "sources": [
+        "term"
+      ]
+    },
+    {
+      "token": "今日",
+      "freq": 5,
+      "sources": [
+        "term"
+      ]
+    },
+    {
+      "token": "從此",
+      "freq": 5,
+      "sources": [
+        "term"
+      ]
+    },
+    {
+      "token": "途中",
+      "freq": 5,
+      "sources": [
+        "term"
+      ]
+    },
+    {
+      "token": "白日",
+      "freq": 5,
+      "sources": [
+        "evidence",
+        "term"
+      ]
+    },
+    {
+      "token": "歌吹",
+      "freq": 5,
+      "sources": [
+        "evidence",
+        "term"
+      ]
+    },
+    {
+      "token": "幕府",
+      "freq": 5,
+      "sources": [
+        "evidence",
+        "term"
+      ]
+    },
+    {
+      "token": "長江",
+      "freq": 5,
+      "sources": [
+        "evidence",
+        "term"
+      ]
+    },
+    {
+      "token": "鎖鑰",
+      "freq": 5,
+      "sources": [
+        "evidence",
+        "term"
+      ]
+    },
+    {
+      "token": "遼陽",
+      "freq": 5,
+      "sources": [
+        "evidence",
+        "term"
+      ]
+    },
+    {
+      "token": "征戰",
+      "freq": 5,
+      "sources": [
+        "evidence",
+        "term"
+      ]
+    },
+    {
+      "token": "白草",
+      "freq": 5,
+      "sources": [
+        "evidence",
+        "term"
+      ]
+    },
+    {
+      "token": "塞上",
+      "freq": 5,
+      "sources": [
+        "evidence",
+        "term"
+      ]
+    },
+    {
+      "token": "鯨鯢",
+      "freq": 5,
+      "sources": [
+        "evidence",
+        "term"
+      ]
+    },
+    {
+      "token": "積屍",
+      "freq": 5,
+      "sources": [
+        "evidence",
+        "term"
+      ]
+    },
+    {
+      "token": "元帥",
+      "freq": 5,
+      "sources": [
+        "evidence",
+        "term"
+      ]
+    },
+    {
+      "token": "征婦",
+      "freq": 5,
+      "sources": [
+        "evidence",
+        "term"
+      ]
+    },
+    {
+      "token": "關塞",
+      "freq": 5,
+      "sources": [
+        "evidence",
+        "term"
+      ]
+    },
+    {
+      "token": "郵亭",
+      "freq": 5,
+      "sources": [
+        "evidence",
+        "term"
+      ]
+    },
+    {
+      "token": "鼓角",
+      "freq": 5,
+      "sources": [
+        "evidence",
+        "term"
+      ]
+    },
+    {
+      "token": "雄心",
+      "freq": 5,
+      "sources": [
+        "evidence",
+        "term"
+      ]
+    },
+    {
+      "token": "天塹",
+      "freq": 5,
+      "sources": [
+        "evidence",
+        "term"
+      ]
+    },
+    {
+      "token": "功名",
+      "freq": 5,
+      "sources": [
+        "evidence",
+        "term"
+      ]
+    },
+    {
+      "token": "聲名",
+      "freq": 5,
+      "sources": [
+        "evidence",
+        "term"
+      ]
+    },
+    {
+      "token": "關防",
+      "freq": 5,
+      "sources": [
+        "evidence",
+        "term"
+      ]
+    },
+    {
+      "token": "薊門",
+      "freq": 5,
+      "sources": [
+        "evidence",
+        "term"
+      ]
+    },
+    {
+      "token": "重關",
+      "freq": 5,
+      "sources": [
+        "evidence",
+        "term"
+      ]
+    },
+    {
+      "token": "金湯",
+      "freq": 5,
+      "sources": [
+        "evidence",
+        "term"
+      ]
+    },
+    {
+      "token": "投壺",
+      "freq": 5,
+      "sources": [
+        "evidence",
+        "term"
+      ]
+    },
+    {
+      "token": "觀察",
+      "freq": 4,
+      "sources": [
+        "term"
+      ]
+    },
+    {
+      "token": "使相",
+      "freq": 4,
+      "sources": [
+        "term"
+      ]
+    },
+    {
+      "token": "上策",
+      "freq": 4,
+      "sources": [
+        "term"
+      ]
+    },
+    {
+      "token": "九重",
+      "freq": 4,
+      "sources": [
+        "term"
+      ]
+    },
+    {
+      "token": "堂堂",
+      "freq": 4,
+      "sources": [
+        "term"
+      ]
+    },
+    {
+      "token": "南北",
+      "freq": 4,
+      "sources": [
+        "term"
+      ]
+    },
+    {
+      "token": "天山",
+      "freq": 4,
+      "sources": [
+        "term"
+      ]
+    },
+    {
+      "token": "輓詞",
+      "freq": 4,
+      "sources": [
+        "term"
+      ]
+    },
+    {
+      "token": "昨夜",
+      "freq": 4,
+      "sources": [
+        "term"
+      ]
+    },
+    {
+      "token": "不見",
+      "freq": 4,
+      "sources": [
+        "term"
+      ]
+    },
+    {
+      "token": "不堪",
+      "freq": 4,
+      "sources": [
+        "term"
+      ]
+    },
+    {
+      "token": "杜陵",
+      "freq": 4,
+      "sources": [
+        "term"
+      ]
+    },
+    {
+      "token": "詩史",
+      "freq": 4,
+      "sources": [
+        "term"
+      ]
+    },
+    {
+      "token": "城頭",
+      "freq": 4,
+      "sources": [
+        "evidence",
+        "term"
+      ]
+    },
+    {
+      "token": "山城",
+      "freq": 4,
+      "sources": [
+        "evidence",
+        "term"
+      ]
+    },
+    {
+      "token": "西北",
+      "freq": 4,
+      "sources": [
+        "evidence",
+        "term"
+      ]
+    },
+    {
+      "token": "士卒",
+      "freq": 4,
+      "sources": [
+        "evidence",
+        "term"
+      ]
+    },
+    {
+      "token": "東溟",
+      "freq": 4,
+      "sources": [
+        "evidence",
+        "term"
+      ]
+    },
+    {
+      "token": "戎幕",
+      "freq": 4,
+      "sources": [
+        "evidence",
+        "term"
+      ]
+    },
+    {
+      "token": "馬上",
+      "freq": 4,
+      "sources": [
+        "evidence",
+        "term"
+      ]
+    },
+    {
+      "token": "滄海",
+      "freq": 4,
+      "sources": [
+        "evidence",
+        "term"
+      ]
+    },
+    {
+      "token": "號令",
+      "freq": 4,
+      "sources": [
+        "evidence",
+        "term"
+      ]
+    },
+    {
+      "token": "星漢",
+      "freq": 4,
+      "sources": [
+        "evidence",
+        "term"
+      ]
+    },
+    {
+      "token": "許身",
+      "freq": 4,
+      "sources": [
+        "evidence",
+        "term"
+      ]
+    },
+    {
+      "token": "轅門",
+      "freq": 4,
+      "sources": [
+        "evidence",
+        "term"
+      ]
+    },
+    {
+      "token": "忠孝",
+      "freq": 4,
+      "sources": [
+        "evidence",
+        "term"
+      ]
+    },
+    {
+      "token": "風霜",
+      "freq": 4,
+      "sources": [
+        "evidence",
+        "term"
+      ]
+    },
+    {
+      "token": "瀚海",
+      "freq": 4,
+      "sources": [
+        "evidence",
+        "term"
+      ]
+    },
+    {
+      "token": "騂弓",
+      "freq": 4,
+      "sources": [
+        "evidence",
+        "term"
+      ]
+    },
+    {
+      "token": "沙塲",
+      "freq": 4,
+      "sources": [
+        "evidence",
+        "term"
+      ]
+    },
+    {
+      "token": "黃沙",
+      "freq": 4,
+      "sources": [
+        "evidence",
+        "term"
+      ]
+    },
+    {
+      "token": "楡關",
+      "freq": 4,
+      "sources": [
+        "evidence",
+        "term"
+      ]
+    },
+    {
+      "token": "三軍",
+      "freq": 4,
+      "sources": [
+        "evidence",
+        "term"
+      ]
+    },
+    {
+      "token": "躍馬",
+      "freq": 4,
+      "sources": [
+        "evidence",
+        "term"
+      ]
+    },
+    {
+      "token": "壯心",
+      "freq": 4,
+      "sources": [
+        "evidence",
+        "term"
+      ]
+    },
+    {
+      "token": "豺虎",
+      "freq": 4,
+      "sources": [
+        "evidence",
+        "term"
+      ]
+    },
+    {
+      "token": "山戎",
+      "freq": 4,
+      "sources": [
+        "evidence",
+        "term"
+      ]
+    },
+    {
+      "token": "胡馬",
+      "freq": 4,
+      "sources": [
+        "evidence",
+        "term"
+      ]
+    },
+    {
+      "token": "吹角",
+      "freq": 4,
+      "sources": [
+        "evidence",
+        "term"
+      ]
+    },
+    {
+      "token": "沙場",
+      "freq": 4,
+      "sources": [
+        "evidence",
+        "term"
+      ]
+    },
+    {
+      "token": "層城",
+      "freq": 4,
+      "sources": [
+        "evidence",
+        "term"
+      ]
+    },
+    {
+      "token": "孤戍",
+      "freq": 4,
+      "sources": [
+        "evidence",
+        "term"
+      ]
+    },
+    {
+      "token": "漠漠",
+      "freq": 4,
+      "sources": [
+        "evidence",
+        "term"
+      ]
+    },
+    {
+      "token": "長笛",
+      "freq": 4,
+      "sources": [
+        "evidence",
+        "term"
+      ]
+    },
+    {
+      "token": "西關",
+      "freq": 4,
+      "sources": [
+        "evidence",
+        "term"
+      ]
+    },
+    {
+      "token": "關河",
+      "freq": 4,
+      "sources": [
+        "evidence",
+        "term"
+      ]
+    },
+    {
+      "token": "胡天",
+      "freq": 4,
+      "sources": [
+        "evidence",
+        "term"
+      ]
+    },
+    {
+      "token": "歸計",
+      "freq": 4,
+      "sources": [
+        "evidence",
+        "term"
+      ]
+    },
+    {
+      "token": "匹馬",
+      "freq": 4,
+      "sources": [
+        "evidence",
+        "term"
+      ]
+    },
+    {
+      "token": "猛士",
+      "freq": 4,
+      "sources": [
+        "evidence",
+        "term"
+      ]
+    },
+    {
+      "token": "朔風",
+      "freq": 4,
+      "sources": [
+        "evidence",
+        "term"
+      ]
+    },
+    {
+      "token": "巡邊",
+      "freq": 4,
+      "sources": [
+        "evidence",
+        "term"
+      ]
+    },
+    {
+      "token": "角聲",
+      "freq": 4,
+      "sources": [
+        "evidence",
+        "term"
+      ]
+    },
+    {
+      "token": "吳鉤",
+      "freq": 4,
+      "sources": [
+        "evidence",
+        "term"
+      ]
+    },
+    {
+      "token": "北虜",
+      "freq": 4,
+      "sources": [
+        "evidence",
+        "term"
+      ]
+    },
+    {
+      "token": "旅枕",
+      "freq": 4,
+      "sources": [
+        "evidence",
+        "term"
+      ]
+    },
+    {
+      "token": "關外",
+      "freq": 4,
+      "sources": [
+        "evidence",
+        "term"
+      ]
+    },
+    {
+      "token": "驕橫",
+      "freq": 4,
+      "sources": [
+        "evidence",
+        "term"
+      ]
+    },
+    {
+      "token": "寒風",
+      "freq": 4,
+      "sources": [
+        "evidence",
+        "term"
+      ]
+    },
+    {
+      "token": "班超",
+      "freq": 4,
+      "sources": [
+        "evidence",
+        "term"
+      ]
+    },
+    {
+      "token": "玉塞",
+      "freq": 4,
+      "sources": [
+        "evidence",
+        "term"
+      ]
+    },
+    {
+      "token": "玉劍",
+      "freq": 4,
+      "sources": [
+        "evidence",
+        "term"
+      ]
+    },
+    {
+      "token": "遼左",
+      "freq": 4,
+      "sources": [
+        "evidence",
+        "term"
+      ]
+    },
+    {
+      "token": "戰塵",
+      "freq": 4,
+      "sources": [
+        "evidence",
+        "term"
+      ]
+    },
+    {
+      "token": "獵獵",
+      "freq": 4,
+      "sources": [
+        "evidence",
+        "term"
+      ]
+    },
+    {
+      "token": "出號",
+      "freq": 4,
+      "sources": [
+        "evidence",
+        "term"
+      ]
+    },
+    {
+      "token": "撫劍",
+      "freq": 4,
+      "sources": [
+        "evidence",
+        "term"
+      ]
+    },
+    {
+      "token": "邊庭",
+      "freq": 4,
+      "sources": [
+        "evidence",
+        "term"
+      ]
+    },
+    {
+      "token": "遼海",
+      "freq": 4,
+      "sources": [
+        "evidence",
+        "term"
+      ]
+    },
+    {
+      "token": "軍聲",
+      "freq": 4,
+      "sources": [
+        "evidence",
+        "term"
+      ]
+    },
+    {
+      "token": "少年",
+      "freq": 3,
+      "sources": [
+        "term"
+      ]
+    },
+    {
+      "token": "日暮",
+      "freq": 3,
+      "sources": [
+        "term"
+      ]
+    },
+    {
+      "token": "民獻",
+      "freq": 3,
+      "sources": [
+        "term"
+      ]
+    },
+    {
+      "token": "悠悠",
+      "freq": 3,
+      "sources": [
+        "term"
+      ]
+    },
+    {
+      "token": "白馬",
+      "freq": 3,
+      "sources": [
+        "term"
+      ]
+    },
+    {
+      "token": "高會",
+      "freq": 3,
+      "sources": [
+        "term"
+      ]
+    },
+    {
+      "token": "三千",
+      "freq": 3,
+      "sources": [
+        "term"
+      ]
+    },
+    {
+      "token": "黃金",
+      "freq": 3,
+      "sources": [
+        "term"
+      ]
+    },
+    {
+      "token": "中國",
+      "freq": 3,
+      "sources": [
+        "term"
+      ]
+    },
+    {
+      "token": "歸來",
+      "freq": 3,
+      "sources": [
+        "term"
+      ]
+    },
+    {
+      "token": "男子",
+      "freq": 3,
+      "sources": [
+        "term"
+      ]
+    },
+    {
+      "token": "不可",
+      "freq": 3,
+      "sources": [
+        "term"
+      ]
+    },
+    {
+      "token": "經營",
+      "freq": 3,
+      "sources": [
+        "term"
+      ]
+    },
+    {
+      "token": "日落",
+      "freq": 3,
+      "sources": [
+        "term"
+      ]
+    },
+    {
+      "token": "落日",
+      "freq": 3,
+      "sources": [
+        "term"
+      ]
+    },
+    {
+      "token": "東風",
+      "freq": 3,
+      "sources": [
+        "term"
+      ]
+    },
+    {
+      "token": "夜深",
+      "freq": 3,
+      "sources": [
+        "term"
+      ]
+    },
+    {
+      "token": "多少",
+      "freq": 3,
+      "sources": [
+        "term"
+      ]
+    },
+    {
+      "token": "那堪",
+      "freq": 3,
+      "sources": [
+        "term"
+      ]
+    },
+    {
+      "token": "何時",
+      "freq": 3,
+      "sources": [
+        "term"
+      ]
+    },
+    {
+      "token": "芳草",
+      "freq": 3,
+      "sources": [
+        "term"
+      ]
+    },
+    {
+      "token": "李白",
+      "freq": 3,
+      "sources": [
+        "term"
+      ]
+    },
+    {
+      "token": "古詩",
+      "freq": 3,
+      "sources": [
+        "term"
+      ]
+    },
+    {
+      "token": "封侯",
+      "freq": 3,
+      "sources": [
+        "term"
+      ]
+    },
+    {
+      "token": "哀哀",
+      "freq": 3,
+      "sources": [
+        "term"
+      ]
+    },
+    {
+      "token": "地勢",
+      "freq": 3,
+      "sources": [
+        "term"
+      ]
+    },
+    {
+      "token": "文章",
+      "freq": 3,
+      "sources": [
+        "term"
+      ]
+    },
+    {
+      "token": "碧霄",
+      "freq": 3,
+      "sources": [
+        "term"
+      ]
+    },
+    {
+      "token": "中州",
+      "freq": 3,
+      "sources": [
+        "term"
+      ]
+    },
+    {
+      "token": "雜詠",
+      "freq": 3,
+      "sources": [
+        "term"
+      ]
+    },
+    {
+      "token": "犬羊",
+      "freq": 3,
+      "sources": [
+        "term"
+      ]
+    },
+    {
+      "token": "五言",
+      "freq": 3,
+      "sources": [
+        "term"
+      ]
+    },
+    {
+      "token": "如今",
+      "freq": 3,
+      "sources": [
+        "term"
+      ]
+    },
+    {
+      "token": "平安",
+      "freq": 3,
+      "sources": [
+        "term"
+      ]
+    },
+    {
+      "token": "南道",
+      "freq": 3,
+      "sources": [
+        "term"
+      ]
+    },
+    {
+      "token": "回首",
+      "freq": 3,
+      "sources": [
+        "term"
+      ]
+    },
+    {
+      "token": "平生",
+      "freq": 3,
+      "sources": [
+        "term"
+      ]
+    },
+    {
+      "token": "事業",
+      "freq": 3,
+      "sources": [
+        "term"
+      ]
+    },
+    {
+      "token": "從征",
+      "freq": 3,
+      "sources": [
+        "evidence",
+        "term"
+      ]
+    },
+    {
+      "token": "衛霍",
+      "freq": 3,
+      "sources": [
+        "evidence",
+        "term"
+      ]
+    },
+    {
+      "token": "相思",
+      "freq": 3,
+      "sources": [
+        "evidence",
+        "term"
+      ]
+    },
+    {
+      "token": "兵家",
+      "freq": 3,
+      "sources": [
+        "evidence",
+        "term"
+      ]
+    },
+    {
+      "token": "舟師",
+      "freq": 3,
+      "sources": [
+        "evidence",
+        "term"
+      ]
+    },
+    {
+      "token": "凱歌",
+      "freq": 3,
+      "sources": [
+        "evidence",
+        "term"
+      ]
+    },
+    {
+      "token": "邊氓",
+      "freq": 3,
+      "sources": [
+        "evidence",
+        "term"
+      ]
+    },
+    {
+      "token": "玉門",
+      "freq": 3,
+      "sources": [
+        "evidence",
+        "term"
+      ]
+    },
+    {
+      "token": "羌笛",
+      "freq": 3,
+      "sources": [
+        "evidence",
+        "term"
+      ]
+    },
+    {
+      "token": "三韓",
+      "freq": 3,
+      "sources": [
+        "evidence",
+        "term"
+      ]
+    },
+    {
+      "token": "驛亭",
+      "freq": 3,
+      "sources": [
+        "evidence",
+        "term"
+      ]
+    },
+    {
+      "token": "撾鼓",
+      "freq": 3,
+      "sources": [
+        "evidence",
+        "term"
+      ]
+    },
+    {
+      "token": "征夫",
+      "freq": 3,
+      "sources": [
+        "evidence",
+        "term"
+      ]
+    },
+    {
+      "token": "仙槎",
+      "freq": 3,
+      "sources": [
+        "evidence",
+        "term"
+      ]
+    },
+    {
+      "token": "廵邊",
+      "freq": 3,
+      "sources": [
+        "evidence",
+        "term"
+      ]
+    },
+    {
+      "token": "雄圖",
+      "freq": 3,
+      "sources": [
+        "evidence",
+        "term"
+      ]
+    },
+    {
+      "token": "飛蓬",
+      "freq": 3,
+      "sources": [
+        "evidence",
+        "term"
+      ]
+    },
+    {
+      "token": "狼烟",
+      "freq": 3,
+      "sources": [
+        "evidence",
+        "term"
+      ]
+    },
+    {
+      "token": "朔漠",
+      "freq": 3,
+      "sources": [
+        "evidence",
+        "term"
+      ]
+    },
+    {
+      "token": "長纓",
+      "freq": 3,
+      "sources": [
+        "evidence",
+        "term"
+      ]
+    },
+    {
+      "token": "殊俗",
+      "freq": 3,
+      "sources": [
+        "evidence",
+        "term"
+      ]
+    },
+    {
+      "token": "百二",
+      "freq": 3,
+      "sources": [
+        "evidence",
+        "term"
+      ]
+    },
+    {
+      "token": "顚風",
+      "freq": 3,
+      "sources": [
+        "evidence",
+        "term"
+      ]
+    },
+    {
+      "token": "飛雪",
+      "freq": 3,
+      "sources": [
+        "evidence",
+        "term"
+      ]
+    },
+    {
+      "token": "胡雛",
+      "freq": 3,
+      "sources": [
+        "evidence",
+        "term"
+      ]
+    },
+    {
+      "token": "解甲",
+      "freq": 3,
+      "sources": [
+        "evidence",
+        "term"
+      ]
+    },
+    {
+      "token": "夷夏",
+      "freq": 3,
+      "sources": [
+        "evidence",
+        "term"
+      ]
+    },
+    {
+      "token": "離亂",
+      "freq": 3,
+      "sources": [
+        "evidence",
+        "term"
+      ]
+    },
+    {
+      "token": "列陣",
+      "freq": 3,
+      "sources": [
+        "evidence",
+        "term"
+      ]
+    },
+    {
+      "token": "豼貅",
+      "freq": 3,
+      "sources": [
+        "evidence",
+        "term"
+      ]
+    },
+    {
+      "token": "天將",
+      "freq": 3,
+      "sources": [
+        "evidence",
+        "term"
+      ]
+    },
+    {
+      "token": "王師",
+      "freq": 3,
+      "sources": [
+        "evidence",
+        "term"
+      ]
+    },
+    {
+      "token": "死國",
+      "freq": 3,
+      "sources": [
+        "evidence",
+        "term"
+      ]
+    },
+    {
+      "token": "胡人",
+      "freq": 3,
+      "sources": [
+        "evidence",
+        "term"
+      ]
+    },
+    {
+      "token": "將星",
+      "freq": 3,
+      "sources": [
+        "evidence",
+        "term"
+      ]
+    },
+    {
+      "token": "淸尊",
+      "freq": 3,
+      "sources": [
+        "evidence",
+        "term"
+      ]
+    },
+    {
+      "token": "百戰",
+      "freq": 3,
+      "sources": [
+        "evidence",
+        "term"
+      ]
+    },
+    {
+      "token": "風霆",
+      "freq": 3,
+      "sources": [
+        "evidence",
+        "term"
+      ]
+    },
+    {
+      "token": "膂力",
+      "freq": 3,
+      "sources": [
+        "evidence",
+        "term"
+      ]
+    },
+    {
+      "token": "黃雲",
+      "freq": 3,
+      "sources": [
+        "evidence",
+        "term"
+      ]
+    },
+    {
+      "token": "絶徼",
+      "freq": 3,
+      "sources": [
+        "evidence",
+        "term"
+      ]
+    },
+    {
+      "token": "邊頭",
+      "freq": 3,
+      "sources": [
+        "evidence",
+        "term"
+      ]
+    },
+    {
+      "token": "行裝",
+      "freq": 3,
+      "sources": [
+        "evidence",
+        "term"
+      ]
+    },
+    {
+      "token": "烈士",
+      "freq": 3,
+      "sources": [
+        "evidence",
+        "term"
+      ]
+    },
+    {
+      "token": "大漠",
+      "freq": 3,
+      "sources": [
+        "evidence",
+        "term"
+      ]
+    },
+    {
+      "token": "麟閣",
+      "freq": 3,
+      "sources": [
+        "evidence",
+        "term"
+      ]
+    },
+    {
+      "token": "勳業",
+      "freq": 3,
+      "sources": [
+        "evidence",
+        "term"
+      ]
+    },
+    {
+      "token": "北海",
+      "freq": 3,
+      "sources": [
+        "evidence",
+        "term"
+      ]
+    },
+    {
+      "token": "悲歌",
+      "freq": 3,
+      "sources": [
+        "evidence",
+        "term"
+      ]
+    },
+    {
+      "token": "思歸",
+      "freq": 3,
+      "sources": [
+        "evidence",
+        "term"
+      ]
+    },
+    {
+      "token": "朔雪",
+      "freq": 3,
+      "sources": [
+        "evidence",
+        "term"
+      ]
+    },
+    {
+      "token": "斜陽",
+      "freq": 3,
+      "sources": [
+        "evidence",
+        "term"
+      ]
+    },
+    {
+      "token": "千古",
+      "freq": 3,
+      "sources": [
+        "evidence",
+        "term"
+      ]
+    },
+    {
+      "token": "窮漠",
+      "freq": 3,
+      "sources": [
+        "evidence",
+        "term"
+      ]
+    },
+    {
+      "token": "力盡",
+      "freq": 3,
+      "sources": [
+        "evidence",
+        "term"
+      ]
+    },
+    {
+      "token": "登壇",
+      "freq": 3,
+      "sources": [
+        "evidence",
+        "term"
+      ]
+    },
+    {
+      "token": "寶刀",
+      "freq": 3,
+      "sources": [
+        "evidence",
+        "term"
+      ]
+    },
+    {
+      "token": "金微",
+      "freq": 3,
+      "sources": [
+        "evidence",
+        "term"
+      ]
+    },
+    {
+      "token": "邊封",
+      "freq": 3,
+      "sources": [
+        "evidence",
+        "term"
+      ]
+    },
+    {
+      "token": "長白山",
+      "freq": 3,
+      "sources": [
+        "evidence",
+        "term"
+      ]
+    },
+    {
+      "token": "鴨江",
+      "freq": 3,
+      "sources": [
+        "evidence",
+        "term"
+      ]
+    },
+    {
+      "token": "廣漠",
+      "freq": 3,
+      "sources": [
+        "evidence",
+        "term"
+      ]
+    },
+    {
+      "token": "邊詞",
+      "freq": 3,
+      "sources": [
+        "evidence",
+        "term"
+      ]
+    },
+    {
+      "token": "白羽箭",
+      "freq": 3,
+      "sources": [
+        "evidence",
+        "term"
+      ]
+    },
+    {
+      "token": "戰骨",
+      "freq": 3,
+      "sources": [
+        "evidence",
+        "term"
+      ]
+    },
+    {
+      "token": "伊吾",
+      "freq": 3,
+      "sources": [
+        "evidence",
+        "term"
+      ]
+    },
+    {
+      "token": "層氷",
+      "freq": 3,
+      "sources": [
+        "evidence",
+        "term"
+      ]
+    },
+    {
+      "token": "塞日",
+      "freq": 3,
+      "sources": [
+        "evidence"
+      ]
+    },
+    {
+      "token": "關路",
+      "freq": 3,
+      "sources": [
+        "evidence"
+      ]
+    },
+    {
+      "token": "射鵰",
+      "freq": 3,
+      "sources": [
+        "evidence"
+      ]
+    },
+    {
+      "token": "塞雲",
+      "freq": 3,
+      "sources": [
+        "evidence"
+      ]
+    },
+    {
+      "token": "胡兵",
+      "freq": 3,
+      "sources": [
+        "evidence"
+      ]
+    },
+    {
+      "token": "日夕",
+      "freq": 2,
+      "sources": [
+        "term"
+      ]
+    },
+    {
+      "token": "一夜",
+      "freq": 2,
+      "sources": [
+        "term"
+      ]
+    },
+    {
+      "token": "黃楡",
+      "freq": 2,
+      "sources": [
+        "term"
+      ]
+    },
+    {
+      "token": "前軍",
+      "freq": 2,
+      "sources": [
+        "term"
+      ]
+    },
+    {
+      "token": "深入",
+      "freq": 2,
+      "sources": [
+        "term"
+      ]
+    },
+    {
+      "token": "由來",
+      "freq": 2,
+      "sources": [
+        "term"
+      ]
+    },
+    {
+      "token": "家人",
+      "freq": 2,
+      "sources": [
+        "term"
+      ]
+    },
+    {
+      "token": "題詠",
+      "freq": 2,
+      "sources": [
+        "term"
+      ]
+    },
+    {
+      "token": "還朝",
+      "freq": 2,
+      "sources": [
+        "term"
+      ]
+    },
+    {
+      "token": "書記",
+      "freq": 2,
+      "sources": [
+        "term"
+      ]
+    },
+    {
+      "token": "年年",
+      "freq": 2,
+      "sources": [
+        "term"
+      ]
+    },
+    {
+      "token": "老子",
+      "freq": 2,
+      "sources": [
+        "term"
+      ]
+    },
+    {
+      "token": "一路",
+      "freq": 2,
+      "sources": [
+        "term"
+      ]
+    },
+    {
+      "token": "蕭條",
+      "freq": 2,
+      "sources": [
+        "term"
+      ]
+    },
+    {
+      "token": "草草",
+      "freq": 2,
+      "sources": [
+        "term"
+      ]
+    },
+    {
+      "token": "惆悵",
+      "freq": 2,
+      "sources": [
+        "term"
+      ]
+    },
+    {
+      "token": "奉呈",
+      "freq": 2,
+      "sources": [
+        "term"
+      ]
+    },
+    {
+      "token": "一通",
+      "freq": 2,
+      "sources": [
+        "term"
+      ]
+    },
+    {
+      "token": "兩府",
+      "freq": 2,
+      "sources": [
+        "term"
+      ]
+    },
+    {
+      "token": "漢家",
+      "freq": 2,
+      "sources": [
+        "term"
+      ]
+    },
+    {
+      "token": "季子",
+      "freq": 2,
+      "sources": [
+        "term"
+      ]
+    },
+    {
+      "token": "登科",
+      "freq": 2,
+      "sources": [
+        "term"
+      ]
+    },
+    {
+      "token": "置酒",
+      "freq": 2,
+      "sources": [
+        "term"
+      ]
+    },
+    {
+      "token": "征軒",
+      "freq": 2,
+      "sources": [
+        "term"
+      ]
+    },
+    {
+      "token": "草率",
+      "freq": 2,
+      "sources": [
+        "term"
+      ]
+    },
+    {
+      "token": "靑眼",
+      "freq": 2,
+      "sources": [
+        "term"
+      ]
+    },
+    {
+      "token": "睿想",
+      "freq": 2,
+      "sources": [
+        "term"
+      ]
+    },
+    {
+      "token": "靑山",
+      "freq": 2,
+      "sources": [
+        "term"
+      ]
+    },
+    {
+      "token": "嶺南",
+      "freq": 2,
+      "sources": [
+        "term"
+      ]
+    },
+    {
+      "token": "田家",
+      "freq": 2,
+      "sources": [
+        "term"
+      ]
+    },
+    {
+      "token": "雜語",
+      "freq": 2,
+      "sources": [
+        "term"
+      ]
+    },
+    {
+      "token": "當時",
+      "freq": 2,
+      "sources": [
+        "term"
+      ]
+    },
+    {
+      "token": "山東",
+      "freq": 2,
+      "sources": [
+        "term"
+      ]
+    },
+    {
+      "token": "風流",
+      "freq": 2,
+      "sources": [
+        "term"
+      ]
+    },
+    {
+      "token": "方面",
+      "freq": 2,
+      "sources": [
+        "term"
+      ]
+    },
+    {
+      "token": "時時",
+      "freq": 2,
+      "sources": [
+        "term"
+      ]
+    },
+    {
+      "token": "蚩尤",
+      "freq": 2,
+      "sources": [
+        "term"
+      ]
+    },
+    {
+      "token": "廟謨",
+      "freq": 2,
+      "sources": [
+        "term"
+      ]
+    },
+    {
+      "token": "天地",
+      "freq": 2,
+      "sources": [
+        "term"
+      ]
+    },
+    {
+      "token": "前古",
+      "freq": 2,
+      "sources": [
+        "term"
+      ]
+    },
+    {
+      "token": "可以",
+      "freq": 2,
+      "sources": [
+        "term"
+      ]
+    },
+    {
+      "token": "胡不",
+      "freq": 2,
+      "sources": [
+        "term"
+      ]
+    },
+    {
+      "token": "萬全",
+      "freq": 2,
+      "sources": [
+        "term"
+      ]
+    },
+    {
+      "token": "白雪",
+      "freq": 2,
+      "sources": [
+        "term"
+      ]
+    },
+    {
+      "token": "箜篌",
+      "freq": 2,
+      "sources": [
+        "term"
+      ]
+    },
+    {
+      "token": "洛陽",
+      "freq": 2,
+      "sources": [
+        "term"
+      ]
+    },
+    {
+      "token": "漢皇",
+      "freq": 2,
+      "sources": [
+        "term"
+      ]
+    },
+    {
+      "token": "那得",
+      "freq": 2,
+      "sources": [
+        "term"
+      ]
+    },
+    {
+      "token": "雙雙",
+      "freq": 2,
+      "sources": [
+        "term"
+      ]
+    },
+    {
+      "token": "琵琶",
+      "freq": 2,
+      "sources": [
+        "term"
+      ]
+    },
+    {
+      "token": "明月",
+      "freq": 2,
+      "sources": [
+        "term"
+      ]
+    },
+    {
+      "token": "故鄕",
+      "freq": 2,
+      "sources": [
+        "term"
+      ]
+    },
+    {
+      "token": "無限",
+      "freq": 2,
+      "sources": [
+        "term"
+      ]
+    },
+    {
+      "token": "千年",
+      "freq": 2,
+      "sources": [
+        "term"
+      ]
+    },
+    {
+      "token": "判官",
+      "freq": 2,
+      "sources": [
+        "term"
+      ]
+    },
+    {
+      "token": "明朝",
+      "freq": 2,
+      "sources": [
+        "term"
+      ]
+    },
+    {
+      "token": "投筆",
+      "freq": 2,
+      "sources": [
+        "term"
+      ]
+    },
+    {
+      "token": "扶桑",
+      "freq": 2,
+      "sources": [
+        "term"
+      ]
+    },
+    {
+      "token": "江上",
+      "freq": 2,
+      "sources": [
+        "term"
+      ]
+    },
+    {
+      "token": "四海",
+      "freq": 2,
+      "sources": [
+        "term"
+      ]
+    },
+    {
+      "token": "騷壇",
+      "freq": 2,
+      "sources": [
+        "term"
+      ]
+    },
+    {
+      "token": "王命",
+      "freq": 2,
+      "sources": [
+        "term"
+      ]
+    },
+    {
+      "token": "何事",
+      "freq": 2,
+      "sources": [
+        "term"
+      ]
+    },
+    {
+      "token": "斜日",
+      "freq": 2,
+      "sources": [
+        "term"
+      ]
+    },
+    {
+      "token": "緣底",
+      "freq": 2,
+      "sources": [
+        "term"
+      ]
+    },
+    {
+      "token": "東海",
+      "freq": 2,
+      "sources": [
+        "term"
+      ]
+    },
+    {
+      "token": "大樹",
+      "freq": 2,
+      "sources": [
+        "term"
+      ]
+    },
+    {
+      "token": "壯志",
+      "freq": 2,
+      "sources": [
+        "term"
+      ]
+    },
+    {
+      "token": "高枕",
+      "freq": 2,
+      "sources": [
+        "term"
+      ]
+    },
+    {
+      "token": "淸秋",
+      "freq": 2,
+      "sources": [
+        "term"
+      ]
+    },
+    {
+      "token": "故園",
+      "freq": 2,
+      "sources": [
+        "term"
+      ]
+    },
+    {
+      "token": "不分",
+      "freq": 2,
+      "sources": [
+        "term"
+      ]
+    },
+    {
+      "token": "枯葉",
+      "freq": 2,
+      "sources": [
+        "term"
+      ]
+    },
+    {
+      "token": "萬古",
+      "freq": 2,
+      "sources": [
+        "term"
+      ]
+    },
+    {
+      "token": "威武",
+      "freq": 2,
+      "sources": [
+        "term"
+      ]
+    },
+    {
+      "token": "劍戟",
+      "freq": 2,
+      "sources": [
+        "term"
+      ]
+    },
+    {
+      "token": "立馬",
+      "freq": 2,
+      "sources": [
+        "term"
+      ]
+    },
+    {
+      "token": "萬戶",
+      "freq": 2,
+      "sources": [
+        "term"
+      ]
+    },
+    {
+      "token": "胡姬",
+      "freq": 2,
+      "sources": [
+        "term"
+      ]
+    },
+    {
+      "token": "何所",
+      "freq": 2,
+      "sources": [
+        "term"
+      ]
+    },
+    {
+      "token": "無人",
+      "freq": 2,
+      "sources": [
+        "term"
+      ]
+    },
+    {
+      "token": "桑麻",
+      "freq": 2,
+      "sources": [
+        "term"
+      ]
+    },
+    {
+      "token": "談笑",
+      "freq": 2,
+      "sources": [
+        "term"
+      ]
+    },
+    {
+      "token": "千山",
+      "freq": 2,
+      "sources": [
+        "term"
+      ]
+    },
+    {
+      "token": "從事",
+      "freq": 2,
+      "sources": [
+        "term"
+      ]
+    },
+    {
+      "token": "相國",
+      "freq": 2,
+      "sources": [
+        "term"
+      ]
+    },
+    {
+      "token": "當日",
+      "freq": 2,
+      "sources": [
+        "term"
+      ]
+    },
+    {
+      "token": "誰家",
+      "freq": 2,
+      "sources": [
+        "term"
+      ]
+    },
+    {
+      "token": "鋒刃",
+      "freq": 2,
+      "sources": [
+        "term"
+      ]
+    },
+    {
+      "token": "功業",
+      "freq": 2,
+      "sources": [
+        "term"
+      ]
+    },
+    {
+      "token": "無勞",
+      "freq": 2,
+      "sources": [
+        "term"
+      ]
+    },
+    {
+      "token": "高平",
+      "freq": 2,
+      "sources": [
+        "term"
+      ]
+    },
+    {
+      "token": "玉京",
+      "freq": 2,
+      "sources": [
+        "term"
+      ]
+    },
+    {
+      "token": "千金",
+      "freq": 2,
+      "sources": [
+        "term"
+      ]
+    },
+    {
+      "token": "多病",
+      "freq": 2,
+      "sources": [
+        "term"
+      ]
+    },
+    {
+      "token": "虎豹",
+      "freq": 2,
+      "sources": [
+        "term"
+      ]
+    },
+    {
+      "token": "不足",
+      "freq": 2,
+      "sources": [
+        "term"
+      ]
+    },
+    {
+      "token": "憑陵",
+      "freq": 2,
+      "sources": [
+        "term"
+      ]
+    },
+    {
+      "token": "月暈",
+      "freq": 2,
+      "sources": [
+        "term"
+      ]
+    },
+    {
+      "token": "生死",
+      "freq": 2,
+      "sources": [
+        "term"
+      ]
+    },
+    {
+      "token": "妻孥",
+      "freq": 2,
+      "sources": [
+        "term"
+      ]
+    },
+    {
+      "token": "千載",
+      "freq": 2,
+      "sources": [
+        "term"
+      ]
+    },
+    {
+      "token": "海氣",
+      "freq": 2,
+      "sources": [
+        "term"
+      ]
+    },
+    {
+      "token": "白首",
+      "freq": 2,
+      "sources": [
+        "term"
+      ]
+    },
+    {
+      "token": "雄風",
+      "freq": 2,
+      "sources": [
+        "term"
+      ]
+    },
+    {
+      "token": "陣雲",
+      "freq": 2,
+      "sources": [
+        "term"
+      ]
+    },
+    {
+      "token": "浩浩",
+      "freq": 2,
+      "sources": [
+        "term"
+      ]
+    },
+    {
+      "token": "如雲",
+      "freq": 2,
+      "sources": [
+        "term"
+      ]
+    },
+    {
+      "token": "白刃",
+      "freq": 2,
+      "sources": [
+        "term"
+      ]
+    },
+    {
+      "token": "山川",
+      "freq": 2,
+      "sources": [
+        "term"
+      ]
+    },
+    {
+      "token": "奉別",
+      "freq": 2,
+      "sources": [
+        "term"
+      ]
+    },
+    {
+      "token": "他時",
+      "freq": 2,
+      "sources": [
+        "term"
+      ]
+    },
+    {
+      "token": "朝家",
+      "freq": 2,
+      "sources": [
+        "term"
+      ]
+    },
+    {
+      "token": "在昔",
+      "freq": 2,
+      "sources": [
+        "term"
+      ]
+    },
+    {
+      "token": "作惡",
+      "freq": 2,
+      "sources": [
+        "term"
+      ]
+    },
+    {
+      "token": "高吟",
+      "freq": 2,
+      "sources": [
+        "term"
+      ]
+    },
+    {
+      "token": "春光",
+      "freq": 2,
+      "sources": [
+        "term"
+      ]
+    },
+    {
+      "token": "相逢",
+      "freq": 2,
+      "sources": [
+        "term"
+      ]
+    },
+    {
+      "token": "草木",
+      "freq": 2,
+      "sources": [
+        "term"
+      ]
+    },
+    {
+      "token": "刀斗",
+      "freq": 2,
+      "sources": [
+        "term"
+      ]
+    },
+    {
+      "token": "只在",
+      "freq": 2,
+      "sources": [
+        "term"
+      ]
+    },
+    {
+      "token": "出鎭",
+      "freq": 2,
+      "sources": [
+        "term"
+      ]
+    },
+    {
+      "token": "自是",
+      "freq": 2,
+      "sources": [
+        "term"
+      ]
+    },
+    {
+      "token": "一世",
+      "freq": 2,
+      "sources": [
+        "term"
+      ]
+    },
+    {
+      "token": "伏枕",
+      "freq": 2,
+      "sources": [
+        "term"
+      ]
+    },
+    {
+      "token": "贈別",
+      "freq": 2,
+      "sources": [
+        "term"
+      ]
+    },
+    {
+      "token": "勝算",
+      "freq": 2,
+      "sources": [
+        "term"
+      ]
+    },
+    {
+      "token": "窮年",
+      "freq": 2,
+      "sources": [
+        "term"
+      ]
+    },
+    {
+      "token": "髀肉",
+      "freq": 2,
+      "sources": [
+        "term"
+      ]
+    },
+    {
+      "token": "投宿",
+      "freq": 2,
+      "sources": [
+        "term"
+      ]
+    },
+    {
+      "token": "策馬",
+      "freq": 2,
+      "sources": [
+        "term"
+      ]
+    },
+    {
+      "token": "分韻",
+      "freq": 2,
+      "sources": [
+        "term"
+      ]
+    },
+    {
+      "token": "絶句",
+      "freq": 2,
+      "sources": [
+        "term"
+      ]
+    },
+    {
+      "token": "塵沙",
+      "freq": 2,
+      "sources": [
+        "term"
+      ]
+    },
+    {
+      "token": "人生",
+      "freq": 2,
+      "sources": [
+        "term"
+      ]
+    },
+    {
+      "token": "詩書",
+      "freq": 2,
+      "sources": [
+        "term"
+      ]
+    },
+    {
+      "token": "先生",
+      "freq": 2,
+      "sources": [
+        "term"
+      ]
+    },
+    {
+      "token": "春歸",
+      "freq": 2,
+      "sources": [
+        "term"
+      ]
+    },
+    {
+      "token": "夕陽",
+      "freq": 2,
+      "sources": [
+        "term"
+      ]
+    },
+    {
+      "token": "作客",
+      "freq": 2,
+      "sources": [
+        "term"
+      ]
+    },
+    {
+      "token": "巡撫",
+      "freq": 2,
+      "sources": [
+        "term"
+      ]
+    },
+    {
+      "token": "評事",
+      "freq": 2,
+      "sources": [
+        "term"
+      ]
+    },
+    {
+      "token": "驛樓",
+      "freq": 2,
+      "sources": [
+        "term"
+      ]
+    },
+    {
+      "token": "沈江",
+      "freq": 2,
+      "sources": [
+        "term"
+      ]
+    },
+    {
+      "token": "幾時",
+      "freq": 2,
+      "sources": [
+        "term"
+      ]
+    },
+    {
+      "token": "擬古",
+      "freq": 2,
+      "sources": [
+        "term"
+      ]
+    },
+    {
+      "token": "去年",
+      "freq": 2,
+      "sources": [
+        "term"
+      ]
+    },
+    {
+      "token": "十月",
+      "freq": 2,
+      "sources": [
+        "term"
+      ]
+    },
+    {
+      "token": "今年",
+      "freq": 2,
+      "sources": [
+        "term"
+      ]
+    },
+    {
+      "token": "差使",
+      "freq": 2,
+      "sources": [
+        "term"
+      ]
+    },
+    {
+      "token": "輕敵",
+      "freq": 2,
+      "sources": [
+        "term"
+      ]
+    },
+    {
+      "token": "翩翩",
+      "freq": 2,
+      "sources": [
+        "term"
+      ]
+    },
+    {
+      "token": "半夜",
+      "freq": 2,
+      "sources": [
+        "term"
+      ]
+    },
+    {
+      "token": "平明",
+      "freq": 2,
+      "sources": [
+        "term"
+      ]
+    },
+    {
+      "token": "戰死",
+      "freq": 2,
+      "sources": [
+        "term"
+      ]
+    },
+    {
+      "token": "一抹",
+      "freq": 2,
+      "sources": [
+        "term"
+      ]
+    },
+    {
+      "token": "行行",
+      "freq": 2,
+      "sources": [
+        "term"
+      ]
+    },
+    {
+      "token": "天子",
+      "freq": 2,
+      "sources": [
+        "term"
+      ]
+    },
+    {
+      "token": "倡義",
+      "freq": 2,
+      "sources": [
+        "term"
+      ]
+    },
+    {
+      "token": "形勝",
+      "freq": 2,
+      "sources": [
+        "term"
+      ]
+    },
+    {
+      "token": "聖祖",
+      "freq": 2,
+      "sources": [
+        "term"
+      ]
+    },
+    {
+      "token": "御史",
+      "freq": 2,
+      "sources": [
+        "term"
+      ]
+    },
+    {
+      "token": "同日",
+      "freq": 2,
+      "sources": [
+        "term"
+      ]
+    },
+    {
+      "token": "羽書",
+      "freq": 2,
+      "sources": [
+        "evidence",
+        "term"
+      ]
+    },
+    {
+      "token": "戰時",
+      "freq": 2,
+      "sources": [
+        "evidence",
+        "term"
+      ]
+    },
+    {
+      "token": "鐵關",
+      "freq": 2,
+      "sources": [
+        "evidence",
+        "term"
+      ]
+    },
+    {
+      "token": "漁陽",
+      "freq": 2,
+      "sources": [
+        "evidence",
+        "term"
+      ]
+    },
+    {
+      "token": "妖星",
+      "freq": 2,
+      "sources": [
+        "evidence",
+        "term"
+      ]
+    },
+    {
+      "token": "關中",
+      "freq": 2,
+      "sources": [
+        "evidence",
+        "term"
+      ]
+    },
+    {
+      "token": "三河",
+      "freq": 2,
+      "sources": [
+        "evidence",
+        "term"
+      ]
+    },
+    {
+      "token": "雪嶺",
+      "freq": 2,
+      "sources": [
+        "evidence",
+        "term"
+      ]
+    },
+    {
+      "token": "遺鏃",
+      "freq": 2,
+      "sources": [
+        "evidence",
+        "term"
+      ]
+    },
+    {
+      "token": "六軍",
+      "freq": 2,
+      "sources": [
+        "evidence",
+        "term"
+      ]
+    },
+    {
+      "token": "遠略",
+      "freq": 2,
+      "sources": [
+        "evidence",
+        "term"
+      ]
+    },
+    {
+      "token": "驃騎",
+      "freq": 2,
+      "sources": [
+        "evidence",
+        "term"
+      ]
+    },
+    {
+      "token": "營中",
+      "freq": 2,
+      "sources": [
+        "evidence",
+        "term"
+      ]
+    },
+    {
+      "token": "虎旅",
+      "freq": 2,
+      "sources": [
+        "evidence",
+        "term"
+      ]
+    },
+    {
+      "token": "令角",
+      "freq": 2,
+      "sources": [
+        "evidence",
+        "term"
+      ]
+    },
+    {
+      "token": "吳兒",
+      "freq": 2,
+      "sources": [
+        "evidence",
+        "term"
+      ]
+    },
+    {
+      "token": "方叔",
+      "freq": 2,
+      "sources": [
+        "evidence",
+        "term"
+      ]
+    },
+    {
+      "token": "黃石",
+      "freq": 2,
+      "sources": [
+        "evidence",
+        "term"
+      ]
+    },
+    {
+      "token": "伏波",
+      "freq": 2,
+      "sources": [
+        "evidence",
+        "term"
+      ]
+    },
+    {
+      "token": "長劍",
+      "freq": 2,
+      "sources": [
+        "evidence",
+        "term"
+      ]
+    },
+    {
+      "token": "淋漓",
+      "freq": 2,
+      "sources": [
+        "evidence",
+        "term"
+      ]
+    },
+    {
+      "token": "豪氣",
+      "freq": 2,
+      "sources": [
+        "evidence",
+        "term"
+      ]
+    },
+    {
+      "token": "驅虜",
+      "freq": 2,
+      "sources": [
+        "evidence",
+        "term"
+      ]
+    },
+    {
+      "token": "兵器",
+      "freq": 2,
+      "sources": [
+        "evidence",
+        "term"
+      ]
+    },
+    {
+      "token": "戍海",
+      "freq": 2,
+      "sources": [
+        "evidence",
+        "term"
+      ]
+    },
+    {
+      "token": "干戈",
+      "freq": 2,
+      "sources": [
+        "evidence",
+        "term"
+      ]
+    },
+    {
+      "token": "夷險",
+      "freq": 2,
+      "sources": [
+        "evidence",
+        "term"
+      ]
+    },
+    {
+      "token": "廟謀",
+      "freq": 2,
+      "sources": [
+        "evidence",
+        "term"
+      ]
+    },
+    {
+      "token": "氐羌",
+      "freq": 2,
+      "sources": [
+        "evidence",
+        "term"
+      ]
+    },
+    {
+      "token": "勝敗",
+      "freq": 2,
+      "sources": [
+        "evidence",
+        "term"
+      ]
+    },
+    {
+      "token": "興亡",
+      "freq": 2,
+      "sources": [
+        "evidence",
+        "term"
+      ]
+    },
+    {
+      "token": "寒聲",
+      "freq": 2,
+      "sources": [
+        "evidence",
+        "term"
+      ]
+    },
+    {
+      "token": "兵火",
+      "freq": 2,
+      "sources": [
+        "evidence",
+        "term"
+      ]
+    },
+    {
+      "token": "縋城",
+      "freq": 2,
+      "sources": [
+        "evidence",
+        "term"
+      ]
+    },
+    {
+      "token": "賊窟",
+      "freq": 2,
+      "sources": [
+        "evidence",
+        "term"
+      ]
+    },
+    {
+      "token": "急兵",
+      "freq": 2,
+      "sources": [
+        "evidence",
+        "term"
+      ]
+    },
+    {
+      "token": "舳艫",
+      "freq": 2,
+      "sources": [
+        "evidence",
+        "term"
+      ]
+    },
+    {
+      "token": "陸兵",
+      "freq": 2,
+      "sources": [
+        "evidence",
+        "term"
+      ]
+    },
+    {
+      "token": "扼險",
+      "freq": 2,
+      "sources": [
+        "evidence",
+        "term"
+      ]
+    },
+    {
+      "token": "夾攻",
+      "freq": 2,
+      "sources": [
+        "evidence",
+        "term"
+      ]
+    },
+    {
+      "token": "炮火",
+      "freq": 2,
+      "sources": [
+        "evidence",
+        "term"
+      ]
+    },
+    {
+      "token": "矢石",
+      "freq": 2,
+      "sources": [
+        "evidence",
+        "term"
+      ]
+    },
+    {
+      "token": "鼎魚",
+      "freq": 2,
+      "sources": [
+        "evidence",
+        "term"
+      ]
+    },
+    {
+      "token": "蹂躪",
+      "freq": 2,
+      "sources": [
+        "evidence",
+        "term"
+      ]
+    },
+    {
+      "token": "流血",
+      "freq": 2,
+      "sources": [
+        "evidence",
+        "term"
+      ]
+    },
+    {
+      "token": "魂魄",
+      "freq": 2,
+      "sources": [
+        "evidence",
+        "term"
+      ]
+    },
+    {
+      "token": "雪恥",
+      "freq": 2,
+      "sources": [
+        "evidence",
+        "term"
+      ]
+    },
+    {
+      "token": "戎功",
+      "freq": 2,
+      "sources": [
+        "evidence",
+        "term"
+      ]
+    },
+    {
+      "token": "鼓鼙",
+      "freq": 2,
+      "sources": [
+        "evidence",
+        "term"
+      ]
+    },
+    {
+      "token": "蜂蠆",
+      "freq": 2,
+      "sources": [
+        "evidence",
+        "term"
+      ]
+    },
+    {
+      "token": "凶狡",
+      "freq": 2,
+      "sources": [
+        "evidence",
+        "term"
+      ]
+    },
+    {
+      "token": "寇鈔",
+      "freq": 2,
+      "sources": [
+        "evidence",
+        "term"
+      ]
+    },
+    {
+      "token": "備禦",
+      "freq": 2,
+      "sources": [
+        "evidence",
+        "term"
+      ]
+    },
+    {
+      "token": "警戒",
+      "freq": 2,
+      "sources": [
+        "evidence",
+        "term"
+      ]
+    },
+    {
+      "token": "開釁",
+      "freq": 2,
+      "sources": [
+        "evidence",
+        "term"
+      ]
+    },
+    {
+      "token": "制勝",
+      "freq": 2,
+      "sources": [
+        "evidence",
+        "term"
+      ]
+    },
+    {
+      "token": "斥堠",
+      "freq": 2,
+      "sources": [
+        "evidence",
+        "term"
+      ]
+    },
+    {
+      "token": "禍胎",
+      "freq": 2,
+      "sources": [
+        "evidence",
+        "term"
+      ]
+    },
+    {
+      "token": "三邊",
+      "freq": 2,
+      "sources": [
+        "evidence",
+        "term"
+      ]
+    },
+    {
+      "token": "朔方",
+      "freq": 2,
+      "sources": [
+        "evidence",
+        "term"
+      ]
+    },
+    {
+      "token": "犬戎",
+      "freq": 2,
+      "sources": [
+        "evidence",
+        "term"
+      ]
+    },
+    {
+      "token": "島夷",
+      "freq": 2,
+      "sources": [
+        "evidence",
+        "term"
+      ]
+    },
+    {
+      "token": "備邊",
+      "freq": 2,
+      "sources": [
+        "evidence",
+        "term"
+      ]
+    },
+    {
+      "token": "彎弓",
+      "freq": 2,
+      "sources": [
+        "evidence",
+        "term"
+      ]
+    },
+    {
+      "token": "花門",
+      "freq": 2,
+      "sources": [
+        "evidence",
+        "term"
+      ]
+    },
+    {
+      "token": "天邊",
+      "freq": 2,
+      "sources": [
+        "evidence",
+        "term"
+      ]
+    },
+    {
+      "token": "冒頓",
+      "freq": 2,
+      "sources": [
+        "evidence",
+        "term"
+      ]
+    },
+    {
+      "token": "月支",
+      "freq": 2,
+      "sources": [
+        "evidence",
+        "term"
+      ]
+    },
+    {
+      "token": "沙塵",
+      "freq": 2,
+      "sources": [
+        "evidence",
+        "term"
+      ]
+    },
+    {
+      "token": "于闐",
+      "freq": 2,
+      "sources": [
+        "evidence",
+        "term"
+      ]
+    },
+    {
+      "token": "天涯",
+      "freq": 2,
+      "sources": [
+        "evidence",
+        "term"
+      ]
+    },
+    {
+      "token": "燕山",
+      "freq": 2,
+      "sources": [
+        "evidence",
+        "term"
+      ]
+    },
+    {
+      "token": "橐駝",
+      "freq": 2,
+      "sources": [
+        "evidence",
+        "term"
+      ]
+    },
+    {
+      "token": "飛將",
+      "freq": 2,
+      "sources": [
+        "evidence",
+        "term"
+      ]
+    },
+    {
+      "token": "寒雲",
+      "freq": 2,
+      "sources": [
+        "evidence",
+        "term"
+      ]
+    },
+    {
+      "token": "水國",
+      "freq": 2,
+      "sources": [
+        "evidence",
+        "term"
+      ]
+    },
+    {
+      "token": "愁絶",
+      "freq": 2,
+      "sources": [
+        "evidence",
+        "term"
+      ]
+    },
+    {
+      "token": "建牙",
+      "freq": 2,
+      "sources": [
+        "evidence",
+        "term"
+      ]
+    },
+    {
+      "token": "烽櫓",
+      "freq": 2,
+      "sources": [
+        "evidence",
+        "term"
+      ]
+    },
+    {
+      "token": "威聲",
+      "freq": 2,
+      "sources": [
+        "evidence",
+        "term"
+      ]
+    },
+    {
+      "token": "寒角",
+      "freq": 2,
+      "sources": [
+        "evidence",
+        "term"
+      ]
+    },
+    {
+      "token": "暮角",
+      "freq": 2,
+      "sources": [
+        "evidence",
+        "term"
+      ]
+    },
+    {
+      "token": "靑油",
+      "freq": 2,
+      "sources": [
+        "evidence",
+        "term"
+      ]
+    },
+    {
+      "token": "天際",
+      "freq": 2,
+      "sources": [
+        "evidence",
+        "term"
+      ]
+    },
+    {
+      "token": "刁斗",
+      "freq": 2,
+      "sources": [
+        "evidence",
+        "term"
+      ]
+    },
+    {
+      "token": "客子",
+      "freq": 2,
+      "sources": [
+        "evidence",
+        "term"
+      ]
+    },
+    {
+      "token": "異鄕",
+      "freq": 2,
+      "sources": [
+        "evidence",
+        "term"
+      ]
+    },
+    {
+      "token": "旗皷",
+      "freq": 2,
+      "sources": [
+        "evidence",
+        "term"
+      ]
+    },
+    {
+      "token": "兵戈",
+      "freq": 2,
+      "sources": [
+        "evidence",
+        "term"
+      ]
+    },
+    {
+      "token": "遐征",
+      "freq": 2,
+      "sources": [
+        "evidence",
+        "term"
+      ]
+    },
+    {
+      "token": "蜀道",
+      "freq": 2,
+      "sources": [
+        "evidence",
+        "term"
+      ]
+    },
+    {
+      "token": "蝦蟆",
+      "freq": 2,
+      "sources": [
+        "evidence",
+        "term"
+      ]
+    },
+    {
+      "token": "新亭",
+      "freq": 2,
+      "sources": [
+        "evidence",
+        "term"
+      ]
+    },
+    {
+      "token": "北山",
+      "freq": 2,
+      "sources": [
+        "evidence",
+        "term"
+      ]
+    },
+    {
+      "token": "皮服",
+      "freq": 2,
+      "sources": [
+        "evidence",
+        "term"
+      ]
+    },
+    {
+      "token": "冥冥",
+      "freq": 2,
+      "sources": [
+        "evidence",
+        "term"
+      ]
+    },
+    {
+      "token": "氛祲",
+      "freq": 2,
+      "sources": [
+        "evidence",
+        "term"
+      ]
+    },
+    {
+      "token": "戰壘",
+      "freq": 2,
+      "sources": [
+        "evidence",
+        "term"
+      ]
+    },
+    {
+      "token": "遺骸",
+      "freq": 2,
+      "sources": [
+        "evidence",
+        "term"
+      ]
+    },
+    {
+      "token": "天兵",
+      "freq": 2,
+      "sources": [
+        "evidence",
+        "term"
+      ]
+    },
+    {
+      "token": "河湟",
+      "freq": 2,
+      "sources": [
+        "evidence",
+        "term"
+      ]
+    },
+    {
+      "token": "百六",
+      "freq": 2,
+      "sources": [
+        "evidence",
+        "term"
+      ]
+    },
+    {
+      "token": "精衛",
+      "freq": 2,
+      "sources": [
+        "evidence",
+        "term"
+      ]
+    },
+    {
+      "token": "無力",
+      "freq": 2,
+      "sources": [
+        "evidence",
+        "term"
+      ]
+    },
+    {
+      "token": "戰角",
+      "freq": 2,
+      "sources": [
+        "evidence",
+        "term"
+      ]
+    },
+    {
+      "token": "新恨",
+      "freq": 2,
+      "sources": [
+        "evidence",
+        "term"
+      ]
+    },
+    {
+      "token": "炎天",
+      "freq": 2,
+      "sources": [
+        "evidence",
+        "term"
+      ]
+    },
+    {
+      "token": "雪天",
+      "freq": 2,
+      "sources": [
+        "evidence",
+        "term"
+      ]
+    },
+    {
+      "token": "原隰",
+      "freq": 2,
+      "sources": [
+        "evidence",
+        "term"
+      ]
+    },
+    {
+      "token": "極塞",
+      "freq": 2,
+      "sources": [
+        "evidence",
+        "term"
+      ]
+    },
+    {
+      "token": "時危",
+      "freq": 2,
+      "sources": [
+        "evidence",
+        "term"
+      ]
+    },
+    {
+      "token": "東荒",
+      "freq": 2,
+      "sources": [
+        "evidence",
+        "term"
+      ]
+    },
+    {
+      "token": "匏繫",
+      "freq": 2,
+      "sources": [
+        "evidence",
+        "term"
+      ]
+    },
+    {
+      "token": "眢井",
+      "freq": 2,
+      "sources": [
+        "evidence",
+        "term"
+      ]
+    },
+    {
+      "token": "征鴻",
+      "freq": 2,
+      "sources": [
+        "evidence",
+        "term"
+      ]
+    },
+    {
+      "token": "戎馬",
+      "freq": 2,
+      "sources": [
+        "evidence",
+        "term"
+      ]
+    },
+    {
+      "token": "銀闕",
+      "freq": 2,
+      "sources": [
+        "evidence",
+        "term"
+      ]
+    },
+    {
+      "token": "驛路",
+      "freq": 2,
+      "sources": [
+        "evidence",
+        "term"
+      ]
+    },
+    {
+      "token": "㫌旗",
+      "freq": 2,
+      "sources": [
+        "evidence",
+        "term"
+      ]
+    },
+    {
+      "token": "邊關",
+      "freq": 2,
+      "sources": [
+        "evidence",
+        "term"
+      ]
+    },
+    {
+      "token": "三秋",
+      "freq": 2,
+      "sources": [
+        "evidence",
+        "term"
+      ]
+    },
+    {
+      "token": "岡巒",
+      "freq": 2,
+      "sources": [
+        "evidence",
+        "term"
+      ]
+    },
+    {
+      "token": "朔北",
+      "freq": 2,
+      "sources": [
+        "evidence",
+        "term"
+      ]
+    },
+    {
+      "token": "駐節",
+      "freq": 2,
+      "sources": [
+        "evidence",
+        "term"
+      ]
+    },
+    {
+      "token": "當關",
+      "freq": 2,
+      "sources": [
+        "evidence",
+        "term"
+      ]
+    },
+    {
+      "token": "朔土",
+      "freq": 2,
+      "sources": [
+        "evidence",
+        "term"
+      ]
+    },
+    {
+      "token": "烏號",
+      "freq": 2,
+      "sources": [
+        "evidence",
+        "term"
+      ]
+    },
+    {
+      "token": "老虜",
+      "freq": 2,
+      "sources": [
+        "evidence",
+        "term"
+      ]
+    },
+    {
+      "token": "收兵",
+      "freq": 2,
+      "sources": [
+        "evidence",
+        "term"
+      ]
+    },
+    {
+      "token": "海風",
+      "freq": 2,
+      "sources": [
+        "evidence",
+        "term"
+      ]
+    },
+    {
+      "token": "晩來",
+      "freq": 2,
+      "sources": [
+        "evidence",
+        "term"
+      ]
+    },
+    {
+      "token": "荒屯",
+      "freq": 2,
+      "sources": [
+        "evidence",
+        "term"
+      ]
+    },
+    {
+      "token": "金笳",
+      "freq": 2,
+      "sources": [
+        "evidence",
+        "term"
+      ]
+    },
+    {
+      "token": "萬里",
+      "freq": 2,
+      "sources": [
+        "evidence",
+        "term"
+      ]
+    },
+    {
+      "token": "霜鍔",
+      "freq": 2,
+      "sources": [
+        "evidence",
+        "term"
+      ]
+    },
+    {
+      "token": "桃梗",
+      "freq": 2,
+      "sources": [
+        "evidence",
+        "term"
+      ]
+    },
+    {
+      "token": "遊子",
+      "freq": 2,
+      "sources": [
+        "evidence",
+        "term"
+      ]
+    },
+    {
+      "token": "征鞍",
+      "freq": 2,
+      "sources": [
+        "evidence",
+        "term"
+      ]
+    },
+    {
+      "token": "輕氷",
+      "freq": 2,
+      "sources": [
+        "evidence",
+        "term"
+      ]
+    },
+    {
+      "token": "歸程",
+      "freq": 2,
+      "sources": [
+        "evidence",
+        "term"
+      ]
+    },
+    {
+      "token": "出關",
+      "freq": 2,
+      "sources": [
+        "evidence",
+        "term"
+      ]
+    },
+    {
+      "token": "凉沙",
+      "freq": 2,
+      "sources": [
+        "evidence",
+        "term"
+      ]
+    },
+    {
+      "token": "名將",
+      "freq": 2,
+      "sources": [
+        "evidence",
+        "term"
+      ]
+    },
+    {
+      "token": "高天",
+      "freq": 2,
+      "sources": [
+        "evidence",
+        "term"
+      ]
+    },
+    {
+      "token": "籠絡",
+      "freq": 2,
+      "sources": [
+        "evidence",
+        "term"
+      ]
+    },
+    {
+      "token": "狡童",
+      "freq": 2,
+      "sources": [
+        "evidence",
+        "term"
+      ]
+    },
+    {
+      "token": "老將",
+      "freq": 2,
+      "sources": [
+        "evidence",
+        "term"
+      ]
+    },
+    {
+      "token": "鐵笛",
+      "freq": 2,
+      "sources": [
+        "evidence",
+        "term"
+      ]
+    },
+    {
+      "token": "西海",
+      "freq": 2,
+      "sources": [
+        "evidence",
+        "term"
+      ]
+    },
+    {
+      "token": "朔吹",
+      "freq": 2,
+      "sources": [
+        "evidence",
+        "term"
+      ]
+    },
+    {
+      "token": "狐裘",
+      "freq": 2,
+      "sources": [
+        "evidence",
+        "term"
+      ]
+    },
+    {
+      "token": "錦幕",
+      "freq": 2,
+      "sources": [
+        "evidence",
+        "term"
+      ]
+    },
+    {
+      "token": "驕虜",
+      "freq": 2,
+      "sources": [
+        "evidence",
+        "term"
+      ]
+    },
+    {
+      "token": "驚塵",
+      "freq": 2,
+      "sources": [
+        "evidence",
+        "term"
+      ]
+    },
+    {
+      "token": "神兵",
+      "freq": 2,
+      "sources": [
+        "evidence",
+        "term"
+      ]
+    },
+    {
+      "token": "威弧",
+      "freq": 2,
+      "sources": [
+        "evidence",
+        "term"
+      ]
+    },
+    {
+      "token": "列國",
+      "freq": 2,
+      "sources": [
+        "evidence",
+        "term"
+      ]
+    },
+    {
+      "token": "雕題",
+      "freq": 2,
+      "sources": [
+        "evidence",
+        "term"
+      ]
+    },
+    {
+      "token": "羇孤",
+      "freq": 2,
+      "sources": [
+        "evidence",
+        "term"
+      ]
+    },
+    {
+      "token": "鴈塞",
+      "freq": 2,
+      "sources": [
+        "evidence",
+        "term"
+      ]
+    },
+    {
+      "token": "戍卒",
+      "freq": 2,
+      "sources": [
+        "evidence",
+        "term"
+      ]
+    },
+    {
+      "token": "翠樓",
+      "freq": 2,
+      "sources": [
+        "evidence",
+        "term"
+      ]
+    },
+    {
+      "token": "莽蒼",
+      "freq": 2,
+      "sources": [
+        "evidence",
+        "term"
+      ]
+    },
+    {
+      "token": "空虗",
+      "freq": 2,
+      "sources": [
+        "evidence",
+        "term"
+      ]
+    },
+    {
+      "token": "風傳",
+      "freq": 2,
+      "sources": [
+        "evidence",
+        "term"
+      ]
+    },
+    {
+      "token": "短笛",
+      "freq": 2,
+      "sources": [
+        "evidence",
+        "term"
+      ]
+    },
+    {
+      "token": "按甲",
+      "freq": 2,
+      "sources": [
+        "evidence",
+        "term"
+      ]
+    },
+    {
+      "token": "鎭塞",
+      "freq": 2,
+      "sources": [
+        "evidence",
+        "term"
+      ]
+    },
+    {
+      "token": "雄城",
+      "freq": 2,
+      "sources": [
+        "evidence",
+        "term"
+      ]
+    },
+    {
+      "token": "繡使",
+      "freq": 2,
+      "sources": [
+        "evidence",
+        "term"
+      ]
+    },
+    {
+      "token": "謀野",
+      "freq": 2,
+      "sources": [
+        "evidence",
+        "term"
+      ]
+    },
+    {
+      "token": "遼東",
+      "freq": 2,
+      "sources": [
+        "evidence",
+        "term"
+      ]
+    },
+    {
+      "token": "穿塞",
+      "freq": 2,
+      "sources": [
+        "evidence",
+        "term"
+      ]
+    },
+    {
+      "token": "邊路",
+      "freq": 2,
+      "sources": [
+        "evidence",
+        "term"
+      ]
+    },
+    {
+      "token": "溝壘",
+      "freq": 2,
+      "sources": [
+        "evidence",
+        "term"
+      ]
+    },
+    {
+      "token": "墨翟",
+      "freq": 2,
+      "sources": [
+        "evidence",
+        "term"
+      ]
+    },
+    {
+      "token": "樓生",
+      "freq": 2,
+      "sources": [
+        "evidence",
+        "term"
+      ]
+    },
+    {
+      "token": "碧眼",
+      "freq": 2,
+      "sources": [
+        "evidence",
+        "term"
+      ]
+    },
+    {
+      "token": "紫淵",
+      "freq": 2,
+      "sources": [
+        "evidence",
+        "term"
+      ]
+    },
+    {
+      "token": "金鱗",
+      "freq": 2,
+      "sources": [
+        "evidence",
+        "term"
+      ]
+    },
+    {
+      "token": "汗血",
+      "freq": 2,
+      "sources": [
+        "evidence",
+        "term"
+      ]
+    },
+    {
+      "token": "胡沙",
+      "freq": 2,
+      "sources": [
+        "evidence",
+        "term"
+      ]
+    },
+    {
+      "token": "龍堆",
+      "freq": 2,
+      "sources": [
+        "evidence",
+        "term"
+      ]
+    },
+    {
+      "token": "烟火",
+      "freq": 2,
+      "sources": [
+        "evidence",
+        "term"
+      ]
+    },
+    {
+      "token": "武庫",
+      "freq": 2,
+      "sources": [
+        "evidence",
+        "term"
+      ]
+    },
+    {
+      "token": "徂征",
+      "freq": 2,
+      "sources": [
+        "evidence",
+        "term"
+      ]
+    },
+    {
+      "token": "東兵",
+      "freq": 2,
+      "sources": [
+        "evidence",
+        "term"
+      ]
+    },
+    {
+      "token": "火車",
+      "freq": 2,
+      "sources": [
+        "evidence",
+        "term"
+      ]
+    },
+    {
+      "token": "辮髮",
+      "freq": 2,
+      "sources": [
+        "evidence",
+        "term"
+      ]
+    },
+    {
+      "token": "中營",
+      "freq": 2,
+      "sources": [
+        "evidence",
+        "term"
+      ]
+    },
+    {
+      "token": "迍邅",
+      "freq": 2,
+      "sources": [
+        "evidence",
+        "term"
+      ]
+    },
+    {
+      "token": "唾手",
+      "freq": 2,
+      "sources": [
+        "evidence",
+        "term"
+      ]
+    },
+    {
+      "token": "舌人",
+      "freq": 2,
+      "sources": [
+        "evidence",
+        "term"
+      ]
+    },
+    {
+      "token": "飮羽",
+      "freq": 2,
+      "sources": [
+        "evidence",
+        "term"
+      ]
+    },
+    {
+      "token": "伏弢",
+      "freq": 2,
+      "sources": [
+        "evidence",
+        "term"
+      ]
+    },
+    {
+      "token": "浴血",
+      "freq": 2,
+      "sources": [
+        "evidence",
+        "term"
+      ]
+    },
+    {
+      "token": "刳腹",
+      "freq": 2,
+      "sources": [
+        "evidence",
+        "term"
+      ]
+    },
+    {
+      "token": "毒手",
+      "freq": 2,
+      "sources": [
+        "evidence",
+        "term"
+      ]
+    },
+    {
+      "token": "殺身",
+      "freq": 2,
+      "sources": [
+        "evidence",
+        "term"
+      ]
+    },
+    {
+      "token": "鳴鏑",
+      "freq": 2,
+      "sources": [
+        "evidence",
+        "term"
+      ]
+    },
+    {
+      "token": "醜虜",
+      "freq": 2,
+      "sources": [
+        "evidence",
+        "term"
+      ]
+    },
+    {
+      "token": "勳名",
+      "freq": 2,
+      "sources": [
+        "evidence",
+        "term"
+      ]
+    },
+    {
+      "token": "先死",
+      "freq": 2,
+      "sources": [
+        "evidence",
+        "term"
+      ]
+    },
+    {
+      "token": "轟霆",
+      "freq": 2,
+      "sources": [
+        "evidence",
+        "term"
+      ]
+    },
+    {
+      "token": "寒草",
+      "freq": 2,
+      "sources": [
+        "evidence",
+        "term"
+      ]
+    },
+    {
+      "token": "奇謀",
+      "freq": 2,
+      "sources": [
+        "evidence",
+        "term"
+      ]
+    },
+    {
+      "token": "捷書",
+      "freq": 2,
+      "sources": [
+        "evidence",
+        "term"
+      ]
+    },
+    {
+      "token": "蟣蝨",
+      "freq": 2,
+      "sources": [
+        "evidence",
+        "term"
+      ]
+    },
+    {
+      "token": "湯鼎",
+      "freq": 2,
+      "sources": [
+        "evidence",
+        "term"
+      ]
+    },
+    {
+      "token": "營平",
+      "freq": 2,
+      "sources": [
+        "evidence",
+        "term"
+      ]
+    },
+    {
+      "token": "振旅",
+      "freq": 2,
+      "sources": [
+        "evidence",
+        "term"
+      ]
+    },
+    {
+      "token": "彤弓",
+      "freq": 2,
+      "sources": [
+        "evidence",
+        "term"
+      ]
+    },
+    {
+      "token": "賀蘭",
+      "freq": 2,
+      "sources": [
+        "evidence",
+        "term"
+      ]
+    },
+    {
+      "token": "玄甲",
+      "freq": 2,
+      "sources": [
+        "evidence",
+        "term"
+      ]
+    },
+    {
+      "token": "劍鋩",
+      "freq": 2,
+      "sources": [
+        "evidence",
+        "term"
+      ]
+    },
+    {
+      "token": "彈弓",
+      "freq": 2,
+      "sources": [
+        "evidence",
+        "term"
+      ]
+    },
+    {
+      "token": "彌節",
+      "freq": 2,
+      "sources": [
+        "evidence",
+        "term"
+      ]
+    },
+    {
+      "token": "白檀",
+      "freq": 2,
+      "sources": [
+        "evidence",
+        "term"
+      ]
+    },
+    {
+      "token": "赤氣",
+      "freq": 2,
+      "sources": [
+        "evidence",
+        "term"
+      ]
+    },
+    {
+      "token": "壁壘",
+      "freq": 2,
+      "sources": [
+        "evidence",
+        "term"
+      ]
+    },
+    {
+      "token": "天旋",
+      "freq": 2,
+      "sources": [
+        "evidence",
+        "term"
+      ]
+    },
+    {
+      "token": "旌干",
+      "freq": 2,
+      "sources": [
+        "evidence",
+        "term"
+      ]
+    },
+    {
+      "token": "獫狁",
+      "freq": 2,
+      "sources": [
+        "evidence",
+        "term"
+      ]
+    },
+    {
+      "token": "風烟",
+      "freq": 2,
+      "sources": [
+        "evidence",
+        "term"
+      ]
+    },
+    {
+      "token": "霜月",
+      "freq": 2,
+      "sources": [
+        "evidence",
+        "term"
+      ]
+    },
+    {
+      "token": "邊地",
+      "freq": 2,
+      "sources": [
+        "evidence",
+        "term"
+      ]
+    },
+    {
+      "token": "梅花",
+      "freq": 2,
+      "sources": [
+        "evidence",
+        "term"
+      ]
+    },
+    {
+      "token": "南征",
+      "freq": 2,
+      "sources": [
+        "evidence",
+        "term"
+      ]
+    },
+    {
+      "token": "旌旆",
+      "freq": 2,
+      "sources": [
+        "evidence",
+        "term"
+      ]
+    },
+    {
+      "token": "樓船",
+      "freq": 2,
+      "sources": [
+        "evidence",
+        "term"
+      ]
+    },
+    {
+      "token": "邊使",
+      "freq": 2,
+      "sources": [
+        "evidence",
+        "term"
+      ]
+    },
+    {
+      "token": "寒天",
+      "freq": 2,
+      "sources": [
+        "evidence",
+        "term"
+      ]
+    },
+    {
+      "token": "戈劍",
+      "freq": 2,
+      "sources": [
+        "evidence",
+        "term"
+      ]
+    },
+    {
+      "token": "虹旗",
+      "freq": 2,
+      "sources": [
+        "evidence",
+        "term"
+      ]
+    },
+    {
+      "token": "鐵騎",
+      "freq": 2,
+      "sources": [
+        "evidence",
+        "term"
+      ]
+    },
+    {
+      "token": "高壘",
+      "freq": 2,
+      "sources": [
+        "evidence",
+        "term"
+      ]
+    },
+    {
+      "token": "西邊",
+      "freq": 2,
+      "sources": [
+        "evidence",
+        "term"
+      ]
+    },
+    {
+      "token": "論將",
+      "freq": 2,
+      "sources": [
+        "evidence",
+        "term"
+      ]
+    },
+    {
+      "token": "臨戎",
+      "freq": 2,
+      "sources": [
+        "evidence",
+        "term"
+      ]
+    },
+    {
+      "token": "驚霆",
+      "freq": 2,
+      "sources": [
+        "evidence",
+        "term"
+      ]
+    },
+    {
+      "token": "報主",
+      "freq": 2,
+      "sources": [
+        "evidence",
+        "term"
+      ]
+    },
+    {
+      "token": "塞垣",
+      "freq": 2,
+      "sources": [
+        "evidence",
+        "term"
+      ]
+    },
+    {
+      "token": "戎事",
+      "freq": 2,
+      "sources": [
+        "evidence",
+        "term"
+      ]
+    },
+    {
+      "token": "邊鄙",
+      "freq": 2,
+      "sources": [
+        "evidence",
+        "term"
+      ]
+    },
+    {
+      "token": "銳卒",
+      "freq": 2,
+      "sources": [
+        "evidence",
+        "term"
+      ]
+    },
+    {
+      "token": "楡塞",
+      "freq": 2,
+      "sources": [
+        "evidence",
+        "term"
+      ]
+    },
+    {
+      "token": "玉關",
+      "freq": 2,
+      "sources": [
+        "evidence",
+        "term"
+      ]
+    },
+    {
+      "token": "北門",
+      "freq": 2,
+      "sources": [
+        "evidence",
+        "term"
+      ]
+    },
+    {
+      "token": "西藩",
+      "freq": 2,
+      "sources": [
+        "evidence",
+        "term"
+      ]
+    },
+    {
+      "token": "穹廬",
+      "freq": 2,
+      "sources": [
+        "evidence",
+        "term"
+      ]
+    },
+    {
+      "token": "戎略",
+      "freq": 2,
+      "sources": [
+        "evidence",
+        "term"
+      ]
+    },
+    {
+      "token": "抱膝",
+      "freq": 2,
+      "sources": [
+        "evidence",
+        "term"
+      ]
+    },
+    {
+      "token": "四關",
+      "freq": 2,
+      "sources": [
+        "evidence",
+        "term"
+      ]
+    },
+    {
+      "token": "佁儗",
+      "freq": 2,
+      "sources": [
+        "evidence",
+        "term"
+      ]
+    },
+    {
+      "token": "胡星",
+      "freq": 2,
+      "sources": [
+        "evidence",
+        "term"
+      ]
+    },
+    {
+      "token": "倚闌",
+      "freq": 2,
+      "sources": [
+        "evidence",
+        "term"
+      ]
+    },
+    {
+      "token": "寒磧",
+      "freq": 2,
+      "sources": [
+        "evidence",
+        "term"
+      ]
+    },
+    {
+      "token": "右賢",
+      "freq": 2,
+      "sources": [
+        "evidence",
+        "term"
+      ]
+    },
+    {
+      "token": "長嘯",
+      "freq": 2,
+      "sources": [
+        "evidence",
+        "term"
+      ]
+    },
+    {
+      "token": "獵火",
+      "freq": 2,
+      "sources": [
+        "evidence",
+        "term"
+      ]
+    },
+    {
+      "token": "微力",
+      "freq": 2,
+      "sources": [
+        "evidence",
+        "term"
+      ]
+    },
+    {
+      "token": "海嶠",
+      "freq": 2,
+      "sources": [
+        "evidence",
+        "term"
+      ]
+    },
+    {
+      "token": "北征",
+      "freq": 2,
+      "sources": [
+        "evidence",
+        "term"
+      ]
+    },
+    {
+      "token": "宗殼",
+      "freq": 2,
+      "sources": [
+        "evidence",
+        "term"
+      ]
+    },
+    {
+      "token": "羈懷",
+      "freq": 2,
+      "sources": [
+        "evidence",
+        "term"
+      ]
+    },
+    {
+      "token": "悄悄",
+      "freq": 2,
+      "sources": [
+        "evidence",
+        "term"
+      ]
+    },
+    {
+      "token": "殘燭",
+      "freq": 2,
+      "sources": [
+        "evidence",
+        "term"
+      ]
+    },
+    {
+      "token": "銕瓮",
+      "freq": 2,
+      "sources": [
+        "evidence",
+        "term"
+      ]
+    },
+    {
+      "token": "紫塞",
+      "freq": 2,
+      "sources": [
+        "evidence",
+        "term"
+      ]
+    },
+    {
+      "token": "許國",
+      "freq": 2,
+      "sources": [
+        "evidence",
+        "term"
+      ]
+    },
+    {
+      "token": "親庭",
+      "freq": 2,
+      "sources": [
+        "evidence",
+        "term"
+      ]
+    },
+    {
+      "token": "地寒",
+      "freq": 2,
+      "sources": [
+        "evidence",
+        "term"
+      ]
+    },
+    {
+      "token": "征驂",
+      "freq": 2,
+      "sources": [
+        "evidence",
+        "term"
+      ]
+    },
+    {
+      "token": "歷落",
+      "freq": 2,
+      "sources": [
+        "evidence",
+        "term"
+      ]
+    },
+    {
+      "token": "蕭關",
+      "freq": 2,
+      "sources": [
+        "evidence",
+        "term"
+      ]
+    },
+    {
+      "token": "鳴劍",
+      "freq": 2,
+      "sources": [
+        "evidence",
+        "term"
+      ]
+    },
+    {
+      "token": "羈愁",
+      "freq": 2,
+      "sources": [
+        "evidence",
+        "term"
+      ]
+    },
+    {
+      "token": "狼尾",
+      "freq": 2,
+      "sources": [
+        "evidence",
+        "term"
+      ]
+    },
+    {
+      "token": "宵征",
+      "freq": 2,
+      "sources": [
+        "evidence",
+        "term"
+      ]
+    },
+    {
+      "token": "難進",
+      "freq": 2,
+      "sources": [
+        "evidence",
+        "term"
+      ]
+    },
+    {
+      "token": "臨危",
+      "freq": 2,
+      "sources": [
+        "evidence",
+        "term"
+      ]
+    },
+    {
+      "token": "歷險",
+      "freq": 2,
+      "sources": [
+        "evidence",
+        "term"
+      ]
+    },
+    {
+      "token": "邊沙",
+      "freq": 2,
+      "sources": [
+        "evidence",
+        "term"
+      ]
+    },
+    {
+      "token": "金甲",
+      "freq": 2,
+      "sources": [
+        "evidence",
+        "term"
+      ]
+    },
+    {
+      "token": "長鯨",
+      "freq": 2,
+      "sources": [
+        "evidence",
+        "term"
+      ]
+    },
+    {
+      "token": "殘兵",
+      "freq": 2,
+      "sources": [
+        "evidence",
+        "term"
+      ]
+    },
+    {
+      "token": "海徼",
+      "freq": 2,
+      "sources": [
+        "evidence",
+        "term"
+      ]
+    },
+    {
+      "token": "胡虜",
+      "freq": 2,
+      "sources": [
+        "evidence",
+        "term"
+      ]
+    },
+    {
+      "token": "計程",
+      "freq": 2,
+      "sources": [
+        "evidence",
+        "term"
+      ]
+    },
+    {
+      "token": "督郵",
+      "freq": 2,
+      "sources": [
+        "evidence",
+        "term"
+      ]
+    },
+    {
+      "token": "重城",
+      "freq": 2,
+      "sources": [
+        "evidence",
+        "term"
+      ]
+    },
+    {
+      "token": "悲壯",
+      "freq": 2,
+      "sources": [
+        "evidence",
+        "term"
+      ]
+    },
+    {
+      "token": "玉鞍",
+      "freq": 2,
+      "sources": [
+        "evidence",
+        "term"
+      ]
+    },
+    {
+      "token": "客情",
+      "freq": 2,
+      "sources": [
+        "evidence",
+        "term"
+      ]
+    },
+    {
+      "token": "歸田",
+      "freq": 2,
+      "sources": [
+        "evidence",
+        "term"
+      ]
+    },
+    {
+      "token": "西風",
+      "freq": 2,
+      "sources": [
+        "evidence",
+        "term"
+      ]
+    },
+    {
+      "token": "長風",
+      "freq": 2,
+      "sources": [
+        "evidence",
+        "term"
+      ]
+    },
+    {
+      "token": "炎荒",
+      "freq": 2,
+      "sources": [
+        "evidence",
+        "term"
+      ]
+    },
+    {
+      "token": "橫截",
+      "freq": 2,
+      "sources": [
+        "evidence",
+        "term"
+      ]
+    },
+    {
+      "token": "憑凌",
+      "freq": 2,
+      "sources": [
+        "evidence",
+        "term"
+      ]
+    },
+    {
+      "token": "兩地",
+      "freq": 2,
+      "sources": [
+        "evidence",
+        "term"
+      ]
+    },
+    {
+      "token": "相勉",
+      "freq": 2,
+      "sources": [
+        "evidence",
+        "term"
+      ]
+    },
+    {
+      "token": "翰墨",
+      "freq": 2,
+      "sources": [
+        "evidence",
+        "term"
+      ]
+    },
+    {
+      "token": "北路",
+      "freq": 2,
+      "sources": [
+        "evidence",
+        "term"
+      ]
+    },
+    {
+      "token": "雄關",
+      "freq": 2,
+      "sources": [
+        "evidence",
+        "term"
+      ]
+    },
+    {
+      "token": "客中",
+      "freq": 2,
+      "sources": [
+        "evidence",
+        "term"
+      ]
+    },
+    {
+      "token": "黃龍",
+      "freq": 2,
+      "sources": [
+        "evidence",
+        "term"
+      ]
+    },
+    {
+      "token": "紅樹",
+      "freq": 2,
+      "sources": [
+        "evidence",
+        "term"
+      ]
+    },
+    {
+      "token": "晩秋",
+      "freq": 2,
+      "sources": [
+        "evidence",
+        "term"
+      ]
+    },
+    {
+      "token": "離恨",
+      "freq": 2,
+      "sources": [
+        "evidence",
+        "term"
+      ]
+    },
+    {
+      "token": "宦遊",
+      "freq": 2,
+      "sources": [
+        "evidence",
+        "term"
+      ]
+    },
+    {
+      "token": "詩語",
+      "freq": 2,
+      "sources": [
+        "evidence",
+        "term"
+      ]
+    },
+    {
+      "token": "自憐",
+      "freq": 2,
+      "sources": [
+        "evidence",
+        "term"
+      ]
+    },
+    {
+      "token": "孤劍",
+      "freq": 2,
+      "sources": [
+        "evidence",
+        "term"
+      ]
+    },
+    {
+      "token": "紫氣",
+      "freq": 2,
+      "sources": [
+        "evidence",
+        "term"
+      ]
+    },
+    {
+      "token": "五彩",
+      "freq": 2,
+      "sources": [
+        "evidence",
+        "term"
+      ]
+    },
+    {
+      "token": "遺慶",
+      "freq": 2,
+      "sources": [
+        "evidence",
+        "term"
+      ]
+    },
+    {
+      "token": "石馬",
+      "freq": 2,
+      "sources": [
+        "evidence",
+        "term"
+      ]
+    },
+    {
+      "token": "彈劍",
+      "freq": 2,
+      "sources": [
+        "evidence",
+        "term"
+      ]
+    },
+    {
+      "token": "登臺",
+      "freq": 2,
+      "sources": [
+        "evidence",
+        "term"
+      ]
+    },
+    {
+      "token": "一麾",
+      "freq": 2,
+      "sources": [
+        "evidence",
+        "term"
+      ]
+    },
+    {
+      "token": "行色",
+      "freq": 2,
+      "sources": [
+        "evidence",
+        "term"
+      ]
+    },
+    {
+      "token": "客夢",
+      "freq": 2,
+      "sources": [
+        "evidence",
+        "term"
+      ]
+    },
+    {
+      "token": "樓蘭",
+      "freq": 2,
+      "sources": [
+        "evidence",
+        "term"
+      ]
+    },
+    {
+      "token": "金星",
+      "freq": 2,
+      "sources": [
+        "evidence",
+        "term"
+      ]
+    },
+    {
+      "token": "綠尊",
+      "freq": 2,
+      "sources": [
+        "evidence",
+        "term"
+      ]
+    },
+    {
+      "token": "鍾鼎",
+      "freq": 2,
+      "sources": [
+        "evidence",
+        "term"
+      ]
+    },
+    {
+      "token": "王家",
+      "freq": 2,
+      "sources": [
+        "evidence",
+        "term"
+      ]
+    },
+    {
+      "token": "將帥",
+      "freq": 2,
+      "sources": [
+        "evidence",
+        "term"
+      ]
+    },
+    {
+      "token": "嫖姚",
+      "freq": 2,
+      "sources": [
+        "evidence",
+        "term"
+      ]
+    },
+    {
+      "token": "月明",
+      "freq": 2,
+      "sources": [
+        "evidence",
+        "term"
+      ]
+    },
+    {
+      "token": "簫鼓",
+      "freq": 2,
+      "sources": [
+        "evidence",
+        "term"
+      ]
+    },
+    {
+      "token": "金鸞殿",
+      "freq": 2,
+      "sources": [
+        "evidence",
+        "term"
+      ]
+    },
+    {
+      "token": "龍鱗",
+      "freq": 2,
+      "sources": [
+        "evidence",
+        "term"
+      ]
+    },
+    {
+      "token": "胡風",
+      "freq": 2,
+      "sources": [
+        "evidence",
+        "term"
+      ]
+    },
+    {
+      "token": "北闕",
+      "freq": 2,
+      "sources": [
+        "evidence",
+        "term"
+      ]
+    },
+    {
+      "token": "飛觴",
+      "freq": 2,
+      "sources": [
+        "evidence",
+        "term"
+      ]
+    },
+    {
+      "token": "靜勝",
+      "freq": 2,
+      "sources": [
+        "evidence",
+        "term"
+      ]
+    },
+    {
+      "token": "酣歌",
+      "freq": 2,
+      "sources": [
+        "evidence",
+        "term"
+      ]
+    },
+    {
+      "token": "金甌",
+      "freq": 2,
+      "sources": [
+        "evidence",
+        "term"
+      ]
+    },
+    {
+      "token": "蹙國",
+      "freq": 2,
+      "sources": [
+        "evidence",
+        "term"
+      ]
+    },
+    {
+      "token": "閨中",
+      "freq": 2,
+      "sources": [
+        "evidence",
+        "term"
+      ]
+    },
+    {
+      "token": "頭上",
+      "freq": 2,
+      "sources": [
+        "evidence",
+        "term"
+      ]
+    },
+    {
+      "token": "和戎",
+      "freq": 2,
+      "sources": [
+        "evidence",
+        "term"
+      ]
+    },
+    {
+      "token": "南翁",
+      "freq": 2,
+      "sources": [
+        "evidence",
+        "term"
+      ]
+    },
+    {
+      "token": "壯氣",
+      "freq": 2,
+      "sources": [
+        "evidence",
+        "term"
+      ]
+    },
+    {
+      "token": "家國",
+      "freq": 2,
+      "sources": [
+        "evidence",
+        "term"
+      ]
+    },
+    {
+      "token": "昇平",
+      "freq": 2,
+      "sources": [
+        "evidence",
+        "term"
+      ]
+    },
+    {
+      "token": "屠釣",
+      "freq": 2,
+      "sources": [
+        "evidence",
+        "term"
+      ]
+    },
+    {
+      "token": "衲衣",
+      "freq": 2,
+      "sources": [
+        "evidence",
+        "term"
+      ]
+    },
+    {
+      "token": "雲棧",
+      "freq": 2,
+      "sources": [
+        "evidence",
+        "term"
+      ]
+    },
+    {
+      "token": "積雪",
+      "freq": 2,
+      "sources": [
+        "evidence",
+        "term"
+      ]
+    },
+    {
+      "token": "零落",
+      "freq": 2,
+      "sources": [
+        "evidence",
+        "term"
+      ]
+    },
+    {
+      "token": "虺頹",
+      "freq": 2,
+      "sources": [
+        "evidence",
+        "term"
+      ]
+    },
+    {
+      "token": "靑霞",
+      "freq": 2,
+      "sources": [
+        "evidence",
+        "term"
+      ]
+    },
+    {
+      "token": "奇氣",
+      "freq": 2,
+      "sources": [
+        "evidence",
+        "term"
+      ]
+    },
+    {
+      "token": "揚眉",
+      "freq": 2,
+      "sources": [
+        "evidence",
+        "term"
+      ]
+    },
+    {
+      "token": "黃昏",
+      "freq": 2,
+      "sources": [
+        "evidence",
+        "term"
+      ]
+    },
+    {
+      "token": "孤艇",
+      "freq": 2,
+      "sources": [
+        "evidence",
+        "term"
+      ]
+    },
+    {
+      "token": "津吏",
+      "freq": 2,
+      "sources": [
+        "evidence",
+        "term"
+      ]
+    },
+    {
+      "token": "寒霜",
+      "freq": 2,
+      "sources": [
+        "evidence",
+        "term"
+      ]
+    },
+    {
+      "token": "關情",
+      "freq": 2,
+      "sources": [
+        "evidence",
+        "term"
+      ]
+    },
+    {
+      "token": "耿耿",
+      "freq": 2,
+      "sources": [
+        "evidence",
+        "term"
+      ]
+    },
+    {
+      "token": "斷角",
+      "freq": 2,
+      "sources": [
+        "evidence",
+        "term"
+      ]
+    },
+    {
+      "token": "驅使",
+      "freq": 2,
+      "sources": [
+        "evidence",
+        "term"
+      ]
+    },
+    {
+      "token": "安分",
+      "freq": 2,
+      "sources": [
+        "evidence",
+        "term"
+      ]
+    },
+    {
+      "token": "丹靑",
+      "freq": 2,
+      "sources": [
+        "evidence",
+        "term"
+      ]
+    },
+    {
+      "token": "邊書",
+      "freq": 2,
+      "sources": [
+        "evidence",
+        "term"
+      ]
+    },
+    {
+      "token": "征人",
+      "freq": 2,
+      "sources": [
+        "evidence",
+        "term"
+      ]
+    },
+    {
+      "token": "邊塞",
+      "freq": 2,
+      "sources": [
+        "evidence",
+        "term"
+      ]
+    },
+    {
+      "token": "橫戈",
+      "freq": 2,
+      "sources": [
+        "evidence",
+        "term"
+      ]
+    },
+    {
+      "token": "飛塵",
+      "freq": 2,
+      "sources": [
+        "evidence",
+        "term"
+      ]
+    },
+    {
+      "token": "列營",
+      "freq": 2,
+      "sources": [
+        "evidence",
+        "term"
+      ]
+    },
+    {
+      "token": "狼烽",
+      "freq": 2,
+      "sources": [
+        "evidence",
+        "term"
+      ]
+    },
+    {
+      "token": "匈奴",
+      "freq": 2,
+      "sources": [
+        "evidence",
+        "term"
+      ]
+    },
+    {
+      "token": "城池",
+      "freq": 2,
+      "sources": [
+        "evidence",
+        "term"
+      ]
+    },
+    {
+      "token": "羽檄",
+      "freq": 2,
+      "sources": [
+        "evidence",
+        "term"
+      ]
+    },
+    {
+      "token": "孤軍",
+      "freq": 2,
+      "sources": [
+        "evidence",
+        "term"
+      ]
+    },
+    {
+      "token": "城樓",
+      "freq": 2,
+      "sources": [
+        "evidence",
+        "term"
+      ]
+    },
+    {
+      "token": "凉州",
+      "freq": 2,
+      "sources": [
+        "evidence",
+        "term"
+      ]
+    },
+    {
+      "token": "出塞曲",
+      "freq": 2,
+      "sources": [
+        "evidence",
+        "term"
+      ]
+    },
+    {
+      "token": "心折",
+      "freq": 2,
+      "sources": [
+        "evidence",
+        "term"
+      ]
+    },
+    {
+      "token": "絶險",
+      "freq": 2,
+      "sources": [
+        "evidence",
+        "term"
+      ]
+    },
+    {
+      "token": "板蕩",
+      "freq": 2,
+      "sources": [
+        "evidence",
+        "term"
+      ]
+    },
+    {
+      "token": "邊幅",
+      "freq": 2,
+      "sources": [
+        "evidence",
+        "term"
+      ]
+    },
+    {
+      "token": "禁中",
+      "freq": 2,
+      "sources": [
+        "evidence",
+        "term"
+      ]
+    },
+    {
+      "token": "頗牧",
+      "freq": 2,
+      "sources": [
+        "evidence",
+        "term"
+      ]
+    },
+    {
+      "token": "國破家亡",
+      "freq": 2,
+      "sources": [
+        "evidence",
+        "term"
+      ]
+    },
+    {
+      "token": "兵燹",
+      "freq": 2,
+      "sources": [
+        "evidence",
+        "term"
+      ]
+    },
+    {
+      "token": "昆明",
+      "freq": 2,
+      "sources": [
+        "evidence",
+        "term"
+      ]
+    },
+    {
+      "token": "朔野",
+      "freq": 2,
+      "sources": [
+        "evidence",
+        "term"
+      ]
+    },
+    {
+      "token": "夕烽",
+      "freq": 2,
+      "sources": [
+        "evidence",
+        "term"
+      ]
+    },
+    {
+      "token": "甌脫",
+      "freq": 2,
+      "sources": [
+        "evidence",
+        "term"
+      ]
+    },
+    {
+      "token": "擧義",
+      "freq": 2,
+      "sources": [
+        "evidence",
+        "term"
+      ]
+    },
+    {
+      "token": "孤忠",
+      "freq": 2,
+      "sources": [
+        "evidence",
+        "term"
+      ]
+    },
+    {
+      "token": "嬰城",
+      "freq": 2,
+      "sources": [
+        "evidence",
+        "term"
+      ]
+    },
+    {
+      "token": "劍花",
+      "freq": 2,
+      "sources": [
+        "evidence",
+        "term"
+      ]
+    },
+    {
+      "token": "猿鶴",
+      "freq": 2,
+      "sources": [
+        "evidence",
+        "term"
+      ]
+    },
+    {
+      "token": "李廣",
+      "freq": 2,
+      "sources": [
+        "evidence",
+        "term"
+      ]
+    },
+    {
+      "token": "兵略",
+      "freq": 2,
+      "sources": [
+        "evidence",
+        "term"
+      ]
+    },
+    {
+      "token": "揮劍",
+      "freq": 2,
+      "sources": [
+        "evidence",
+        "term"
+      ]
+    },
+    {
+      "token": "進戰",
+      "freq": 2,
+      "sources": [
+        "evidence",
+        "term"
+      ]
+    },
+    {
+      "token": "軍馬",
+      "freq": 2,
+      "sources": [
+        "evidence",
+        "term"
+      ]
+    },
+    {
+      "token": "控扼",
+      "freq": 2,
+      "sources": [
+        "evidence",
+        "term"
+      ]
+    },
+    {
+      "token": "半刺",
+      "freq": 2,
+      "sources": [
+        "evidence",
+        "term"
+      ]
+    },
+    {
+      "token": "雄藩",
+      "freq": 2,
+      "sources": [
+        "evidence",
+        "term"
+      ]
+    },
+    {
+      "token": "龍韜",
+      "freq": 2,
+      "sources": [
+        "evidence",
+        "term"
+      ]
+    },
+    {
+      "token": "鐵嶺",
+      "freq": 2,
+      "sources": [
+        "evidence",
+        "term"
+      ]
+    },
+    {
+      "token": "塞月",
+      "freq": 2,
+      "sources": [
+        "evidence",
+        "term"
+      ]
+    },
+    {
+      "token": "連疆",
+      "freq": 2,
+      "sources": [
+        "evidence",
+        "term"
+      ]
+    },
+    {
+      "token": "霸圖",
+      "freq": 2,
+      "sources": [
+        "evidence",
+        "term"
+      ]
+    },
+    {
+      "token": "臺隍",
+      "freq": 2,
+      "sources": [
+        "evidence",
+        "term"
+      ]
+    },
+    {
+      "token": "邊疆",
+      "freq": 2,
+      "sources": [
+        "evidence",
+        "term"
+      ]
+    },
+    {
+      "token": "防戍",
+      "freq": 2,
+      "sources": [
+        "evidence",
+        "term"
+      ]
+    },
+    {
+      "token": "要衝",
+      "freq": 2,
+      "sources": [
+        "evidence",
+        "term"
+      ]
+    },
+    {
+      "token": "崤函",
+      "freq": 2,
+      "sources": [
+        "evidence",
+        "term"
+      ]
+    },
+    {
+      "token": "義兵",
+      "freq": 2,
+      "sources": [
+        "evidence",
+        "term"
+      ]
+    },
+    {
+      "token": "血雨",
+      "freq": 2,
+      "sources": [
+        "evidence",
+        "term"
+      ]
+    },
+    {
+      "token": "黑貂裘",
+      "freq": 2,
+      "sources": [
+        "evidence"
+      ]
+    },
+    {
+      "token": "李輕車",
+      "freq": 2,
+      "sources": [
+        "evidence"
+      ]
+    },
+    {
+      "token": "虜騎",
+      "freq": 2,
+      "sources": [
+        "evidence"
+      ]
+    },
+    {
+      "token": "會穩兩府",
+      "freq": 2,
+      "sources": [
+        "evidence"
+      ]
+    },
+    {
+      "token": "戰血",
+      "freq": 2,
+      "sources": [
+        "evidence"
+      ]
+    },
+    {
+      "token": "諸營",
+      "freq": 2,
+      "sources": [
+        "evidence"
+      ]
+    },
+    {
+      "token": "大獵",
+      "freq": 2,
+      "sources": [
+        "evidence"
+      ]
+    },
+    {
+      "token": "戍",
+      "freq": 2,
+      "sources": [
+        "evidence"
+      ]
+    },
+    {
+      "token": "天寒",
+      "freq": 2,
+      "sources": [
+        "evidence"
+      ]
+    },
+    {
+      "token": "萬甲",
+      "freq": 2,
+      "sources": [
+        "evidence"
+      ]
+    },
+    {
+      "token": "戰",
+      "freq": 2,
+      "sources": [
+        "evidence"
+      ]
+    },
+    {
+      "token": "雪",
+      "freq": 2,
+      "sources": [
+        "evidence"
+      ]
+    },
+    {
+      "token": "胡山",
+      "freq": 2,
+      "sources": [
+        "evidence"
+      ]
+    },
+    {
+      "token": "塞天",
+      "freq": 2,
+      "sources": [
+        "evidence"
+      ]
+    },
+    {
+      "token": "煙塵靜",
+      "freq": 2,
+      "sources": [
+        "evidence"
+      ]
+    },
+    {
+      "token": "倚劍",
+      "freq": 2,
+      "sources": [
+        "evidence"
+      ]
+    },
+    {
+      "token": "萬古愁",
+      "freq": 2,
+      "sources": [
+        "evidence"
+      ]
+    },
+    {
+      "token": "遼扼",
+      "freq": 2,
+      "sources": [
+        "evidence"
+      ]
+    },
+    {
+      "token": "同降虜",
+      "freq": 2,
+      "sources": [
+        "evidence"
+      ]
+    },
+    {
+      "token": "鴨水",
+      "freq": 2,
+      "sources": [
+        "evidence"
+      ]
+    },
+    {
+      "token": "浿江",
+      "freq": 2,
+      "sources": [
+        "evidence"
+      ]
+    },
+    {
+      "token": "關",
+      "freq": 2,
+      "sources": [
+        "evidence"
+      ]
+    },
+    {
+      "token": "夜渡遼",
+      "freq": 2,
+      "sources": [
+        "evidence"
+      ]
+    },
+    {
+      "token": "沙中",
+      "freq": 2,
+      "sources": [
+        "evidence"
+      ]
+    },
+    {
+      "token": "龍荒之外",
+      "freq": 2,
+      "sources": [
+        "evidence"
+      ]
+    },
+    {
+      "token": "宣川郡",
+      "freq": 2,
+      "sources": [
+        "evidence"
+      ]
+    },
+    {
+      "token": "雙忠廟",
+      "freq": 2,
+      "sources": [
+        "evidence"
+      ]
+    },
+    {
+      "token": "黃草嶺",
+      "freq": 2,
+      "sources": [
+        "evidence"
+      ]
+    },
+    {
+      "token": "滿旌旄",
+      "freq": 2,
+      "sources": [
+        "evidence"
+      ]
+    },
+    {
+      "token": "元帥臺",
+      "freq": 2,
+      "sources": [
+        "evidence"
+      ]
+    },
+    {
+      "token": "箭",
+      "freq": 2,
+      "sources": [
+        "evidence"
+      ]
+    }
+  ],
+  "allusions": [
+    {
+      "token": "李輕車",
+      "freq": 2
+    },
+    {
+      "token": "萬甲",
+      "freq": 2
+    },
+    {
+      "token": "撾鼓",
+      "freq": 2
+    },
+    {
+      "token": "黃楡",
+      "freq": 1
+    },
+    {
+      "token": "衛霍",
+      "freq": 1
+    },
+    {
+      "token": "華表",
+      "freq": 1
+    },
+    {
+      "token": "測注冠",
+      "freq": 1
+    },
+    {
+      "token": "傅介子",
+      "freq": 1
+    },
+    {
+      "token": "萬里侯",
+      "freq": 1
+    },
+    {
+      "token": "春到關山不似春",
+      "freq": 1
+    },
+    {
+      "token": "馬上琵琶",
+      "freq": 1
+    },
+    {
+      "token": "移家送者出千萬 報仇殺人年十三",
+      "freq": 1
+    },
+    {
+      "token": "愁絶更堪論",
+      "freq": 1
+    },
+    {
+      "token": "投筆",
+      "freq": 1
+    },
+    {
+      "token": "徵札",
+      "freq": 1
+    },
+    {
+      "token": "孤戍",
+      "freq": 1
+    },
+    {
+      "token": "塞外傳光",
+      "freq": 1
+    },
+    {
+      "token": "雲邊落點殘",
+      "freq": 1
+    },
+    {
+      "token": "酒重",
+      "freq": 1
+    },
+    {
+      "token": "衡雲",
+      "freq": 1
+    },
+    {
+      "token": "蝕天瞳",
+      "freq": 1
+    },
+    {
+      "token": "新亭",
+      "freq": 1
+    },
+    {
+      "token": "兩鳧仙舃",
+      "freq": 1
+    },
+    {
+      "token": "精衛",
+      "freq": 1
+    },
+    {
+      "token": "愚公無力太行山",
+      "freq": 1
+    },
+    {
+      "token": "魯連",
+      "freq": 1
+    },
+    {
+      "token": "長纓",
+      "freq": 1
+    },
+    {
+      "token": "干羽堯階舞",
+      "freq": 1
+    },
+    {
+      "token": "匏繫",
+      "freq": 1
+    },
+    {
+      "token": "梧鼠",
+      "freq": 1
+    },
+    {
+      "token": "土人",
+      "freq": 1
+    },
+    {
+      "token": "眢井",
+      "freq": 1
+    },
+    {
+      "token": "秦山",
+      "freq": 1
+    },
+    {
+      "token": "松菊應荒",
+      "freq": 1
+    },
+    {
+      "token": "大水三",
+      "freq": 1
+    },
+    {
+      "token": "百二重",
+      "freq": 1
+    },
+    {
+      "token": "新淬鸊鵜膏",
+      "freq": 1
+    },
+    {
+      "token": "四狼歸紫闕",
+      "freq": 1
+    },
+    {
+      "token": "魚遊沸鼎",
+      "freq": 1
+    },
+    {
+      "token": "鳥覆危巢",
+      "freq": 1
+    },
+    {
+      "token": "靈夏",
+      "freq": 1
+    },
+    {
+      "token": "天遣揮戈落日",
+      "freq": 1
+    },
+    {
+      "token": "旋見營平還振旅",
+      "freq": 1
+    },
+    {
+      "token": "香盆",
+      "freq": 1
+    },
+    {
+      "token": "彤弓",
+      "freq": 1
+    },
+    {
+      "token": "白檀",
+      "freq": 1
+    },
+    {
+      "token": "劍衝星斗",
+      "freq": 1
+    },
+    {
+      "token": "南仲",
+      "freq": 1
+    },
+    {
+      "token": "從事獨賢",
+      "freq": 1
+    },
+    {
+      "token": "忠臣叱馭",
+      "freq": 1
+    },
+    {
+      "token": "旄頭",
+      "freq": 1
+    },
+    {
+      "token": "鳥雲",
+      "freq": 1
+    },
+    {
+      "token": "玉龍",
+      "freq": 1
+    },
+    {
+      "token": "請纓",
+      "freq": 1
+    },
+    {
+      "token": "緩帶",
+      "freq": 1
+    },
+    {
+      "token": "郤公",
+      "freq": 1
+    },
+    {
+      "token": "矍鑠翁",
+      "freq": 1
+    },
+    {
+      "token": "白羽箭",
+      "freq": 1
+    },
+    {
+      "token": "佁儗人",
+      "freq": 1
+    },
+    {
+      "token": "定遠侯",
+      "freq": 1
+    },
+    {
+      "token": "宗殼未乘風",
+      "freq": 1
+    },
+    {
+      "token": "干星劍",
+      "freq": 1
+    },
+    {
+      "token": "泣鬼詩",
+      "freq": 1
+    },
+    {
+      "token": "漢將橫戈",
+      "freq": 1
+    },
+    {
+      "token": "燕山",
+      "freq": 1
+    },
+    {
+      "token": "金僕",
+      "freq": 1
+    },
+    {
+      "token": "馴雉",
+      "freq": 1
+    },
+    {
+      "token": "倚樓",
+      "freq": 1
+    },
+    {
+      "token": "老子在延州",
+      "freq": 1
+    },
+    {
+      "token": "蹈海",
+      "freq": 1
+    },
+    {
+      "token": "牛衣",
+      "freq": 1
+    },
+    {
+      "token": "身膏",
+      "freq": 1
+    },
+    {
+      "token": "唾掌",
+      "freq": 1
+    },
+    {
+      "token": "奄捐",
+      "freq": 1
+    },
+    {
+      "token": "凉州",
+      "freq": 1
+    },
+    {
+      "token": "出塞曲",
+      "freq": 1
+    },
+    {
+      "token": "心折",
+      "freq": 1
+    },
+    {
+      "token": "襟要",
+      "freq": 1
+    },
+    {
+      "token": "磊落",
+      "freq": 1
+    },
+    {
+      "token": "禁中",
+      "freq": 1
+    },
+    {
+      "token": "頗牧",
+      "freq": 1
+    },
+    {
+      "token": "國破家亡",
+      "freq": 1
+    },
+    {
+      "token": "漢節",
+      "freq": 1
+    },
+    {
+      "token": "良史",
+      "freq": 1
+    },
+    {
+      "token": "昆明",
+      "freq": 1
+    },
+    {
+      "token": "善頌",
+      "freq": 1
+    },
+    {
+      "token": "張老",
+      "freq": 1
+    },
+    {
+      "token": "資章甫",
+      "freq": 1
+    },
+    {
+      "token": "賈餘勇",
+      "freq": 1
+    },
+    {
+      "token": "出匣劍花",
+      "freq": 1
+    },
+    {
+      "token": "莫謂國無人",
+      "freq": 1
+    },
+    {
+      "token": "怒血三年碧",
+      "freq": 1
+    },
+    {
+      "token": "冤霜五月零",
+      "freq": 1
+    },
+    {
+      "token": "天塹",
+      "freq": 1
+    }
+  ]
+}

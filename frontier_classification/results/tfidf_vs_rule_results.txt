@@ -1,0 +1,55 @@
+dataset: 223 positive, 7270 negative (clean), 3895 excluded ambiguous
+feature matrix shape: (7493, 92825)
+
+=== TF-IDF + LogisticRegression (5-fold CV) -- the real comparison numbers ===
+precision: 0.993 +- 0.013
+recall:    0.785 +- 0.099
+f1:        0.874 +- 0.066
+avg_precision (PR-AUC): 0.997
+
+=== Rule-based on the SAME folds (NOTE: circular / optimistic -- see README) ===
+precision: 1.000 +- 0.000
+recall:    0.987 +- 0.011
+f1:        0.993 +- 0.006
+
+=== Top 40 char n-gram features (positive class) ===
+ 一	3.966
+ 不	3.303
+ 邊	3.217
+ 將	3.015
+將軍	2.865
+ 長	2.804
+ 胡	2.743
+ 千	2.697
+ 西	2.545
+ 關	2.499
+二 	2.480
+ 將軍	2.453
+ 風	2.351
+樓 	2.351
+城 	2.249
+其二 	2.245
+ 天	2.236
+關 	2.189
+塞下	2.160
+ 白	2.127
+寒 	2.106
+ 萬	1.985
+ 孤	1.964
+曲 	1.924
+飛 	1.906
+北 	1.902
+ 漢	1.869
+ 壯	1.864
+ 日	1.852
+ 靑	1.842
+愁 	1.840
+孤城	1.835
+ 玉	1.823
+兵 	1.807
+單于	1.800
+ 書	1.753
+ 誰	1.742
+ 大	1.739
+陰山	1.732
+山 	1.720
