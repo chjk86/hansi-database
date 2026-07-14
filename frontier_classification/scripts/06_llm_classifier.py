@@ -117,7 +117,7 @@ def main():
     ap = argparse.ArgumentParser()
     ap.add_argument("--mode", choices=["gold_recall", "ambiguous"], default="gold_recall")
     ap.add_argument("--sample", type=int, default=40)
-    ap.add_argument("--model", default="gemini-2.5-flash-lite")
+    ap.add_argument("--model", default="gemini-3.5-flash")
     ap.add_argument("--pace", type=float, default=4.5,
                      help="seconds to sleep between requests, to stay under the free-tier RPM limit")
     args = ap.parse_args()
@@ -133,30 +133,49 @@ def main():
     rows = (build_gold_recall_sample(args.sample) if args.mode == "gold_recall"
             else build_ambiguous_sample(args.sample))
 
+    # Resume support: free-tier daily quotas are small, so re-running the same
+    # command later should pick up where it left off instead of re-spending
+    # quota on poems already classified.
     out_path = f"../results/llm_{args.mode}_sample.txt"
+    already_done = set()
+    if os.path.exists(out_path):
+        for line in open(out_path, encoding="utf-8"):
+            parts = line.rstrip("\n").split("\t")
+            if len(parts) >= 4 and parts[0] != "[FAILED]":
+                already_done.add((parts[2], parts[3]))  # (author, title)
+            elif len(parts) >= 3 and parts[0] == "[FAILED]":
+                pass  # allow retrying failed ones
+    if already_done:
+        print(f"resuming: {len(already_done)} poems already classified in {out_path}, skipping those")
+
     correct = 0
     scored = 0
-    with open(out_path, "w", encoding="utf-8") as f:
-        for i, (author, title, body, true_label) in enumerate(rows):
+    done_this_run = 0
+    with open(out_path, "a", encoding="utf-8") as f:
+        for author, title, body, true_label in rows:
+            if (author, title) in already_done:
+                continue
             result = classify_with_gemini(client, args.model, title, body)
             if result is None:
-                f.write(f"[FAILED]\t{author}\t{title}\n")
+                f.write(f"[FAILED]\t\t{author}\t{title}\t\n")
+                f.flush()
                 continue
             pred = result.get("is_frontier")
             conf = result.get("confidence")
             reason = result.get("reason", "")
             f.write(f"{pred}\t{conf}\t{author}\t{title}\t{reason}\n")
+            f.flush()
+            done_this_run += 1
             if true_label is not None:
                 scored += 1
                 if pred == true_label:
                     correct += 1
-            print(f"[{i+1}/{len(rows)}] {author} / {title[:20]} -> {pred} ({conf})")
-            if i < len(rows) - 1:
-                time.sleep(args.pace)
+            print(f"[{done_this_run}/{len(rows)-len(already_done)}] {author} / {title[:20]} -> {pred} ({conf})")
+            time.sleep(args.pace)
 
     if scored:
-        print(f"\naccuracy on labeled sample: {correct}/{scored} ({correct/scored*100:.1f}%)")
-    print(f"saved {out_path}")
+        print(f"\naccuracy on labeled sample (this run): {correct}/{scored} ({correct/scored*100:.1f}%)")
+    print(f"saved {out_path} ({done_this_run} newly classified this run)")
 
 
 if __name__ == "__main__":
