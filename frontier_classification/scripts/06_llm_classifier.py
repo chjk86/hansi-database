@@ -67,10 +67,19 @@ def classify_with_gemini(client, model_name, title, body):
                 return None
             return json.loads(m.group(0))
         except Exception as e:
+            msg = str(e)
+            if "RESOURCE_EXHAUSTED" in msg or "429" in msg:
+                # free-tier rate limit hit: honor the server's requested retryDelay
+                m = re.search(r"'retryDelay': '(\d+)s'", msg)
+                wait = int(m.group(1)) + 2 if m else 20
+                print(f"  [rate limited, waiting {wait}s]", file=sys.stderr)
+                time.sleep(wait)
+                continue
             if attempt == 2:
                 print(f"  [error after 3 tries] {e}", file=sys.stderr)
                 return None
             time.sleep(2 ** attempt)
+    return None
 
 
 def build_gold_recall_sample(n):
@@ -108,7 +117,9 @@ def main():
     ap = argparse.ArgumentParser()
     ap.add_argument("--mode", choices=["gold_recall", "ambiguous"], default="gold_recall")
     ap.add_argument("--sample", type=int, default=40)
-    ap.add_argument("--model", default="gemini-flash-latest")
+    ap.add_argument("--model", default="gemini-2.5-flash-lite")
+    ap.add_argument("--pace", type=float, default=4.5,
+                     help="seconds to sleep between requests, to stay under the free-tier RPM limit")
     args = ap.parse_args()
 
     api_key = os.environ.get("GOOGLE_API_KEY")
@@ -140,6 +151,8 @@ def main():
                 if pred == true_label:
                     correct += 1
             print(f"[{i+1}/{len(rows)}] {author} / {title[:20]} -> {pred} ({conf})")
+            if i < len(rows) - 1:
+                time.sleep(args.pace)
 
     if scored:
         print(f"\naccuracy on labeled sample: {correct}/{scored} ({correct/scored*100:.1f}%)")
