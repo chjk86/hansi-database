@@ -1,0 +1,11 @@
+dataset: 255 positive, 7108 negative (clean), 3807 excluded ambiguous
+
+=== Naive Bayes (MultinomialNB), 5-fold CV ===
+precision: 0.843 +- 0.135
+recall:    0.075 +- 0.026
+f1:        0.136 +- 0.045
+
+=== Linear SVM (LinearSVC, Platt-calibrated), 5-fold CV ===
+precision: 0.996 +- 0.008
+recall:    0.996 +- 0.008
+f1:        0.996 +- 0.005
