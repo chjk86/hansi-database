@@ -192,13 +192,13 @@ scripts/10_naive_bayes_svm_classifier.py  나이브 베이즈·선형 SVM 추가
 - 데이터 통제: 중국 코퍼스(Class 0)와 조선 코퍼스(Class 1)의 절대적 수량 차이로 인한 통계적 편향을 방지하기 위해, 양국의 골드 데이터를 1:1 비율로 무작위 샘플링(Random Sampling)하여 모수를 통제합니다.
 - 추론(Inference) 중심 분석: 이 모델의 주 목적은 분류 예측(Prediction)이 아니라, 각 코퍼스를 분리하는 핵심 N-gram 가중치를 역추적하는 것입니다.
 
-### 2.2. 결과 해석 (Coefficient Analysis)
+### 결과 해석 (Coefficient Analysis)
 TF-IDF + Logistic Regression 파이프라인을 통해 산출된 로그 오즈(Log-odds) 가중치(Coefficient)는 양국 변새시의 고유한 문학적 DNA를 나타냅니다.
 * 양수(+) 가중치 최상위: 조선 변새시만의 고유 판별 자질 (예: 長白, 孤城, 將軍)
 * 음수(-) 가중치 최상위: 중국 변새시만의 고유 판별 자질 (예: 萬里, 天山, 春風)
 
 이러한 정량적 자질 역전(Feature Shift)은 양국 변새시의 일정한 차이를 그려냅니다. 향후 변새시 분류 파이프라인을 통해 양국의 골드 데이터를 더욱 보강한다면, 조선 변새시만의 특수한 성격이 더욱 자세히 드러나리라 짐작됩니다. 
 
-### 2.3. 실행 방법
+### 실행 방법
 ```bash
 python gold_standard_comparison.py
