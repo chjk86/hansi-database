@@ -39,6 +39,9 @@
 * **모델의 최종 성능 지표(포스터에 기재된 F1-score, Precision, Recall 등)는 이 스냅샷과 무관하게, 시드가 고정된 별도의 무작위 분할(Random Split) 파이프라인을 통해 완전히 독립적으로 도출되었습니다.**
 * 이는 기계학습 과정에서 평가용 데이터(Test Set)가 훈련 데이터(Train Set)에 혼입되는 데이터 누수 현상을 원천적으로 차단하고, 방법론 간 대조의 학술적 타당성과 객관성을 보장하기 위함입니다.
 
+## 🤖 Acknowledgments / AI Assistance
+본 연구의 실험 파이프라인 구축(Python 스크립트 작성 및 디버깅) 및 영문 번역 과정에서 생성형 AI(Gemini)의 보조를 받았습니다. (The experimental pipeline code and English translations in this project were developed with the assistance of generative AI.)
+
 ## 📚 References (주요 참고문헌)
 
 * 胡靭奮·諸雨辰 (2015), 「唐詩題材自動分類研究」, 『中文信息學報』.
