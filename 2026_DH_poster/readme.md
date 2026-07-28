@@ -1,51 +1,50 @@
-# 漢詩(한시) 자동 분류를 위한 다중 모델 교차 평가 파이프라인
+# 조선 시대 한시 주제 자동 분류를 위한 기계학습 방법론 대조 및 인문학적 주석의 효용성 검증
+**2026 한국디지털인문학협회(KADH) 연차학술대회 포스터 발표 자료 및 실험 코드**
 
-본 저장소는 한국 고전문학 및 한문학 텍스트(한시)를 대상으로, 특정 장르(변새시, 邊塞詩) 해당 여부를 자동 판별하는 머신러닝 및 LLM 파이프라인 코드를 제공합니다. 디지털 인문학 연구의 일환으로, 대규모 지도학습 모델과 소규모 예시를 활용하는 생성형 AI의 분류 효율성을 교차 평가하기 위해 구축되었습니다.
+본 저장소는 조선 시대 방대한 문집 코퍼스 내에서 특정 주제의 한시(본 연구에서는 '변새시(邊塞詩)')를 자동으로 추출하고 분류하기 위해, 사전학습 언어모델(GuwenBERT)과 범용 대형언어모델(LLM, Gemini)의 분류 성능을 대조한 실험 파이프라인을 제공합니다. 
 
-## 📌 주요 기능 (Methodologies)
+특히 단순 텍스트 추론을 넘어, 인간 연구자의 정밀한 인문학적 마크업(핵심 시어, 전고, 판별 근거)이 기계학습 모델의 오탐 방어력(Precision)에 미치는 효용성을 교차 검증합니다.
 
-본 파이프라인은 동일한 고립 테스트셋(Gold Test Set)에 대해 다음 4가지 방법론을 일괄 수행하고, 그 결과를 1행 단위로 통합하여 비교합니다.
+## 📂 Repository Structure (저장소 구조)
 
-1. **BERT 파인튜닝 (지도학습):** `ethanyt/guwenbert-base` 모델을 기반으로 시퀀스 분류(Sequence Classification) 미세 조정
-2. **BERT 임베딩 군집화 (비지도학습):** 사전 학습된 언어 모델의 768차원 텍스트 벡터를 활용한 K-Means 군집화
-3. **LLM 제로샷 프롬프팅 (Zero-shot):** Gemini 3.5 Flash 모델에 장르적 정의만 부여하여 추론
-4. **LLM 퓨샷 프롬프팅 (Few-shot):** Gemini 3.5 Flash 모델에 2개의 정답/오답 예시를 추가 제공하여 추론
+```text
+2026_DH_poster/
+│
+├── data/                                 # 데이터셋 폴더
+│   ├── 변새시_2차정리본.txt              # 전공자의 정밀 마크업(XML 태그)이 포함된 정답지(Gold Standard)
+│   └── 00_final_integrated_evaluation_인간평가통합본.csv # 전문가 사후 평가 및 교차 검증 스냅샷 자료
+│
+├── scripts/                              # 실험 파이프라인 코드 (Google Colab 호환)
+│   ├── 01_main_evaluation.ipynb          # 1:1 통제 환경을 구축하여 BERT 파인튜닝(지도)과 LLM(제로샷/퓨샷)의 개념 인지 능력 평가
+│   ├── 02_imbalanced_evaluation.ipynb    # 고문헌 장르의 실제 희소성을 반영한 1:20 불균형 환경에서의 실전 탐지력(Recall) 및 오탐 방어력(Precision) 검증
+│   └── 03_data_efficiency_evaluation.ipynb # 훈련 데이터 투입 비율(10~100%) 증강에 따른 데이터 효율성(Data Efficiency) 및 학습 궤적 분석
+│
+└── outputs/                              # 결과물 (자동 생성)
+    ├── confusion_matrix_*.png            # 방법론별 교차 검증 혼동 행렬 이미지
+    └── final_integrated_evaluation.csv   # 모델별 최종 예측 및 산출 근거 통합 시트
 
-## 📂 출력물 (Outputs)
+```
 
-코드를 모두 실행(Run All)하면 다음 두 가지 파일이 로컬 환경에 자동으로 다운로드됩니다.
+## 💻 Code & Experiments (실험 및 방법론)
 
-*   `final_integrated_evaluation.csv`: 테스트셋 1행당 4개 모델의 예측값과 LLM의 학술적 판별 근거(Reason)가 나란히 배열된 인간 평가용 통합 시트
-*   `confusion_matrix_2x2_all_models.png`: 4개 모델의 오분류 양상(FP, FN)을 직관적으로 비교할 수 있는 포스터 및 논문 삽입용 고해상도 2x2 오차 행렬 이미지
+모든 실험은 재현성(Reproducibility)을 위해 `RANDOM_SEED = 42`로 고정된 독립적 파이프라인에서 실행되었습니다.
 
-## 🚀 실행 방법 (How to Run)
+1. **BERT Fine-tuning (Supervised):** 텍스트 원문과 인간의 마크업 메타데이터를 쌍(Pair)으로 입력하여 은유와 전고를 인식하도록 훈련.
+2. **BERT Clustering (Unsupervised):** `[CLS]` 토큰 임베딩 기반 K-Means 군집화 수행.
+3. **LLM Zero-shot / Few-shot:** 생성형 AI의 연쇄적 추론(Chain-of-Thought)을 통한 자동 판별.
 
-본 코드는 **Google Colab** 환경에 최적화되어 있습니다. BERT 모델 학습 및 추론 속도를 보장하기 위해 반드시 하드웨어 가속기(GPU)를 활성화해야 합니다.
+## ⚠️ 데이터 누수(Data Leakage) 및 인간 평가 자료에 대한 안내
 
-1. 본 저장소의 메인 `.ipynb` 파일을 Google Colab 환경에서 엽니다.
-2. **[필수] GPU 할당:** 상단 메뉴에서 **[런타임] ➔ [런타임 유형 변경]**을 클릭하고, 하드웨어 가속기를 **T4 GPU**로 설정한 후 저장합니다. (CPU 환경에서는 학습 완료에 수 시간이 소요될 수 있습니다.)
-3. **데이터 경로 확인:** 코드는 Google Drive 연동(`drive.mount`)을 기본으로 사용합니다. `변새시_2차정리본.txt` 파일이 위치한 본인의 드라이브 경로에 맞게 코드 내 `FRONTIER_FILE` 변수 값을 수정하십시오.
-4. 상단 메뉴에서 **[런타임] ➔ [모두 실행]**을 클릭합니다.
-5. 실행 도중 하단에 나타나는 입력 창에 **Google Gemini API Key**를 입력하고 Enter를 누릅니다.
-6. 이후 파이프라인이 학습, 추론, 병합, 시각화 과정을 자동으로 수행합니다.
+* 본 저장소의 `data/` 폴더에 포함된 `인간평가통합본.csv` 등의 인간 평가 자료는 특정 무작위 샘플링 시점에서 추출된 1회성 스냅샷(Snapshot)입니다. 이는 기계와 인간의 정성적 판별 차이를 사후 분석(Error Analysis)하기 위한 목적으로 제한적으로 제공됩니다.
+* **모델의 최종 성능 지표(포스터에 기재된 F1-score, Precision, Recall 등)는 이 스냅샷과 무관하게, 시드가 고정된 별도의 무작위 분할(Random Split) 파이프라인을 통해 완전히 독립적으로 도출되었습니다.**
+* 이는 기계학습 과정에서 평가용 데이터(Test Set)가 훈련 데이터(Train Set)에 혼입되는 데이터 누수 현상을 원천적으로 차단하고, 방법론 간 대조의 학술적 타당성과 객관성을 보장하기 위함입니다.
 
-## 📊 모델 평가 결과 (Evaluation Results)
+## 📚 References (주요 참고문헌)
 
-*(본 섹션은 파이프라인 실행 후 산출된 실제 지표로 업데이트하십시오.)*
+* 胡靭奮·諸雨辰 (2015), 「唐詩題材自動分類研究」, 『中文信息學報』.
+* Hou, J. & Zhang, S. (2024), "Exploring Thematic Diversity in Classical Chinese Poetry: A Novel Dataset and a BERT-Enhanced Ensemble Learning Approach", *Digital Scholarship in the Humanities*.
+* Wang, E. et al. (2021), "GuwenBERT: A Pre-Trained Language Model for Classical Chinese", *arXiv preprint*.
 
-| 평가지표 (Metrics) | BERT 파인튜닝 | BERT 비지도 군집화 | LLM 제로샷 | LLM 퓨샷 |
-|---|---|---|---|---|
-| **정확도 (Accuracy)** | 0.0000 | 0.0000 | 0.0000 | 0.0000 |
-| **정밀도 (Precision)**| 0.0000 | 0.0000 | 0.0000 | 0.0000 |
-| **재현율 (Recall)**   | 0.0000 | 0.0000 | 0.0000 | 0.0000 |
-| **F1 점수 (F1 Score)**| 0.0000 | 0.0000 | 0.0000 | 0.0000 |
+```
 
-* **제1종 오류 (FP):** [LLM 제로샷 등 특정 모델]에서 군사적 시어가 포함된 영사(詠史)나 회고시를 변새시로 과대 적합(Over-fitting)하여 오분류하는 경향 관찰.
-* **제2종 오류 (FN):** [비지도 군집화 등 특정 모델]에서 사전 학습된 형태소 벡터만으로 전근대 장르 특유의 은유 및 전고(典故)를 포착하는 데 한계 노출.
-
-## 🛠 환경 및 종속성 (Requirements)
-
-*   Python 3.10 이상
-*   `transformers`, `datasets`, `scikit-learn`, `accelerate` (HuggingFace 생태계)
-*   `google-genai` (Google Gemini API 공식 SDK)
-*   `torch`, `pandas`, `numpy`, `matplotlib`, `seaborn`
+```
