@@ -1,3 +1,5 @@
+import re
+import warnings
 import xml.etree.ElementTree as ET
 from pathlib import Path
 
@@ -10,6 +12,13 @@ _NS_WRAPPER_OPEN = (
 _NS_WRAPPER_CLOSE = "</root>"
 _HREF_ATTR = "{http://www.w3.org/1999/xlink}href"
 
+# 개별 <Poem> 블록을 추출하는 정규식. 원본 조각 파일(루트 없음)이든
+# write_collection이 만든 완전한 문서(<?xml?>/<poems> 래퍼 포함)든 동일하게
+# 동작하므로, 문서 전체를 한 번에 파싱할 필요가 없다 -- 즉 한 시가 깨진 XML을
+# 담고 있어도 나머지 시 파싱에 영향을 주지 않는다.
+_POEM_BLOCK_RE = re.compile(r"<Poem\b.*?</Poem>", re.DOTALL)
+_POEM_ID_RE = re.compile(r'<Poem\b[^>]*\bid="([^"]*)"')
+
 
 def _inner_xml(elem: ET.Element) -> str:
     """자식 요소 전체를 문자열로 직렬화 (elem 자신의 태그는 제외)."""
@@ -19,74 +28,77 @@ def _inner_xml(elem: ET.Element) -> str:
     return text
 
 
-def _wrap_and_parse(path: Path) -> ET.Element:
-    raw = path.read_text(encoding="utf-8")
-    if raw.lstrip().startswith("<?xml"):
-        # Already a complete, declared document (e.g. written by
-        # write_collection) -- parse as-is, don't wrap in a synthetic root.
-        return ET.fromstring(raw)
-    wrapped = _NS_WRAPPER_OPEN + raw + _NS_WRAPPER_CLOSE
-    return ET.fromstring(wrapped)
+def _extract_poem_id(block: str) -> str:
+    """정상 파싱이 불가능한 블록에서도 경고 메시지용 id는 뽑아낸다."""
+    m = _POEM_ID_RE.search(block)
+    return m.group(1) if m else "?"
+
+
+def _poem_from_element(poem_el: ET.Element) -> Poem:
+    meta = poem_el.find("Metadata")
+    form = meta.find("Form")
+    collection_el = meta.find("Collection")
+    author_el = meta.find("Author")
+
+    lines = []
+    for child in poem_el.find("text"):
+        if child.tag == "Line":
+            lines.append(
+                Line(
+                    id=child.get("id"),
+                    order=int(child.get("order")),
+                    content_xml=_inner_xml(child),
+                    in_couplet=False,
+                )
+            )
+        elif child.tag == "Couplet":
+            for line_el in child.findall("Line"):
+                lines.append(
+                    Line(
+                        id=line_el.get("id"),
+                        order=int(line_el.get("order")),
+                        content_xml=_inner_xml(line_el),
+                        in_couplet=True,
+                    )
+                )
+
+    themes = []
+    for theme_el in meta.find("Themes").findall("Theme"):
+        themes.append(
+            ThemeTag(
+                category=theme_el.get("category", ""),
+                basis=theme_el.get("basis", ""),
+                evidence=theme_el.get("evidence", ""),
+                label_ko=theme_el.text or "",
+            )
+        )
+
+    return Poem(
+        id=poem_el.get("id"),
+        title_xml=_inner_xml(meta.find("Title")),
+        preface=meta.find("Preface").text or "",
+        annotation=meta.find("Annotation").text or "",
+        collection_href=collection_el.get(_HREF_ATTR, "") if collection_el is not None else "",
+        author_href=author_el.get(_HREF_ATTR, "") if author_el is not None else "",
+        basetype=(form.find("Basetype").text or "") if form is not None else "",
+        detailtype=(form.find("Detailtype").text or "") if form is not None else "",
+        charactercount=(form.find("Charactercount").text or "") if form is not None else "",
+        context=meta.find("Context").text or "",
+        themes=themes,
+        lines=lines,
+    )
 
 
 def parse_collection(path: Path) -> list[Poem]:
-    root = _wrap_and_parse(path)
+    raw = path.read_text(encoding="utf-8")
     poems = []
-    for poem_el in root.findall("Poem"):
-        meta = poem_el.find("Metadata")
-        form = meta.find("Form")
-        collection_el = meta.find("Collection")
-        author_el = meta.find("Author")
-
-        lines = []
-        for child in poem_el.find("text"):
-            if child.tag == "Line":
-                lines.append(
-                    Line(
-                        id=child.get("id"),
-                        order=int(child.get("order")),
-                        content_xml=_inner_xml(child),
-                        in_couplet=False,
-                    )
-                )
-            elif child.tag == "Couplet":
-                for line_el in child.findall("Line"):
-                    lines.append(
-                        Line(
-                            id=line_el.get("id"),
-                            order=int(line_el.get("order")),
-                            content_xml=_inner_xml(line_el),
-                            in_couplet=True,
-                        )
-                    )
-
-        themes = []
-        for theme_el in meta.find("Themes").findall("Theme"):
-            themes.append(
-                ThemeTag(
-                    category=theme_el.get("category", ""),
-                    basis=theme_el.get("basis", ""),
-                    evidence=theme_el.get("evidence", ""),
-                    label_ko=theme_el.text or "",
-                )
-            )
-
-        poems.append(
-            Poem(
-                id=poem_el.get("id"),
-                title_xml=_inner_xml(meta.find("Title")),
-                preface=meta.find("Preface").text or "",
-                annotation=meta.find("Annotation").text or "",
-                collection_href=collection_el.get(_HREF_ATTR, "") if collection_el is not None else "",
-                author_href=author_el.get(_HREF_ATTR, "") if author_el is not None else "",
-                basetype=(form.find("Basetype").text or "") if form is not None else "",
-                detailtype=(form.find("Detailtype").text or "") if form is not None else "",
-                charactercount=(form.find("Charactercount").text or "") if form is not None else "",
-                context=meta.find("Context").text or "",
-                themes=themes,
-                lines=lines,
-            )
-        )
+    for block in _POEM_BLOCK_RE.findall(raw):
+        try:
+            poem_el = ET.fromstring(_NS_WRAPPER_OPEN + block + _NS_WRAPPER_CLOSE)[0]
+        except ET.ParseError as e:
+            warnings.warn(f"malformed <Poem> block skipped (id={_extract_poem_id(block)}): {e}")
+            continue
+        poems.append(_poem_from_element(poem_el))
     return poems
 
 

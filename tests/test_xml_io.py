@@ -1,7 +1,95 @@
 from pathlib import Path
+
+import pytest
+
 from src.xml_io import parse_collection, write_collection
 
 FIXTURE = Path(__file__).parent / "fixtures" / "sample_poems.txt"
+
+_MALFORMED_MIDDLE_POEM = """\
+  <Poem id="P001">
+    <Metadata>
+      <Title>春望</Title>
+      <Preface></Preface>
+      <Annotation></Annotation>
+      <Collection ns0:href="glossary.xml#test"/>
+      <Author ns0:href="glossary.xml#test"/>
+      <Form>
+        <Basetype></Basetype>
+        <Detailtype></Detailtype>
+        <Charactercount>오언</Charactercount>
+    </Form>
+      <Themes>
+        <Main></Main>
+        <Sub></Sub>
+      </Themes>
+      <Context></Context>
+    </Metadata>
+    <text>
+      <Line id="P00101" order="1">國破山河在</Line>
+    </text>
+  </Poem>
+  <Poem id="P002">
+    <Metadata>
+      <Title><d>成佛菴</d>邀<d>靜老</d>話</term></Title>
+      <Preface></Preface>
+      <Annotation></Annotation>
+      <Collection ns0:href="glossary.xml#test"/>
+      <Author ns0:href="glossary.xml#test"/>
+      <Form>
+        <Basetype></Basetype>
+        <Detailtype></Detailtype>
+        <Charactercount>오언</Charactercount>
+    </Form>
+      <Themes>
+        <Main></Main>
+        <Sub></Sub>
+      </Themes>
+      <Context></Context>
+    </Metadata>
+    <text>
+      <Line id="P00201" order="1">城春草木深</Line>
+    </text>
+  </Poem>
+  <Poem id="P003">
+    <Metadata>
+      <Title>春夜喜雨</Title>
+      <Preface></Preface>
+      <Annotation></Annotation>
+      <Collection ns0:href="glossary.xml#test"/>
+      <Author ns0:href="glossary.xml#test"/>
+      <Form>
+        <Basetype></Basetype>
+        <Detailtype></Detailtype>
+        <Charactercount>오언</Charactercount>
+    </Form>
+      <Themes>
+        <Main></Main>
+        <Sub></Sub>
+      </Themes>
+      <Context></Context>
+    </Metadata>
+    <text>
+      <Line id="P00301" order="1">好雨知時節</Line>
+    </text>
+  </Poem>
+"""
+
+
+def test_parse_collection_skips_malformed_poem_and_warns(tmp_path):
+    """A malformed <Poem> block (stray unmatched closing tag, mirroring the real
+    임백호집 corpus's occasional hand-annotation typos) must not crash parsing of
+    the whole file. It should be skipped with a visible warning, while the
+    well-formed poems before and after it still parse correctly and in order.
+    """
+    path = tmp_path / "malformed.txt"
+    path.write_text(_MALFORMED_MIDDLE_POEM, encoding="utf-8")
+
+    with pytest.warns(UserWarning, match="P002"):
+        poems = parse_collection(path)
+
+    assert len(poems) == 2
+    assert [p.id for p in poems] == ["P001", "P003"]
 
 
 def test_parse_collection_reads_two_poems():
