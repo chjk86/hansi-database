@@ -16,3 +16,9 @@ logs/
 errors1.log
 __pycache__/
 *.pyc
+.venv/
+.cache/
+
+# 격리 워크스페이스 (subagent-driven-development)
+.worktrees/
+.superpowers/
