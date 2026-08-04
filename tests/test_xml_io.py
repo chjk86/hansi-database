@@ -363,3 +363,69 @@ def test_write_collection_escapes_ampersand_in_llm_sourced_theme_fields(tmp_path
     assert reparsed[0].context == '문맥 "인용"'
     assert reparsed[0].themes[0].evidence == "A & B <포함>"
     assert reparsed[0].themes[0].label_ko == "기타 & 미상"
+
+
+_QUATRAIN_WRAPPED_POEM = """\
+  <Poem id="P19552">
+    <Metadata>
+      <Title>送李季眞後白赴京</Title>
+      <Preface></Preface>
+      <Annotation></Annotation>
+      <Collection ns0:href="glossary.xml#지천집"/>
+      <Author ns0:href="glossary.xml#황정욱"/>
+      <Form>
+        <Basetype></Basetype>
+        <Detailtype></Detailtype>
+        <Charactercount>칠언</Charactercount>
+    </Form>
+      <Themes>
+        <Main></Main>
+        <Sub></Sub>
+      </Themes>
+      <Context></Context>
+    </Metadata>
+    <text>
+      <Line id="P1955201" order="1"><term>堂堂</term>國系儘<term>昭垂</term></Line>
+      <Line id="P1955202" order="2">仙李<term>盤根</term><term>積德</term><rhyme>基</rhyme></Line>
+      <quatrain><Line id="P1955203" order="3"><term>白日</term>在<term>天人</term>共見</Line>
+      <Line id="P1955204" order="4"><term>蒼蠅</term>點玉<term>史傳</term><rhyme>疑</rhyme></Line></quatrain>
+      <quatrain><Line id="P1955205" order="5"><term>兩朝</term>儒老今亡矣</Line>
+      <Line id="P1955206" order="6"><term>一代</term><term>名臣</term><term>幸有</term><rhyme>之</rhyme></Line></quatrain>
+      <Line id="P1955207" order="7"><term>敷奏</term>定敎<term>刪正</term>了</Line>
+      <Line id="P1955208" order="8"><term>病夫</term>揩眼待<term>歸<rhyme>期</rhyme></term></Line>
+    </text>
+  </Poem>
+"""
+
+
+def test_parse_collection_recovers_lines_wrapped_in_source_quatrain_tag(tmp_path):
+    """The real 19-collection source data groups some line pairs under a
+    <quatrain> wrapper (a legacy/1차 자동태깅 naming, distinct from our own
+    <Couplet> tag) -- verified against the actual 태깅_지천집.txt file, where
+    264 <quatrain> occurrences wrap 528 of 1544 total <Line> elements (34%).
+    parse_collection must not silently drop these lines the way it would drop
+    any other unrecognized wrapper tag. This fixture is copied verbatim from
+    the real P19552 in 태깅_지천집.txt.
+    """
+    in_path = tmp_path / "in.txt"
+    in_path.write_text(_QUATRAIN_WRAPPED_POEM, encoding="utf-8")
+
+    poems = parse_collection(in_path)
+
+    assert len(poems) == 1
+    lines = poems[0].lines
+    assert [ln.id for ln in lines] == [
+        "P1955201",
+        "P1955202",
+        "P1955203",
+        "P1955204",
+        "P1955205",
+        "P1955206",
+        "P1955207",
+        "P1955208",
+    ]
+    assert [ln.order for ln in lines] == [1, 2, 3, 4, 5, 6, 7, 8]
+    # Pre-existing <quatrain> grouping is not our own <Couplet> tag -- it's
+    # unverified 1차 태깅 output, so in_couplet must NOT be inherited from it.
+    # Task 7's LLM re-judges Couplet placement independently regardless.
+    assert all(ln.in_couplet is False for ln in lines)

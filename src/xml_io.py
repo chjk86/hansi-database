@@ -53,14 +53,22 @@ def _poem_from_element(poem_el: ET.Element) -> Poem:
                     in_couplet=False,
                 )
             )
-        elif child.tag == "Couplet":
+        else:
+            # <Couplet>(우리 파이프라인이 쓰는 이름) 외에도, 원본 19개 문집 데이터는
+            # 동일한 위치에 <quatrain> 같은 이름으로 구를 묶어둔다(1차 자동태깅의
+            # 잔재로 추정). 태그 이름과 무관하게 안의 <Line>은 절대 잃어버리지
+            # 않는다. 다만 in_couplet=True는 우리 자신이 쓴 <Couplet>에서만 상속하고,
+            # 그 외 원본 래퍼는 검증되지 않은 위치 정보이므로 False로 둔다 -- 최종
+            # 대장 판정은 항상 Task 7의 LLM 재판단(classify_form_couplet_theme)이
+            # 새로 내린다.
+            inherited_in_couplet = child.tag == "Couplet"
             for line_el in child.findall("Line"):
                 lines.append(
                     Line(
                         id=line_el.get("id"),
                         order=int(line_el.get("order")),
                         content_xml=_inner_xml(line_el),
-                        in_couplet=True,
+                        in_couplet=inherited_in_couplet,
                     )
                 )
 
