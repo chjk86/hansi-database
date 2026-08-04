@@ -62,7 +62,7 @@ def _poem_from_element(poem_el: ET.Element) -> Poem:
             # 대장 판정은 항상 Task 7의 LLM 재판단(classify_form_couplet_theme)이
             # 새로 내린다.
             inherited_in_couplet = child.tag == "Couplet"
-            for line_el in child.findall("Line"):
+            for line_el in child.iter("Line"):
                 lines.append(
                     Line(
                         id=line_el.get("id"),
