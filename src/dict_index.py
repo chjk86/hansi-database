@@ -14,16 +14,19 @@ class DictIndex:
     @classmethod
     def build(cls, path: Path) -> "DictIndex":
         headwords: set[str] = set()
-        with open(path, encoding="utf-8") as f:
-            for line in f:
-                if line.startswith("*"):
-                    m = _SINGLE_PATTERN.match(line)
-                    if m:
-                        headwords.add(m.group(1))
-                elif line.startswith("【"):
-                    m = _MULTI_PATTERN.match(line)
-                    if m:
-                        headwords.add(m.group(1))
+        try:
+            with open(path, encoding="utf-8") as f:
+                for line in f:
+                    if line.startswith("*"):
+                        m = _SINGLE_PATTERN.match(line)
+                        if m:
+                            headwords.add(m.group(1))
+                    elif line.startswith("【"):
+                        m = _MULTI_PATTERN.match(line)
+                        if m:
+                            headwords.add(m.group(1))
+        except FileNotFoundError:
+            raise FileNotFoundError(f"한어대사전 파일을 찾을 수 없습니다: {path}")
         return cls(headwords)
 
     def contains(self, word: str) -> bool:
@@ -36,6 +39,13 @@ class DictIndex:
 
     @classmethod
     def load(cls, cache_path: Path) -> "DictIndex":
-        with open(cache_path, "rb") as f:
-            headwords = pickle.load(f)
+        try:
+            with open(cache_path, "rb") as f:
+                headwords = pickle.load(f)
+        except (FileNotFoundError, pickle.UnpicklingError, EOFError) as e:
+            raise RuntimeError(
+                f"캐시 파일을 읽을 수 없습니다: {cache_path}\n"
+                f"캐시 파일을 삭제한 후 다시 빌드해주세요.\n"
+                f"원인: {type(e).__name__}: {e}"
+            )
         return cls(headwords)

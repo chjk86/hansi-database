@@ -24,7 +24,7 @@ def test_unregistered_word_not_found():
 
 def test_max_word_length_tracks_longest_entry():
     idx = DictIndex.build(FIXTURE)
-    assert idx.max_word_length == 2  # "草衣", "長安", "一一" 모두 2글자
+    assert idx.max_word_length == 7  # "一寸光陰一寸金" 는 7글자
 
 
 def test_save_and_load_roundtrip(tmp_path):
