@@ -39,14 +39,26 @@ def parse_collection(path: Path) -> list[Poem]:
         author_el = meta.find("Author")
 
         lines = []
-        for line_el in poem_el.find("text").findall(".//Line"):
-            lines.append(
-                Line(
-                    id=line_el.get("id"),
-                    order=int(line_el.get("order")),
-                    content_xml=_inner_xml(line_el),
+        for child in poem_el.find("text"):
+            if child.tag == "Line":
+                lines.append(
+                    Line(
+                        id=child.get("id"),
+                        order=int(child.get("order")),
+                        content_xml=_inner_xml(child),
+                        in_couplet=False,
+                    )
                 )
-            )
+            elif child.tag == "Couplet":
+                for line_el in child.findall("Line"):
+                    lines.append(
+                        Line(
+                            id=line_el.get("id"),
+                            order=int(line_el.get("order")),
+                            content_xml=_inner_xml(line_el),
+                            in_couplet=True,
+                        )
+                    )
 
         themes = []
         for theme_el in meta.find("Themes").findall("Theme"):

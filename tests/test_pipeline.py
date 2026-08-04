@@ -155,6 +155,21 @@ def test_pipeline_resume_preserves_couplet_lines(tmp_path):
     assert [ln.order for ln in result_lines] == [1, 2, 3, 4]
     assert all(ln.content_xml == "<term>先祖</term>遺蹤在" for ln in result_lines)
 
+    # in_couplet 플래그 자체도 정확히 복원되어야, resume 도중 매 시마다 이루어지는
+    # 증분 write_collection 호출이 다시 <Couplet>로 감싸 쓸 수 있다 (두 번째 write 사이클).
+    by_id = {ln.id: ln for ln in result_lines}
+    assert by_id["L1"].in_couplet is False
+    assert by_id["L2"].in_couplet is True
+    assert by_id["L3"].in_couplet is True
+    assert by_id["L4"].in_couplet is False
+
+    # run_pipeline이 스킵된 P1을 processed에 넣고 매 시 처리 후 write_collection을 다시
+    # 호출하므로(2번째 write 사이클), 최종 파일에도 <Couplet> 래핑이 그대로 남아있어야 한다.
+    raw = output_path.read_text(encoding="utf-8")
+    assert "<Couplet>" in raw
+    assert raw.index("<Couplet>") < raw.index('id="L2"')
+    assert raw.index("</Couplet>") > raw.index('id="L3"')
+
 
 def test_pipeline_continues_after_individual_poem_failure(tmp_path):
     input_path = tmp_path / "in.xml"

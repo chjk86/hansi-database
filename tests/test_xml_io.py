@@ -97,3 +97,32 @@ def test_parse_collection_recovers_couplet_wrapped_lines(tmp_path):
     assert len(reparsed[0].lines) == 4
     assert [ln.id for ln in reparsed[0].lines] == ["L1", "L2", "L3", "L4"]
     assert [ln.order for ln in reparsed[0].lines] == [1, 2, 3, 4]
+
+
+def test_parse_collection_recovers_couplet_flag(tmp_path):
+    """Content survival alone isn't enough: lines nested inside <Couplet> must come
+    back with in_couplet=True, and lines outside it with in_couplet=False, otherwise
+    a poem that gets written and re-parsed (e.g. via pipeline resume) loses its
+    Couplet/대장 tagging on the very next write, since write_collection only wraps
+    lines whose in_couplet flag is set.
+    """
+    from src.poem_model import Line, Poem
+
+    poem = Poem(
+        id="P1",
+        lines=[
+            Line(id="L1", order=1, content_xml="字"),
+            Line(id="L2", order=2, content_xml="字", in_couplet=True),
+            Line(id="L3", order=3, content_xml="字", in_couplet=True),
+            Line(id="L4", order=4, content_xml="字"),
+        ],
+    )
+    out_path = tmp_path / "out.xml"
+    write_collection(out_path, [poem])
+
+    reparsed = parse_collection(out_path)
+    reparsed_lines = {ln.id: ln for ln in reparsed[0].lines}
+    assert reparsed_lines["L1"].in_couplet is False
+    assert reparsed_lines["L2"].in_couplet is True
+    assert reparsed_lines["L3"].in_couplet is True
+    assert reparsed_lines["L4"].in_couplet is False
