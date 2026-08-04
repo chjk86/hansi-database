@@ -69,3 +69,50 @@ def test_ambiguous_span_is_resolved_via_single_llm_call_per_poem():
     # (Task 7의 interpretive_classify.py와 동일 스키마, item은 고정 문자열 "term/D")
     assert flags[0]["item"] == "term/D"
     assert "L1" in flags[0]["reason"]
+
+
+def test_line_with_multiple_term_tags_all_get_reclassified():
+    poem = Poem(
+        id="P19425",
+        lines=[Line(id="L1", order=1, content_xml="<term>先祖</term><term>翼成</term>公寧越懸板韻")],
+    )
+    idx = DictIndex({"先祖"})  # "翼成"은 사전 미등재
+    llm = FakeLLMClient(responses=[])
+
+    result, flags = classify_poem_terms(poem, idx, llm)
+
+    assert "<term>先祖</term>" in result.lines[0].content_xml
+    assert "<d>翼成</d>" in result.lines[0].content_xml
+
+
+def test_term_tag_with_nested_rhyme_tag_is_preserved_and_reclassified():
+    # 실제 지천집 P1942502 라인 형태: 두 번째 <term>이 <rhyme>을 품고 있다.
+    # 옛 _strip_tags/_existing_hint(단일 hint)는 <rhyme> 마크업 문자까지 힌트
+    # 길이에 포함시켜 사전 조회를 오염시키고, 두 번째 태그 자체도 처리하지
+    # 못했다(단일-hint 한계). 다중-hint 버전에서도 rhyme 마크업을 순수 텍스트
+    # 계산에서 제외하지 않으면 "御風" 대신 "御<rhyme>風</rhyme>" 같은 오염된
+    # 문자열로 사전을 조회하게 되어 term/D 판정이 항상 틀어진다.
+    poem = Poem(
+        id="P19425",
+        lines=[Line(id="L2", order=2, content_xml="<term>玄孫</term>又<term>御<rhyme>風</rhyme></term>")],
+    )
+    idx = DictIndex({"玄孫"})  # "御風"은 사전 미등재
+    llm = FakeLLMClient(responses=[])
+
+    result, flags = classify_poem_terms(poem, idx, llm)
+
+    assert result.lines[0].content_xml == "<term>玄孫</term>又<d>御<rhyme>風</rhyme></d>"
+
+
+def test_bare_rhyme_tag_outside_any_term_is_left_untouched():
+    # 실제 지천집 P1942504 라인 형태: <rhyme>이 어떤 <term>에도 속하지 않는다.
+    poem = Poem(
+        id="P19425",
+        lines=[Line(id="L4", order=4, content_xml="<term>撫古</term>一江<rhyme>空</rhyme>")],
+    )
+    idx = DictIndex({"撫古"})
+    llm = FakeLLMClient(responses=[])
+
+    result, flags = classify_poem_terms(poem, idx, llm)
+
+    assert result.lines[0].content_xml == "<term>撫古</term>一江<rhyme>空</rhyme>"
