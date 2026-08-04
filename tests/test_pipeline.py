@@ -75,6 +75,26 @@ def test_pipeline_skips_already_checkpointed_poems(tmp_path):
     checkpoint_path = tmp_path / "checkpoint.json"
     checkpoint_path.write_text(json.dumps({"done_poem_ids": ["P1"]}), encoding="utf-8")
 
+    # 이전 실행에서 이미 분류까지 완료된 output_path를 시뮬레이션한다.
+    # (체크포인트만 있고 output_path에 결과가 없으면 재처리 대상으로 간주해야 하므로,
+    #  이 output_path가 진짜 "이미 처리됨"의 근거가 된다.)
+    already_classified = [
+        Poem(
+            id="P1",
+            title_xml="題",
+            lines=[
+                Line(id="L1", order=1, content_xml="<term>先祖</term>遺蹤在"),
+                Line(id="L2", order=2, content_xml="<term>先祖</term>遺蹤在"),
+                Line(id="L3", order=3, content_xml="<term>先祖</term>遺蹤在"),
+                Line(id="L4", order=4, content_xml="<term>先祖</term>遺蹤在"),
+            ],
+            charactercount="오언",
+            basetype="근체시",
+            detailtype="절구",
+        )
+    ]
+    write_collection(output_path, already_classified)
+
     dict_index = DictIndex({"先祖"})
     llm = FakeLLMClient(responses=[])  # 호출되면 즉시 실패 -> 스킵됐는지 검증
 
@@ -82,6 +102,11 @@ def test_pipeline_skips_already_checkpointed_poems(tmp_path):
 
     # P1이 체크포인트에 있어 LLM이 호출되지 않아야 함
     assert llm.calls == []
+
+    # 스킵된 P1은 raw input이 아니라 이전 output_path의 분류 결과를 그대로 유지해야 함
+    result_poems = parse_collection(output_path)
+    assert result_poems[0].basetype == "근체시"
+    assert result_poems[0].detailtype == "절구"
 
 
 def test_pipeline_continues_after_individual_poem_failure(tmp_path):

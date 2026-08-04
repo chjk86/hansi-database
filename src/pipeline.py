@@ -40,14 +40,17 @@ def run_pipeline(
 ) -> None:
     poems = parse_collection(input_path)
     done_ids = _load_checkpoint(checkpoint_path)
+    previously_processed = (
+        {poem.id: poem for poem in parse_collection(output_path)} if output_path.exists() else {}
+    )
     qa_log = QALog()
 
     processed = []
     for poem in poems:
         original_plain_lookup = {ln.id: _plain(ln.content_xml) for ln in poem.lines}
 
-        if poem.id in done_ids:
-            processed.append(poem)
+        if poem.id in done_ids and poem.id in previously_processed:
+            processed.append(previously_processed[poem.id])
             continue
 
         try:
@@ -68,6 +71,7 @@ def run_pipeline(
         processed.append(poem)
         done_ids.add(poem.id)
         _save_checkpoint(checkpoint_path, done_ids)
+        write_collection(output_path, processed)
 
     write_collection(output_path, processed)
     qa_log.write_csv(qa_path)
