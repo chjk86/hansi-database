@@ -95,6 +95,10 @@ def classify_poem_terms(
     flags: list[dict] = []
     confirmed_spans: dict[str, list[tuple[int, int, str]]] = {}
     ambiguous_requests = []
+    # line_id별로 LLM에 보낸 원본 힌트 경계를 순서대로 보관한다. resolved_spans
+    # 응답에서 어떤 line_id가 예상보다 적게(또는 전혀) 돌아오지 않았는지 판정해
+    # 원본 경계를 <term>으로 되살리는 fallback에 쓰인다.
+    ambiguous_hints_by_line: dict[str, list[tuple[int, int]]] = {}
 
     for line in poem.lines:
         plain, hints = _existing_hints(line.content_xml)
@@ -116,6 +120,7 @@ def classify_poem_terms(
                         ],
                     }
                 )
+                ambiguous_hints_by_line.setdefault(line.id, []).append((hint_start, hint_end))
 
     if ambiguous_requests:
         user_prompt = (
@@ -143,15 +148,50 @@ def classify_poem_terms(
             "required": ["resolved_spans"],
         }
         response = llm_client.complete(TERM_CLASSIFY_SYSTEM_PROMPT, user_prompt, schema)
+        resolved_count_by_line: dict[str, int] = {}
         for span in response["resolved_spans"]:
-            confirmed_spans[span["line_id"]].append((span["start"], span["end"], span["label"]))
+            line_id = span["line_id"]
+            if line_id not in ambiguous_hints_by_line:
+                # 요청한 적 없는(환각) line_id -- confirmed_spans에 해당 키가 없을 수
+                # 있어 그대로 append하면 KeyError로 시 전체 분류가 날아간다. 조용히
+                # 버리지 않고 QA 플래그만 남긴 뒤 건너뛴다.
+                flags.append(
+                    {
+                        "poem_id": poem.id,
+                        "item": "term/D",
+                        "reason": f"{line_id}: 요청하지 않은 line_id의 LLM 응답을 무시함(환각 의심)",
+                    }
+                )
+                continue
+            confirmed_spans[line_id].append((span["start"], span["end"], span["label"]))
+            resolved_count_by_line[line_id] = resolved_count_by_line.get(line_id, 0) + 1
             flags.append(
                 {
                     "poem_id": poem.id,
                     "item": "term/D",
-                    "reason": f"{span['line_id']}: term/D 분절 LLM 판정",
+                    "reason": f"{line_id}: term/D 분절 LLM 판정",
                 }
             )
+
+        # LLM이 요청했던 애매 구간 중 일부(또는 전부)에 대해 응답을 주지 않은
+        # line_id는, 그 구간의 term/D 판정 정보가 조용히 사라지는 대신 원래
+        # <term>/<d> 경계(재분류 이전의 사전 힌트)를 <term>으로 그대로 되살려
+        # 보존하고 사람이 검토할 수 있도록 QA 플래그를 남긴다.
+        for line_id, hints in ambiguous_hints_by_line.items():
+            received = resolved_count_by_line.get(line_id, 0)
+            missing_hints = hints[received:]
+            for hint_start, hint_end in missing_hints:
+                confirmed_spans[line_id].append((hint_start, hint_end, "term"))
+                flags.append(
+                    {
+                        "poem_id": poem.id,
+                        "item": "term/D",
+                        "reason": (
+                            f"{line_id}: LLM 응답 누락({hint_start}-{hint_end}) -- "
+                            "원본 경계를 <term>으로 유지(fallback)"
+                        ),
+                    }
+                )
 
     new_lines = []
     for line in poem.lines:

@@ -104,6 +104,62 @@ def test_term_tag_with_nested_rhyme_tag_is_preserved_and_reclassified():
     assert result.lines[0].content_xml == "<term>玄孫</term>又<d>御<rhyme>風</rhyme></d>"
 
 
+def test_missing_line_id_in_resolved_spans_falls_back_to_original_term_hint():
+    # L1과 L2 둘 다 애매(사전에 겹치는 후보 2개 이상)해서 LLM에 보내지지만,
+    # FakeLLMClient의 응답에는 L2에 대한 resolved_spans 항목이 아예 없다.
+    poem = Poem(
+        id="P1",
+        lines=[
+            Line(id="L1", order=1, content_xml="<term>先祖</term>遺蹤在"),
+            Line(id="L2", order=2, content_xml="<term>重雲</term>濕草衣"),
+        ],
+    )
+    idx = DictIndex({"先祖", "祖遺", "重雲", "雲濕"})
+    llm = FakeLLMClient(
+        responses=[
+            {
+                "resolved_spans": [
+                    {"line_id": "L1", "start": 0, "end": 1, "text": "先", "label": "term"},
+                ]
+            }
+        ]
+    )
+
+    result, flags = classify_poem_terms(poem, idx, llm)
+
+    # L2는 LLM 응답이 없었지만 정보가 사라지지 않고 원래 힌트(重雲, 0-2)가
+    # <term>으로 보존되어야 한다.
+    assert "<term>重雲</term>" in result.lines[1].content_xml
+    assert any(
+        f["item"] == "term/D" and "L2" in f["reason"] and "누락" in f["reason"] for f in flags
+    )
+
+
+def test_hallucinated_line_id_in_resolved_spans_is_skipped_not_crashed():
+    poem = Poem(
+        id="P1",
+        lines=[Line(id="L1", order=1, content_xml="<term>先祖</term>遺蹤在")],
+    )
+    idx = DictIndex({"先祖", "祖遺"})  # 애매 -> LLM 호출 트리거
+    llm = FakeLLMClient(
+        responses=[
+            {
+                "resolved_spans": [
+                    {"line_id": "L1", "start": 0, "end": 1, "text": "先", "label": "term"},
+                    # L99는 ambiguous_requests에 없던 line_id (환각) -- KeyError 없이
+                    # 안전하게 무시되어야 한다.
+                    {"line_id": "L99", "start": 0, "end": 1, "text": "X", "label": "term"},
+                ]
+            }
+        ]
+    )
+
+    result, flags = classify_poem_terms(poem, idx, llm)  # KeyError가 나면 안 됨
+
+    assert "<term>先</term>" in result.lines[0].content_xml
+    assert any(f["item"] == "term/D" and "L99" in f["reason"] for f in flags)
+
+
 def test_bare_rhyme_tag_outside_any_term_is_left_untouched():
     # 실제 지천집 P1942504 라인 형태: <rhyme>이 어떤 <term>에도 속하지 않는다.
     poem = Poem(
