@@ -39,7 +39,7 @@ def parse_collection(path: Path) -> list[Poem]:
         author_el = meta.find("Author")
 
         lines = []
-        for line_el in poem_el.find("text").findall("Line"):
+        for line_el in poem_el.find("text").findall(".//Line"):
             lines.append(
                 Line(
                     id=line_el.get("id"),

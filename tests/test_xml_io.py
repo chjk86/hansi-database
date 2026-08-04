@@ -72,3 +72,28 @@ def test_write_collection_wraps_couplet_lines(tmp_path):
     assert raw.index("<Couplet>") < raw.index('id="L3"')
     assert raw.index("</Couplet>") > raw.index('id="L4"')
     assert raw.count("<Couplet>") == 1
+
+
+def test_parse_collection_recovers_couplet_wrapped_lines(tmp_path):
+    """<Couplet>-wrapped lines are grandchildren of <text>, not direct children.
+    parse_collection must still recover them (correct count, order, ids) on round-trip,
+    otherwise resuming a pipeline run from a written output file silently drops lines.
+    """
+    from src.poem_model import Line, Poem
+
+    poem = Poem(
+        id="P1",
+        lines=[
+            Line(id="L1", order=1, content_xml="字"),
+            Line(id="L2", order=2, content_xml="字", in_couplet=True),
+            Line(id="L3", order=3, content_xml="字", in_couplet=True),
+            Line(id="L4", order=4, content_xml="字"),
+        ],
+    )
+    out_path = tmp_path / "out.xml"
+    write_collection(out_path, [poem])
+
+    reparsed = parse_collection(out_path)
+    assert len(reparsed[0].lines) == 4
+    assert [ln.id for ln in reparsed[0].lines] == ["L1", "L2", "L3", "L4"]
+    assert [ln.order for ln in reparsed[0].lines] == [1, 2, 3, 4]

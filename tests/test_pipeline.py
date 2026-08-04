@@ -109,6 +109,53 @@ def test_pipeline_skips_already_checkpointed_poems(tmp_path):
     assert result_poems[0].detailtype == "절구"
 
 
+def test_pipeline_resume_preserves_couplet_lines(tmp_path):
+    """A poem with couplet-paired lines gets <Couplet>-wrapped when written.
+    On resume, previously_processed is rebuilt from parse_collection(output_path) --
+    this must recover ALL of the poem's lines (not just the non-couplet ones),
+    not just its basetype/detailtype fields.
+    """
+    input_path = tmp_path / "in.xml"
+    _write_fixture(input_path)
+    output_path = tmp_path / "out.xml"
+    qa_path = tmp_path / "qa.csv"
+    checkpoint_path = tmp_path / "checkpoint.json"
+    checkpoint_path.write_text(json.dumps({"done_poem_ids": ["P1"]}), encoding="utf-8")
+
+    # 이전 실행에서 이미 분류 및 대장(couplet) 판정까지 완료된 output_path를 시뮬레이션한다.
+    already_classified = [
+        Poem(
+            id="P1",
+            title_xml="題",
+            lines=[
+                Line(id="L1", order=1, content_xml="<term>先祖</term>遺蹤在"),
+                Line(id="L2", order=2, content_xml="<term>先祖</term>遺蹤在", in_couplet=True),
+                Line(id="L3", order=3, content_xml="<term>先祖</term>遺蹤在", in_couplet=True),
+                Line(id="L4", order=4, content_xml="<term>先祖</term>遺蹤在"),
+            ],
+            charactercount="칠언",
+            basetype="근체시",
+            detailtype="율시",
+        )
+    ]
+    write_collection(output_path, already_classified)
+
+    dict_index = DictIndex({"先祖"})
+    llm = FakeLLMClient(responses=[])  # 호출되면 즉시 실패 -> 스킵됐는지 검증
+
+    run_pipeline(input_path, output_path, qa_path, checkpoint_path, dict_index, llm, collection_name="테스트문집")
+
+    assert llm.calls == []
+
+    result_poems = parse_collection(output_path)
+    assert len(result_poems) == 1
+    result_lines = result_poems[0].lines
+    # 대장(Couplet)으로 묶여 <text>의 손자 노드가 된 L2/L3을 포함해 4구 전부가 살아남아야 함
+    assert [ln.id for ln in result_lines] == ["L1", "L2", "L3", "L4"]
+    assert [ln.order for ln in result_lines] == [1, 2, 3, 4]
+    assert all(ln.content_xml == "<term>先祖</term>遺蹤在" for ln in result_lines)
+
+
 def test_pipeline_continues_after_individual_poem_failure(tmp_path):
     input_path = tmp_path / "in.xml"
     poems = [
