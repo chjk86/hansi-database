@@ -50,3 +50,25 @@ def test_write_collection_is_well_formed_xml(tmp_path):
     out_path = tmp_path / "out.xml"
     write_collection(out_path, poems)
     ET.parse(out_path)  # raises ParseError if malformed
+
+
+def test_write_collection_wraps_couplet_lines(tmp_path):
+    from src.poem_model import Line, Poem
+
+    poem = Poem(
+        id="P1",
+        lines=[
+            Line(id="L1", order=1, content_xml="字"),
+            Line(id="L2", order=2, content_xml="字"),
+            Line(id="L3", order=3, content_xml="字", in_couplet=True),
+            Line(id="L4", order=4, content_xml="字", in_couplet=True),
+        ],
+    )
+    out_path = tmp_path / "out.xml"
+    write_collection(out_path, [poem])
+    raw = out_path.read_text(encoding="utf-8")
+
+    assert "<Couplet>" in raw
+    assert raw.index("<Couplet>") < raw.index('id="L3"')
+    assert raw.index("</Couplet>") > raw.index('id="L4"')
+    assert raw.count("<Couplet>") == 1

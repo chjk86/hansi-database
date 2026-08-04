@@ -78,14 +78,30 @@ def parse_collection(path: Path) -> list[Poem]:
     return poems
 
 
+def _lines_to_xml(lines: list) -> str:
+    out = []
+    i = 0
+    while i < len(lines):
+        ln = lines[i]
+        if ln.in_couplet and i + 1 < len(lines) and lines[i + 1].in_couplet:
+            partner = lines[i + 1]
+            out.append(
+                f'<Couplet><Line id="{ln.id}" order="{ln.order}">{ln.content_xml}</Line>'
+                f'<Line id="{partner.id}" order="{partner.order}">{partner.content_xml}</Line></Couplet>'
+            )
+            i += 2
+        else:
+            out.append(f'<Line id="{ln.id}" order="{ln.order}">{ln.content_xml}</Line>')
+            i += 1
+    return "".join(out)
+
+
 def _poem_to_xml(poem: Poem) -> str:
     theme_xml = "".join(
         f'<Theme category="{t.category}" basis="{t.basis}" evidence="{t.evidence}">{t.label_ko}</Theme>'
         for t in poem.themes
     )
-    lines_xml = "".join(
-        f'<Line id="{ln.id}" order="{ln.order}">{ln.content_xml}</Line>' for ln in poem.lines
-    )
+    lines_xml = _lines_to_xml(poem.lines)
     return (
         f'<Poem id="{poem.id}">'
         f"<Metadata>"
