@@ -69,6 +69,36 @@ def test_couplet_flags_are_applied_to_matching_lines():
     assert in_couplet_orders == [5, 6]
 
 
+def test_evidence_spanning_title_line_boundary_is_flagged_and_dropped():
+    # title_plain("贈眞鑑") ends with "鑑" and line 1's plain text ("夜伴林僧宿") starts
+    # with "夜". Naive concatenation without a separator would make "鑑夜" a substring
+    # of full_text even though these two characters are never actually adjacent in the
+    # poem (they only touch because title and body got joined). A fabricated evidence
+    # of "鑑夜" must be rejected, not accepted.
+    llm = FakeLLMClient(
+        responses=[
+            {
+                "basetype": "근체시",
+                "detailtype": "절구",
+                "couplets": [],
+                "themes": [
+                    {
+                        "category": "others",
+                        "basis": "title",
+                        "evidence": "鑑夜",
+                        "label_ko": "기타",
+                    }
+                ],
+            }
+        ]
+    )
+
+    result, flags = classify_form_couplet_theme(_quatrain(), llm)
+
+    assert result.themes == []
+    assert any(f["item"] == "Theme" and "환각 의심" in f["reason"] for f in flags)
+
+
 def test_evidence_not_found_in_poem_text_is_flagged_and_dropped():
     llm = FakeLLMClient(
         responses=[

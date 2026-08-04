@@ -95,8 +95,10 @@ def _evidence_exists_in_poem(evidence: str, poem_plain_text: str) -> bool:
 def classify_form_couplet_theme(poem: Poem, llm_client: LLMClient) -> tuple[Poem, list[dict]]:
     flags: list[dict] = []
     title_plain = _plain(poem.title_xml)
-    body_plain = "".join(_plain(ln.content_xml) for ln in poem.lines)
-    full_text = title_plain + body_plain
+    body_plain = "\n".join(_plain(ln.content_xml) for ln in poem.lines)
+    # "\n"으로 구분해 제목-첫구, 구-구 경계에서 우연히 이어붙여진 글자열이
+    # 실제로는 존재하지 않는 evidence로 잘못 검증되는 것을 방지한다.
+    full_text = title_plain + "\n" + body_plain
 
     user_prompt = (
         f"제목: {title_plain}\n"
