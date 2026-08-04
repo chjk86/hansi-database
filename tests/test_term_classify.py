@@ -65,6 +65,7 @@ def test_ambiguous_span_is_resolved_via_single_llm_call_per_poem():
     assert len(llm.calls) == 1  # 시 1편당 1회로 묶임
     assert "<term>先</term>" in result.lines[0].content_xml
     assert any(f["poem_id"] == "P1" for f in flags)
-    # 플래그 딕셔너리는 QA 로그 규격({"poem_id", "line_id", "reason"})을 따른다
-    assert flags[0]["line_id"] == "L1"
-    assert flags[0]["reason"]
+    # 플래그 딕셔너리는 QA 로그 규격({"poem_id", "item", "reason"})을 따른다
+    # (Task 7의 interpretive_classify.py와 동일 스키마, item은 고정 문자열 "term/D")
+    assert flags[0]["item"] == "term/D"
+    assert "L1" in flags[0]["reason"]

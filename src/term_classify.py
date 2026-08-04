@@ -111,8 +111,8 @@ def classify_poem_terms(
             flags.append(
                 {
                     "poem_id": poem.id,
-                    "line_id": span["line_id"],
-                    "reason": "term/D 분절 LLM 판정",
+                    "item": "term/D",
+                    "reason": f"{span['line_id']}: term/D 분절 LLM 판정",
                 }
             )
 
