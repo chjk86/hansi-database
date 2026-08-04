@@ -2,6 +2,7 @@ import re
 import warnings
 import xml.etree.ElementTree as ET
 from pathlib import Path
+from xml.sax.saxutils import escape, quoteattr
 
 from .poem_model import Line, Poem, ThemeTag
 
@@ -113,6 +114,12 @@ def parse_collection(path: Path) -> list[Poem]:
     return poems
 
 
+# 주의: title_xml/content_xml은 <term>/<d>/<rhyme>(및 원본에 실려온 그 밖의
+# 요소) 하위 마크업을 문자열 그대로 보존하는 XML 조각이므로 여기서는 절대
+# escape()하지 않는다 -- escape하면 태그 자체가 텍스트로 깨진다. escape/quoteattr
+# 대상은 LLM이 생성했거나 그 외 임의 문자열이 들어올 수 있는 순수 텍스트/속성값
+# 필드(ThemeTag의 각 필드, preface/annotation/context, basetype/detailtype 등)로
+# 한정한다.
 def _lines_to_xml(lines: list) -> str:
     out = []
     i = 0
@@ -121,37 +128,38 @@ def _lines_to_xml(lines: list) -> str:
         if ln.in_couplet and i + 1 < len(lines) and lines[i + 1].in_couplet:
             partner = lines[i + 1]
             out.append(
-                f'<Couplet><Line id="{ln.id}" order="{ln.order}">{ln.content_xml}</Line>'
-                f'<Line id="{partner.id}" order="{partner.order}">{partner.content_xml}</Line></Couplet>'
+                f'<Couplet><Line id={quoteattr(ln.id)} order="{ln.order}">{ln.content_xml}</Line>'
+                f'<Line id={quoteattr(partner.id)} order="{partner.order}">{partner.content_xml}</Line></Couplet>'
             )
             i += 2
         else:
-            out.append(f'<Line id="{ln.id}" order="{ln.order}">{ln.content_xml}</Line>')
+            out.append(f'<Line id={quoteattr(ln.id)} order="{ln.order}">{ln.content_xml}</Line>')
             i += 1
     return "".join(out)
 
 
 def _poem_to_xml(poem: Poem) -> str:
     theme_xml = "".join(
-        f'<Theme category="{t.category}" basis="{t.basis}" evidence="{t.evidence}">{t.label_ko}</Theme>'
+        f'<Theme category={quoteattr(t.category)} basis={quoteattr(t.basis)} '
+        f'evidence={quoteattr(t.evidence)}>{escape(t.label_ko)}</Theme>'
         for t in poem.themes
     )
     lines_xml = _lines_to_xml(poem.lines)
     return (
-        f'<Poem id="{poem.id}">'
+        f"<Poem id={quoteattr(poem.id)}>"
         f"<Metadata>"
         f"<Title>{poem.title_xml}</Title>"
-        f"<Preface>{poem.preface}</Preface>"
-        f"<Annotation>{poem.annotation}</Annotation>"
-        f'<Collection ns0:href="{poem.collection_href}"/>'
-        f'<Author ns0:href="{poem.author_href}"/>'
+        f"<Preface>{escape(poem.preface)}</Preface>"
+        f"<Annotation>{escape(poem.annotation)}</Annotation>"
+        f"<Collection ns0:href={quoteattr(poem.collection_href)}/>"
+        f"<Author ns0:href={quoteattr(poem.author_href)}/>"
         f"<Form>"
-        f"<Basetype>{poem.basetype}</Basetype>"
-        f"<Detailtype>{poem.detailtype}</Detailtype>"
-        f"<Charactercount>{poem.charactercount}</Charactercount>"
+        f"<Basetype>{escape(poem.basetype)}</Basetype>"
+        f"<Detailtype>{escape(poem.detailtype)}</Detailtype>"
+        f"<Charactercount>{escape(poem.charactercount)}</Charactercount>"
         f"</Form>"
         f"<Themes>{theme_xml}</Themes>"
-        f"<Context>{poem.context}</Context>"
+        f"<Context>{escape(poem.context)}</Context>"
         f"</Metadata>"
         f"<text>{lines_xml}</text>"
         f"</Poem>"

@@ -2,6 +2,7 @@ from pathlib import Path
 
 import pytest
 
+from src.poem_model import Line, Poem, ThemeTag
 from src.xml_io import parse_collection, write_collection
 
 FIXTURE = Path(__file__).parent / "fixtures" / "sample_poems.txt"
@@ -324,3 +325,41 @@ def test_parse_collection_recovers_couplet_flag(tmp_path):
     assert reparsed_lines["L2"].in_couplet is True
     assert reparsed_lines["L3"].in_couplet is True
     assert reparsed_lines["L4"].in_couplet is False
+
+
+def test_write_collection_escapes_ampersand_in_llm_sourced_theme_fields(tmp_path):
+    """LLM-sourced text (ThemeTag.evidence/label_ko/basis/category, preface,
+    annotation, context) is interpolated into XML via plain f-strings. If it
+    ever contains a literal '&' (or '<'/'>'/'"'), unescaped interpolation would
+    silently corrupt that poem's XML block -- write_collection must escape it
+    so the output stays well-formed and round-trips the original text back.
+    """
+    import xml.etree.ElementTree as ET
+
+    poem = Poem(
+        id="P1",
+        title_xml="題",
+        preface="序文 A & B",
+        annotation="주석 <참고>",
+        context='문맥 "인용"',
+        lines=[Line(id="L1", order=1, content_xml="<term>先祖</term>遺蹤在")],
+        themes=[
+            ThemeTag(
+                category="others",
+                basis="term",
+                evidence="A & B <포함>",
+                label_ko="기타 & 미상",
+            )
+        ],
+    )
+    out_path = tmp_path / "out.xml"
+    write_collection(out_path, [poem])
+
+    ET.parse(out_path)  # raises ParseError if malformed
+
+    reparsed = parse_collection(out_path)
+    assert reparsed[0].preface == "序文 A & B"
+    assert reparsed[0].annotation == "주석 <참고>"
+    assert reparsed[0].context == '문맥 "인용"'
+    assert reparsed[0].themes[0].evidence == "A & B <포함>"
+    assert reparsed[0].themes[0].label_ko == "기타 & 미상"
