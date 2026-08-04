@@ -1,0 +1,46 @@
+  <Poem id="P19425">
+    <Metadata>
+      <Title>敬次<term>先祖</term><term>翼成</term>公寧越懸板韻</Title>
+      <Preface></Preface>
+      <Annotation></Annotation>
+      <Collection ns0:href="glossary.xml#지천집"/>
+      <Author ns0:href="glossary.xml#황정욱"/>
+      <Form>
+        <Basetype></Basetype>
+        <Detailtype></Detailtype>
+        <Charactercount>오언</Charactercount>
+    </Form>
+      <Themes>
+        <Main></Main>
+        <Sub></Sub>
+      </Themes>
+      <Context></Context>
+    </Metadata>
+    <text>
+      <Line id="P1942501" order="1"><term>先祖</term><term>遺蹤</term>在</Line>
+      <Line id="P1942502" order="2"><term>孤雲</term>獨倚<rhyme>天</rhyme></Line>
+    </text>
+  </Poem>
+  <Poem id="P19426">
+    <Metadata>
+      <Title>山行</Title>
+      <Preface></Preface>
+      <Annotation></Annotation>
+      <Collection ns0:href="glossary.xml#지천집"/>
+      <Author ns0:href="glossary.xml#황정욱"/>
+      <Form>
+        <Basetype></Basetype>
+        <Detailtype></Detailtype>
+        <Charactercount>오언</Charactercount>
+    </Form>
+      <Themes>
+        <Main></Main>
+        <Sub></Sub>
+      </Themes>
+      <Context></Context>
+    </Metadata>
+    <text>
+      <Line id="P1942601" order="1"><term>秋風</term>吹<term>古寺</term></Line>
+      <Line id="P1942602" order="2"><term>木落</term>啼山<rhyme>雨</rhyme></Line>
+    </text>
+  </Poem>
