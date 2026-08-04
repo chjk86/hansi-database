@@ -11,4 +11,4 @@ def test_paths_are_under_root():
 
 
 def test_default_model_name():
-    assert config.LLM_MODEL == "claude-haiku-4-5-20251001"
+    assert config.LLM_MODEL == "gemini-2.5-flash"

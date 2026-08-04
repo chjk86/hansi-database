@@ -1,2 +1,2 @@
-anthropic>=0.40.0
+google-genai>=0.3.0
 pytest>=8.0.0

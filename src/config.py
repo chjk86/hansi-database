@@ -10,4 +10,4 @@ QA_DIR = ROOT_DIR / "qa"
 LOGS_DIR = ROOT_DIR / "logs"
 CACHE_DIR = ROOT_DIR / ".cache"
 
-LLM_MODEL = os.environ.get("HANSHI_LLM_MODEL", "claude-haiku-4-5-20251001")
+LLM_MODEL = os.environ.get("HANSHI_LLM_MODEL", "gemini-2.5-flash")
