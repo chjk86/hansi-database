@@ -3,6 +3,13 @@ import re
 from .llm_client import LLMClient
 from .poem_model import Poem, ThemeTag
 
+# 전고(Allusion)는 이 프로젝트 범위에서 완전히 제외되므로(계획서 Global Constraints
+# 참고) 원본 시구 텍스트가 아니다. 임백호집 골드 파일에는 <Line> 안에 자기닫힘
+# <Allusion .../> 요소(속성만 있고 내용 없음)와, 드물게 편집자 주석인
+# <Annotation>...</Annotation>(poem-level Metadata의 Annotation과는 별개)이 섞여
+# 있으므로, LLM 프롬프트나 evidence 환각 검증에 쓰일 순수 텍스트를 만들기 전에
+# 이 두 요소를 통째로(속성값 포함) 제거해야 한다.
+_ELEMENT_STRIP = re.compile(r"<Allusion\b[^>]*/>|<Annotation\b[^>]*>.*?</Annotation>", re.DOTALL)
 _TAG_STRIP = re.compile(r"</?(term|d|rhyme)>")
 
 THEME_CATEGORIES = {
@@ -84,7 +91,8 @@ _RESPONSE_SCHEMA = {
 
 
 def _plain(xml_fragment: str) -> str:
-    return _TAG_STRIP.sub("", xml_fragment)
+    without_out_of_scope_elements = _ELEMENT_STRIP.sub("", xml_fragment)
+    return _TAG_STRIP.sub("", without_out_of_scope_elements)
 
 
 def _evidence_exists_in_poem(evidence: str, poem_plain_text: str) -> bool:

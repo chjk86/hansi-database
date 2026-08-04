@@ -1,6 +1,6 @@
 from src.llm_client import FakeLLMClient
 from src.poem_model import Line, Poem
-from src.interpretive_classify import classify_form_couplet_theme
+from src.interpretive_classify import classify_form_couplet_theme, _plain
 
 
 def _quatrain():
@@ -94,6 +94,84 @@ def test_evidence_spanning_title_line_boundary_is_flagged_and_dropped():
     )
 
     result, flags = classify_form_couplet_theme(_quatrain(), llm)
+
+    assert result.themes == []
+    assert any(f["item"] == "Theme" and "환각 의심" in f["reason"] for f in flags)
+
+
+def test_plain_strips_allusion_self_closing_element_entirely():
+    # 실제 임백호집 골드 파일 형태(P1714202): <Allusion .../>는 전고(이 프로젝트
+    # 범위 밖) 주석이며 속성값(source/originaltext 등)에 시 본문과 무관한 긴
+    # 한문 텍스트가 들어있다. 태그 마커만 벗기면 속성값 문자열이 그대로 "순수
+    # 텍스트"에 섞여 LLM 프롬프트/환각 검증에 오염을 일으키므로 요소 전체가
+    # 사라져야 한다.
+    xml_fragment = (
+        "<d>北客</d>困<d>炊<rhyme>蒸</rhyme></d>"
+        '<Allusion id="" target="炊蒸" type="D" source="昌黎先生集" '
+        'chapter="鄭羣贈簟" originaltext="自從五月困暑濕 如坐深甑遭烝炊"/>'
+    )
+
+    plain = _plain(xml_fragment)
+
+    assert "Allusion" not in plain
+    assert "昌黎先生集" not in plain
+    assert "originaltext" not in plain
+    assert plain == "北客困炊蒸"
+
+
+def test_plain_strips_inline_annotation_element_entirely():
+    # 실제 임백호집 골드 파일 형태(P1709104): <Line> 안에 등장하는 <Annotation>은
+    # poem-level Metadata의 <Annotation>(별도 필드, poem.annotation)과 다른,
+    # 편집자가 달아둔 인라인 주석이다. 이 역시 시 본문이 아니므로 완전히
+    # 제거되어야 한다.
+    xml_fragment = "<d>蘿逕</d>有<term>遺<rhyme>蹤</rhyme></term><Annotation>毗盧頂 人跡不到</Annotation>"
+
+    plain = _plain(xml_fragment)
+
+    assert "Annotation" not in plain
+    assert "毗盧頂" not in plain
+    assert plain == "蘿逕有遺蹤"
+
+
+def test_evidence_hallucination_check_ignores_allusion_attribute_text():
+    # evidence 환각 검증(full_text)도 _plain을 통해 만들어지므로, Allusion 속성값
+    # 안에 우연히 등장하는 한자 조합을 LLM이 evidence로 제출해도 "실제 시에 등장"
+    # 한 것으로 잘못 검증되면 안 된다.
+    poem = Poem(
+        id="P1",
+        title_xml="題",
+        lines=[
+            Line(
+                id="L1",
+                order=1,
+                content_xml=(
+                    "<d>北客</d>困<d>炊蒸</d>"
+                    '<Allusion id="" target="炊蒸" type="D" source="昌黎先生集" '
+                    'chapter="鄭羣贈簟" originaltext="自從五月困暑濕"/>'
+                ),
+            )
+        ],
+        charactercount="오언",
+    )
+    llm = FakeLLMClient(
+        responses=[
+            {
+                "basetype": "근체시",
+                "detailtype": "절구",
+                "couplets": [],
+                "themes": [
+                    {
+                        "category": "others",
+                        "basis": "term",
+                        "evidence": "昌黎先生集",
+                        "label_ko": "기타",
+                    }
+                ],
+            }
+        ]
+    )
+
+    result, flags = classify_form_couplet_theme(poem, llm)
 
     assert result.themes == []
     assert any(f["item"] == "Theme" and "환각 의심" in f["reason"] for f in flags)
