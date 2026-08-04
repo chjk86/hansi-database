@@ -92,6 +92,116 @@ def test_parse_collection_skips_malformed_poem_and_warns(tmp_path):
     assert [p.id for p in poems] == ["P001", "P003"]
 
 
+_MISSING_METADATA_MIDDLE_POEM = """\
+  <Poem id="P001">
+    <Metadata>
+      <Title>春望</Title>
+      <Preface></Preface>
+      <Annotation></Annotation>
+      <Collection ns0:href="glossary.xml#test"/>
+      <Author ns0:href="glossary.xml#test"/>
+      <Form>
+        <Basetype></Basetype>
+        <Detailtype></Detailtype>
+        <Charactercount>오언</Charactercount>
+    </Form>
+      <Themes>
+        <Main></Main>
+        <Sub></Sub>
+      </Themes>
+      <Context></Context>
+    </Metadata>
+    <text>
+      <Line id="P00101" order="1">國破山河在</Line>
+    </text>
+  </Poem>
+  <Poem id="P002"></Poem>
+  <Poem id="P003">
+    <Metadata>
+      <Title>春夜喜雨</Title>
+      <Preface></Preface>
+      <Annotation></Annotation>
+      <Collection ns0:href="glossary.xml#test"/>
+      <Author ns0:href="glossary.xml#test"/>
+      <Form>
+        <Basetype></Basetype>
+        <Detailtype></Detailtype>
+        <Charactercount>오언</Charactercount>
+    </Form>
+      <Themes>
+        <Main></Main>
+        <Sub></Sub>
+      </Themes>
+      <Context></Context>
+    </Metadata>
+    <text>
+      <Line id="P00301" order="1">好雨知時節</Line>
+    </text>
+  </Poem>
+"""
+
+
+def test_parse_collection_skips_poem_missing_metadata_and_warns(tmp_path):
+    """A <Poem> block that's well-formed XML but missing required child elements
+    (here <Metadata> entirely) parses fine via ET.fromstring but then crashes
+    _poem_from_element with AttributeError on meta.find(...) since meta is None.
+    That must be caught and skipped like a ParseError, not left to crash the
+    whole parse_collection call.
+    """
+    path = tmp_path / "missing_metadata.txt"
+    path.write_text(_MISSING_METADATA_MIDDLE_POEM, encoding="utf-8")
+
+    with pytest.warns(UserWarning, match="P002"):
+        poems = parse_collection(path)
+
+    assert len(poems) == 2
+    assert [p.id for p in poems] == ["P001", "P003"]
+
+
+def test_parse_collection_warns_on_truncated_trailing_poem(tmp_path):
+    """A file truncated mid-poem (missing closing </Poem>, e.g. cut off at EOF)
+    means the block regex won't match that fragment at all -- it must not be
+    silently dropped. parse_collection should still return the complete, valid
+    poems that precede it, and emit a warning flagging the <Poem>-tag-count vs.
+    recovered-block-count mismatch so the truncation is visible.
+    """
+    path = tmp_path / "truncated.txt"
+    truncated = (
+        "  <Poem id=\"P001\">\n"
+        "    <Metadata>\n"
+        "      <Title>春望</Title>\n"
+        "      <Preface></Preface>\n"
+        "      <Annotation></Annotation>\n"
+        "      <Collection ns0:href=\"glossary.xml#test\"/>\n"
+        "      <Author ns0:href=\"glossary.xml#test\"/>\n"
+        "      <Form>\n"
+        "        <Basetype></Basetype>\n"
+        "        <Detailtype></Detailtype>\n"
+        "        <Charactercount>오언</Charactercount>\n"
+        "    </Form>\n"
+        "      <Themes>\n"
+        "        <Main></Main>\n"
+        "        <Sub></Sub>\n"
+        "      </Themes>\n"
+        "      <Context></Context>\n"
+        "    </Metadata>\n"
+        "    <text>\n"
+        "      <Line id=\"P00101\" order=\"1\">國破山河在</Line>\n"
+        "    </text>\n"
+        "  </Poem>\n"
+        '  <Poem id="P002">\n'
+        "    <Metadata>\n"
+        "      <Title>殘篇"
+    )
+    path.write_text(truncated, encoding="utf-8")
+
+    with pytest.warns(UserWarning, match=r"2 <Poem> opening tag\(s\).*1 complete block\(s\)"):
+        poems = parse_collection(path)
+
+    assert len(poems) == 1
+    assert poems[0].id == "P001"
+
+
 def test_parse_collection_reads_two_poems():
     poems = parse_collection(FIXTURE)
     assert len(poems) == 2

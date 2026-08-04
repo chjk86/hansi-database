@@ -18,6 +18,7 @@ _HREF_ATTR = "{http://www.w3.org/1999/xlink}href"
 # 담고 있어도 나머지 시 파싱에 영향을 주지 않는다.
 _POEM_BLOCK_RE = re.compile(r"<Poem\b.*?</Poem>", re.DOTALL)
 _POEM_ID_RE = re.compile(r'<Poem\b[^>]*\bid="([^"]*)"')
+_POEM_OPEN_TAG_RE = re.compile(r"<Poem\b")
 
 
 def _inner_xml(elem: ET.Element) -> str:
@@ -91,14 +92,24 @@ def _poem_from_element(poem_el: ET.Element) -> Poem:
 
 def parse_collection(path: Path) -> list[Poem]:
     raw = path.read_text(encoding="utf-8")
+    blocks = _POEM_BLOCK_RE.findall(raw)
+
+    open_tag_count = len(_POEM_OPEN_TAG_RE.findall(raw))
+    if open_tag_count != len(blocks):
+        warnings.warn(
+            f"found {open_tag_count} <Poem> opening tag(s) but only recovered "
+            f"{len(blocks)} complete block(s) -- file may be truncated or corrupted"
+        )
+
     poems = []
-    for block in _POEM_BLOCK_RE.findall(raw):
+    for block in blocks:
         try:
             poem_el = ET.fromstring(_NS_WRAPPER_OPEN + block + _NS_WRAPPER_CLOSE)[0]
-        except ET.ParseError as e:
+            poem = _poem_from_element(poem_el)
+        except (ET.ParseError, AttributeError) as e:
             warnings.warn(f"malformed <Poem> block skipped (id={_extract_poem_id(block)}): {e}")
             continue
-        poems.append(_poem_from_element(poem_el))
+        poems.append(poem)
     return poems
 
 
