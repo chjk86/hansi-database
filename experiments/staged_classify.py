@@ -97,3 +97,129 @@ def classify_couplet(poem: Poem, llm_client: LLMClient) -> Poem:
         line.in_couplet = line.order in couplet_orders
 
     return poem
+
+
+_RHYME_TAG_RE = re.compile(r"<rhyme>(.)</rhyme>")
+
+_TERM_SYSTEM_PROMPT = """\
+당신은 한국 한시 시어(詩語) 분석 전문가입니다. 아래 시구들에서 의미적으로
+중요한 시어(2자 이상의 명사어·형용사어·안긴 어휘)의 경계를 문맥과 문학적 판단만으로
+정하세요. 부정어는 상태·정서를 구체화하는 경우만(예: 無消息) 포함하고, 단순
+조동사·기능어(예: 不敢)는 제외합니다. 판단한 시어는 원문 글자를 그대로
+text 필드에 담아 submit_result 도구로 제출하세요. 시구마다 시어가 없을 수도, 여러
+개일 수도 있습니다.
+"""
+
+_TERM_RESPONSE_SCHEMA = {
+    "type": "object",
+    "properties": {
+        "spans": {
+            "type": "array",
+            "items": {
+                "type": "object",
+                "properties": {
+                    "line_id": {"type": "string"},
+                    "text": {"type": "string"},
+                },
+                "required": ["line_id", "text"],
+            },
+        },
+    },
+    "required": ["spans"],
+}
+
+
+def _plain_and_rhyme_index(content_xml: str) -> tuple[str, int | None]:
+    """기존 term/d 태그를 모두 제거한 순수 텍스트와, <rhyme>로 감싸인 글자의
+    순수 텍스트 기준 인덱스(없으면 None)를 반환한다."""
+    without_term_d = re.sub(r"</?(term|d)>", "", content_xml)
+    m = _RHYME_TAG_RE.search(without_term_d)
+    plain = _RHYME_TAG_RE.sub(r"\1", without_term_d)
+    rhyme_index = None
+    if m:
+        prefix = without_term_d[: m.start()]
+        prefix_plain = _RHYME_TAG_RE.sub(r"\1", prefix)
+        rhyme_index = len(prefix_plain)
+    return plain, rhyme_index
+
+
+def _rebuild_line_with_spans(
+    plain: str, rhyme_index: int | None, spans: list[tuple[int, int, str]]
+) -> str:
+    """spans: (start, end, label) 정렬된 겹치지 않는 구간 리스트."""
+    spans = sorted(spans, key=lambda s: s[0])
+
+    def wrap_char_at(text: str, idx: int) -> str:
+        if idx is None or not (0 <= idx < len(text)):
+            return text
+        return text[:idx] + f"<rhyme>{text[idx]}</rhyme>" + text[idx + 1 :]
+
+    out = []
+    cursor = 0
+    for start, end, label in spans:
+        gap = plain[cursor:start]
+        if rhyme_index is not None and cursor <= rhyme_index < start:
+            gap = wrap_char_at(gap, rhyme_index - cursor)
+        out.append(gap)
+
+        span_text = plain[start:end]
+        if rhyme_index is not None and start <= rhyme_index < end:
+            span_text = wrap_char_at(span_text, rhyme_index - start)
+        out.append(f"<{label}>{span_text}</{label}>")
+        cursor = end
+    tail = plain[cursor:]
+    if rhyme_index is not None and cursor <= rhyme_index < len(plain):
+        tail = wrap_char_at(tail, rhyme_index - cursor)
+    out.append(tail)
+    return "".join(out)
+
+
+def classify_term_d(
+    poem: Poem, dict_index, llm_client: LLMClient
+) -> tuple[Poem, list[dict]]:
+    flags: list[dict] = []
+    plains: dict[str, tuple[str, int | None]] = {
+        ln.id: _plain_and_rhyme_index(ln.content_xml) for ln in poem.lines
+    }
+
+    user_prompt = "시구:\n" + "\n".join(
+        f"{ln.id}: {plains[ln.id][0]}" for ln in poem.lines
+    )
+    result = llm_client.complete(_TERM_SYSTEM_PROMPT, user_prompt, _TERM_RESPONSE_SCHEMA)
+
+    spans_by_line: dict[str, list[tuple[int, int, str]]] = {ln.id: [] for ln in poem.lines}
+    cursor_by_line: dict[str, int] = {ln.id: 0 for ln in poem.lines}
+    for span in result["spans"]:
+        line_id = span["line_id"]
+        text = span["text"]
+        if line_id not in plains:
+            flags.append(
+                {"poem_id": poem.id, "item": "term/D", "reason": f"알 수 없는 line_id: {line_id}"}
+            )
+            continue
+        plain, _ = plains[line_id]
+        start = plain.find(text, cursor_by_line[line_id])
+        if start == -1:
+            flags.append(
+                {
+                    "poem_id": poem.id,
+                    "item": "term/D",
+                    "reason": f"{line_id}: LLM이 반환한 시어 '{text}'가 원문에 없음(환각 의심)",
+                }
+            )
+            continue
+        end = start + len(text)
+        label = "term" if dict_index.contains(text) else "d"
+        spans_by_line[line_id].append((start, end, label))
+        cursor_by_line[line_id] = end
+
+    new_lines = []
+    for line in poem.lines:
+        plain, rhyme_index = plains[line.id]
+        new_content = _rebuild_line_with_spans(plain, rhyme_index, spans_by_line[line.id])
+        new_lines.append(
+            type(line)(id=line.id, order=line.order, content_xml=new_content, in_couplet=line.in_couplet)
+        )
+    poem.lines = new_lines
+
+    return poem, flags
