@@ -1,10 +1,8 @@
-import re
 from pathlib import Path
 
 from src.poem_model import Poem
 from src.xml_io import parse_collection
 
-_TAG_STRIP = re.compile(r"</?(term|d|rhyme)>")
 _OUTPUT_DIR = Path(__file__).resolve().parent / "2026-08-05-model-comparison"
 _MODEL_LABELS = ["claude-opus-4.7", "gemini-3-flash-preview", "gpt-5.5"]
 
