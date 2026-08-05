@@ -1,3 +1,5 @@
+import json
+
 from src.llm_client import FakeLLMClient
 from src.poem_model import Line, Poem
 from src.dict_index import DictIndex
@@ -84,15 +86,48 @@ def test_term_d_llm_proposes_spans_without_seeing_dictionary():
         id="P4",
         lines=[Line(id="L1", order=1, content_xml="夜伴林僧宿")],  # 태그 없는 순수 원문
     )
-    idx = DictIndex({"林僧"})  # "林僧"만 사전에 등재
+    # "無關語"는 원문에 전혀 등장하지 않는 미끼(sentinel) 사전 표제어. "林僧"은 원문에도
+    # 등장하므로 그것만으로는 leak 여부를 판별할 수 없다 -- user_prompt에 있어도 그냥
+    # 원문 텍스트일 뿐 사전 후보 주입인지 구분이 안 된다. 미끼 표제어가 프롬프트
+    # 어디에도 없어야 "사전 후보를 프롬프트에 넣지 않았다"를 실제로 검증한 것이 된다.
+    idx = DictIndex({"林僧", "無關語"})
     llm = FakeLLMClient(responses=[{"spans": [{"line_id": "L1", "text": "林僧"}]}])
 
     result, flags = classify_term_d(poem, idx, llm)
 
-    # LLM에 사전 정보가 전달되지 않았는지 확인 (프롬프트 텍스트에 "사전"/dict 관련
-    # 문자열이 없어야 함 -- FakeLLMClient가 기록한 실제 호출 인자를 검사)
-    assert "林僧" not in llm.calls[0]["system"]  # 시스템 프롬프트에 사전 후보가 안 들어감
+    # 시스템 프롬프트 문자열 자체에 사전 후보가 하드코딩되어 있지 않은지 확인
+    assert "林僧" not in llm.calls[0]["system"]
+    # system/user/schema를 통틀어 원문에 없는 미끼 표제어가 절대 등장하면 안 됨 --
+    # 등장한다면 프롬프트 조립 코드가 dict_index를 참조해 사전 후보를 주입했다는 뜻
+    call_json = json.dumps(llm.calls[0], ensure_ascii=False)
+    assert "無關語" not in call_json
     assert result.lines[0].content_xml == "夜伴<term>林僧</term>宿"
+    assert flags == []
+
+
+def test_term_d_out_of_order_spans_all_resolve_correctly():
+    # LLM 응답의 span 순서가 시구 내 읽기 순서와 다를 수 있다 (林僧이 원문에서는
+    # 뒤에 나오지만 응답 리스트에서는 먼저 나옴). 단일 커서로 순서대로만 찾으면
+    # 뒤에 나오는 "夜伴"을 못 찾고 환각으로 오판하게 된다 -- 이를 방지해야 한다.
+    poem = Poem(
+        id="P8",
+        lines=[Line(id="L1", order=1, content_xml="夜伴林僧宿")],
+    )
+    idx = DictIndex(set())
+    llm = FakeLLMClient(
+        responses=[
+            {
+                "spans": [
+                    {"line_id": "L1", "text": "林僧"},  # 원문에서는 뒤(index 2)
+                    {"line_id": "L1", "text": "夜伴"},  # 원문에서는 앞(index 0)
+                ]
+            }
+        ]
+    )
+
+    result, flags = classify_term_d(poem, idx, llm)
+
+    assert result.lines[0].content_xml == "<d>夜伴</d><d>林僧</d>宿"
     assert flags == []
 
 

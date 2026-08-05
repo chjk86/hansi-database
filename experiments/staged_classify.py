@@ -174,6 +174,22 @@ def _rebuild_line_with_spans(
     return "".join(out)
 
 
+def _find_unclaimed_occurrence(plain: str, text: str, claimed: list[tuple[int, int]]) -> int:
+    """plain에서 text가 나타나는 위치 중, claimed(이미 다른 span이 차지한 (start, end)
+    구간들)와 겹치지 않는 가장 왼쪽 occurrence의 시작 인덱스를 반환한다. 없으면 -1.
+    LLM이 시구 내 span들을 읽기 순서와 다르게 반환하더라도(=순서 무관) 올바른 위치를
+    찾기 위해 단일 커서 대신 이 방식을 사용한다."""
+    search_from = 0
+    while True:
+        idx = plain.find(text, search_from)
+        if idx == -1:
+            return -1
+        end = idx + len(text)
+        if not any(idx < c_end and end > c_start for c_start, c_end in claimed):
+            return idx
+        search_from = idx + 1
+
+
 def classify_term_d(
     poem: Poem, dict_index, llm_client: LLMClient
 ) -> tuple[Poem, list[dict]]:
@@ -188,7 +204,7 @@ def classify_term_d(
     result = llm_client.complete(_TERM_SYSTEM_PROMPT, user_prompt, _TERM_RESPONSE_SCHEMA)
 
     spans_by_line: dict[str, list[tuple[int, int, str]]] = {ln.id: [] for ln in poem.lines}
-    cursor_by_line: dict[str, int] = {ln.id: 0 for ln in poem.lines}
+    claimed_by_line: dict[str, list[tuple[int, int]]] = {ln.id: [] for ln in poem.lines}
     for span in result["spans"]:
         line_id = span["line_id"]
         text = span["text"]
@@ -198,7 +214,7 @@ def classify_term_d(
             )
             continue
         plain, _ = plains[line_id]
-        start = plain.find(text, cursor_by_line[line_id])
+        start = _find_unclaimed_occurrence(plain, text, claimed_by_line[line_id])
         if start == -1:
             flags.append(
                 {
@@ -211,7 +227,7 @@ def classify_term_d(
         end = start + len(text)
         label = "term" if dict_index.contains(text) else "d"
         spans_by_line[line_id].append((start, end, label))
-        cursor_by_line[line_id] = end
+        claimed_by_line[line_id].append((start, end))
 
     new_lines = []
     for line in poem.lines:
