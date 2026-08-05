@@ -1,6 +1,6 @@
 import pytest
 
-from src.llm_client import FakeLLMClient, RetryExhaustedError
+from src.llm_client import FakeLLMClient, RetryExhaustedError, TimelyLLMClient
 
 
 def test_fake_client_returns_queued_responses_in_order():
@@ -20,3 +20,15 @@ def test_fake_client_raises_when_responses_exhausted():
     client = FakeLLMClient(responses=[])
     with pytest.raises(RetryExhaustedError):
         client.complete("sys", "user", {})
+
+
+def test_timely_client_reads_api_key_from_env(monkeypatch):
+    monkeypatch.setenv("TIMELY_API_KEY", "sdk_live_test123")
+    client = TimelyLLMClient(model="anthropic/claude-opus-4.7")
+    assert client is not None  # 생성자가 예외 없이 성공하는지만 확인 (실 API 호출 없음)
+
+
+def test_timely_client_raises_without_api_key(monkeypatch):
+    monkeypatch.delenv("TIMELY_API_KEY", raising=False)
+    with pytest.raises(KeyError):
+        TimelyLLMClient(model="anthropic/claude-opus-4.7")
