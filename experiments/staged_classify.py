@@ -63,3 +63,37 @@ def classify_form(poem: Poem, llm_client: LLMClient) -> Poem:
         poem.detailtype = result["detailtype"]
 
     return poem
+
+
+_COUPLET_SYSTEM_PROMPT = """\
+당신은 한국 한시 대장(對仗) 판정 전문가입니다. 근체시의 중간 구-쌍 중 실제로
+문법·의미가 대응하는 경우만 [상구번호, 하구번호]로 나열해 submit_result 도구로
+제출하세요. 위치상 대장이 가능해 보여도 실제 대응이 약하면 포함하지 마세요.
+확신이 없으면 빈 리스트를 반환하세요.
+"""
+
+_COUPLET_RESPONSE_SCHEMA = {
+    "type": "object",
+    "properties": {
+        "couplets": {
+            "type": "array",
+            "items": {"type": "array", "items": {"type": "integer"}, "minItems": 2, "maxItems": 2},
+        },
+    },
+    "required": ["couplets"],
+}
+
+
+def classify_couplet(poem: Poem, llm_client: LLMClient) -> Poem:
+    user_prompt = "본문:\n" + "\n".join(
+        f"{ln.order}구: {_TAG_STRIP.sub('', _ELEMENT_STRIP.sub('', ln.content_xml))}"
+        for ln in poem.lines
+    )
+
+    result = llm_client.complete(_COUPLET_SYSTEM_PROMPT, user_prompt, _COUPLET_RESPONSE_SCHEMA)
+
+    couplet_orders = {order for pair in result["couplets"] for order in pair}
+    for line in poem.lines:
+        line.in_couplet = line.order in couplet_orders
+
+    return poem

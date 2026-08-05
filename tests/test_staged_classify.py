@@ -1,6 +1,6 @@
 from src.llm_client import FakeLLMClient
 from src.poem_model import Line, Poem
-from experiments.staged_classify import classify_form
+from experiments.staged_classify import classify_form, classify_couplet
 
 
 def _quatrain():
@@ -47,3 +47,32 @@ def test_eight_lines_geunche_becomes_yulsi():
     result = classify_form(poem, llm)
 
     assert result.detailtype == "율시"
+
+
+def _yulsi_with_lines():
+    return Poem(
+        id="P3",
+        basetype="근체시",
+        detailtype="율시",
+        lines=[Line(id=f"L{i}", order=i, content_xml="字字") for i in range(1, 9)],
+        charactercount="오언",
+    )
+
+
+def test_couplet_flags_only_llm_confirmed_pairs():
+    poem = _yulsi_with_lines()
+    llm = FakeLLMClient(responses=[{"couplets": [[5, 6]]}])
+
+    result = classify_couplet(poem, llm)
+
+    in_couplet_orders = [ln.order for ln in result.lines if ln.in_couplet]
+    assert in_couplet_orders == [5, 6]
+
+
+def test_couplet_empty_response_flags_nothing():
+    poem = _yulsi_with_lines()
+    llm = FakeLLMClient(responses=[{"couplets": []}])
+
+    result = classify_couplet(poem, llm)
+
+    assert all(not ln.in_couplet for ln in result.lines)
