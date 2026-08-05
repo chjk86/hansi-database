@@ -229,6 +229,11 @@ def test_theme_uses_term_tagged_poem_as_context():
 
     result, flags = classify_theme(poem, llm)
 
+    # term/D 태깅이 유지된 채 LLM에 전달되었는지 확인 (plain text로 대체되면
+    # 조용히 통과해서는 안 됨 -- Theme 단계는 term/D 태깅을 근거로 판단해야 한다)
+    assert "<term>林僧</term>" in llm.calls[0]["user"]
+    assert "<d>重雲</d>" in llm.calls[0]["user"]
+
     assert len(result.themes) == 2
     assert result.themes[0].category == "donate"
     assert flags == []
