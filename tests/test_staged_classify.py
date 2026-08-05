@@ -39,6 +39,20 @@ def test_gochesi_detailtype_comes_from_llm_unchanged():
     assert result.detailtype == "악부"  # 고체시는 구수 규칙이 없으므로 LLM 응답 그대로
 
 
+def test_classify_form_prompt_includes_poem_body():
+    # production의 classify_form_couplet_theme는 본문까지 LLM에 보여준다. 고체시
+    # 세부분류(고시/악부/사/부/잡체시/과체시)는 대개 본문을 읽어야 판단할 수 있으므로,
+    # 실험의 Form 호출도 제목/자수/구수뿐 아니라 본문을 봐야 production과 동등한
+    # 조건에서 비교된다. 태그가 벗겨진 순수 본문 텍스트가 user_prompt에 있는지 확인한다.
+    llm = FakeLLMClient(responses=[{"basetype": "근체시", "detailtype": "율시"}])
+
+    classify_form(_quatrain(), llm)
+
+    user_prompt = llm.calls[0]["user"]
+    assert "林僧" in user_prompt  # L1 본문 텍스트(태그 벗김)가 프롬프트에 있어야 함
+    assert "重雲" in user_prompt  # L2 본문 텍스트도 포함되어야 함
+
+
 def test_eight_lines_geunche_becomes_yulsi():
     poem = Poem(
         id="P2",

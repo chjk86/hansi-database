@@ -47,11 +47,13 @@ def _geunche_detailtype(line_count: int) -> str:
 
 
 def classify_form(poem: Poem, llm_client: LLMClient) -> Poem:
-    title_plain = _TAG_STRIP.sub("", _ELEMENT_STRIP.sub("", poem.title_xml))
+    # 본문(제목 포함)을 프롬프트에 포함시켜, 고체시 세부분류(고시/악부/사/부/잡체시/
+    # 과체시)처럼 본문을 읽어야 판단할 수 있는 경우에도 production의
+    # classify_form_couplet_theme와 동등한 정보를 보게 한다.
     user_prompt = (
-        f"제목: {title_plain}\n"
         f"자수: {poem.charactercount}\n"
         f"구수: {len(poem.lines)}\n"
+        f"본문(제목 포함):\n{_plain_form_body(poem)}"
     )
 
     result = llm_client.complete(_FORM_SYSTEM_PROMPT, user_prompt, _FORM_RESPONSE_SCHEMA)
@@ -322,6 +324,13 @@ def _theme_evidence_exists(evidence: str, poem_plain_text: str) -> bool:
 
 
 def classify_theme(poem: Poem, llm_client: LLMClient) -> tuple[Poem, list[dict]]:
+    # 의도적 설계: user_prompt는 poem.lines의 <term>/<d> 마크업을 그대로 포함한다
+    # (Theme는 확정된 시어 태깅을 근거로 판단해야 한다는 스펙 요구사항). 이는 곧
+    # Theme 단계 LLM 입력에 사전 파생 신호(어떤 span이 <term>으로 남았고 어떤 span이
+    # <d>로 남았는지)가 섞여 들어간다는 뜻이다. 따라서 "가설 1: 사전 오염
+    # (dictionary contamination)"은 term/D 단계에서는 깨끗하게 격리되지만, Theme
+    # 단계에서는 격리되지 않는다 -- 결과 해석 시 유의해야 할 알려진 한계이며, 이번
+    # 라운드에서 고칠 버그가 아니다.
     flags: list[dict] = []
 
     def plain(xml_fragment: str) -> str:
