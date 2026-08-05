@@ -1,0 +1,2081 @@
+==================== P19485 ====================
+--- 원문 ---
+  형식: /
+  주제: (없음)
+  본문:
+    1구: <term>詩才</term><term>突兀</term><term>行間</term>出
+    2구: <term>宦路</term><term>蹉跎</term><term>分外</term><rhyme>奇</rhyme>
+    3구: 摠<term>是人</term>生各<term>有命</term>
+    4구: <term>悠悠</term><term>餘外</term>且安<rhyme>之</rhyme>
+--- claude-opus-4.7 ---
+  형식: 근체시/절구
+  주제: 송별(farewell), 애상(환로의 좌절)(sympathy), 문방(시재)(literature)
+  본문:
+    1구: <term>詩才</term><term>突兀</term>行間出
+    2구: <term>宦路</term><term>蹉跎</term><d>分外<rhyme>奇</rhyme></d>
+    3구: 摠是<term>人生</term><d>各有命</d>
+    4구: <term>悠悠</term><term>餘外</term>且安<rhyme>之</rhyme>
+--- gemini-3-flash-preview ---
+  형식: 근체시/절구
+  주제: 송별(farewell), 현달(prosper), 한적(tranquility)
+  본문:
+    1구: <term>詩才</term><term>突兀</term><term>行間</term>出
+    2구: <term>宦路</term><term>蹉跎</term><term>分外</term><rhyme>奇</rhyme>
+    3구: 摠是<term>人生</term><d>各有命</d>
+    4구: <term>悠悠</term><term>餘外</term>且安<rhyme>之</rhyme>
+--- gpt-5.5 ---
+  형식: 근체시/절구
+  주제: 송별(farewell), 유람(travel), 현달(prosper), 문방(literature)
+  본문:
+    1구: <term>詩才</term><term>突兀</term><term>行間</term>出
+    2구: <term>宦路</term><term>蹉跎</term><d>分外<rhyme>奇</rhyme></d>
+    3구: 摠是<term>人生</term>各<term>有命</term>
+    4구: <term>悠悠</term><term>餘外</term>且<d>安<rhyme>之</rhyme></d>
+
+==================== P19486 ====================
+--- 원문 ---
+  형식: /
+  주제: (없음)
+  본문:
+    1구: <term>仙人</term><term>化鶴</term>樓中去
+    2구: <term>病客</term>金蠅里上<rhyme>居</rhyme>
+    3구: <term>岐路</term><term>傷心</term>未<term>相別</term>
+    4구: 恨<term>無餘</term>力引君<rhyme>車</rhyme>
+--- claude-opus-4.7 ---
+  형식: 근체시/절구
+  주제: 송별(farewell), 도교(taoism), 애상(sympathy)
+  본문:
+    1구: <term>仙人</term><term>化鶴</term>樓中去
+    2구: <term>病客</term><d>金蠅</d>里上<rhyme>居</rhyme>
+    3구: <term>岐路</term><term>傷心</term>未相別
+    4구: 恨無<term>餘力</term>引<d>君<rhyme>車</rhyme></d>
+--- gemini-3-flash-preview ---
+  형식: 근체시/절구
+  주제: 송별(farewell), 애상(sympathy), 도교(taoism), 동물(animal)
+  본문:
+    1구: <term>仙人</term><term>化鶴</term><d>樓中</d>去
+    2구: <term>病客</term><d>金蠅里</d>上<rhyme>居</rhyme>
+    3구: <term>岐路</term><term>傷心</term>未<term>相別</term>
+    4구: <d>恨無餘力</d>引<d>君<rhyme>車</rhyme></d>
+--- gpt-5.5 ---
+  형식: 근체시/절구
+  주제: 송별(farewell), 유람(travel), 도교(taoism), 동물(animal), 건물(structure), 애상(sympathy), 인물(person), 기용(object)
+  본문:
+    1구: <term>仙人</term><term>化鶴</term>樓中去
+    2구: <term>病客</term><d>金蠅里</d>上<rhyme>居</rhyme>
+    3구: <term>岐路</term><term>傷心</term>未相別
+    4구: 恨<d>無餘力</d>引<d>君<rhyme>車</rhyme></d>
+
+==================== P19487 ====================
+--- 원문 ---
+  형식: /
+  주제: (없음)
+  본문:
+    1구: 兩<term>相風</term>流已<term>隔世</term>
+    2구: <term>孤臣</term><term>憔悴</term>亦<term>多<rhyme>年</rhyme></term>
+    3구: 舊詩<term>一口</term><term>瀾翻</term>倒
+    4구: <term>知我</term><term>平生</term>有好<rhyme>緣</rhyme>
+--- claude-opus-4.7 ---
+  형식: 근체시/절구
+  주제: 불교(buddhism), 송별(증여)(farewell), 회고(reminiscence), 애상(sympathy), 인물(person), 문방(시)(literature)
+  본문:
+    1구: <d>兩相</d><term>風流</term>已<term>隔世</term>
+    2구: <term>孤臣</term><term>憔悴</term>亦<term>多<rhyme>年</rhyme></term>
+    3구: <d>舊詩</d><term>一口</term><term>瀾翻</term>倒
+    4구: 知我<term>平生</term>有<d>好<rhyme>緣</rhyme></d>
+--- gemini-3-flash-preview ---
+  형식: 근체시/절구
+  주제: 불교(buddhism), 기증(donate), 애상(sympathy), 회고(reminiscence)
+  본문:
+    1구: 兩相<term>風流</term>已<term>隔世</term>
+    2구: <term>孤臣</term><term>憔悴</term>亦<term>多<rhyme>年</rhyme></term>
+    3구: <d>舊詩</d>一口<d>瀾翻倒</d>
+    4구: 知我<term>平生</term>有<d>好<rhyme>緣</rhyme></d>
+--- gpt-5.5 ---
+  형식: 근체시/절구
+  주제: 기증(donate), 불교(buddhism), 문방(literature), 회고(reminiscence), 애상(sympathy), 강해(water), 식물(plant)
+  본문:
+    1구: <d>兩相</d><term>風流</term>已<term>隔世</term>
+    2구: <term>孤臣</term><term>憔悴</term>亦<term>多<rhyme>年</rhyme></term>
+    3구: <d>舊詩</d>一口<term>瀾翻</term>倒
+    4구: 知我<term>平生</term>有<d>好<rhyme>緣</rhyme></d>
+
+==================== P19488 ====================
+--- 원문 ---
+  형식: /
+  주제: (없음)
+  본문:
+    1구: <term>聖恩</term><term>優許</term><term>奉先</term>塋
+    2구: <term>頭上</term><term>蒼天</term><term>白日</term><rhyme>明</rhyme>
+    3구: <term>不識</term><term>殘生</term>能住却
+    4구: 得看<term>桃李</term>滿<term>都<rhyme>城</rhyme></term>
+--- claude-opus-4.7 ---
+  형식: 근체시/절구
+  주제: 송별(증시)(farewell), 천문(astro), 애상(sympathy), 식물(plant), 선영(structure), 성은(prosper)
+  본문:
+    1구: <term>聖恩</term>優許奉<term>先塋</term>
+    2구: 頭上<term>蒼天</term><term>白日</term><rhyme>明</rhyme>
+    3구: 不識<term>殘生</term>能住却
+    4구: 得看<term>桃李</term>滿<term>都<rhyme>城</rhyme></term>
+--- gemini-3-flash-preview ---
+  형식: 근체시/절구
+  주제: 식물(plant), 천문(astro), 기증(donate)
+  본문:
+    1구: <term>聖恩</term>優許奉<term>先塋</term>
+    2구: 頭上<term>蒼天</term><term>白日</term><rhyme>明</rhyme>
+    3구: 不識<term>殘生</term>能住却
+    4구: 得看<term>桃李</term>滿都<rhyme>城</rhyme>
+  QA 플래그: term/D: 알 수 없는 line_id: P1948804,text:
+--- gpt-5.5 ---
+  형식: 근체시/절구
+  주제: 기증(donate), 인물(person), 현달(prosper), 천문(astro), 천문(astro), 식물(plant), 애상(sympathy)
+  본문:
+    1구: <term>聖恩</term>優許奉<term>先塋</term>
+    2구: <term>頭上</term><term>蒼天</term><term>白日</term><rhyme>明</rhyme>
+    3구: 不識<term>殘生</term>能住却
+    4구: 得看<term>桃李</term>滿<term>都<rhyme>城</rhyme></term>
+
+==================== P19489 ====================
+--- 원문 ---
+  형식: /
+  주제: (없음)
+  본문:
+    1구: 滿山<term>明月</term><term>不如</term>歸
+    2구: <term>血赤</term>心丹盡夜<rhyme>啼</rhyme>
+    3구: <term>河上</term>晩歸歸<term>便好</term>
+    4구: <term>莫敎</term><term>驚覺</term>待<term>晨<rhyme>鷄</rhyme></term>
+--- claude-opus-4.7 ---
+  형식: 근체시/절구
+  주제: 산악(mountain), 동물(animal), 천문(astro), 애상(sympathy), 회고(reminiscence)
+  본문:
+    1구: <d>滿山</d><term>明月</term><term>不如歸</term>
+    2구: <term>血赤</term><d>心丹</d><d>盡夜<rhyme>啼</rhyme></d>
+    3구: <term>河上</term><d>晩歸</d>歸便好
+    4구: 莫敎<term>驚覺</term>待<term>晨<rhyme>鷄</rhyme></term>
+--- gemini-3-flash-preview ---
+  형식: 근체시/절구
+  주제: 동물(animal), 천문(astro), 산악(mountain), 애상(sympathy)
+  본문:
+    1구: <d>滿山</d><term>明月</term><term>不如歸</term>
+    2구: <term>血赤</term><d>心丹</d><d>盡夜<rhyme>啼</rhyme></d>
+    3구: <term>河上</term><d>晩歸</d>歸便好
+    4구: 莫敎<term>驚覺</term>待<term>晨<rhyme>鷄</rhyme></term>
+--- gpt-5.5 ---
+  형식: 근체시/절구
+  주제: 산악(mountain), 천문(astro), 동물(animal), 강해(water), 애상(sympathy)
+  본문:
+    1구: <d>滿山</d><term>明月</term><term>不如歸</term>
+    2구: <term>血赤</term><d>心丹</d><d>盡夜</d><rhyme>啼</rhyme>
+    3구: <term>河上</term><d>晩歸</d>歸便好
+    4구: 莫敎<term>驚覺</term>待<term>晨<rhyme>鷄</rhyme></term>
+  QA 플래그: term/D: P1948902: LLM이 반환한 시어 '夜啼'가 원문에 없음(환각 의심)
+
+==================== P19490 ====================
+--- 원문 ---
+  형식: /
+  주제: (없음)
+  본문:
+    1구: 漳河衮衮馬灘長
+    2구: <term>聞說</term><term>移家</term>住此<rhyme>傍</rhyme>
+    3구: 我亦<term>江湖</term>興不淺
+    4구: 卜鄰<term>漁釣</term><term>日相</term><rhyme>將</rhyme>
+--- claude-opus-4.7 ---
+  형식: 근체시/절구
+  주제: 한적(tranquility), 유람(travel), 송별(farewell)
+  본문:
+    1구: <d>漳河</d><d>衮衮</d><d>馬灘</d>長
+    2구: 聞說<term>移家</term>住此<rhyme>傍</rhyme>
+    3구: 我亦<term>江湖</term><d>興不淺</d>
+    4구: <d>卜鄰</d><term>漁釣</term>日<term>相<rhyme>將</rhyme></term>
+  QA 플래그: Theme: evidence 미검증(환각 의심): 馬灘/漳河
+--- gemini-3-flash-preview ---
+  형식: 근체시/절구
+  주제: 강해(water), 한적(tranquility), 기증(donate)
+  본문:
+    1구: <d>漳河</d>衮衮<d>馬灘</d>長
+    2구: 聞說<term>移家</term>住此<rhyme>傍</rhyme>
+    3구: 我亦<term>江湖</term><d>興不淺</d>
+    4구: <d>卜鄰</d><term>漁釣</term>日相<rhyme>將</rhyme>
+--- gpt-5.5 ---
+  형식: 근체시/절구
+  주제: 강해(water), 기증(donate), 인물(person), 한적(tranquility)
+  본문:
+    1구: <d>漳河</d><d>衮衮</d><d>馬灘</d>長
+    2구: 聞說<term>移家</term>住此<rhyme>傍</rhyme>
+    3구: 我亦<term>江湖</term>興<d>不淺</d>
+    4구: <d>卜鄰</d><term>漁釣</term>日相<rhyme>將</rhyme>
+
+==================== P19491 ====================
+--- 원문 ---
+  형식: /
+  주제: (없음)
+  본문:
+    1구: <term>世間</term><term>榮辱</term>儘<term>悠悠</term>
+    2구: <term>何處</term><term>藏身</term>可<term>自<rhyme>由</rhyme></term>
+    3구: <term>只合</term>任他<term>牛馬</term>我
+    4구: 蒼空<term>來往</term><term>白雲</term><rhyme>浮</rhyme>
+--- claude-opus-4.7 ---
+  형식: 근체시/절구
+  주제: 송별(farewell), 한적(tranquility), 인물(person)
+  본문:
+    1구: <term>世間</term><term>榮辱</term>儘<term>悠悠</term>
+    2구: 何處<term>藏身</term>可<term>自<rhyme>由</rhyme></term>
+    3구: 只合任他<term>牛馬</term>我
+    4구: <d>蒼空</d><term>來往</term><term>白雲</term><rhyme>浮</rhyme>
+--- gemini-3-flash-preview ---
+  형식: 근체시/절구
+  주제: 송별(farewell), 천문(astro), 동물(animal), 한적(tranquility)
+  본문:
+    1구: <term>世間</term><term>榮辱</term>儘<term>悠悠</term>
+    2구: <term>何處</term>藏身可<term>自<rhyme>由</rhyme></term>
+    3구: 只合任他<term>牛馬</term>我
+    4구: <d>蒼空</d><term>來往</term><term>白雲</term><rhyme>浮</rhyme>
+  QA 플래그: term/D: 알 수 없는 line_id: P1949102,text:
+--- gpt-5.5 ---
+  형식: 근체시/절구
+  주제: 송별(farewell), 산악(mountain), 인물(person), 동물(animal), 천문(astro), 한적(tranquility)
+  본문:
+    1구: <term>世間</term><term>榮辱</term>儘<term>悠悠</term>
+    2구: <term>何處</term><term>藏身</term>可<term>自<rhyme>由</rhyme></term>
+    3구: 只合任他<term>牛馬</term>我
+    4구: <d>蒼空</d><term>來往</term><term>白雲</term><rhyme>浮</rhyme>
+
+==================== P19492 ====================
+--- 원문 ---
+  형식: /
+  주제: (없음)
+  본문:
+    1구: 心送<term>金剛</term>萬二千
+    2구: 身無<term>羽翼</term>病相<rhyme>纏</rhyme>
+    3구: <term>一生</term>浮念皆<term>無用</term>
+    4구: 只艶君今<term>作吏</term><rhyme>仙</rhyme>
+--- claude-opus-4.7 ---
+  형식: 근체시/절구
+  주제: 송별(farewell), 산악(금강산)(mountain)
+  본문:
+    1구: <d>心送</d><d>金剛萬二千</d>
+    2구: 身無<term>羽翼</term><d>病相<rhyme>纏</rhyme></d>
+    3구: <term>一生</term><d>浮念</d>皆<term>無用</term>
+    4구: 只艶君今作<d>吏<rhyme>仙</rhyme></d>
+--- gemini-3-flash-preview ---
+  형식: 근체시/절구
+  주제: 송별(farewell), 산악(mountain), 도교(taoism), 애상(sympathy)
+  본문:
+    1구: 心送<term>金剛</term><d>萬二千</d>
+    2구: 身無<term>羽翼</term><d>病相<rhyme>纏</rhyme></d>
+    3구: <term>一生</term><d>浮念</d>皆<term>無用</term>
+    4구: 只艶君今作<d>吏<rhyme>仙</rhyme></d>
+--- gpt-5.5 ---
+  형식: 근체시/절구
+  주제: 송별(farewell), 산악(mountain), 인물(person), 현달(prosper), 도교(taoism)
+  본문:
+    1구: 心送<term>金剛</term><d>萬二千</d>
+    2구: 身無<term>羽翼</term><d>病相<rhyme>纏</rhyme></d>
+    3구: <term>一生</term><d>浮念</d>皆<term>無用</term>
+    4구: 只艶君今作<d>吏<rhyme>仙</rhyme></d>
+
+==================== P19493 ====================
+--- 원문 ---
+  형식: /
+  주제: (없음)
+  본문:
+    1구: <term>親舊</term><term>凋零</term><term>落落</term>稀
+    2구: <term>殘生</term>此世竟何<rhyme>歸</rhyme>
+    3구: <term>君家</term><term>後事</term>尤<term>無賴</term>
+    4구: <term>膝下</term><term>兒孫</term>得也<rhyme>非</rhyme>
+--- claude-opus-4.7 ---
+  형식: 근체시/절구
+  주제: 애상(sympathy), 애상(sympathy), 인물(person)
+  본문:
+    1구: <term>親舊</term><term>凋零</term><d>落落稀</d>
+    2구: <term>殘生</term><d>此世</d>竟何<rhyme>歸</rhyme>
+    3구: <term>君家</term><term>後事</term>尤<term>無賴</term>
+    4구: <term>膝下</term><term>兒孫</term>得也<rhyme>非</rhyme>
+--- gemini-3-flash-preview ---
+  형식: 근체시/절구
+  주제: 애상(sympathy), 인물(person), 인물(person)
+  본문:
+    1구: <term>親舊</term><term>凋零</term><d>落落稀</d>
+    2구: <term>殘生</term><d>此世</d>竟<d>何<rhyme>歸</rhyme></d>
+    3구: <term>君家</term><term>後事</term>尤無賴
+    4구: <term>膝下</term><term>兒孫</term>得也<rhyme>非</rhyme>
+  QA 플래그: term/D: 알 수 없는 line_id: P1949303 charm
+--- gpt-5.5 ---
+  형식: 근체시/절구
+  주제: 애상(sympathy), 인물(person)
+  본문:
+    1구: <term>親舊</term><term>凋零</term><term>落落</term>稀
+    2구: <term>殘生</term><d>此世</d>竟<d>何<rhyme>歸</rhyme></d>
+    3구: <term>君家</term><term>後事</term>尤<term>無賴</term>
+    4구: <term>膝下</term><term>兒孫</term>得也<rhyme>非</rhyme>
+
+==================== P19494 ====================
+--- 원문 ---
+  형식: /
+  주제: (없음)
+  본문:
+    1구: <term>雲松</term><term>童子</term><term>絶交</term>久
+    2구: 客<term>有因</term>人遠送<rhyme>來</rhyme>
+    3구: 知是高巖<term>寶蓋</term>上
+    4구: <term>山僧</term>喚我<term>出塵</term><rhyme>埃</rhyme>
+--- claude-opus-4.7 ---
+  형식: 근체시/절구
+  주제: 기증(송이버섯을 보냄)(donate), 불교(산승)(buddhism), 한적(탈속)(tranquility)
+  본문:
+    1구: <term>雲松</term><term>童子</term><term>絶交</term>久
+    2구: 客有因人遠送<rhyme>來</rhyme>
+    3구: 知是<d>高巖</d><term>寶蓋</term>上
+    4구: <term>山僧</term>喚我出<term>塵<rhyme>埃</rhyme></term>
+  QA 플래그: Theme: evidence 미검증(환각 의심): 松蕈／雲松; Theme: evidence 미검증(환각 의심): 鐵原山／高巖
+--- gemini-3-flash-preview ---
+  형식: 근체시/절구
+  주제: 기증(donate), 식물(plant), 산악(mountain), 불교(buddhism), 한적(tranquility)
+  본문:
+    1구: <term>雲松</term><term>童子</term><term>絶交</term>久
+    2구: 客有<d>因人</d>遠送<rhyme>來</rhyme>
+    3구: 知是<d>高巖</d><term>寶蓋</term>上
+    4구: <term>山僧</term>喚我出<term>塵<rhyme>埃</rhyme></term>
+--- gpt-5.5 ---
+  형식: 근체시/절구
+  주제: 산악(mountain), 식물(plant), 기증(donate), 불교(buddhism), 한적(tranquility), 인물(person)
+  본문:
+    1구: <d>雲松童子</d><term>絶交</term>久
+    2구: 客有因人<d>遠送</d><rhyme>來</rhyme>
+    3구: 知是<d>高巖</d><term>寶蓋</term>上
+    4구: <term>山僧</term>喚我出<term>塵<rhyme>埃</rhyme></term>
+
+==================== P19495 ====================
+--- 원문 ---
+  형식: /
+  주제: (없음)
+  본문:
+    1구: <term>德言</term>猶足畏<term>鄕人</term>
+    2구: <term>我自</term><term>和光</term>混野<rhyme>塵</rhyme>
+    3구: <term>三代</term><term>斯民</term><term>直道</term>在
+    4구: 願<term>從今</term>日共回<rhyme>淳</rhyme>
+--- claude-opus-4.7 ---
+  형식: 근체시/절구
+  주제: 기타(향중 수재들에게 부침)(others), 인물(향인)(person)
+  본문:
+    1구: <term>德言</term>猶足畏<term>鄕人</term>
+    2구: 我自<term>和光</term>混<d>野<rhyme>塵</rhyme></d>
+    3구: <term>三代</term><term>斯民</term><term>直道</term>在
+    4구: 願從<term>今日</term>共<d>回<rhyme>淳</rhyme></d>
+--- gemini-3-flash-preview ---
+  형식: 근체시/절구
+  주제: 기증(donate), 한적(tranquility), 인물(person)
+  본문:
+    1구: <term>德言</term>猶足畏<term>鄕人</term>
+    2구: 我自<term>和光</term>混<d>野<rhyme>塵</rhyme></d>
+    3구: <term>三代</term><term>斯民</term><term>直道</term>在
+    4구: 願從<term>今日</term>共<d>回<rhyme>淳</rhyme></d>
+--- gpt-5.5 ---
+  형식: 근체시/절구
+  주제: 인물(person), 도교(taoism), 한적(tranquility)
+  본문:
+    1구: <term>德言</term>猶足畏<term>鄕人</term>
+    2구: 我自<term>和光</term>混<d>野<rhyme>塵</rhyme></d>
+    3구: <term>三代</term><term>斯民</term><term>直道</term>在
+    4구: 願從<term>今日</term>共<d>回<rhyme>淳</rhyme></d>
+
+==================== P19496 ====================
+--- 원문 ---
+  형식: /
+  주제: (없음)
+  본문:
+    1구: 君<term>能有</term>子<term>全家</term>孝
+    2구: 我愧頭男敗着<rhyme>先</rhyme>
+    3구: <term>人世</term><term>嘵嘵</term><term>不足</term>道
+    4구: <term>靑山</term>一笑<term>喜懽</term><rhyme>緣</rhyme>
+--- claude-opus-4.7 ---
+  형식: 근체시/절구
+  주제: 애상(만시)(sympathy), 인물(이동지 오)(person), 산악(청산)(mountain)
+  본문:
+    1구: 君能有子<d>全家孝</d>
+    2구: 我愧<d>頭男</d><d>敗着</d><rhyme>先</rhyme>
+    3구: <term>人世</term><term>嘵嘵</term><term>不足道</term>
+    4구: <term>靑山</term><d>一笑</d><d>喜懽<rhyme>緣</rhyme></d>
+--- gemini-3-flash-preview ---
+  형식: 근체시/절구
+  주제: 애상(sympathy), 산악(mountain), 인물(person)
+  본문:
+    1구: 君能<d>有子</d><d>全家孝</d>
+    2구: 我愧<d>頭男</d><d>敗着</d><rhyme>先</rhyme>
+    3구: <term>人世</term><term>嘵嘵</term><term>不足道</term>
+    4구: <term>靑山</term><d>一笑</d><d>喜懽<rhyme>緣</rhyme></d>
+--- gpt-5.5 ---
+  형식: 근체시/절구
+  주제: 애상(sympathy), 인물(person), 산악(mountain)
+  본문:
+    1구: 君能<d>有子</d><term>全家</term>孝
+    2구: 我愧<d>頭男</d><d>敗着</d><rhyme>先</rhyme>
+    3구: <term>人世</term><term>嘵嘵</term><term>不足道</term>
+    4구: <term>靑山</term><d>一笑</d><d>喜懽<rhyme>緣</rhyme></d>
+
+==================== P19497 ====================
+--- 원문 ---
+  형식: /
+  주제: (없음)
+  본문:
+    1구: 松桂林中二樂樓
+    2구: 樓前<term>水曲</term>爾居<rhyme>幽</rhyme>
+    3구: <term>昔年</term>勝賞今<term>遺恨</term>
+    4구: <term>失却</term>飛攀一放<rhyme>眸</rhyme>
+--- claude-opus-4.7 ---
+  형식: 근체시/절구
+  주제: 인물(지종한에게 부침)(person), 건물(이요루)(structure), 회고(reminiscence), 애상(유한)(sympathy), 식물(송계림)(plant), 강해(수곡)(water), 한적(거유)(tranquility)
+  본문:
+    1구: <d>松桂林</d>中<d>二樂樓</d>
+    2구: 樓前<term>水曲</term>爾<d>居<rhyme>幽</rhyme></d>
+    3구: <term>昔年</term><d>勝賞</d>今<term>遺恨</term>
+    4구: 失却<d>飛攀</d>一<d>放<rhyme>眸</rhyme></d>
+--- gemini-3-flash-preview ---
+  형식: 근체시/절구
+  주제: 강해(water), 회고(reminiscence), 애상(sympathy), 기증(donate)
+  본문:
+    1구: <d>松桂林</d>中<d>二樂樓</d>
+    2구: 樓前<term>水曲</term>爾<d>居<rhyme>幽</rhyme></d>
+    3구: <term>昔年</term><d>勝賞</d>今<term>遺恨</term>
+    4구: 失却<d>飛攀</d>一<d>放<rhyme>眸</rhyme></d>
+--- gpt-5.5 ---
+  형식: 근체시/절구
+  주제: 인물(person), 식물(plant), 건물(structure), 강해(water), 회고(reminiscence), 애상(sympathy), 한적(tranquility), 유람(travel)
+  본문:
+    1구: <d>松桂林</d>中<d>二樂樓</d>
+    2구: <d>樓前</d><term>水曲</term>爾<d>居<rhyme>幽</rhyme></d>
+    3구: <term>昔年</term><d>勝賞</d>今<term>遺恨</term>
+    4구: 失却<d>飛攀</d>一<d>放<rhyme>眸</rhyme></d>
+
+==================== P19498 ====================
+--- 원문 ---
+  형식: /
+  주제: (없음)
+  본문:
+    1구: 潮生潮落廣漳河
+    2구: 屋下<term>大橋</term><term>秋水</term><rhyme>多</rhyme>
+    3구: 一櫂<term>往來</term>閑<term>自在</term>
+    4구: 葦間<term>明月</term>聽<term>漁<rhyme>歌</rhyme></term>
+--- claude-opus-4.7 ---
+  형식: 근체시/절구
+  주제: 강해(water), 건물(structure), 천문(astro), 한적(tranquility), 계절(season), 인물(person)
+  본문:
+    1구: <d>潮生潮落</d><d>廣漳河</d>
+    2구: 屋下<term>大橋</term><term>秋水</term><rhyme>多</rhyme>
+    3구: <d>一櫂</d><term>往來</term><d>閑自在</d>
+    4구: <d>葦間</d><term>明月</term>聽<term>漁<rhyme>歌</rhyme></term>
+--- gemini-3-flash-preview ---
+  형식: 근체시/절구
+  주제: 건물(structure), 강해(water), 천문(astro), 한적(tranquility), 계절(season)
+  본문:
+    1구: <d>潮生</d><d>潮落</d><d>廣漳河</d>
+    2구: <d>屋下</d><term>大橋</term>秋水<rhyme>多</rhyme>
+    3구: <d>一櫂</d><term>往來</term><d>閑自在</d>
+    4구: <d>葦間</d><term>明月</term>聽<term>漁<rhyme>歌</rhyme></term>
+  QA 플래그: term/D: 알 수 없는 line_id: P1949802 charm
+--- gpt-5.5 ---
+  형식: 근체시/절구
+  주제: 강해(water), 천문(astro), 계절(season), 유람(travel), 한적(tranquility), 건물(structure)
+  본문:
+    1구: <d>潮生</d><d>潮落</d><d>廣漳河</d>
+    2구: <d>屋下</d><term>大橋</term><term>秋水</term><rhyme>多</rhyme>
+    3구: <d>一櫂</d><term>往來</term><d>閑自在</d>
+    4구: <d>葦間</d><term>明月</term>聽<term>漁<rhyme>歌</rhyme></term>
+
+==================== P19499 ====================
+--- 원문 ---
+  형식: /
+  주제: (없음)
+  본문:
+    1구: 石高三丈躍將飛
+    2구: <term>一體</term><term>騰空</term>仰首<rhyme>姿</rhyme>
+    3구: <term>天下</term>亦無此<term>奇秀</term>
+    4구: 氣<term>鍾人</term>物問<term>他<rhyme>誰</rhyme></term>
+--- claude-opus-4.7 ---
+  형식: 근체시/절구
+  주제: 산악(mountain), 회고(reminiscence), 인물(person)
+  본문:
+    1구: <d>石高</d><d>三丈</d><d>躍將飛</d>
+    2구: <term>一體</term><term>騰空</term><d>仰首<rhyme>姿</rhyme></d>
+    3구: <term>天下</term>亦無此<term>奇秀</term>
+    4구: <d>氣鍾</d><term>人物</term>問他<rhyme>誰</rhyme>
+--- gemini-3-flash-preview ---
+  형식: 근체시/절구
+  주제: 산악(mountain), 인물(person), 인물(person), 회고(reminiscence)
+  본문:
+    1구: <d>石高</d><d>三丈</d>躍將飛
+    2구: <term>一體</term><term>騰空</term><d>仰首<rhyme>姿</rhyme></d>
+    3구: <term>天下</term>亦無此<term>奇秀</term>
+    4구: <d>氣鍾</d><term>人物</term>問他<rhyme>誰</rhyme>
+--- gpt-5.5 ---
+  형식: 근체시/절구
+  주제: 산악(mountain), 동물(animal), 인물(person), 건물(structure)
+  본문:
+    1구: 石高<d>三丈</d>躍將飛
+    2구: <term>一體</term><term>騰空</term><d>仰首<rhyme>姿</rhyme></d>
+    3구: <term>天下</term>亦無此<term>奇秀</term>
+    4구: <d>氣鍾</d><term>人物</term>問他<rhyme>誰</rhyme>
+
+==================== P19500 ====================
+--- 원문 ---
+  형식: /
+  주제: (없음)
+  본문:
+    1구: <term>聖朝</term><term>菲薄</term><term>自相</term>殊
+    2구: <term>藥物</term><term>君臣</term>性<term>不<rhyme>誣</rhyme></term>
+    3구: 多病所須唯在此
+    4구: <term>刀圭</term>能濟<term>故人</term><rhyme>無</rhyme>
+--- claude-opus-4.7 ---
+  형식: 근체시/절구
+  주제: 기증(약을 빌림)(donate), 회방(희수 축하)(meet), 애상(병고)(sympathy)
+  본문:
+    1구: <term>聖朝</term><term>菲薄</term>自相殊
+    2구: <term>藥物</term><term>君臣</term>性不<rhyme>誣</rhyme>
+    3구: <d>多病</d>所須唯在此
+    4구: <term>刀圭</term>能濟<term>故人</term><rhyme>無</rhyme>
+  QA 플래그: Theme: evidence 미검증(환각 의심): 沈閣老一松/故人; Theme: evidence 미검증(환각 의심): 藥物/刀圭
+--- gemini-3-flash-preview ---
+  형식: 근체시/절구
+  주제: 기증(donate), 인물(person), 기용(object)
+  본문:
+    1구: <term>聖朝</term><term>菲薄</term>自相殊
+    2구: <term>藥物</term><term>君臣</term>性不<rhyme>誣</rhyme>
+    3구: <d>多病</d>所須唯在此
+    4구: <term>刀圭</term>能濟<term>故人</term><rhyme>無</rhyme>
+--- gpt-5.5 ---
+  형식: 근체시/절구
+  주제: 기용(object), 인물(person), 현달(prosper)
+  본문:
+    1구: <term>聖朝</term><term>菲薄</term>自相殊
+    2구: <term>藥物</term><term>君臣</term>性不<rhyme>誣</rhyme>
+    3구: <d>多病</d><d>所須</d>唯在此
+    4구: <term>刀圭</term>能濟<term>故人</term><rhyme>無</rhyme>
+
+==================== P19501 ====================
+--- 원문 ---
+  형식: /
+  주제: (없음)
+  본문:
+    1구: <term>碧桃</term><term>春色</term>泛<term>西湖</term>
+    2구: 不羡<term>風流</term>范<term>大<rhyme>夫</rhyme></term>
+    3구: <term>惆悵</term><term>舊游</term>今<term>寂寞</term>
+    4구: <term>潯陽</term><term>咫尺</term>亦難<rhyme>呼</rhyme>
+--- claude-opus-4.7 ---
+  형식: 근체시/절구
+  주제: 염정(기녀에게 희증)(desire), 인물(범대부)(person), 강해(서호)(water), 식물(벽도)(plant), 계절(봄)(season), 회고(옛 놀던 일)(reminiscence), 애상(추창·적막)(sympathy)
+  본문:
+    1구: <term>碧桃</term><term>春色</term>泛<term>西湖</term>
+    2구: 不羡<term>風流</term><d>范大<rhyme>夫</rhyme></d>
+    3구: <term>惆悵</term><term>舊游</term>今<term>寂寞</term>
+    4구: <term>潯陽</term><term>咫尺</term>亦<d>難<rhyme>呼</rhyme></d>
+--- gemini-3-flash-preview ---
+  형식: 근체시/절구
+  주제: 식물(plant), 계절(season), 강해(water), 애상(sympathy), 회고(reminiscence), 기증(donate)
+  본문:
+    1구: <term>碧桃</term><term>春色</term>泛<term>西湖</term>
+    2구: 不羡<term>風流</term><d>范大<rhyme>夫</rhyme></d>
+    3구: <term>惆悵</term><term>舊游</term>今<term>寂寞</term>
+    4구: <term>潯陽</term><term>咫尺</term>亦難<rhyme>呼</rhyme>
+--- gpt-5.5 ---
+  형식: 근체시/절구
+  주제: 기증(donate), 식물(plant), 계절(season), 강해(water), 염정(desire), 애상(sympathy), 회고(reminiscence), 인물(person)
+  본문:
+    1구: <term>碧桃</term><term>春色</term>泛<term>西湖</term>
+    2구: 不羡<term>風流</term><d>范大<rhyme>夫</rhyme></d>
+    3구: <term>惆悵</term><term>舊游</term>今<term>寂寞</term>
+    4구: <term>潯陽</term><term>咫尺</term>亦難<rhyme>呼</rhyme>
+
+==================== P19502 ====================
+--- 원문 ---
+  형식: /
+  주제: (없음)
+  본문:
+    1구: <term>盡室</term>登舟泊鷺梁
+    2구: <term>回頭</term><term>京輦</term>却<term>心<rhyme>傷</rhyme></term>
+    3구: <term>向來</term>十五年前事
+    4구: 都付江流送<term>渺<rhyme>茫</rhyme></term>
+--- claude-opus-4.7 ---
+  형식: 근체시/절구
+  주제: 유람(travel), 송별(farewell), 애상(sympathy), 회고(reminiscence)
+  본문:
+    1구: <term>盡室</term><d>登舟</d>泊<d>鷺梁</d>
+    2구: <term>回頭</term><term>京輦</term>却<term>心<rhyme>傷</rhyme></term>
+    3구: <term>向來</term><d>十五年</d><d>前事</d>
+    4구: 都付<d>江流</d>送<term>渺<rhyme>茫</rhyme></term>
+  QA 플래그: Theme: evidence 미검증(환각 의심): 鷺梁/江流
+--- gemini-3-flash-preview ---
+  형식: 근체시/절구
+  주제: 강해(water), 회고(reminiscence), 애상(sympathy), 송별(farewell)
+  본문:
+    1구: <term>盡室</term><d>登舟</d>泊<d>鷺梁</d>
+    2구: <term>回頭</term><term>京輦</term>却<term>心<rhyme>傷</rhyme></term>
+    3구: <term>向來</term><d>十五年前事</d>
+    4구: 都付<d>江流</d>送<term>渺<rhyme>茫</rhyme></term>
+--- gpt-5.5 ---
+  형식: 근체시/절구
+  주제: 유람(travel), 애상(sympathy), 회고(reminiscence), 인물(person), 기증(donate)
+  본문:
+    1구: <term>盡室</term><d>登舟</d>泊<d>鷺梁</d>
+    2구: <term>回頭</term><term>京輦</term>却<term>心<rhyme>傷</rhyme></term>
+    3구: 向來<d>十五年前事</d>
+    4구: 都付<d>江流</d>送<term>渺<rhyme>茫</rhyme></term>
+  QA 플래그: Theme: evidence 미검증(환각 의심): 登舟泊鷺梁 / 江流
+
+==================== P19503 ====================
+--- 원문 ---
+  형식: /
+  주제: (없음)
+  본문:
+    1구: <term>風流</term><term>故事</term>艶曾聞
+    2구: <term>何幸</term><term>生年</term>亦已<rhyme>尊</rhyme>
+    3구: 媿殺未登<term>公讌</term>席
+    4구: 一盆<term>春酒</term>却先<rhyme>醺</rhyme>
+--- claude-opus-4.7 ---
+  형식: 근체시/절구
+  주제: 인물(person), 회방(meet), 기용(object)
+  본문:
+    1구: <term>風流</term><term>故事</term>艶曾聞
+    2구: 何幸<term>生年</term>亦已<rhyme>尊</rhyme>
+    3구: <d>媿殺</d>未登<d>公讌席</d>
+    4구: <d>一盆</d><term>春酒</term>却先<rhyme>醺</rhyme>
+  QA 플래그: Theme: evidence 미검증(환각 의심): 惠酒饌/春酒
+--- gemini-3-flash-preview ---
+  형식: 근체시/절구
+  주제: 기증(donate), 계절(season), 기용(object), 인물(person)
+  본문:
+    1구: <term>風流</term><term>故事</term>艶曾聞
+    2구: 何幸<term>生年</term>亦已<rhyme>尊</rhyme>
+    3구: 媿殺未登<d>公讌席</d>
+    4구: <d>一盆</d><term>春酒</term>却先<rhyme>醺</rhyme>
+--- gpt-5.5 ---
+  형식: 근체시/절구
+  주제: 기증(donate), 계절(season), 인물(person)
+  본문:
+    1구: <d>風流故事</d>艶曾聞
+    2구: 何幸<term>生年</term>亦已<rhyme>尊</rhyme>
+    3구: 媿殺未登<d>公讌席</d>
+    4구: 一盆<term>春酒</term>却先<rhyme>醺</rhyme>
+  QA 플래그: Theme: evidence 미검증(환각 의심): 酒饌 / 春酒
+
+==================== P19504 ====================
+--- 원문 ---
+  형식: /
+  주제: (없음)
+  본문:
+    1구: 江店<term>僑居</term>萬念休
+    2구: 浴<term>鳧飛</term>鷺晩<term>悠<rhyme>悠</rhyme></term>
+    3구: 僧來<term>驚散</term><term>忘機</term>伴
+    4구: 又攪<term>衰翁</term><term>覓句</term><rhyme>愁</rhyme>
+--- claude-opus-4.7 ---
+  형식: 근체시/절구
+  주제: 증정시(farewell), 한적(tranquility), 동물(오리·백로)(animal), 강해(water), 문방(시 짓기)(literature), 애상(노쇠 감회)(sympathy)
+  본문:
+    1구: <d>江店</d><term>僑居</term><d>萬念休</d>
+    2구: <d>浴鳧</d><d>飛鷺</d>晩<term>悠<rhyme>悠</rhyme></term>
+    3구: 僧來驚散<d>忘機伴</d>
+    4구: 又攪<term>衰翁</term><d>覓句<rhyme>愁</rhyme></d>
+  QA 플래그: Theme: evidence 미검증(환각 의심): 僧熙彦來訪 / 僧來
+--- gemini-3-flash-preview ---
+  형식: 근체시/절구
+  주제: 불교(buddhism), 회방(meet), 기증(donate), 한적(tranquility), 동물(animal), 강해(water)
+  본문:
+    1구: <d>江店</d><term>僑居</term><d>萬念休</d>
+    2구: <d>浴鳧</d><d>飛鷺</d>晩<term>悠<rhyme>悠</rhyme></term>
+    3구: 僧來驚散<d>忘機伴</d>
+    4구: 又攪<term>衰翁</term><d>覓句<rhyme>愁</rhyme></d>
+--- gpt-5.5 ---
+  형식: 근체시/절구
+  주제: 강해(water), 불교(buddhism), 회방(meet), 기증(donate), 동물(animal), 유람(travel), 인물(person), 애상(sympathy)
+  본문:
+    1구: <d>江店</d><term>僑居</term><d>萬念</d>休
+    2구: <d>浴鳧</d><d>飛鷺</d><d>晩悠<rhyme>悠</rhyme></d>
+    3구: 僧來驚散<d>忘機伴</d>
+    4구: 又攪<term>衰翁</term><d>覓句<rhyme>愁</rhyme></d>
+
+==================== P19505 ====================
+--- 원문 ---
+  형식: /
+  주제: (없음)
+  본문:
+    1구: 憐君<term>才調</term>久<term>沈淪</term>
+    2구: 一作<term>江南</term><term>奉表</term><rhyme>臣</rhyme>
+    3구: 萬里<term>幽燕</term>收脚底
+    4구: 回家<term>百里</term>未<term>歸<rhyme>人</rhyme></term>
+--- claude-opus-4.7 ---
+  형식: 근체시/절구
+  주제: 애상(만시)(sympathy), 변새(유연 지역)(frontier), 유람(만리 원행)(travel), 인물(이수준)(person)
+  본문:
+    1구: 憐君<term>才調</term>久<term>沈淪</term>
+    2구: 一作<term>江南</term><d>奉表<rhyme>臣</rhyme></d>
+    3구: <d>萬里</d><term>幽燕</term>收<d>脚底</d>
+    4구: 回家<term>百里</term><d>未歸<rhyme>人</rhyme></d>
+--- gemini-3-flash-preview ---
+  형식: 근체시/절구
+  주제: 애상(sympathy), 인물(person)
+  본문:
+    1구: 憐君<term>才調</term>久<term>沈淪</term>
+    2구: 一作<term>江南</term><d>奉表<rhyme>臣</rhyme></d>
+    3구: <d>萬里</d>幽燕收<d>脚底</d>
+    4구: <d>回家</d><term>百里</term><d>未歸<rhyme>人</rhyme></d>
+  QA 플래그: term/D: 알 수 없는 line_id: P1950503 charm
+--- gpt-5.5 ---
+  형식: 근체시/절구
+  주제: 애상(sympathy), 인물(person)
+  본문:
+    1구: 憐君<term>才調</term>久<term>沈淪</term>
+    2구: 一作<term>江南</term><d>奉表<rhyme>臣</rhyme></d>
+    3구: <d>萬里</d><term>幽燕</term>收<d>脚底</d>
+    4구: 回家<term>百里</term><d>未歸<rhyme>人</rhyme></d>
+
+==================== P19506 ====================
+--- 원문 ---
+  형식: /
+  주제: (없음)
+  본문:
+    1구: <term>節度</term>瓌奇脫<term>世塵</term>
+    2구: 君才<term>磊落</term>亦<term>超<rhyme>倫</rhyme></term>
+    3구: <term>如何</term>兩世皆<term>無祿</term>
+    4구: 五十<term>云亡</term>愴我<rhyme>神</rhyme>
+--- claude-opus-4.7 ---
+  형식: 근체시/절구
+  주제: 애상(sympathy), 인물(person)
+  본문:
+    1구: <term>節度</term><d>瓌奇</d>脫<term>世塵</term>
+    2구: <d>君才</d><term>磊落</term>亦<term>超<rhyme>倫</rhyme></term>
+    3구: 如何<d>兩世</d>皆<term>無祿</term>
+    4구: <d>五十</d><term>云亡</term>愴<d>我<rhyme>神</rhyme></d>
+--- gemini-3-flash-preview ---
+  형식: 근체시/절구
+  주제: 애상(sympathy), 애상(sympathy), 인물(person)
+  본문:
+    1구: <term>節度</term><d>瓌奇</d>脫<term>世塵</term>
+    2구: <d>君才</d><term>磊落</term>亦<term>超<rhyme>倫</rhyme></term>
+    3구: 如何<d>兩世</d>皆<term>無祿</term>
+    4구: <d>五十</d><term>云亡</term><d>愴我<rhyme>神</rhyme></d>
+--- gpt-5.5 ---
+  형식: 근체시/절구
+  주제: 애상(sympathy), 인물(person)
+  본문:
+    1구: <term>節度</term><d>瓌奇</d>脫<term>世塵</term>
+    2구: <d>君才</d><term>磊落</term>亦<term>超<rhyme>倫</rhyme></term>
+    3구: 如何<d>兩世</d>皆<term>無祿</term>
+    4구: <d>五十</d><term>云亡</term>愴<d>我<rhyme>神</rhyme></d>
+
+==================== P19507 ====================
+--- 원문 ---
+  형식: /
+  주제: (없음)
+  본문:
+    1구: <term>金陵</term>渡<term>險遠</term>來過
+    2구: 舊意<term>殷勤</term><term>惜別</term><rhyme>何</rhyme>
+    3구: <term>誰料</term><term>歡迎</term><term>軟脚</term>日
+    4구: 却聞<term>薤露</term>動<term>哀<rhyme>歌</rhyme></term>
+--- claude-opus-4.7 ---
+  형식: 근체시/절구
+  주제: 애상(만시)(sympathy), 송별(석별의 회상)(farewell), 인물(이수준에 대한 만시)(person)
+  본문:
+    1구: <d>金陵渡</d><term>險遠</term>來過
+    2구: <d>舊意</d><term>殷勤</term><term>惜別</term><rhyme>何</rhyme>
+    3구: 誰料<term>歡迎</term><term>軟脚</term>日
+    4구: 却聞<term>薤露</term>動<term>哀<rhyme>歌</rhyme></term>
+--- gemini-3-flash-preview ---
+  형식: 근체시/절구
+  주제: 애상(sympathy), 애상(sympathy), 송별(farewell), 애상(sympathy)
+  본문:
+    1구: <d>金陵渡</d><term>險遠</term>來過
+    2구: <d>舊意</d><term>殷勤</term><term>惜別</term><rhyme>何</rhyme>
+    3구: 誰料<term>歡迎</term><d>軟脚日</d>
+    4구: 却聞<term>薤露</term>動<term>哀<rhyme>歌</rhyme></term>
+--- gpt-5.5 ---
+  형식: 근체시/절구
+  주제: 애상(sympathy), 송별(farewell), 회방(meet), 강해(water), 인물(person)
+  본문:
+    1구: <d>金陵渡</d><term>險遠</term>來過
+    2구: <d>舊意</d><term>殷勤</term><term>惜別</term><rhyme>何</rhyme>
+    3구: 誰料<term>歡迎</term><d>軟脚日</d>
+    4구: 却聞<term>薤露</term>動<term>哀<rhyme>歌</rhyme></term>
+
+==================== P19508 ====================
+--- 원문 ---
+  형식: /
+  주제: (없음)
+  본문:
+    1구: <term>提携</term>二子淑<term>夫人</term>
+    2구: <term>百里</term><term>馳奔</term>欲及<rhyme>晨</rhyme>
+    3구: <term>契闊</term>未成相<term>永訣</term>
+    4구: <term>蒼天</term><term>漠漠</term><term>更號</term><rhyme>神</rhyme>
+--- claude-opus-4.7 ---
+  형식: 근체시/절구
+  주제: 애상(sympathy), 애상(sympathy), 인물(person), 천문(astro)
+  본문:
+    1구: <term>提携</term><d>二子</d><d>淑夫人</d>
+    2구: <term>百里</term><term>馳奔</term>欲及<rhyme>晨</rhyme>
+    3구: <term>契闊</term>未成相<term>永訣</term>
+    4구: <term>蒼天</term><term>漠漠</term>更<d>號<rhyme>神</rhyme></d>
+--- gemini-3-flash-preview ---
+  형식: 근체시/절구
+  주제: 애상(sympathy), 애상(sympathy), 천문(astro)
+  본문:
+    1구: 提携<d>二子</d><d>淑夫人</d>
+    2구: <term>百里</term><term>馳奔</term>欲及<rhyme>晨</rhyme>
+    3구: <term>契闊</term><d>未成</d>相<term>永訣</term>
+    4구: <term>蒼天</term><term>漠漠</term>更<d>號<rhyme>神</rhyme></d>
+--- gpt-5.5 ---
+  형식: 근체시/절구
+  주제: 애상(sympathy), 인물(person), 송별(farewell), 천문(astro)
+  본문:
+    1구: 提携<d>二子</d><d>淑夫人</d>
+    2구: <term>百里</term>馳奔欲及<rhyme>晨</rhyme>
+    3구: <term>契闊</term>未成相<term>永訣</term>
+    4구: <term>蒼天</term><term>漠漠</term>更號<rhyme>神</rhyme>
+
+==================== P19509 ====================
+--- 원문 ---
+  형식: /
+  주제: (없음)
+  본문:
+    1구: 古寺鍾聲散月晨
+    2구: 舟<term>中宿</term>客到前<rhyme>津</rhyme>
+    3구: <term>老夫</term>始覺江村興
+    4구: <term>饋送</term><term>生魚</term><term>得雋</term><rhyme>新</rhyme>
+--- claude-opus-4.7 ---
+  형식: 근체시/절구
+  주제: 불교(사찰)(buddhism), 강해(노량 나루)(water), 기증(생선을 보내옴)(donate), 동물(물고기)(animal), 인물(이석성 덕언)(person), 건물(보은사)(structure)
+  본문:
+    1구: <d>古寺</d><d>鍾聲</d>散<d>月晨</d>
+    2구: <d>舟中</d><term>宿客</term>到<d>前<rhyme>津</rhyme></d>
+    3구: <term>老夫</term>始覺<d>江村興</d>
+    4구: <term>饋送</term><term>生魚</term>得<d>雋<rhyme>新</rhyme></d>
+--- gemini-3-flash-preview ---
+  형식: 근체시/절구
+  주제: 불교(buddhism), 강해(water), 기증(donate), 천문(astro), 동물(animal), 한적(tranquility)
+  본문:
+    1구: <d>古寺</d><d>鍾聲</d>散<d>月晨</d>
+    2구: <d>舟中</d>宿客到<d>前<rhyme>津</rhyme></d>
+    3구: <term>老夫</term>始覺<d>江村興</d>
+    4구: <term>饋送</term><term>生魚</term>得<d>雋<rhyme>新</rhyme></d>
+  QA 플래그: term/D: 알 수 없는 line_id: P1950902 charm
+--- gpt-5.5 ---
+  형식: 근체시/절구
+  주제: 불교(buddhism), 강해(water), 유람(travel), 기증(donate), 동물(animal), 천문(astro), 인물(person), 건물(structure)
+  본문:
+    1구: <d>古寺</d><d>鍾聲</d>散<d>月晨</d>
+    2구: <d>舟中</d><term>宿客</term>到<d>前<rhyme>津</rhyme></d>
+    3구: <term>老夫</term>始覺<d>江村興</d>
+    4구: 饋送<term>生魚</term>得<d>雋<rhyme>新</rhyme></d>
+
+==================== P19510 ====================
+--- 원문 ---
+  형식: /
+  주제: (없음)
+  본문:
+    1구: 典汝<term>安心</term>祖<term>有言</term>
+    2구: 還能回<term>志向</term>人<rhyme>溫</rhyme>
+    3구: <term>一身</term><term>作用</term><term>無他</term>說
+    4구: 我亦從知<term>不二</term><rhyme>門</rhyme>
+--- claude-opus-4.7 ---
+  형식: 근체시/절구
+  주제: 불교(buddhism), 인물(person)
+  본문:
+    1구: <d>典汝安心</d><d>祖有言</d>
+    2구: 還能<d>回志</d><d>向人<rhyme>溫</rhyme></d>
+    3구: <term>一身</term><term>作用</term>無他說
+    4구: 我亦從知<term>不二<rhyme>門</rhyme></term>
+--- gemini-3-flash-preview ---
+  형식: 근체시/절구
+  주제: 불교(buddhism), 불교(buddhism), 한적(tranquility)
+  본문:
+    1구: 典汝<term>安心</term><d>祖有言</d>
+    2구: 還能<d>回志</d>向人<rhyme>溫</rhyme>
+    3구: <term>一身</term><term>作用</term>無他說
+    4구: 我亦從知<term>不二<rhyme>門</rhyme></term>
+--- gpt-5.5 ---
+  형식: 근체시/절구
+  주제: 불교(buddhism), 불교(buddhism), 기용(object)
+  본문:
+    1구: 典汝<term>安心</term>祖有言
+    2구: 還能<d>回志</d>向<d>人<rhyme>溫</rhyme></d>
+    3구: <term>一身</term><term>作用</term><d>無他說</d>
+    4구: 我亦從知<term>不二<rhyme>門</rhyme></term>
+
+==================== P19511 ====================
+--- 원문 ---
+  형식: /
+  주제: (없음)
+  본문:
+    1구: 卷裏溪公廿八言
+    2구: <term>乖違</term>十載當<term>寒<rhyme>溫</rhyme></term>
+    3구: 已無<term>驚惱</term>應同我
+    4구: <term>憂喜</term><term>從前</term>幾聚<rhyme>門</rhyme>
+--- claude-opus-4.7 ---
+  형식: 근체시/절구
+  주제: 문방(시축 제사)(literature), 문방(화운)(literature), 인물(최립)(person), 애상(우희의 감회)(sympathy), 회고(지난 일 회상)(reminiscence)
+  본문:
+    1구: <d>卷裏</d><d>溪公</d><d>廿八言</d>
+    2구: <term>乖違</term><d>十載</d>當<term>寒<rhyme>溫</rhyme></term>
+    3구: 已無<term>驚惱</term>應同我
+    4구: <term>憂喜</term><term>從前</term>幾<d>聚<rhyme>門</rhyme></d>
+--- gemini-3-flash-preview ---
+  형식: 근체시/절구
+  주제: 계절(season), 애상(sympathy), 회고(reminiscence)
+  본문:
+    1구: <d>卷裏</d><d>溪公</d><d>廿八言</d>
+    2구: <term>乖違</term><d>十載</d>當<term>寒<rhyme>溫</rhyme></term>
+    3구: 已<d>無驚惱</d>應同我
+    4구: <term>憂喜</term><term>從前</term>幾<d>聚<rhyme>門</rhyme></d>
+--- gpt-5.5 ---
+  형식: 근체시/절구
+  주제: 문방(literature), 기용(object), 회방(meet), 회고(reminiscence), 인물(person)
+  본문:
+    1구: <d>卷裏</d><d>溪公</d><d>廿八言</d>
+    2구: <term>乖違</term><d>十載</d>當<term>寒<rhyme>溫</rhyme></term>
+    3구: 已<d>無驚惱</d>應同我
+    4구: <term>憂喜</term><term>從前</term>幾聚<rhyme>門</rhyme>
+
+==================== P19512 ====================
+--- 원문 ---
+  형식: /
+  주제: (없음)
+  본문:
+    1구: <term>白雪</term>滿山梅正發
+    2구: 客從<term>何處</term>遠尋<rhyme>來</rhyme>
+    3구: <term>依然</term><term>玉色</term>如<term>京洛</term>
+    4구: 應使<term>孤臣</term>眼刮<rhyme>開</rhyme>
+--- claude-opus-4.7 ---
+  형식: 근체시/절구
+  주제: 도화(picture), 식물(매화)(plant), 애상(고신의 감회)(sympathy), 회고(경락 추억)(reminiscence)
+  본문:
+    1구: <term>白雪</term><d>滿山</d><term>梅</term>正發
+    2구: <term>客</term>從<term>何處</term><d>遠尋</d><rhyme>來</rhyme>
+    3구: <term>依然</term><term>玉色</term>如<term>京洛</term>
+    4구: 應使<term>孤臣</term><d>眼刮<rhyme>開</rhyme></d>
+--- gemini-3-flash-preview ---
+  형식: 근체시/절구
+  주제: 식물(plant), 도화(picture), 계절(season), 산악(mountain), 애상(sympathy)
+  본문:
+    1구: <term>白雪</term><d>滿山</d><term>梅</term>正發
+    2구: <term>客</term>從<term>何處</term>遠尋<rhyme>來</rhyme>
+    3구: 依然<term>玉色</term>如<term>京洛</term>
+    4구: 應使<term>孤臣</term><d>眼刮<rhyme>開</rhyme></d>
+--- gpt-5.5 ---
+  형식: 근체시/절구
+  주제: 도화(picture), 식물(plant), 계절(season)
+  본문:
+    1구: <term>白雪</term><d>滿山</d>梅正發
+    2구: 客從<term>何處</term>遠尋<rhyme>來</rhyme>
+    3구: <term>依然</term><term>玉色</term>如<term>京洛</term>
+    4구: 應使<term>孤臣</term>眼刮<rhyme>開</rhyme>
+
+==================== P19513 ====================
+--- 원문 ---
+  형식: /
+  주제: (없음)
+  본문:
+    1구: 斯道吾東望
+    2구: <term>先生</term><term>後輩</term><rhyme>刑</rhyme>
+    3구: <term>愛人</term>何<term>太過</term>
+    4구: 許我屢<term>相<rhyme>形</rhyme></term>
+    5구: <term>自是</term>容依往
+    6구: 非緣準試<rhyme>經</rhyme>
+    7구: <term>殷勤</term><term>奉盛</term>藻
+    8구: <term>金玉</term><term>叶心</term><rhyme>聽</rhyme>
+--- claude-opus-4.7 ---
+  형식: 근체시/율시
+  주제: 건물(효릉 수리)(structure), 인물(선생)(person), 문방(시문)(literature)
+  본문:
+    1구: <d>斯道</d><d>吾東</d>望
+    2구: <term>先生</term><term>後輩</term><rhyme>刑</rhyme>
+    3구: <term>愛人</term>何<term>太過</term>
+    4구: 許我屢<term>相<rhyme>形</rhyme></term>
+    5구: <term>自是</term>容依往
+    6구: 非緣準<d>試<rhyme>經</rhyme></d>
+    7구: <term>殷勤</term>奉<term>盛藻</term>
+    8구: <term>金玉</term>叶<d>心<rhyme>聽</rhyme></d>
+--- gemini-3-flash-preview ---
+  형식: 근체시/율시
+  주제: 인물(person), 문방(literature), 회방(meet)
+  본문:
+    1구: <d>斯道</d><d>吾東</d>望
+    2구: <term>先生</term><term>後輩</term><rhyme>刑</rhyme>
+    3구: <term>愛人</term>何太過
+    4구: 許我屢<term>相<rhyme>形</rhyme></term>
+    5구: 自是容依往
+    6구: 非緣準<d>試<rhyme>經</rhyme></d>
+    7구: <term>殷勤</term>奉<term>盛藻</term>
+    8구: <term>金玉</term>叶<d>心<rhyme>聽</rhyme></d>
+--- gpt-5.5 ---
+  형식: 근체시/율시
+  주제: 건물(structure), 인물(person), 문방(literature)
+  본문:
+    1구: <d>斯道</d>吾東望
+    2구: <term>先生</term><term>後輩</term><rhyme>刑</rhyme>
+    3구: <term>愛人</term>何<term>太過</term>
+    4구: 許我屢相<rhyme>形</rhyme>
+    5구: 自是容依往
+    6구: 非緣準<d>試<rhyme>經</rhyme></d>
+    7구: <term>殷勤</term>奉<term>盛藻</term>
+    8구: <term>金玉</term>叶<d>心<rhyme>聽</rhyme></d>
+
+==================== P19514 ====================
+--- 원문 ---
+  형식: /
+  주제: (없음)
+  본문:
+    1구: 鍊石<term>殊名</term>色
+    2구: <term>鎔金</term>各範<rhyme>刑</rhyme>
+    3구: 琢成新畫樣
+    4구: 封得舊陵<rhyme>形</rhyme>
+    5구: 只益危衷苦
+    6구: <term>非關</term><term>小智</term><rhyme>經</rhyme>
+    7구: 呑聲<term>不敢</term>哭
+    8구: <term>到底</term>倘<term>神<rhyme>聽</rhyme></term>
+--- claude-opus-4.7 ---
+  형식: 근체시/율시
+  주제: 애상(sympathy), 회고(선왕 능)(reminiscence)
+  본문:
+    1구: <d>鍊石</d>殊<term>名色</term>
+    2구: <term>鎔金</term>各<d>範<rhyme>刑</rhyme></d>
+    3구: <d>琢成</d><d>新畫樣</d>
+    4구: 封得<d>舊陵<rhyme>形</rhyme></d>
+    5구: 只益<d>危衷</d>苦
+    6구: 非關<term>小智</term><rhyme>經</rhyme>
+    7구: <d>呑聲</d>不敢哭
+    8구: <term>到底</term>倘<term>神<rhyme>聽</rhyme></term>
+  QA 플래그: Theme: evidence 미검증(환각 의심): 修理孝陵/舊陵形
+--- gemini-3-flash-preview ---
+  형식: 근체시/율시
+  주제: 건물(structure), 애상(sympathy), 애상(sympathy), 회고(reminiscence)
+  본문:
+    1구: <d>鍊石</d>殊<term>名色</term>
+    2구: <term>鎔金</term>各<d>範<rhyme>刑</rhyme></d>
+    3구: <d>琢成</d><d>新畫樣</d>
+    4구: 封得<d>舊陵<rhyme>形</rhyme></d>
+    5구: 只益<d>危衷苦</d>
+    6구: 非關<d>小智<rhyme>經</rhyme></d>
+    7구: <d>呑聲</d>不敢哭
+    8구: 到底倘<term>神<rhyme>聽</rhyme></term>
+--- gpt-5.5 ---
+  형식: 근체시/율시
+  주제: 건물(structure), 애상(sympathy), 도화(picture), 인물(person)
+  본문:
+    1구: <d>鍊石</d>殊<term>名色</term>
+    2구: <term>鎔金</term>各<d>範<rhyme>刑</rhyme></d>
+    3구: 琢成<d>新畫樣</d>
+    4구: 封得<d>舊陵<rhyme>形</rhyme></d>
+    5구: 只益<d>危衷苦</d>
+    6구: 非關<term>小智</term><rhyme>經</rhyme>
+    7구: <d>呑聲</d>不敢哭
+    8구: 到底倘<term>神<rhyme>聽</rhyme></term>
+
+==================== P19515 ====================
+--- 원문 ---
+  형식: /
+  주제: (없음)
+  본문:
+    1구: 帥聽供<term>趨走</term>
+    2구: 差功倩<term>化<rhyme>形</rhyme></term>
+    3구: <term>受成</term>甘自享
+    4구: <term>歸美</term>沕<term>無<rhyme>形</rhyme></term>
+    5구: <term>浩劫</term><term>看重</term>造
+    6구: 因山訝<term>自<rhyme>經</rhyme></term>
+    7구: <term>當時</term>孰忍此
+    8구: <term>公論</term>合須<rhyme>聽</rhyme>
+--- claude-opus-4.7 ---
+  형식: 근체시/율시
+  주제: 능묘(효릉) 수리(structure), 당시를 회고함(reminiscence), 노수신을 대상으로 함(person)
+  본문:
+    1구: 帥聽供<term>趨走</term>
+    2구: <d>差功</d>倩<term>化<rhyme>形</rhyme></term>
+    3구: <term>受成</term>甘<d>自享</d>
+    4구: <term>歸美</term>沕<term>無<rhyme>形</rhyme></term>
+    5구: <term>浩劫</term>看<d>重造</d>
+    6구: <d>因山</d>訝<term>自<rhyme>經</rhyme></term>
+    7구: <term>當時</term>孰忍此
+    8구: <term>公論</term>合須<rhyme>聽</rhyme>
+--- gemini-3-flash-preview ---
+  형식: 근체시/율시
+  주제: 건물(structure), 불교(buddhism), 인물(person)
+  본문:
+    1구: 帥聽供<term>趨走</term>
+    2구: <d>差功</d>倩<term>化<rhyme>形</rhyme></term>
+    3구: <term>受成</term>甘自享
+    4구: <term>歸美</term>沕<term>無<rhyme>形</rhyme></term>
+    5구: <term>浩劫</term>看<d>重造</d>
+    6구: <d>因山</d>訝<term>自<rhyme>經</rhyme></term>
+    7구: 當時孰忍此
+    8구: <term>公論</term>合須<rhyme>聽</rhyme>
+--- gpt-5.5 ---
+  형식: 근체시/율시
+  주제: 건물(structure), 인물(person)
+  본문:
+    1구: 帥聽供<term>趨走</term>
+    2구: <d>差功</d>倩<term>化<rhyme>形</rhyme></term>
+    3구: <term>受成</term>甘<d>自享</d>
+    4구: <term>歸美</term>沕<term>無<rhyme>形</rhyme></term>
+    5구: <term>浩劫</term>看<d>重造</d>
+    6구: <d>因山</d>訝<term>自<rhyme>經</rhyme></term>
+    7구: <term>當時</term>孰忍此
+    8구: <term>公論</term>合須<rhyme>聽</rhyme>
+
+==================== P19516 ====================
+--- 원문 ---
+  형식: /
+  주제: (없음)
+  본문:
+    1구: 澤浹<term>含生</term>感
+    2구: 名垂<term>繼世</term><rhyme>刑</rhyme>
+    3구: <term>乾坤</term>詎<term>容狀</term>
+    4구: <term>品物</term><term>自流</term><rhyme>形</rhyme>
+    5구: 窆事初<term>如此</term>
+    6구: <term>凶圖</term><term>不暇</term><rhyme>經</rhyme>
+    7구: <term>何當</term>秉<term>鈇鉞</term>
+    8구: 數與<term>髑髏</term><rhyme>聽</rhyme>
+--- claude-opus-4.7 ---
+  형식: 근체시/율시
+  주제: 회고(reminiscence), 애상(sympathy), 기용(object)
+  본문:
+    1구: <d>澤浹</d><term>含生</term>感
+    2구: <d>名垂</d><term>繼世</term><rhyme>刑</rhyme>
+    3구: <term>乾坤</term>詎<term>容狀</term>
+    4구: <term>品物</term>自<term>流<rhyme>形</rhyme></term>
+    5구: <d>窆事</d>初如此
+    6구: <term>凶圖</term>不暇<rhyme>經</rhyme>
+    7구: 何當秉<term>鈇鉞</term>
+    8구: 數與<term>髑髏</term><rhyme>聽</rhyme>
+--- gemini-3-flash-preview ---
+  형식: 근체시/율시
+  주제: 인물(person), 천문(astro), 애상(sympathy), 회고(reminiscence)
+  본문:
+    1구: <d>澤浹</d><term>含生</term>感
+    2구: <d>名垂</d><term>繼世</term><rhyme>刑</rhyme>
+    3구: <term>乾坤</term>詎容狀
+    4구: <term>品物</term>自<term>流<rhyme>形</rhyme></term>
+    5구: <d>窆事</d>初如此
+    6구: <term>凶圖</term>不暇<rhyme>經</rhyme>
+    7구: 何當秉<term>鈇鉞</term>
+    8구: 數與髑髏<rhyme>聽</rhyme>
+  QA 플래그: term/D: 알 수 없는 line_id: P1951608: 數與髑髏聽
+--- gpt-5.5 ---
+  형식: 근체시/율시
+  주제: 건물(structure), 애상(sympathy), 애상(sympathy), 인물(person), 기용(object), 천문(astro)
+  본문:
+    1구: <d>澤浹</d><term>含生</term>感
+    2구: <d>名垂</d><term>繼世</term><rhyme>刑</rhyme>
+    3구: <term>乾坤</term>詎<term>容狀</term>
+    4구: <term>品物</term>自<term>流<rhyme>形</rhyme></term>
+    5구: <d>窆事</d>初如此
+    6구: <term>凶圖</term>不暇<rhyme>經</rhyme>
+    7구: 何當秉<term>鈇鉞</term>
+    8구: 數與<term>髑髏</term><rhyme>聽</rhyme>
+
+==================== P19517 ====================
+--- 원문 ---
+  형식: /
+  주제: (없음)
+  본문:
+    1구: <term>文學</term>羣<term>公表</term>
+    2구: <term>風流</term><term>一世</term><rhyme>刑</rhyme>
+    3구: <term>論思</term>會有極
+    4구: 執敬視<term>無<rhyme>形</rhyme></term>
+    5구: <term>告廟</term>多<term>儀正</term>
+    6구: 修陵<term>庶務</term><rhyme>經</rhyme>
+    7구: 因人幸<term>成事</term>
+    8구: <term>非子</term>復誰<rhyme>聽</rhyme>
+--- claude-opus-4.7 ---
+  형식: 근체시/율시
+  주제: 선왕 능묘 회고(reminiscence), 문학(literature), 인물(노수신)(person)
+  본문:
+    1구: <term>文學</term><d>羣公</d>表
+    2구: <term>風流</term><term>一世</term><rhyme>刑</rhyme>
+    3구: <term>論思</term>會有極
+    4구: <d>執敬</d>視<term>無<rhyme>形</rhyme></term>
+    5구: <term>告廟</term>多<term>儀正</term>
+    6구: <d>修陵</d><term>庶務</term><rhyme>經</rhyme>
+    7구: <d>因人</d>幸<term>成事</term>
+    8구: 非子復誰<rhyme>聽</rhyme>
+  QA 플래그: Theme: evidence 미검증(환각 의심): 修理孝陵/修陵
+--- gemini-3-flash-preview ---
+  형식: 근체시/율시
+  주제: 건물(structure), 인물(person), 불교(buddhism)
+  본문:
+    1구: <term>文學</term><d>羣公</d>表
+    2구: <term>風流</term><term>一世</term><rhyme>刑</rhyme>
+    3구: <term>論思</term>會有極
+    4구: <d>執敬</d>視<term>無<rhyme>形</rhyme></term>
+    5구: <term>告廟</term>多<term>儀正</term>
+    6구: <d>修陵</d><term>庶務</term><rhyme>經</rhyme>
+    7구: 因人幸<term>成事</term>
+    8구: 非子復誰<rhyme>聽</rhyme>
+--- gpt-5.5 ---
+  형식: 근체시/율시
+  주제: 인물(person), 문방(literature)
+  본문:
+    1구: <term>文學</term><d>羣公</d>表
+    2구: <term>風流</term><term>一世</term><rhyme>刑</rhyme>
+    3구: <term>論思</term>會有極
+    4구: <d>執敬</d>視<term>無<rhyme>形</rhyme></term>
+    5구: <term>告廟</term><d>多儀</d>正
+    6구: <d>修陵</d><term>庶務</term><rhyme>經</rhyme>
+    7구: 因人幸<term>成事</term>
+    8구: 非子復誰<rhyme>聽</rhyme>
+  QA 플래그: Theme: evidence 미검증(환각 의심): 孝陵 / 告廟 / 修陵
+
+==================== P19518 ====================
+--- 원문 ---
+  형식: /
+  주제: (없음)
+  본문:
+    1구: <term>可愛</term><term>他山</term>石
+    2구: 須遭<term>巧匠</term><rhyme>刑</rhyme>
+    3구: 初裁幾<term>方面</term>
+    4구: 竟<term>作一</term>圓<rhyme>形</rhyme>
+    5구: <term>臣子</term>寧無恔
+    6구: <term>邦家</term><term>固有</term><rhyme>經</rhyme>
+    7구: <term>都廳</term><term>能事</term>畢
+    8구: 爲賀<term>足觀</term><rhyme>聽</rhyme>
+--- claude-opus-4.7 ---
+  형식: 근체시/율시
+  주제: 건물(효릉 수리)(structure), 기용(타산지석)(object), 인물(장인)(person), 기타(국가·공무)(others)
+  본문:
+    1구: <term>可愛</term><d>他山石</d>
+    2구: 須遭<term>巧匠</term><rhyme>刑</rhyme>
+    3구: 初裁幾<term>方面</term>
+    4구: 竟作一<d>圓<rhyme>形</rhyme></d>
+    5구: <term>臣子</term>寧無恔
+    6구: <term>邦家</term>固有<rhyme>經</rhyme>
+    7구: <term>都廳</term><term>能事</term>畢
+    8구: 爲賀足<term>觀<rhyme>聽</rhyme></term>
+--- gemini-3-flash-preview ---
+  형식: 근체시/율시
+  주제: 건물(structure), 인물(person), 인물(person), 기타(others)
+  본문:
+    1구: 可愛<d>他山石</d>
+    2구: 須遭<term>巧匠</term><rhyme>刑</rhyme>
+    3구: 初裁<d>幾方面</d>
+    4구: 竟作一<d>圓<rhyme>形</rhyme></d>
+    5구: <term>臣子</term>寧<d>無恔</d>
+    6구: <term>邦家</term><d>固有<rhyme>經</rhyme></d>
+    7구: <term>都廳</term><term>能事</term>畢
+    8구: 爲賀足<term>觀<rhyme>聽</rhyme></term>
+--- gpt-5.5 ---
+  형식: 근체시/율시
+  주제: 건물(structure), 기용(object), 산악(mountain), 인물(person)
+  본문:
+    1구: <term>可愛</term><d>他山石</d>
+    2구: 須遭<term>巧匠</term><rhyme>刑</rhyme>
+    3구: 初裁幾<term>方面</term>
+    4구: 竟作一<d>圓<rhyme>形</rhyme></d>
+    5구: <term>臣子</term>寧<d>無恔</d>
+    6구: <term>邦家</term>固<d>有<rhyme>經</rhyme></d>
+    7구: <term>都廳</term><term>能事</term>畢
+    8구: 爲賀足<term>觀<rhyme>聽</rhyme></term>
+
+==================== P19519 ====================
+--- 원문 ---
+  형식: /
+  주제: (없음)
+  본문:
+    1구: <term>父母</term><term>艱難</term>日
+    2구: 深蒙<term>鞠育</term><rhyme>思</rhyme>
+    3구: <term>髮膚</term>遺此體
+    4구: <term>慈愛</term>異<term>諸<rhyme>孫</rhyme></term>
+    5구: <term>分外</term><term>承天</term>寵
+    6구: 皆由<term>積德</term><rhyme>門</rhyme>
+    7구: 但違畿佐願
+    8구: <term>慟哭</term>望<term>泉<rhyme>原</rhyme></term>
+--- claude-opus-4.7 ---
+  형식: 근체시/율시
+  주제: 애상(만시)(sympathy), 인물(외조모)(person), 애통(sympathy)
+  본문:
+    1구: <term>父母</term><term>艱難</term>日
+    2구: 深蒙<term>鞠育</term><rhyme>思</rhyme>
+    3구: <term>髮膚</term>遺此體
+    4구: <term>慈愛</term>異<term>諸<rhyme>孫</rhyme></term>
+    5구: <term>分外</term>承<term>天寵</term>
+    6구: 皆由<d>積德<rhyme>門</rhyme></d>
+    7구: 但違<d>畿佐</d>願
+    8구: <term>慟哭</term>望<term>泉<rhyme>原</rhyme></term>
+--- gemini-3-flash-preview ---
+  형식: 근체시/율시
+  주제: 애상(sympathy), 인물(person), 인물(person), 인물(person)
+  본문:
+    1구: <term>父母</term><d>艱難日</d>
+    2구: 深蒙<d>鞠育<rhyme>思</rhyme></d>
+    3구: <term>髮膚</term><d>遺此體</d>
+    4구: <term>慈愛</term>異<term>諸<rhyme>孫</rhyme></term>
+    5구: <term>分外</term>承<term>天寵</term>
+    6구: 皆由<d>積德<rhyme>門</rhyme></d>
+    7구: 但違<d>畿佐願</d>
+    8구: 慟哭望<term>泉<rhyme>原</rhyme></term>
+  QA 플래그: term/D: P1951908: LLM이 반환한 시어 '慟哭Base'가 원문에 없음(환각 의심)
+--- gpt-5.5 ---
+  형식: 근체시/율시
+  주제: 애상(sympathy), 인물(person), 회고(reminiscence)
+  본문:
+    1구: <term>父母</term><d>艱難日</d>
+    2구: 深蒙<d>鞠育<rhyme>思</rhyme></d>
+    3구: <term>髮膚</term>遺<d>此體</d>
+    4구: <term>慈愛</term>異<term>諸<rhyme>孫</rhyme></term>
+    5구: <term>分外</term>承<term>天寵</term>
+    6구: 皆由<d>積德<rhyme>門</rhyme></d>
+    7구: 但違<d>畿佐願</d>
+    8구: <term>慟哭</term>望<term>泉<rhyme>原</rhyme></term>
+
+==================== P19520 ====================
+--- 원문 ---
+  형식: /
+  주제: (없음)
+  본문:
+    1구: <term>飛閣</term>臨<term>無地</term>
+    2구: 危峯盡處<rhyme>巓</rhyme>
+    3구: 胸呑<term>千里</term>闊
+    4구: <term>目極</term><term>片帆</term><rhyme>懸</rhyme>
+    5구: <term>蜃氣</term>晴浮市
+    6구: 潮聲暮<term>拍<rhyme>天</rhyme></term>
+    7구: <term>淸遊</term>煩<term>夢想</term>
+    8구: <term>汗漫</term>似<term>登<rhyme>仙</rhyme></term>
+--- claude-opus-4.7 ---
+  형식: 근체시/율시
+  주제: 건물(정자·누각)(structure), 산악(mountain), 강해(바다)(water), 유람(travel), 도교(신선)(taoism), 회고(차운)(reminiscence)
+  본문:
+    1구: <term>飛閣</term>臨<term>無地</term>
+    2구: <d>危峯</d><d>盡處</d><rhyme>巓</rhyme>
+    3구: 胸呑<d>千里闊</d>
+    4구: 目極<term>片帆</term><rhyme>懸</rhyme>
+    5구: <term>蜃氣</term>晴<d>浮市</d>
+    6구: <d>潮聲</d>暮<term>拍<rhyme>天</rhyme></term>
+    7구: <term>淸遊</term>煩<term>夢想</term>
+    8구: <term>汗漫</term>似<term>登<rhyme>仙</rhyme></term>
+--- gemini-3-flash-preview ---
+  형식: 근체시/율시
+  주제: 건물(structure), 강해(water), 유람(travel), 도교(taoism), 기몽(dream)
+  본문:
+    1구: <term>飛閣</term>臨<term>無地</term>
+    2구: <d>危峯</d>盡<d>處<rhyme>巓</rhyme></d>
+    3구: 胸呑<term>千里</term>闊
+    4구: 目極<term>片帆</term><rhyme>懸</rhyme>
+    5구: <term>蜃氣</term>晴浮市
+    6구: <d>潮聲</d>暮拍<rhyme>天</rhyme>
+    7구: <term>淸遊</term>煩<term>夢想</term>
+    8구: <term>汗漫</term>似登<rhyme>仙</rhyme>
+  QA 플래그: term/D: 알 수 없는 line_id: P1952008 charm
+--- gpt-5.5 ---
+  형식: 근체시/율시
+  주제: 건물(structure), 유람(travel), 산악(mountain), 강해(water), 도교(taoism), 기몽(dream), 인물(person)
+  본문:
+    1구: <term>飛閣</term>臨<term>無地</term>
+    2구: <d>危峯</d><d>盡處</d><rhyme>巓</rhyme>
+    3구: 胸呑<d>千里闊</d>
+    4구: <term>目極</term><term>片帆</term><rhyme>懸</rhyme>
+    5구: <term>蜃氣</term>晴<d>浮市</d>
+    6구: <d>潮聲</d>暮<term>拍<rhyme>天</rhyme></term>
+    7구: <term>淸遊</term>煩<term>夢想</term>
+    8구: <term>汗漫</term>似<term>登<rhyme>仙</rhyme></term>
+
+==================== P19521 ====================
+--- 원문 ---
+  형식: /
+  주제: (없음)
+  본문:
+    1구: <term>浩蕩</term><term>眞無</term>礙
+    2구: <term>虛空</term>却向<rhyme>巓</rhyme>
+    3구: 入窓<term>雲霧</term>盡
+    4구: 萬里日星<rhyme>懸</rhyme>
+    5구: <term>大氣</term>還浮地
+    6구: <term>剛風</term>本擧<rhyme>天</rhyme>
+    7구: 有誰窮<term>上下</term>
+    8구: 吾欲學<term>飛<rhyme>仙</rhyme></term>
+--- claude-opus-4.7 ---
+  형식: 근체시/율시
+  주제: 건물(정자)(structure), 천문(해와 별)(astro), 도교(신선)(taoism), 회고(율곡 차운)(reminiscence)
+  본문:
+    1구: <term>浩蕩</term>眞<term>無礙</term>
+    2구: <term>虛空</term>却向<rhyme>巓</rhyme>
+    3구: 入窓<term>雲霧</term>盡
+    4구: <d>萬里</d><d>日星</d><rhyme>懸</rhyme>
+    5구: <term>大氣</term>還浮地
+    6구: <term>剛風</term>本擧<rhyme>天</rhyme>
+    7구: 有誰窮<term>上下</term>
+    8구: 吾欲學<term>飛<rhyme>仙</rhyme></term>
+--- gemini-3-flash-preview ---
+  형식: 근체시/율시
+  주제: 건물(structure), 천문(astro), 도교(taoism), 강해(water)
+  본문:
+    1구: <term>浩蕩</term>眞<term>無礙</term>
+    2구: <term>虛空</term>却向<rhyme>巓</rhyme>
+    3구: 入窓<term>雲霧</term>盡
+    4구: <d>萬里</d><d>日星</d><rhyme>懸</rhyme>
+    5구: <term>大氣</term>還浮地
+    6구: <term>剛風</term>本擧<rhyme>天</rhyme>
+    7구: 有誰窮上下
+    8구: 吾欲學<term>飛<rhyme>仙</rhyme></term>
+--- gpt-5.5 ---
+  형식: 근체시/율시
+  주제: 건물(structure), 유람(travel), 천문(astro), 산악(mountain), 도교(taoism)
+  본문:
+    1구: <term>浩蕩</term>眞<term>無礙</term>
+    2구: <term>虛空</term>却向<rhyme>巓</rhyme>
+    3구: 入窓<term>雲霧</term>盡
+    4구: <d>萬里</d><d>日星</d><rhyme>懸</rhyme>
+    5구: <term>大氣</term>還浮地
+    6구: <term>剛風</term>本擧<rhyme>天</rhyme>
+    7구: 有誰窮<term>上下</term>
+    8구: 吾欲學<term>飛<rhyme>仙</rhyme></term>
+
+==================== P19522 ====================
+--- 원문 ---
+  형식: /
+  주제: (없음)
+  본문:
+    1구: <term>一丘</term>專勝賞
+    2구: <term>飛閣</term>架<term>危<rhyme>巓</rhyme></term>
+    3구: 逈壓<term>西溟</term>盡
+    4구: <term>平看</term><term>北斗</term><rhyme>懸</rhyme>
+    5구: 明沙斜耀日
+    6구: 碧岫細浮<rhyme>天</rhyme>
+    7구: 更得風將月
+    8구: <term>應成</term><term>玉界</term><rhyme>仙</rhyme>
+--- claude-opus-4.7 ---
+  형식: 근체시/율시
+  주제: 등람(누정에 오름)(travel), 천문(북두)(astro), 바다(서명)(water), 산악(높은 봉우리)(mountain), 도교(신선)(taoism), 차운시(literature)
+  본문:
+    1구: <term>一丘</term>專<d>勝賞</d>
+    2구: <term>飛閣</term>架<term>危<rhyme>巓</rhyme></term>
+    3구: 逈壓<term>西溟</term>盡
+    4구: 平看<term>北斗</term><rhyme>懸</rhyme>
+    5구: <d>明沙</d>斜<d>耀日</d>
+    6구: <d>碧岫</d>細<d>浮<rhyme>天</rhyme></d>
+    7구: 更得<d>風將月</d>
+    8구: 應成<d>玉界<rhyme>仙</rhyme></d>
+  QA 플래그: Theme: evidence 미검증(환각 의심): 浩然亭 / 飛閣
+--- gemini-3-flash-preview ---
+  형식: 근체시/율시
+  주제: 건물(structure), 산악(mountain), 강해(water), 천문(astro), 한적(tranquility), 도교(taoism)
+  본문:
+    1구: <term>一丘</term>專<d>勝賞</d>
+    2구: <term>飛閣</term>架<term>危<rhyme>巓</rhyme></term>
+    3구: 逈壓<term>西溟</term>盡
+    4구: 平看<term>北斗</term><rhyme>懸</rhyme>
+    5구: <d>明沙</d>斜<d>耀日</d>
+    6구: <d>碧岫</d>細<d>浮<rhyme>天</rhyme></d>
+    7구: 更得風將月
+    8구: 應成<d>玉界<rhyme>仙</rhyme></d>
+--- gpt-5.5 ---
+  형식: 근체시/율시
+  주제: 유람(travel), 건물(structure), 산악(mountain), 강해(water), 천문(astro), 도교(taoism)
+  본문:
+    1구: <term>一丘</term>專<d>勝賞</d>
+    2구: <term>飛閣</term>架<term>危<rhyme>巓</rhyme></term>
+    3구: 逈壓<term>西溟</term>盡
+    4구: 平看<term>北斗</term><rhyme>懸</rhyme>
+    5구: <d>明沙</d>斜耀日
+    6구: <d>碧岫</d>細浮<rhyme>天</rhyme>
+    7구: 更得<d>風將月</d>
+    8구: 應成<d>玉界<rhyme>仙</rhyme></d>
+
+==================== P19523 ====================
+--- 원문 ---
+  형식: /
+  주제: (없음)
+  본문:
+    1구: <term>問學</term><term>從遊</term>早
+    2구: 吾知此老<rhyme>賢</rhyme>
+    3구: <term>功名</term>看<term>外物</term>
+    4구: <term>淸白</term>是遺<rhyme>氈</rhyme>
+    5구: <term>皓首</term><term>休官</term>日
+    6구: <term>靑燈</term>讀易<rhyme>年</rhyme>
+    7구: <term>如今</term><term>不可</term>見
+    8구: 淚盡曉<term>江<rhyme>天</rhyme></term>
+--- claude-opus-4.7 ---
+  형식: 근체시/율시
+  주제: 애상(sympathy), 인물(person), 회고(reminiscence), 한적(tranquility), 문방(literature)
+  본문:
+    1구: <term>問學</term><term>從遊</term>早
+    2구: 吾知<d>此老</d><rhyme>賢</rhyme>
+    3구: <term>功名</term>看<term>外物</term>
+    4구: <term>淸白</term>是<d>遺<rhyme>氈</rhyme></d>
+    5구: <term>皓首</term><term>休官</term>日
+    6구: <term>靑燈</term><d>讀易</d><rhyme>年</rhyme>
+    7구: <term>如今</term>不可見
+    8구: 淚盡<d>曉江<rhyme>天</rhyme></d>
+--- gemini-3-flash-preview ---
+  형식: 근체시/율시
+  주제: 애상(sympathy), 인물(person), 현달(prosper), 문방(literature), 강해(water)
+  본문:
+    1구: <term>問學</term><term>從遊</term>早
+    2구: 吾知此<d>老<rhyme>賢</rhyme></d>
+    3구: <term>功名</term>看<term>外物</term>
+    4구: <term>淸白</term>是<d>遺<rhyme>氈</rhyme></d>
+    5구: <term>皓首</term><term>休官</term>日
+    6구: <term>靑燈</term><d>讀易</d><rhyme>年</rhyme>
+    7구: 如今<d>不可見</d>
+    8구: <d>淚盡</d><d>曉江<rhyme>天</rhyme></d>
+--- gpt-5.5 ---
+  형식: 근체시/율시
+  주제: 애상(sympathy), 인물(person), 현달(prosper), 문방(literature)
+  본문:
+    1구: <term>問學</term><term>從遊</term>早
+    2구: 吾知<d>此老</d><rhyme>賢</rhyme>
+    3구: <term>功名</term>看<term>外物</term>
+    4구: <term>淸白</term>是<d>遺<rhyme>氈</rhyme></d>
+    5구: <term>皓首</term><d>休官日</d>
+    6구: <term>靑燈</term><d>讀易<rhyme>年</rhyme></d>
+    7구: <term>如今</term><d>不可見</d>
+    8구: <d>淚盡</d><d>曉江<rhyme>天</rhyme></d>
+
+==================== P19524 ====================
+--- 원문 ---
+  형식: /
+  주제: (없음)
+  본문:
+    1구: <term>散步</term>卽<term>對面</term>
+    2구: <term>相尋</term>不<term>命<rhyme>車</rhyme></term>
+    3구: <term>別離</term>三載久
+    4구: <term>疾病</term>一秋<rhyme>俄</rhyme>
+    5구: <term>濁酒</term>墻頭盡
+    6구: <term>梅花</term>階上<rhyme>多</rhyme>
+    7구: <term>悄然</term><term>門巷</term>寂
+    8구: <term>他日</term>孰重<rhyme>過</rhyme>
+--- claude-opus-4.7 ---
+  형식: 근체시/율시
+  주제: 애상(sympathy), 애상(sympathy), 식물(plant), 인물(person)
+  본문:
+    1구: <term>散步</term>卽<term>對面</term>
+    2구: <term>相尋</term>不<term>命<rhyme>車</rhyme></term>
+    3구: <term>別離</term><d>三載</d>久
+    4구: <term>疾病</term><d>一秋</d><rhyme>俄</rhyme>
+    5구: <term>濁酒</term><d>墻頭</d>盡
+    6구: <term>梅花</term><d>階上</d><rhyme>多</rhyme>
+    7구: <term>悄然</term><term>門巷</term>寂
+    8구: <term>他日</term>孰<d>重<rhyme>過</rhyme></d>
+--- gemini-3-flash-preview ---
+  형식: 근체시/율시
+  주제: 애상(sympathy), 식물(plant), 송별(farewell), 한적(tranquility)
+  본문:
+    1구: <term>散步</term>卽<term>對面</term>
+    2구: <term>相尋</term>不命<rhyme>車</rhyme>
+    3구: <term>別離</term><d>三載</d>久
+    4구: <term>疾病</term><d>一秋</d><rhyme>俄</rhyme>
+    5구: <term>濁酒</term><d>墻頭</d>盡
+    6구: <term>梅花</term><d>階上</d><rhyme>多</rhyme>
+    7구: <term>悄然</term>門巷寂
+    8구: <term>他日</term>孰重<rhyme>過</rhyme>
+  QA 플래그: term/D: 알 수 없는 line_id: P1952407 charm
+--- gpt-5.5 ---
+  형식: 근체시/율시
+  주제: 애상(sympathy), 인물(person), 송별(farewell), 회방(meet), 계절(season), 식물(plant), 건물(structure), 기용(object)
+  본문:
+    1구: <term>散步</term>卽<term>對面</term>
+    2구: <term>相尋</term>不命<rhyme>車</rhyme>
+    3구: <term>別離</term><d>三載</d>久
+    4구: <term>疾病</term><d>一秋</d><rhyme>俄</rhyme>
+    5구: <term>濁酒</term><d>墻頭</d>盡
+    6구: <term>梅花</term><d>階上</d><rhyme>多</rhyme>
+    7구: <term>悄然</term><term>門巷</term>寂
+    8구: <term>他日</term>孰<d>重<rhyme>過</rhyme></d>
+
+==================== P19525 ====================
+--- 원문 ---
+  형식: /
+  주제: (없음)
+  본문:
+    1구: <term>何事</term>非吾事
+    2구: <term>儒家</term>亦<term>將<rhyme>家</rhyme></term>
+    3구: 早從文餙吏
+    4구: 還<term>有節</term>隨<rhyme>麻</rhyme>
+    5구: <term>淸水</term>魚羣戲
+    6구: <term>深林</term>獸五<rhyme>豝</rhyme>
+    7구: 爲仁<term>自得</term>地
+    8구: <term>持贈</term>拜君<rhyme>嘉</rhyme>
+--- claude-opus-4.7 ---
+  형식: 근체시/율시
+  주제: 송별(farewell), 변새(frontier), 인물(person)
+  본문:
+    1구: 何事非吾事
+    2구: <term>儒家</term>亦<term>將<rhyme>家</rhyme></term>
+    3구: 早從<d>文餙吏</d>
+    4구: 還有<d>節隨<rhyme>麻</rhyme></d>
+    5구: <term>淸水</term><d>魚羣</d>戲
+    6구: <term>深林</term><d>獸五<rhyme>豝</rhyme></d>
+    7구: <d>爲仁</d><term>自得</term>地
+    8구: <term>持贈</term>拜君<rhyme>嘉</rhyme>
+--- gemini-3-flash-preview ---
+  형식: 근체시/율시
+  주제: 송별(farewell), 변새(frontier), 강해(water), 동물(animal), 식물(plant)
+  본문:
+    1구: <term>何事</term>非<d>吾事</d>
+    2구: <term>儒家</term>亦<term>將<rhyme>家</rhyme></term>
+    3구: 早從<d>文餙吏</d>
+    4구: 還有<d>節隨<rhyme>麻</rhyme></d>
+    5구: <term>淸水</term><d>魚羣</d>戲
+    6구: <term>深林</term><d>獸五<rhyme>豝</rhyme></d>
+    7구: <d>爲仁</d>自<term>得地</term>
+    8구: <term>持贈</term>拜<d>君<rhyme>嘉</rhyme></d>
+--- gpt-5.5 ---
+  형식: 근체시/율시
+  주제: 송별(farewell), 변새(frontier), 유람(travel), 인물(person), 강해(water), 동물(animal), 동물(animal), 식물(plant), 기증(donate)
+  본문:
+    1구: <term>何事</term>非<d>吾事</d>
+    2구: <term>儒家</term>亦<term>將<rhyme>家</rhyme></term>
+    3구: 早從<d>文餙吏</d>
+    4구: 還有節隨<rhyme>麻</rhyme>
+    5구: <term>淸水</term><d>魚羣</d>戲
+    6구: <term>深林</term>獸<d>五<rhyme>豝</rhyme></d>
+    7구: <d>爲仁</d>自<term>得地</term>
+    8구: 持贈拜<d>君<rhyme>嘉</rhyme></d>
+
+==================== P19526 ====================
+--- 원문 ---
+  형식: /
+  주제: (없음)
+  본문:
+    1구: 行到<term>龍湫</term>處
+    2구: 回攀鳥嶺<rhyme>時</rhyme>
+    3구: <term>秋風</term><term>桂子</term>落
+    4구: <term>寒日</term>葉聲<rhyme>悲</rhyme>
+    5구: 亂酌還<term>無數</term>
+    6구: <term>離筵</term>更作<rhyme>遲</rhyme>
+    7구: <term>人生</term>自<term>惜別</term>
+    8구: 見月始能<rhyme>知</rhyme>
+--- claude-opus-4.7 ---
+  형식: 근체시/율시
+  주제: 건물(정자)(structure), 강해(용추)(water), 산악(조령)(mountain), 계절(가을)(season), 식물(계수나무 열매)(plant), 송별(이별의 자리)(farewell), 연회(술자리)(banquet), 애상(슬픔)(sympathy), 천문(달)(astro)
+  본문:
+    1구: 行到<term>龍湫</term>處
+    2구: 回攀<d>鳥嶺</d><rhyme>時</rhyme>
+    3구: <term>秋風</term><term>桂子</term>落
+    4구: <term>寒日</term><d>葉聲<rhyme>悲</rhyme></d>
+    5구: <d>亂酌</d>還<term>無數</term>
+    6구: <term>離筵</term>更作<rhyme>遲</rhyme>
+    7구: <term>人生</term>自<term>惜別</term>
+    8구: <d>見月</d>始能<rhyme>知</rhyme>
+--- gemini-3-flash-preview ---
+  형식: 근체시/율시
+  주제: 건물(structure), 계절(season), 송별(farewell), 식물(plant), 천문(astro), 산악(mountain)
+  본문:
+    1구: 行到<d>龍湫處</d>
+    2구: 回攀<d>鳥嶺</d><rhyme>時</rhyme>
+    3구: <term>秋風</term><term>桂子</term>落
+    4구: <term>寒日</term><d>葉聲</d><rhyme>悲</rhyme>
+    5구: <d>亂酌</d>還<term>無數</term>
+    6구: <term>離筵</term>更作<rhyme>遲</rhyme>
+    7구: <term>人生</term>自<term>惜別</term>
+    8구: <d>見月</d>始能<rhyme>知</rhyme>
+--- gpt-5.5 ---
+  형식: 근체시/율시
+  주제: 강해(water), 건물(structure), 계절(season), 천문(astro), 식물(plant), 송별(farewell), 연회(banquet), 애상(sympathy)
+  본문:
+    1구: 行到<term>龍湫</term>處
+    2구: 回攀<d>鳥嶺</d><rhyme>時</rhyme>
+    3구: <term>秋風</term><term>桂子</term>落
+    4구: <term>寒日</term><d>葉聲</d><rhyme>悲</rhyme>
+    5구: <d>亂酌</d>還<term>無數</term>
+    6구: <term>離筵</term>更作<rhyme>遲</rhyme>
+    7구: <term>人生</term>自<term>惜別</term>
+    8구: 見月始能<rhyme>知</rhyme>
+
+==================== P19527 ====================
+--- 원문 ---
+  형식: /
+  주제: (없음)
+  본문:
+    1구: <term>世路</term><term>何嘗</term>爾
+    2구: <term>知音</term>亦此<rhyme>中</rhyme>
+    3구: <term>一言</term>如的破
+    4구: <term>萬事</term>見牛<rhyme>空</rhyme>
+    5구: 君病甘<term>衰白</term>
+    6구: <term>丹心</term>保<term>始<rhyme>終</rhyme></term>
+    7구: 三盃經<term>起去</term>
+    8구: 秪是負<term>春<rhyme>風</rhyme></term>
+--- claude-opus-4.7 ---
+  형식: 근체시/율시
+  주제: 회방(meet), 인물(person), 애상(sympathy), 계절(season)
+  본문:
+    1구: <term>世路</term>何嘗爾
+    2구: <term>知音</term>亦此<rhyme>中</rhyme>
+    3구: <term>一言</term>如的破
+    4구: <term>萬事</term>見<d>牛<rhyme>空</rhyme></d>
+    5구: 君病甘<term>衰白</term>
+    6구: <term>丹心</term>保<term>始<rhyme>終</rhyme></term>
+    7구: <d>三盃</d>經起去
+    8구: 秪是負<term>春<rhyme>風</rhyme></term>
+--- gemini-3-flash-preview ---
+  형식: 근체시/율시
+  주제: 회방(meet), 계절(season), 불교(buddhism)
+  본문:
+    1구: <term>世路</term>何嘗爾
+    2구: <term>知音</term>亦此<rhyme>中</rhyme>
+    3구: <term>一言</term>如<d>的破</d>
+    4구: <term>萬事</term><d>見牛<rhyme>空</rhyme></d>
+    5구: 君病甘<term>衰白</term>
+    6구: <term>丹心</term>保<term>始<rhyme>終</rhyme></term>
+    7구: 三盃經起去
+    8구: 秪是負<term>春<rhyme>風</rhyme></term>
+  QA 플래그: term/D: 알 수 없는 line_id: P1952707 swept
+--- gpt-5.5 ---
+  형식: 근체시/율시
+  주제: 회방(meet), 인물(person), 계절(season), 연회(banquet)
+  본문:
+    1구: <term>世路</term>何嘗爾
+    2구: <term>知音</term>亦此<rhyme>中</rhyme>
+    3구: <term>一言</term>如的破
+    4구: <term>萬事</term>見牛<rhyme>空</rhyme>
+    5구: 君病甘<term>衰白</term>
+    6구: <term>丹心</term>保<term>始<rhyme>終</rhyme></term>
+    7구: <d>三盃</d>經起去
+    8구: 秪是負<term>春<rhyme>風</rhyme></term>
+
+==================== P19528 ====================
+--- 원문 ---
+  형식: /
+  주제: (없음)
+  본문:
+    1구: <term>明月</term>如<term>相約</term>
+    2구: <term>團圓</term>赴我<rhyme>邀</rhyme>
+    3구: 思時<term>一望</term>魄
+    4구: 喜極幾傾<rhyme>瓢</rhyme>
+    5구: <term>碧落</term>無<term>千里</term>
+    6구: <term>佳人</term>誰<term>獨<rhyme>謠</rhyme></term>
+    7구: <term>白頭</term>頻<term>佇立</term>
+    8구: 此意未凋<rhyme>蕭</rhyme>
+--- claude-opus-4.7 ---
+  형식: 근체시/율시
+  주제: 천문(달)(astro), 건물(당호)(structure), 염정(가인)(desire), 애상(백발)(sympathy)
+  본문:
+    1구: <term>明月</term>如<term>相約</term>
+    2구: <term>團圓</term>赴我<rhyme>邀</rhyme>
+    3구: 思時一<d>望魄</d>
+    4구: <d>喜極</d>幾<d>傾<rhyme>瓢</rhyme></d>
+    5구: <term>碧落</term>無<term>千里</term>
+    6구: <term>佳人</term>誰<term>獨<rhyme>謠</rhyme></term>
+    7구: <term>白頭</term>頻<term>佇立</term>
+    8구: <d>此意</d>未<d>凋<rhyme>蕭</rhyme></d>
+--- gemini-3-flash-preview ---
+  형식: 근체시/율시
+  주제: 천문(astro), 건물(structure), 인물(person), 한적(tranquility)
+  본문:
+    1구: <term>明月</term>如<term>相約</term>
+    2구: <term>團圓</term>赴我<rhyme>邀</rhyme>
+    3구: <d>思時</d>一望魄
+    4구: <d>喜極</d>幾傾<rhyme>瓢</rhyme>
+    5구: <term>碧落</term><d>無千里</d>
+    6구: <term>佳人</term>誰獨<rhyme>謠</rhyme>
+    7구: <term>白頭</term>頻<term>佇立</term>
+    8구: 此意未<d>凋<rhyme>蕭</rhyme></d>
+--- gpt-5.5 ---
+  형식: 근체시/율시
+  주제: 천문(astro), 회방(meet), 건물(structure), 인물(person)
+  본문:
+    1구: <term>明月</term>如<term>相約</term>
+    2구: <term>團圓</term>赴我<rhyme>邀</rhyme>
+    3구: 思時一<d>望魄</d>
+    4구: <d>喜極</d>幾<d>傾<rhyme>瓢</rhyme></d>
+    5구: <term>碧落</term>無<term>千里</term>
+    6구: <term>佳人</term>誰<term>獨<rhyme>謠</rhyme></term>
+    7구: <term>白頭</term>頻<term>佇立</term>
+    8구: <d>此意</d><d>未凋<rhyme>蕭</rhyme></d>
+
+==================== P19529 ====================
+--- 원문 ---
+  형식: /
+  주제: (없음)
+  본문:
+    1구: <term>徙倚</term>高蘭寺
+    2구: <term>沿洄</term><term>白馬</term><rhyme>灘</rhyme>
+    3구: 江流<term>含恨</term>去
+    4구: 山竹鎖愁<rhyme>殘</rhyme>
+    5구: 撫跡<term>客鬢</term>古
+    6구: 移舟<term>暮景</term><rhyme>寒</rhyme>
+    7구: <term>尊前</term><term>多少</term>意
+    8구: <term>惆悵</term>憶<term>憑<rhyme>欄</rhyme></term>
+--- claude-opus-4.7 ---
+  형식: 근체시/율시
+  주제: 유람(travel), 건물(structure), 불교(buddhism)
+  본문:
+    1구: <term>徙倚</term><d>高蘭寺</d>
+    2구: <term>沿洄</term><d>白馬<rhyme>灘</rhyme></d>
+    3구: <d>江流</d><term>含恨</term>去
+    4구: <d>山竹</d><d>鎖愁</d><rhyme>殘</rhyme>
+    5구: <d>撫跡</d><term>客鬢</term>古
+    6구: <d>移舟</d><term>暮景</term><rhyme>寒</rhyme>
+    7구: <term>尊前</term><d>多少意</d>
+    8구: <term>惆悵</term>憶<term>憑<rhyme>欄</rhyme></term>
+  QA 플래그: Theme: evidence 미검증(환각 의심): 白馬江/白馬灘/江流; Theme: evidence 미검증(환각 의심): 含恨/撫跡/惆悵; Theme: evidence 미검증(환각 의심): 鎖愁/惆悵/客鬢
+--- gemini-3-flash-preview ---
+  형식: 근체시/율시
+  주제: 강해(water), 애상(sympathy), 회고(reminiscence), 천문(astro), 건물(structure), 식물(plant)
+  본문:
+    1구: 徙倚<d>高蘭寺</d>
+    2구: 沿洄<d>白馬<rhyme>灘</rhyme></d>
+    3구: <d>江流</d><term>含恨</term>去
+    4구: <d>山竹</d><d>鎖愁</d><rhyme>殘</rhyme>
+    5구: <d>撫跡</d>客鬢古
+    6구: <d>移舟</d><term>暮景</term><rhyme>寒</rhyme>
+    7구: <term>尊前</term>多少意
+    8구: <term>惆悵</term>憶憑<rhyme>欄</rhyme>
+  QA 플래그: term/D: 알 수 없는 line_id: P1952905,text:; term/D: 알 수 없는 line_id: P1952908,text:
+--- gpt-5.5 ---
+  형식: 근체시/율시
+  주제: 불교(buddhism), 건물(structure), 산악(mountain), 식물(plant), 연회(banquet)
+  본문:
+    1구: 徙倚<d>高蘭寺</d>
+    2구: 沿洄<d>白馬<rhyme>灘</rhyme></d>
+    3구: <d>江流</d><term>含恨</term>去
+    4구: <d>山竹</d><d>鎖愁</d><rhyme>殘</rhyme>
+    5구: <d>撫跡</d><term>客鬢</term>古
+    6구: <d>移舟</d><term>暮景</term><rhyme>寒</rhyme>
+    7구: <term>尊前</term><d>多少意</d>
+    8구: <term>惆悵</term>憶<term>憑<rhyme>欄</rhyme></term>
+  QA 플래그: Theme: evidence 미검증(환각 의심): 遊白馬江 / 移舟; Theme: evidence 미검증(환각 의심): 白馬江 / 江流 / 白馬灘; Theme: evidence 미검증(환각 의심): 含恨 / 鎖愁 / 惆悵; Theme: evidence 미검증(환각 의심): 撫跡 / 憶
+
+==================== P19530 ====================
+--- 원문 ---
+  형식: /
+  주제: (없음)
+  본문:
+    1구: <term>物外</term>非<term>生客</term>
+    2구: 塵<term>中見</term>特<rhyme>流</rhyme>
+    3구: <term>劇論</term><term>石潭</term>夜
+    4구: 共寢許亭<rhyme>秋</rhyme>
+    5구: 積黍差<term>同異</term>
+    6구: <term>虛舟</term>任泛<rhyme>浮</rhyme>
+    7구: <term>傷心</term>羊<term>叔子</term>
+    8구: <term>不忍</term>過<term>西<rhyme>州</rhyme></term>
+--- claude-opus-4.7 ---
+  형식: 근체시/율시
+  주제: 애상(만시)(sympathy), 인물(율곡·양숙자)(person), 회고(옛일 추억)(reminiscence)
+  본문:
+    1구: <term>物外</term>非生客
+    2구: <d>塵中</d>見<d>特<rhyme>流</rhyme></d>
+    3구: <term>劇論</term><d>石潭夜</d>
+    4구: <d>共寢</d><d>許亭<rhyme>秋</rhyme></d>
+    5구: <d>積黍</d>差<term>同異</term>
+    6구: <term>虛舟</term>任<d>泛<rhyme>浮</rhyme></d>
+    7구: <term>傷心</term><d>羊叔子</d>
+    8구: <term>不忍</term>過<term>西<rhyme>州</rhyme></term>
+--- gemini-3-flash-preview ---
+  형식: 근체시/율시
+  주제: 애상(sympathy), 애상(sympathy), 인물(person), 계절(season), 회고(reminiscence)
+  본문:
+    1구: <term>物外</term>非<term>生客</term>
+    2구: <d>塵中</d>見<d>特<rhyme>流</rhyme></d>
+    3구: <term>劇論</term><term>石潭</term>夜
+    4구: <d>共寢</d><d>許亭</d><rhyme>秋</rhyme>
+    5구: <d>積黍</d>差<term>同異</term>
+    6구: <term>虛舟</term>任<d>泛<rhyme>浮</rhyme></d>
+    7구: <term>傷心</term><d>羊叔子</d>
+    8구: 不忍過<term>西<rhyme>州</rhyme></term>
+--- gpt-5.5 ---
+  형식: 근체시/율시
+  주제: 애상(sympathy), 인물(person), 회고(reminiscence), 도교(taoism)
+  본문:
+    1구: <term>物外</term>非<term>生客</term>
+    2구: <d>塵中</d>見<d>特<rhyme>流</rhyme></d>
+    3구: <term>劇論</term><d>石潭夜</d>
+    4구: <d>共寢</d><d>許亭<rhyme>秋</rhyme></d>
+    5구: <d>積黍</d>差<term>同異</term>
+    6구: <term>虛舟</term>任<d>泛<rhyme>浮</rhyme></d>
+    7구: <term>傷心</term><d>羊叔子</d>
+    8구: 不忍過<term>西<rhyme>州</rhyme></term>
+
+==================== P19531 ====================
+--- 원문 ---
+  형식: /
+  주제: (없음)
+  본문:
+    1구: 曾誦<term>靈芝</term>別
+    2구: 相吟沈約<rhyme>詩</rhyme>
+    3구: <term>古人</term>還<term>我輩</term>
+    4구: <term>今日</term>豈<term>當<rhyme>時</rhyme></term>
+    5구: <term>尊酒</term>難重把
+    6구: <term>停雲</term><term>入望</term><rhyme>思</rhyme>
+    7구: 應知<term>出關</term>氣
+    8구: <term>不久</term>向秦<rhyme>移</rhyme>
+--- claude-opus-4.7 ---
+  형식: 근체시/율시
+  주제: 송별(farewell), 인물(정철)(person), 술자리(banquet), 회고(reminiscence)
+  본문:
+    1구: 曾誦<d>靈芝別</d>
+    2구: 相吟<d>沈約<rhyme>詩</rhyme></d>
+    3구: <term>古人</term>還<term>我輩</term>
+    4구: <term>今日</term>豈<term>當<rhyme>時</rhyme></term>
+    5구: <term>尊酒</term>難重把
+    6구: <term>停雲</term>入<d>望<rhyme>思</rhyme></d>
+    7구: 應知<d>出關氣</d>
+    8구: 不久<d>向秦<rhyme>移</rhyme></d>
+--- gemini-3-flash-preview ---
+  형식: 근체시/율시
+  주제: 송별(farewell), 인물(person), 연회(banquet), 회고(reminiscence)
+  본문:
+    1구: 曾誦<d>靈芝別</d>
+    2구: 相吟<d>沈約<rhyme>詩</rhyme></d>
+    3구: <term>古人</term>還<term>我輩</term>
+    4구: <term>今日</term>豈當<rhyme>時</rhyme>
+    5구: <term>尊酒</term><d>難重把</d>
+    6구: <term>停雲</term>入<d>望<rhyme>思</rhyme></d>
+    7구: 應知<d>出關氣</d>
+    8구: <term>不久</term>向<d>秦<rhyme>移</rhyme></d>
+  QA 플래그: term/D: 알 수 없는 line_id: P1953104,text:
+--- gpt-5.5 ---
+  형식: 근체시/율시
+  주제: 송별(farewell), 유람(travel), 인물(person), 연회(banquet), 문방(literature), 변새(frontier)
+  본문:
+    1구: 曾誦<d>靈芝別</d>
+    2구: 相吟<d>沈約<rhyme>詩</rhyme></d>
+    3구: <term>古人</term>還<term>我輩</term>
+    4구: <term>今日</term>豈<term>當<rhyme>時</rhyme></term>
+    5구: <term>尊酒</term>難重把
+    6구: <term>停雲</term>入<d>望<rhyme>思</rhyme></d>
+    7구: 應知<d>出關氣</d>
+    8구: 不久向秦<rhyme>移</rhyme>
+
+==================== P19532 ====================
+--- 원문 ---
+  형식: /
+  주제: (없음)
+  본문:
+    1구: <term>勝境</term>還<term>平地</term>
+    2구: <term>良工</term>獨<term>苦<rhyme>心</rhyme></term>
+    3구: 海山<term>分物</term>色
+    4구: <term>朝暮</term>異<term>登<rhyme>臨</rhyme></term>
+    5구: <term>會見</term><term>無聲</term>畫
+    6구: 誰聞不<term>鼓<rhyme>琴</rhyme></term>
+    7구: <term>風流</term>能管此
+    8구: 欲去共<term>淸<rhyme>吟</rhyme></term>
+--- claude-opus-4.7 ---
+  형식: 근체시/율시
+  주제: 건물(평원당)(structure), 유람(등림)(travel), 문방(청음)(literature), 한적(풍류)(tranquility)
+  본문:
+    1구: <term>勝境</term>還<term>平地</term>
+    2구: <term>良工</term>獨<term>苦<rhyme>心</rhyme></term>
+    3구: <d>海山</d>分<term>物色</term>
+    4구: <term>朝暮</term>異<term>登<rhyme>臨</rhyme></term>
+    5구: 會見<d>無聲畫</d>
+    6구: 誰聞<d>不鼓<rhyme>琴</rhyme></d>
+    7구: <term>風流</term>能管此
+    8구: 欲去共<term>淸<rhyme>吟</rhyme></term>
+--- gemini-3-flash-preview ---
+  형식: 근체시/율시
+  주제: 건물(structure), 산악(mountain), 강해(water), 도화(picture), 한적(tranquility)
+  본문:
+    1구: <term>勝境</term>還<term>平地</term>
+    2구: <term>良工</term>獨<term>苦<rhyme>心</rhyme></term>
+    3구: <d>海山</d>分<term>物色</term>
+    4구: <term>朝暮</term>異<term>登<rhyme>臨</rhyme></term>
+    5구: 會見<d>無聲畫</d>
+    6구: 誰聞<d>不鼓<rhyme>琴</rhyme></d>
+    7구: <term>風流</term>能管此
+    8구: 欲去共<term>淸<rhyme>吟</rhyme></term>
+--- gpt-5.5 ---
+  형식: 근체시/율시
+  주제: 건물(structure), 산악(mountain), 강해(water), 유람(travel), 도화(picture), 기용(object)
+  본문:
+    1구: <term>勝境</term>還<term>平地</term>
+    2구: <term>良工</term>獨<term>苦<rhyme>心</rhyme></term>
+    3구: <d>海山</d>分<term>物色</term>
+    4구: <term>朝暮</term>異<term>登<rhyme>臨</rhyme></term>
+    5구: 會見<d>無聲畫</d>
+    6구: 誰聞不鼓<rhyme>琴</rhyme>
+    7구: <term>風流</term>能管此
+    8구: 欲去共<term>淸<rhyme>吟</rhyme></term>
+  QA 플래그: Theme: evidence 미검증(환각 의심): 韻、淸吟
+
+==================== P19533 ====================
+--- 원문 ---
+  형식: /
+  주제: (없음)
+  본문:
+    1구: <term>草野</term><term>安危</term>計
+    2구: <term>朝廷</term><term>進退</term><rhyme>身</rhyme>
+    3구: 一官還<term>失路</term>
+    4구: <term>千里</term>尙<term>思<rhyme>親</rhyme></term>
+    5구: <term>荊棘</term>投蹤遠
+    6구: <term>葭莩</term>托義<rhyme>新</rhyme>
+    7구: <term>春風</term>惜此別
+    8구: <term>衰老</term>自<term>沾<rhyme>巾</rhyme></term>
+--- claude-opus-4.7 ---
+  형식: 근체시/율시
+  주제: 송별(farewell), 애상(sympathy), 인물(person)
+  본문:
+    1구: <term>草野</term><d>安危計</d>
+    2구: <term>朝廷</term><d>進退<rhyme>身</rhyme></d>
+    3구: <d>一官</d>還<term>失路</term>
+    4구: <term>千里</term>尙<term>思<rhyme>親</rhyme></term>
+    5구: <term>荊棘</term><d>投蹤</d>遠
+    6구: <term>葭莩</term><d>托義</d><rhyme>新</rhyme>
+    7구: <term>春風</term>惜<d>此別</d>
+    8구: <term>衰老</term>自<term>沾<rhyme>巾</rhyme></term>
+--- gemini-3-flash-preview ---
+  형식: 근체시/율시
+  주제: 송별(farewell), 계절(season), 식물(plant), 애상(sympathy)
+  본문:
+    1구: <term>草野</term><d>安危計</d>
+    2구: <term>朝廷</term><d>進退<rhyme>身</rhyme></d>
+    3구: <d>一官</d>還<term>失路</term>
+    4구: <term>千里</term>尙<term>思<rhyme>親</rhyme></term>
+    5구: <term>荊棘</term><d>投蹤</d>遠
+    6구: <term>葭莩</term><d>托義</d><rhyme>新</rhyme>
+    7구: <term>春風</term><d>惜此別</d>
+    8구: <term>衰老</term>自<term>沾<rhyme>巾</rhyme></term>
+--- gpt-5.5 ---
+  형식: 근체시/율시
+  주제: 회방(meet), 송별(farewell), 기증(donate), 계절(season), 식물(plant), 현달(prosper), 인물(person)
+  본문:
+    1구: <term>草野</term><d>安危計</d>
+    2구: <term>朝廷</term><term>進退</term><rhyme>身</rhyme>
+    3구: <d>一官</d>還<term>失路</term>
+    4구: <term>千里</term>尙<term>思<rhyme>親</rhyme></term>
+    5구: <term>荊棘</term><d>投蹤</d>遠
+    6구: <term>葭莩</term><d>托義</d><rhyme>新</rhyme>
+    7구: <term>春風</term>惜<d>此別</d>
+    8구: <term>衰老</term>自<term>沾<rhyme>巾</rhyme></term>
+
+==================== P19534 ====================
+--- 원문 ---
+  형식: /
+  주제: (없음)
+  본문:
+    1구: <term>非子</term>留<term>汧渭</term>
+    2구: <term>雲屯</term>萬馬<rhyme>良</rhyme>
+    3구: 責專新注簿
+    4구: <term>名重</term>舊<term>齋<rhyme>郞</rhyme></term>
+    5구: <term>富國</term><term>無能</term>數
+    6구: <term>論才</term>孰許<rhyme>當</rhyme>
+    7구: <term>雖然</term><term>終老</term>約
+    8구: <term>結社</term><term>水雲</term><rhyme>鄕</rhyme>
+--- claude-opus-4.7 ---
+  형식: 근체시/율시
+  주제: 송별(farewell), 인물(person), 동물(말)(animal), 은거·도교적 결사(taoism), 한적(만년 은거의 약속)(tranquility)
+  본문:
+    1구: <term>非子</term>留<term>汧渭</term>
+    2구: <term>雲屯</term><d>萬馬</d><rhyme>良</rhyme>
+    3구: <d>責專</d><d>新注簿</d>
+    4구: <term>名重</term><d>舊齋<rhyme>郞</rhyme></d>
+    5구: <term>富國</term><term>無能</term>數
+    6구: <term>論才</term>孰許<rhyme>當</rhyme>
+    7구: 雖然<term>終老</term>約
+    8구: <term>結社</term><term>水雲<rhyme>鄕</rhyme></term>
+--- gemini-3-flash-preview ---
+  형식: 근체시/율시
+  주제: 송별(farewell), 회방(meet), 동물(animal), 한적(tranquility), 강해(water)
+  본문:
+    1구: 非子留<term>汧渭</term>
+    2구: <term>雲屯</term><d>萬馬<rhyme>良</rhyme></d>
+    3구: 責專<d>新注簿</d>
+    4구: 名重<d>舊齋<rhyme>郞</rhyme></d>
+    5구: <term>富國</term>無能數
+    6구: <term>論才</term>孰許<rhyme>當</rhyme>
+    7구: 雖然<d>終老約</d>
+    8구: <term>結社</term><term>水雲<rhyme>鄕</rhyme></term>
+  QA 플래그: term/D: 알 수 없는 line_id: P1953405,text:
+--- gpt-5.5 ---
+  형식: 근체시/율시
+  주제: 인물(person), 회방(meet), 송별(farewell), 기증(donate), 강해(water), 동물(animal), 현달(prosper), 현달(prosper), 한적(tranquility)
+  본문:
+    1구: 非子留<term>汧渭</term>
+    2구: <term>雲屯</term><d>萬馬</d><rhyme>良</rhyme>
+    3구: <d>責專</d><d>新注簿</d>
+    4구: <term>名重</term><d>舊齋<rhyme>郞</rhyme></d>
+    5구: <term>富國</term>無能數
+    6구: <term>論才</term>孰許<rhyme>當</rhyme>
+    7구: 雖然<d>終老約</d>
+    8구: <term>結社</term><term>水雲<rhyme>鄕</rhyme></term>
