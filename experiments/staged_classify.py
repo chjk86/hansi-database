@@ -1,7 +1,7 @@
 import re
 
 from src.llm_client import LLMClient
-from src.poem_model import Poem
+from src.poem_model import Poem, ThemeTag
 
 _ELEMENT_STRIP = re.compile(r"<Allusion\b[^>]*/>|<Annotation\b[^>]*>.*?</Annotation>", re.DOTALL)
 _TAG_STRIP = re.compile(r"</?(term|d|rhyme)>")
@@ -254,5 +254,111 @@ def classify_term_d(
             type(line)(id=line.id, order=line.order, content_xml=new_content, in_couplet=line.in_couplet)
         )
     poem.lines = new_lines
+
+    return poem, flags
+
+
+_THEME_CATEGORIES = {
+    "mountain": ("산악", ["山", "石", "登", "望", "觀"]),
+    "water": ("강해", ["水", "海", "湖", "川", "浦"]),
+    "astro": ("천문", ["日", "月", "星", "雷", "雨", "雪", "風"]),
+    "season": ("계절", ["節", "春", "夏", "秋", "冬"]),
+    "animal": ("동물", ["禽", "獸", "鱗", "蟲"]),
+    "plant": ("식물", ["花", "樹", "菓", "草"]),
+    "travel": ("유람", ["遊", "過", "行", "宿"]),
+    "donate": ("기증", ["贈", "答", "和"]),
+    "farewell": ("송별", ["送", "別", "留別"]),
+    "meet": ("회방", ["訪", "會", "見"]),
+    "sympathy": ("애상", ["挽", "恨", "哀悼", "弔古"]),
+    "reminiscence": ("회고", ["懷", "憶", "追"]),
+    "frontier": ("변새", ["邊", "塞"]),
+    "desire": ("염정", ["閨怨", "宮詞"]),
+    "dream": ("기몽", ["夢"]),
+    "prosper": ("현달", ["慶", "賀", "喜"]),
+    "tranquility": ("한적", ["閑", "居", "退"]),
+    "banquet": ("연회", ["宴", "樂", "曲", "茶酒"]),
+    "person": ("인물", ["人物", "漁釣", "豪俠"]),
+    "taoism": ("도교", ["仙", "道"]),
+    "buddhism": ("불교", ["釋", "佛", "寺刹", "僧"]),
+    "structure": ("건물", ["樓", "亭", "臺", "閣", "堂"]),
+    "object": ("기용", ["器"]),
+    "literature": ("문방", ["文", "讀", "觀"]),
+    "picture": ("도화", ["畵", "圖", "題畵"]),
+    "others": ("기타", []),
+}
+
+_THEME_SYSTEM_PROMPT = """\
+당신은 한국 한시 주제 분류 전문가입니다. 시의 제목과 이미 확정된 시어(term) 태깅을
+참고해 아래 24개 카테고리 중 해당하는 것을 다중 선택하세요. 각 항목은 category(영문
+코드), basis(title/term/title, term), evidence(제목 또는 시어에서 실제로 등장하는
+글자 그대로), label_ko(한글 라벨)를 포함합니다. evidence는 반드시 시의 제목 또는
+본문에 실제로 나오는 글자만 사용하세요. 카테고리 표: {categories}
+""".format(categories=", ".join(f"{k}({v[0]})" for k, v in _THEME_CATEGORIES.items()))
+
+_THEME_RESPONSE_SCHEMA = {
+    "type": "object",
+    "properties": {
+        "themes": {
+            "type": "array",
+            "items": {
+                "type": "object",
+                "properties": {
+                    "category": {"type": "string"},
+                    "basis": {"type": "string"},
+                    "evidence": {"type": "string"},
+                    "label_ko": {"type": "string"},
+                },
+                "required": ["category", "basis", "evidence", "label_ko"],
+            },
+        },
+    },
+    "required": ["themes"],
+}
+
+
+def _theme_evidence_exists(evidence: str, poem_plain_text: str) -> bool:
+    tokens = evidence.replace(",", " ").split()
+    return all(token in poem_plain_text for token in tokens)
+
+
+def classify_theme(poem: Poem, llm_client: LLMClient) -> tuple[Poem, list[dict]]:
+    flags: list[dict] = []
+
+    def plain(xml_fragment: str) -> str:
+        without_out_of_scope = _ELEMENT_STRIP.sub("", xml_fragment)
+        return _TAG_STRIP.sub("", without_out_of_scope)
+
+    title_plain = plain(poem.title_xml)
+    body_plain = "\n".join(plain(ln.content_xml) for ln in poem.lines)
+    full_text = title_plain + "\n" + body_plain
+
+    user_prompt = (
+        f"제목: {title_plain}\n"
+        "본문(시어 태깅 포함):\n"
+        + "\n".join(f"{ln.order}구: {ln.content_xml}" for ln in poem.lines)
+    )
+
+    result = llm_client.complete(_THEME_SYSTEM_PROMPT, user_prompt, _THEME_RESPONSE_SCHEMA)
+
+    accepted_themes = []
+    for theme in result["themes"]:
+        if _theme_evidence_exists(theme["evidence"], full_text):
+            accepted_themes.append(
+                ThemeTag(
+                    category=theme["category"],
+                    basis=theme["basis"],
+                    evidence=theme["evidence"],
+                    label_ko=theme["label_ko"],
+                )
+            )
+        else:
+            flags.append(
+                {
+                    "poem_id": poem.id,
+                    "item": "Theme",
+                    "reason": f"evidence 미검증(환각 의심): {theme['evidence']}",
+                }
+            )
+    poem.themes = accepted_themes
 
     return poem, flags

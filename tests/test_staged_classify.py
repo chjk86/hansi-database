@@ -3,7 +3,7 @@ import json
 from src.llm_client import FakeLLMClient
 from src.poem_model import Line, Poem
 from src.dict_index import DictIndex
-from experiments.staged_classify import classify_form, classify_couplet, classify_term_d
+from experiments.staged_classify import classify_form, classify_couplet, classify_term_d, classify_theme
 
 
 def _quatrain():
@@ -200,3 +200,59 @@ def test_term_d_hallucinated_span_text_is_flagged_and_skipped():
     assert result.lines[0].content_xml == "夜伴林僧宿"  # 원문 그대로, 태그 없음
     assert len(flags) == 1
     assert flags[0]["item"] == "term/D"
+
+
+def test_theme_uses_term_tagged_poem_as_context():
+    poem = Poem(
+        id="P8",
+        title_xml="贈<d>眞鑑</d>",
+        lines=[
+            Line(id="L1", order=1, content_xml="夜伴<term>林僧</term>宿"),
+            Line(id="L2", order=2, content_xml="<d>重雲</d>濕<term>草<rhyme>衣</rhyme></term>"),
+        ],
+    )
+    llm = FakeLLMClient(
+        responses=[
+            {
+                "themes": [
+                    {"category": "donate", "basis": "title", "evidence": "贈", "label_ko": "기증"},
+                    {
+                        "category": "buddhism",
+                        "basis": "term",
+                        "evidence": "林僧 草衣",
+                        "label_ko": "불교",
+                    },
+                ]
+            }
+        ]
+    )
+
+    result, flags = classify_theme(poem, llm)
+
+    assert len(result.themes) == 2
+    assert result.themes[0].category == "donate"
+    assert flags == []
+
+
+def test_theme_evidence_hallucination_is_rejected():
+    poem = Poem(id="P9", title_xml="題", lines=[Line(id="L1", order=1, content_xml="山")])
+    llm = FakeLLMClient(
+        responses=[
+            {
+                "themes": [
+                    {
+                        "category": "farewell",
+                        "basis": "term",
+                        "evidence": "존재하지않는단어",
+                        "label_ko": "송별",
+                    }
+                ]
+            }
+        ]
+    )
+
+    result, flags = classify_theme(poem, llm)
+
+    assert result.themes == []
+    assert len(flags) == 1
+    assert flags[0]["item"] == "Theme"
