@@ -119,9 +119,14 @@ experiments/2026-08-05-model-comparison/
   output_claude-opus-4.7.xml
   output_gemini-3-flash-preview.xml
   output_gpt-5.5.xml
+  qa_claude-opus-4.7.csv
+  qa_gemini-3-flash-preview.csv
+  qa_gpt-5.5.csv
   comparison_report.txt   ← 시 50편 각각에 대해 3모델 결과를 나란히 배치
-  qa_log.csv              ← 모델별 처리 실패/환각 의심 등 통합 기록 (model 컬럼 추가)
 ```
+`QALog`(src/qa_log.py)는 `poem_id/collection/item/reason` 스키마가 고정돼 있고
+이번 실험은 프로덕션 코드를 건드리지 않는 게 원칙이므로, "model" 컬럼을 추가하는
+대신 모델별로 별도 QA 파일을 쓴다(모델당 `QALog` 인스턴스 하나, 파일명에 모델명 포함).
 
 `comparison_report.txt`는 각 시마다: 원문 → (Claude 결과) → (Gemini 결과) →
 (GPT 결과) 순으로 나열해 사람이 스크롤하면서 세 모델의 형식/대장/시어/주제 판단을
