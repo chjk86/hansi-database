@@ -81,6 +81,7 @@ class TimelyLLMClient:
             try:
                 response = self._client.chat.completions.create(
                     model=self._model,
+                    temperature=0,
                     messages=[
                         {"role": "system", "content": system},
                         {"role": "user", "content": user},
