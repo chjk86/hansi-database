@@ -178,7 +178,7 @@ def _find_unclaimed_occurrence(plain: str, text: str, claimed: list[tuple[int, i
     """plain에서 text가 나타나는 위치 중, claimed(이미 다른 span이 차지한 (start, end)
     구간들)와 겹치지 않는 가장 왼쪽 occurrence의 시작 인덱스를 반환한다. 없으면 -1.
     LLM이 시구 내 span들을 읽기 순서와 다르게 반환하더라도(=순서 무관) 올바른 위치를
-    찾기 위해 단일 커서 대신 이 방식을 사용한다."""
+    찾기 위한 폴백으로 사용한다 (아래 _find_span_start 참고)."""
     search_from = 0
     while True:
         idx = plain.find(text, search_from)
@@ -188,6 +188,23 @@ def _find_unclaimed_occurrence(plain: str, text: str, claimed: list[tuple[int, i
         if not any(idx < c_end and end > c_start for c_start, c_end in claimed):
             return idx
         search_from = idx + 1
+
+
+def _find_span_start(plain: str, text: str, claimed: list[tuple[int, int]]) -> int:
+    """다음 순서로 text의 시작 인덱스를 찾는다.
+
+    1) 지금까지 claimed된 구간 중 가장 오른쪽 끝(없으면 0) 이후에서 먼저 찾는다.
+       이렇게 찾은 위치는 claimed 구간 뒤이므로 겹칠 수 없어 그대로 신뢰할 수 있고,
+       text가 시구 안에 여러 번 반복될 때 "다음에 나오는 occurrence"를 올바르게
+       선택한다 (예: 山中花山中에서 花 다음에 두 번째 山中을 의도한 경우).
+    2) 그 안에서 못 찾으면(-1), LLM이 span을 읽기 순서와 다르게 반환한 경우이므로
+       claimed 구간과 겹치지 않는 가장 왼쪽 occurrence를 전체에서 다시 찾는다.
+    """
+    high_water_mark = max((end for _, end in claimed), default=0)
+    idx = plain.find(text, high_water_mark)
+    if idx != -1:
+        return idx
+    return _find_unclaimed_occurrence(plain, text, claimed)
 
 
 def classify_term_d(
@@ -214,7 +231,7 @@ def classify_term_d(
             )
             continue
         plain, _ = plains[line_id]
-        start = _find_unclaimed_occurrence(plain, text, claimed_by_line[line_id])
+        start = _find_span_start(plain, text, claimed_by_line[line_id])
         if start == -1:
             flags.append(
                 {

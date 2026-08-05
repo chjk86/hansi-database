@@ -131,6 +131,36 @@ def test_term_d_out_of_order_spans_all_resolve_correctly():
     assert flags == []
 
 
+def test_term_d_repeated_text_picks_the_intended_later_occurrence():
+    # "山中"이 시구에 두 번 등장한다(index 0과 index 3). LLM은 "花"(index 2) 다음에
+    # 두 번째 "山中"(index 3)을 의도해서 반환한다. 단순히 "겹치지 않는 가장 왼쪽
+    # occurrence"만 찾으면 이미 처리된 앞부분과 안 겹치는 첫 번째 "山中"(index 0)을
+    # 잘못 골라버린다 -- 환각 플래그도 없이 조용히 틀린 위치에 태그가 붙는 버그.
+    # claimed 구간의 가장 오른쪽 끝 이후에서 먼저 찾도록 하여 반복 텍스트에서
+    # "다음에 나오는" occurrence를 올바르게 선택해야 한다.
+    poem = Poem(
+        id="P9",
+        lines=[Line(id="L1", order=1, content_xml="山中花山中")],
+    )
+    idx = DictIndex(set())
+    llm = FakeLLMClient(
+        responses=[
+            {
+                "spans": [
+                    {"line_id": "L1", "text": "花"},
+                    {"line_id": "L1", "text": "山中"},  # 의도: 두 번째 山中(index 3)
+                ]
+            }
+        ]
+    )
+
+    result, flags = classify_term_d(poem, idx, llm)
+
+    # 첫 번째 "山中"(index 0)은 그대로 남고, "花" 뒤의 두 번째 "山中"만 태그된다
+    assert result.lines[0].content_xml == "山中<d>花</d><d>山中</d>"
+    assert flags == []
+
+
 def test_term_d_span_not_in_dictionary_becomes_d():
     poem = Poem(
         id="P5",
