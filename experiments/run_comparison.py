@@ -48,6 +48,13 @@ def run_staged_pipeline(
             for flag in term_flags + theme_flags:
                 qa_log.add(flag["poem_id"], "지천집", flag["item"], flag["reason"])
         except Exception as exc:  # noqa: BLE001
+            # poem이 여기서 results에 담기는 시점의 상태는 실패한 단계에 따라
+            # 다르다: classify_form에서 실패하면 미분류 상태 그대로이고, 이후
+            # 단계(Couplet/term-D/Theme)에서 실패하면 그 앞 단계까지는 이미
+            # poem 객체에 in-place로 반영된 "부분 태깅" 상태로 남는다. 어느
+            # 쪽이든 QA 로그에 실패가 기록되므로, 재검토가 필요한 시를 판단할
+            # 때는 이 QA 로그를 기준으로 삼아야 한다(poem 자체의 필드만 봐서는
+            # 완전 처리인지 부분 처리인지 구분할 수 없음).
             qa_log.add(poem.id, "지천집", "처리 실패", f"[{model_label}] {exc}")
 
         results.append(poem)
