@@ -1,0 +1,463 @@
+id	제목	제안분류	확신도	구간정밀도	근거	비고
+P17768	題畫屛	도화(picture)	79	82%	title	
+P17769	題畫屛 其二	도화(picture)	79	82%	title	
+P17770	題畫屛 其三	도화(picture)	69	52%	title	
+P17771	題畫屛 其四	도화(picture)	79	82%	title	
+P17772	直夜記夢	기몽(dream)	60	52%	term	
+P17773	題靑山白雲圖	도화(picture)	64	52%	title	
+P17774	雪後	천문(astro)	76	82%	title, term	
+P17775	平沙落雁	천문(astro)	31	14%	term	
+P17776	遠浦歸帆	천문(astro)	46	27%	term	
+P17777	瀟湘夜雨	천문(astro)	64	52%	title	
+P17778	洞庭秋月	계절(season)	61	52%	title	
+P17779	山市晴嵐	산악(mountain)	70	82%	title	
+P17780	江天暮雪	천문(astro)	69	52%	title	
+P17781	漁村落照	유람(travel)	18	17%	term	
+P17782	煙寺晩鐘	불교(buddhism)	86	94%	title, term	
+P17783	七月初一日大驟雨	천문(astro)	70	82%	title, term	
+P17784	漫遣	한적(tranquility)	26	16%	term	
+P17785	十一月十七日雪中卽事	기타(others)	62	52%	title	
+P17786	對南山	산악(mountain)	61	52%	title	
+P17787	挽沈生	애상(sympathy)	96	94%	title, term	
+P17788	雪後	천문(astro)	70	82%	title	
+P17789	臘梅	천문(astro)	43	27%	term	
+P17790	春曉	계절(season)	57	38%	title, term	
+P17791	風水亭	건물(structure)	90	94%	title	
+P17792	古意	회고(reminiscence)	55	38%	title	
+P17793	古意 其二	송별(farewell)	46	27%	term	
+P17794	奩體	염정(desire)	91	94%	title	
+P17795	奩體 其二	염정(desire)	91	94%	title	
+P17796	白雪曲	천문(astro)	74	82%	title, term	악부/제영(확신↓)
+P17797	詠雪	천문(astro)	74	82%	title, term	
+P17798	練光亭	건물(structure)	95	94%	title	
+P17799	征婦詞	애상(sympathy)	39	14%	term	
+P17800	詠雁	한적(tranquility)	38	14%	term	
+P17801	果川道中	유람(travel)	66	52%	title	
+P17802	雙松亭十詠。爲安 而藎 作。	건물(structure)	95	94%	title	
+P17803	雙松亭十詠。爲安 而藎 作。 其二	건물(structure)	94	94%	title	
+P17804	雙松亭十詠。爲安 而藎 作。 其三	건물(structure)	89	94%	title, term	
+P17805	雙松亭十詠。爲安 而藎 作。 其四	건물(structure)	94	94%	title	
+P17806	雙松亭十詠。爲安 而藎 作。 其五	건물(structure)	89	94%	title	
+P17807	雙松亭十詠。爲安 而藎 作。 其六	건물(structure)	94	94%	title, term	
+P17808	雙松亭十詠。爲安 而藎 作。 其七	건물(structure)	94	94%	title	
+P17809	雙松亭十詠。爲安 而藎 作。 其八	건물(structure)	85	94%	title	
+P17810	雙松亭十詠。爲安 而藎 作。 其九	건물(structure)	94	94%	title	
+P17811	雙松亭十詠。爲安 而藎 作。 其十	건물(structure)	92	94%	title, term	
+P17812	江南曲 順天號小江南	강해(water)	45	27%	term	
+P17813	江南曲 順天號小江南 其二	강해(water)	40	27%	term	
+P17814	擬古	천문(astro)	25	16%	term	
+P17815	擬古 其二	천문(astro)	26	16%	term	
+P17816	盆梅詞	식물(plant)	64	52%	title, term	
+P17817	海翁亭八詠	건물(structure)	91	94%	title	
+P17818	海翁亭八詠 其二	건물(structure)	90	94%	title	
+P17819	海翁亭八詠 其三	건물(structure)	93	94%	title	
+P17820	海翁亭八詠 其四	건물(structure)	95	94%	title	
+P17821	海翁亭八詠 其五	건물(structure)	90	94%	title	
+P17822	海翁亭八詠 其六	건물(structure)	94	94%	title	
+P17823	海翁亭八詠 其七	건물(structure)	93	94%	title	
+P17824	海翁亭八詠 其八	건물(structure)	92	94%	title	
+P17825	村莊卽事	기타(others)	68	52%	title	
+P17826	雪後	천문(astro)	69	52%	title	
+P17827	庇雨堂八詠	건물(structure)	56	38%	title	
+P17828	庇雨堂八詠 其二	건물(structure)	60	52%	title	
+P17829	庇雨堂八詠 其三	건물(structure)	58	38%	title	
+P17830	庇雨堂八詠 其四	애상(sympathy)	43	27%	term	
+P17831	庇雨堂八詠 其五	건물(structure)	56	38%	title	
+P17832	庇雨堂八詠 其六	건물(structure)	59	38%	title	
+P17833	庇雨堂八詠 其七	건물(structure)	61	52%	title	
+P17834	庇雨堂八詠 其八	건물(structure)	61	52%	title	
+P17835	病後	한적(tranquility)	50	38%	term	
+P17836	春怨	애상(sympathy)	55	38%	term	
+P17837	古意	천문(astro)	24	16%	term	
+P17838	閨情。次古樂府。	애상(sympathy)	48	27%	term	
+P17839	惜春	송별(farewell)	38	14%	term	
+P17840	送客	송별(farewell)	97	94%	title, term	
+P17841	丁卯社日	애상(sympathy)	52	38%	term	
+P17842	無題	기타(others)	64	52%	title	
+P17843	擬子夜歌	애상(sympathy)	21	16%	term	악부/제영(확신↓)
+P17844	擬子夜歌 其二	송별(farewell)	23	16%	term	
+P17845	艶詞	애상(sympathy)	28	16%	term	
+P17846	艶詞 其二	송별(farewell)	44	27%	term	
+P17847	大言	유람(travel)	58	38%	term	
+P17848	大言 其二	변새(frontier)	71	82%	term	
+P17849	相逢詞	건물(structure)	45	27%	term	
+P17850	相逢詞 其二	송별(farewell)	66	52%	title, term	
+P17851	卽事 戊戌	기타(others)	77	82%	title	
+P17852	秋宮怨	계절(season)	59	38%	title	
+P17853	雨中卽事	기타(others)	68	52%	title, term	
+P17854	寶山朝靄	산악(mountain)	85	94%	title	
+P17855	遣興	한적(tranquility)	69	52%	title	
+P17856	直夜次尹 而述 韻	불교(buddhism)	47	27%	term	
+P17857	冬至望闕禮口占	회고(reminiscence)	49	27%	term	
+P17858	西湖訪友人	애상(sympathy)	46	27%	term	
+P17859	春江泛舟。次前韻。	유람(travel)	62	52%	title	
+P17860	春江泛舟。次前韻。 其二	유람(travel)	56	38%	title	
+P17861	登禿嶺	회방(meet)	25	16%	term	
+P17862	吹笛院在牛峯	애상(sympathy)	41	27%	term	
+P17863	行宮騎省卽事	기타(others)	64	52%	title	
+P17864	湘水驛道中	유람(travel)	74	82%	title, term	
+P17865	試院秋夜 七月差別試考官	송별(farewell)	89	94%	title	
+P17866	試院秋夜 七月差別試考官 其二	송별(farewell)	94	94%	title	
+P17867	雪中訪李五峯令公。以病不見而還。	천문(astro)	63	52%	title	
+P17868	夏日卽事	기타(others)	72	82%	title	
+P17869	水調詞	변새(frontier)	49	27%	term	
+P17870	塞下曲	변새(frontier)	61	52%	title, term	악부/제영(확신↓)
+P17871	七夕前一日大雨戲成	천문(astro)	64	52%	title	
+P17872	七夕日。復用前韻。五首	도교(taoism)	40	27%	term	
+P17873	七夕日。復用前韻。五首 其二	애상(sympathy)	54	38%	term	
+P17874	七夕日。復用前韻。五首 其三	애상(sympathy)	22	16%	term	
+P17875	七夕日。復用前韻。五首 其四	애상(sympathy)	41	27%	term	
+P17876	七夕日。復用前韻。五首 其五	애상(sympathy)	40	27%	term	
+P17877	月夜翫酴醾花	천문(astro)	59	38%	title	
+P17878	憶宣城	회고(reminiscence)	56	38%	title	
+P17879	遠山白煙	산악(mountain)	74	82%	title, term	
+P17880	豚兒晝寢戲書	회고(reminiscence)	62	52%	term	
+P17881	七夕日送人	송별(farewell)	97	94%	title, term	
+P17882	過沈晩沙宅有感	유람(travel)	65	52%	title	
+P17883	偶出廣津口占	한적(tranquility)	49	27%	term	
+P17884	次申玄翁病中見贈韻	애상(sympathy)	75	82%	title	차운(제목 donate 무시)
+P17885	病中卽事	기타(others)	64	52%	title	
+P17886	病後始出	송별(farewell)	36	14%	term	
+P17887	題桐翦板次韻	도화(picture)	88	94%	title	
+P17888	卽事	기타(others)	83	94%	title	
+P17889	有客嘲我馬疲鈍	송별(farewell)	50	38%	term	
+P17890	幽居	기몽(dream)	19	17%	term	
+P17891	宮詞 丙午	도교(taoism)	36	14%	term	
+P17892	宮詞 丙午 其二	애상(sympathy)	56	38%	term	
+P17893	宮詞 丙午 其三	천문(astro)	17	17%	term	
+P17894	宮詞 丙午 其四	한적(tranquility)	53	38%	term	
+P17895	春宮怨	애상(sympathy)	40	27%	term	
+P17896	除夜次高達夫韻	유람(travel)	36	14%	term	
+P17897	江村	송별(farewell)	51	38%	term	
+P17898	蜘蛛	계절(season)	40	27%	term	
+P17899	狎鷗亭	건물(structure)	93	94%	title	
+P17900	九月十二日曉 夢中得句。覺而成之。	계절(season)	57	38%	title	
+P17901	卽夜	한적(tranquility)	38	14%	term	
+P17902	塞下曲	변새(frontier)	57	38%	title, term	악부/제영(확신↓)
+P17903	詠史	회고(reminiscence)	71	82%	title	
+P17904	寄懷冲徽上人 己酉	기증(donate)	87	94%	title	
+P17905	漫書	천문(astro)	19	17%	term	
+P17906	夢作	-(-)	0	0%		신호 없음
+P17907	夢遊重興寺	유람(travel)	70	82%	title	
+P17908	酒席口占。贈沈結城重卿之行。	기증(donate)	97	94%	title	
+P17909	迷豚聖求設翰林宴於傍舍。感而賦之。庚戌	인물(person)	45	27%	term	
+P17910	古別離	송별(farewell)	92	94%	title, term	
+P17911	次許岳麓漢上詩韻 二十首○幷序	변새(frontier)	36	14%	term	
+P17912	次許岳麓漢上詩韻 二十首○幷序 其二	애상(sympathy)	41	27%	term	
+P17913	次許岳麓漢上詩韻 二十首○幷序 其三	한적(tranquility)	49	27%	term	
+P17914	次許岳麓漢上詩韻 二十首○幷序 其四	건물(structure)	50	38%	term	
+P17915	次許岳麓漢上詩韻 二十首○幷序 其五	유람(travel)	15	17%	term	
+P17916	次許岳麓漢上詩韻 二十首○幷序 其六	산악(mountain)	25	16%	term	
+P17917	次許岳麓漢上詩韻 二十首○幷序 其七	산악(mountain)	25	16%	term	
+P17918	次許岳麓漢上詩韻 二十首○幷序 其八	회고(reminiscence)	46	27%	term	
+P17919	次許岳麓漢上詩韻 二十首○幷序 其九	기몽(dream)	32	14%	term	
+P17920	次許岳麓漢上詩韻 二十首○幷序 其十	산악(mountain)	25	16%	term	
+P17921	次許岳麓漢上詩韻 二十首○幷序 其十一	애상(sympathy)	54	38%	term	
+P17922	次許岳麓漢上詩韻 二十首○幷序 其十二	유람(travel)	46	27%	term	
+P17923	次許岳麓漢上詩韻 二十首○幷序 其十三	한적(tranquility)	45	27%	term	
+P17924	次許岳麓漢上詩韻 二十首○幷序 其十四	회고(reminiscence)	39	14%	term	
+P17925	次許岳麓漢上詩韻 二十首○幷序 其十五	한적(tranquility)	49	27%	term	
+P17926	次許岳麓漢上詩韻 二十首○幷序 其十六	한적(tranquility)	47	27%	term	
+P17927	次許岳麓漢上詩韻 二十首○幷序 其十七	회고(reminiscence)	41	27%	term	
+P17928	次許岳麓漢上詩韻 二十首○幷序 其十八	애상(sympathy)	47	27%	term	
+P17929	次許岳麓漢上詩韻 二十首○幷序 其十九	한적(tranquility)	37	14%	term	
+P17930	次許岳麓漢上詩韻 二十首○幷序 其二十	애상(sympathy)	40	27%	term	
+P17931	看梅	한적(tranquility)	49	27%	term	
+P17932	南窓諸公屬和。故再用其韻。以足前篇不賦詩之意。本十二首	한적(tranquility)	54	38%	term	
+P17933	雨中漫成	천문(astro)	63	52%	title, term	
+P17934	直巡廳	계절(season)	47	27%	term	
+P17935	與客小飮	송별(farewell)	52	38%	term	
+P17936	枕流臺次韻。爲劉希慶作。	건물(structure)	58	38%	title	
+P17937	枕流臺次韻。爲劉希慶作。 其二	건물(structure)	53	38%	title	
+P17938	憶西都舊遊	유람(travel)	69	52%	title	
+P17939	憶西都舊遊 其二	유람(travel)	70	82%	title, term	
+P17940	遊仙洞	유람(travel)	83	94%	title	
+P17941	遊仙洞 其二	유람(travel)	74	82%	title	
+P17942	艶體	애상(sympathy)	43	27%	term	
+P17943	艶體 其二	기몽(dream)	54	38%	term	
+P17944	艶體 其三	한적(tranquility)	45	27%	term	
+P17945	艶體 其四	애상(sympathy)	56	38%	term	
+P17946	詠梅	식물(plant)	55	38%	title	
+P17947	詠梅 其二	식물(plant)	55	38%	title	
+P17948	遊仙詞	유람(travel)	62	52%	title	
+P17949	遊仙詞 其二	유람(travel)	74	82%	title	
+P17950	遊仙詞 其三	유람(travel)	76	82%	title	
+P17951	甲寅重陽偶成	기타(others)	74	82%	title	
+P17952	漁父詞	한적(tranquility)	49	27%	term	
+P17953	漁父詞 其二	회고(reminiscence)	39	14%	term	
+P17954	漫成	애상(sympathy)	52	38%	term	
+P17955	春閨詠	회고(reminiscence)	38	14%	term	
+P17956	春閨詠 其二	한적(tranquility)	38	14%	term	
+P17957	苦熱行	계절(season)	52	38%	title, term	악부/제영(확신↓)
+P17958	卽事	기타(others)	87	94%	title	
+P17959	題壁	도화(picture)	57	38%	title	
+P17960	過安退之舊居	유람(travel)	76	82%	title	
+P17961	宮詞	염정(desire)	46	27%	term	
+P17962	銅雀津記感	애상(sympathy)	56	38%	term	
+P17963	西郊擬別行客。終日待不至。	송별(farewell)	90	94%	title, term	
+P17964	記夢 幷序	도교(taoism)	43	27%	term	
+P17965	病中遣懷	애상(sympathy)	68	52%	title, term	
+P17966	詠白頭翁	애상(sympathy)	59	38%	term	
+P17967	卽事	기타(others)	90	94%	title	
+P17968	西子	회고(reminiscence)	46	27%	term	
+P17969	竹林七賢	변새(frontier)	36	14%	term	
+P17970	秋夜	애상(sympathy)	51	38%	term	
+P17971	雪後	천문(astro)	63	52%	title	
+P17972	夜懷	애상(sympathy)	42	27%	term	
+P17973	巴陵	애상(sympathy)	44	27%	term	
+P17974	遊仙詞 十首	유람(travel)	85	94%	title	
+P17975	遊仙詞 十首 其二	유람(travel)	79	82%	title	
+P17976	遊仙詞 十首 其三	유람(travel)	77	82%	title	
+P17977	遊仙詞 十首 其四	유람(travel)	77	82%	title	
+P17978	遊仙詞 十首 其五	유람(travel)	79	82%	title	
+P17979	遊仙詞 十首 其六	유람(travel)	79	82%	title	
+P17980	遊仙詞 十首 其七	유람(travel)	70	82%	title	
+P17981	遊仙詞 十首 其八	유람(travel)	80	94%	title	
+P17982	遊仙詞 十首 其九	유람(travel)	91	94%	title	
+P17983	遊仙詞 十首 其十	유람(travel)	70	82%	title	
+P17984	梅鶴軒次韻	건물(structure)	51	38%	title	
+P17985	梅鶴軒次韻 其二	동물(animal)	50	38%	title	
+P17986	次一嚴詩軸韻 幷序	식물(plant)	49	27%	term	
+P17987	辛酉重九對雨	애상(sympathy)	46	27%	term	
+P17988	卽事	기타(others)	76	82%	title	
+P17989	斜川莊八詠。爲李正郞景嚴作。	유람(travel)	36	14%	term	
+P17990	斜川莊八詠。爲李正郞景嚴作。 其二	천문(astro)	27	16%	term	
+P17991	斜川莊八詠。爲李正郞景嚴作。 其三	산악(mountain)	32	14%	term	
+P17992	斜川莊八詠。爲李正郞景嚴作。 其四	천문(astro)	37	14%	term	
+P17993	斜川莊八詠。爲李正郞景嚴作。 其五	건물(structure)	38	14%	term	
+P17994	斜川莊八詠。爲李正郞景嚴作。 其六	강해(water)	50	38%	term	
+P17995	斜川莊八詠。爲李正郞景嚴作。 其七	기몽(dream)	25	16%	term	
+P17996	斜川莊八詠。爲李正郞景嚴作。 其八	애상(sympathy)	36	14%	term	
+P17997	記夢	불교(buddhism)	45	27%	term	
+P17998	九月望。風日陡寒。	계절(season)	41	27%	term	
+P17999	山居卽事	기타(others)	70	82%	title	
+P18000	夢江南	회고(reminiscence)	49	27%	term	
+P18001	雪後赴闕卽事	기타(others)	60	52%	title	
+P18002	憶江南	회고(reminiscence)	58	38%	title, term	
+P18003	秋夜	계절(season)	68	52%	title	
+P18004	贈崔處士	기증(donate)	97	94%	title	
+P18005	詠畫梅	도화(picture)	56	38%	title	
+P18006	春盡感懷	회고(reminiscence)	56	38%	title	
+P18007	卽事 丁卯	기타(others)	61	52%	title, term	
+P18008	冬夜	애상(sympathy)	46	27%	term	
+P18009	元日立春 戊辰	계절(season)	68	52%	title	
+P18010	春寒	계절(season)	45	27%	term	
+P18011	早春	애상(sympathy)	25	16%	term	
+P18012	詠紅桃	계절(season)	37	14%	term	
+P18013	江南行	염정(desire)	39	14%	term	악부/제영(확신↓)
+P18014	遊仙詞 三首	유람(travel)	75	82%	title	
+P18015	遊仙詞 三首 其二	유람(travel)	79	82%	title	
+P18016	遊仙詞 三首 其三	유람(travel)	79	82%	title	
+P18017	次吳軾題萬景臺韻 二首	도화(picture)	60	52%	title	
+P18018	次吳軾題萬景臺韻 二首 其二	도화(picture)	59	38%	title	
+P18019	月中桂	회고(reminiscence)	53	38%	term	
+P18020	次鄭僉正韻	산악(mountain)	45	27%	term	
+P18021	寄別南起夫赴淮陽	송별(farewell)	63	52%	title, term	
+P18022	挽全虞候內人	애상(sympathy)	96	94%	title	
+P18023	效香奩體	염정(desire)	76	82%	title	
+P18024	挽南淮陽	애상(sympathy)	96	94%	title, term	
+P18025	李觀察奉親還湖南。酒席偶贈。	기증(donate)	97	94%	title	
+P18026	吟詩	애상(sympathy)	39	14%	term	
+P18027	參判叔父宅燈夕口占	계절(season)	62	52%	title, term	
+P18028	水出嶺	천문(astro)	42	27%	term	
+P18029	權注書 盺 內挽	애상(sympathy)	96	94%	title	
+P18030	贈金韓山，槐山兩行軒。	기증(donate)	97	94%	title	
+P18031	早秋雨中漫成	계절(season)	61	52%	title, term	
+P18032	別趙善繼赴宣川	송별(farewell)	92	94%	title, term	
+P18033	贈尹都事赴關西	기증(donate)	97	94%	title	
+P18034	送李成川而遠之任	송별(farewell)	96	94%	title, term	
+P18035	送奏請副使驪陽君赴京	송별(farewell)	94	94%	title, term	
+P18036	黃襄陽內挽	애상(sympathy)	96	94%	title	
+P18037	贈四溟山人往日本 山人。卽僧惟政也。亦號松雲。時對馬倭乞和。朝廷姑欲羈縻。令惟政往探賊情。	기증(donate)	87	94%	title	
+P18038	中秋偶成	기타(others)	81	94%	title	
+P18039	重陽翌日。上南麓乘月而還。	애상(sympathy)	53	38%	term	
+P18040	送金正受赴瑞山正受以言事出外	송별(farewell)	91	94%	title	
+P18041	送權仲明赴安州	송별(farewell)	97	94%	title, term	
+P18042	卽事	기타(others)	74	82%	title	
+P18043	送任書狀子正赴京	송별(farewell)	96	94%	title, term	
+P18044	次贈三俊上人 幷序	기증(donate)	97	94%	title	
+P18045	次贈三俊上人 幷序 其二	기증(donate)	97	94%	title	
+P18046	次贈三俊上人 幷序 其三	기증(donate)	97	94%	title, term	
+P18047	次贈三俊上人 幷序 其四	기증(donate)	97	94%	title	
+P18048	朝望終南山	산악(mountain)	67	52%	title, term	
+P18049	除夕前一日	불교(buddhism)	39	14%	term	
+P18050	次李月沙淮陽板上韻 幷序	애상(sympathy)	62	52%	term	
+P18051	送千秋使赴京	송별(farewell)	96	94%	title	
+P18052	讀近思錄有感	애상(sympathy)	71	82%	title	
+P18053	無題	기타(others)	66	52%	title, term	
+P18054	次韻謝沈相國一松先生詩 附相國詩	송별(farewell)	39	14%	term	차운(제목 donate 무시)
+P18055	次韻謝沈相國一松先生詩 附相國詩 其二	애상(sympathy)	50	38%	term	
+P18056	次韻謝沈相國一松先生詩	변새(frontier)	41	27%	term	차운(제목 donate 무시)
+P18057	次韻謝沈相國一松先生詩 其二	송별(farewell)	36	14%	term	차운(제목 donate 무시)
+P18058	次韻謝沈相國一松先生詩 其三	애상(sympathy)	20	16%	term	차운(제목 donate 무시)
+P18059	次韻謝沈相國一松先生詩 其四	천문(astro)	19	17%	term	차운(제목 donate 무시)
+P18060	次韻謝沈相國一松先生詩 其五	애상(sympathy)	22	16%	term	차운(제목 donate 무시)
+P18061	次韻謝沈相國一松先生詩 其六	한적(tranquility)	40	27%	term	
+P18062	又次前韻	송별(farewell)	41	27%	term	
+P18063	又次前韻 其二	염정(desire)	45	27%	term	
+P18064	又次前韻 其三	애상(sympathy)	36	14%	term	
+P18065	又次前韻 其四	유람(travel)	60	52%	term	
+P18066	又次前韻 其五	애상(sympathy)	25	16%	term	
+P18067	又次前韻 其六	천문(astro)	22	16%	term	
+P18068	早秋	한적(tranquility)	48	27%	term	
+P18069	送黃叔正宰橫城	송별(farewell)	93	94%	title, term	
+P18070	丁未中秋。雲陰不見月。	천문(astro)	56	38%	title	
+P18071	九月二十日。權叔節爲其伯氏設酌。時有邊耗。風日又陡寒。	애상(sympathy)	24	16%	term	
+P18072	延安倅趙公應文。以虜警繕完城塹。喜而寄贈。	기증(donate)	97	94%	title	
+P18073	贈劉希慶	기증(donate)	97	94%	title	
+P18074	李舍人女挽	애상(sympathy)	96	94%	title, term	
+P18075	卽事	기타(others)	76	82%	title	
+P18076	偶成進退格	기타(others)	79	82%	title	
+P18077	酒席口占	회고(reminiscence)	41	27%	term	
+P18078	酒席口占 其二	계절(season)	42	27%	term	
+P18079	次雙泉贈詩韻	기타(others)	36	14%	term	차운(제목 donate 무시)
+P18080	端午日。物膳監進兩殿。各賜錦囊。	한적(tranquility)	45	27%	term	
+P18081	尹領府事挽	애상(sympathy)	93	94%	title	
+P18082	送李監司仲集按湖西	송별(farewell)	89	94%	title	
+P18083	送李監司仲集按湖西 其二	송별(farewell)	90	94%	title, term	
+P18084	別鄭書狀雲湖赴京	송별(farewell)	90	94%	title, term	
+P18085	挽李進士志寅	애상(sympathy)	96	94%	title	
+P18086	趙右尹女挽	애상(sympathy)	96	94%	title	
+P18087	金遂安正受挽	애상(sympathy)	96	94%	title	
+P18088	送李歙谷厚根赴任	송별(farewell)	85	94%	title	
+P18089	次韓柳川韻 四首	애상(sympathy)	57	38%	term	
+P18090	次韓柳川韻 四首 其二	송별(farewell)	36	14%	term	
+P18091	次韓柳川韻 四首 其三	한적(tranquility)	40	27%	term	
+P18092	次韓柳川韻 四首 其四	변새(frontier)	40	27%	term	
+P18093	沈慈山宗忱挽	애상(sympathy)	91	94%	title, term	
+P18094	贈李迪夫赴永春	기증(donate)	97	94%	title	
+P18095	送李養久赴安邊	송별(farewell)	95	94%	title	
+P18096	金正字蓍國內挽	애상(sympathy)	96	94%	title, term	
+P18097	送千秋使李仲實赴京	송별(farewell)	83	94%	title, term	
+P18098	車五山故居有感	애상(sympathy)	59	38%	title, term	
+P18099	金正字誠立內挽	애상(sympathy)	96	94%	title, term	
+P18100	松湖堂題詠。次林石川韻。	건물(structure)	55	38%	title, term	악부/제영(확신↓)
+P18101	廢院	한적(tranquility)	49	27%	term	
+P18102	卽事	기타(others)	79	82%	title	
+P18103	李進士揚烈挽	애상(sympathy)	92	94%	title, term	
+P18104	山中	산악(mountain)	61	52%	title	
+P18105	野外	애상(sympathy)	49	27%	term	
+P18106	田園	천문(astro)	22	16%	term	
+P18107	九月八日。自銅雀舟下露梁卽事。	기타(others)	64	52%	title	
+P18108	夜坐	불교(buddhism)	45	27%	term	
+P18109	晉安尉 柳頔 挽	애상(sympathy)	96	94%	title, term	
+P18110	冬夜	애상(sympathy)	55	38%	term	
+P18111	聞遼陽被陷。憤慨而作。幷序	변새(frontier)	48	27%	term	
+P18112	立春日。得成鶴泉見寄詩。次其韻。	계절(season)	55	38%	title	차운(제목 donate 무시)
+P18113	立春日。得成鶴泉見寄詩。次其韻。 其二	계절(season)	60	52%	title	차운(제목 donate 무시)
+P18114	立春日。得成鶴泉見寄詩。次其韻。 其三	계절(season)	55	38%	title	차운(제목 donate 무시)
+P18115	偶吟	한적(tranquility)	38	14%	term	악부/제영(확신↓)
+P18116	再次鶴泉韻	동물(animal)	52	38%	title, term	
+P18117	又次韻。題南窓行狀稿後。	도화(picture)	57	38%	title	
+P18118	山居卽事。用前韻。	기타(others)	70	82%	title	
+P18119	又次成鶴泉韻	동물(animal)	56	38%	title	
+P18120	沈鴻山江舍僦居 三首	산악(mountain)	51	38%	title	
+P18121	沈鴻山江舍僦居 三首 其二	산악(mountain)	65	52%	title	
+P18122	沈鴻山江舍僦居 三首 其三	산악(mountain)	52	38%	title	
+P18123	憶申玄翁	애상(sympathy)	48	27%	term	
+P18124	早秋	계절(season)	64	52%	title	
+P18125	壬戌七月旣望偶題	기타(others)	60	52%	title	
+P18126	雨後卽事	기타(others)	67	52%	title	
+P18127	卽事	기타(others)	68	52%	title	
+P18128	歸田	송별(farewell)	74	82%	title	
+P18129	臘夜	애상(sympathy)	20	16%	term	
+P18130	書懷	회고(reminiscence)	62	52%	title	
+P18131	三三	애상(sympathy)	52	38%	term	
+P18132	寒食日小雨	계절(season)	55	38%	title, term	
+P18133	次竹西韻	애상(sympathy)	51	38%	term	
+P18134	次成鶴泉病中感懷韻	애상(sympathy)	64	52%	title	
+P18135	次成鶴泉病中感懷韻 其二	애상(sympathy)	57	38%	title	
+P18136	次成鶴泉病中感懷韻 其三	애상(sympathy)	59	38%	title	
+P18137	詠雪	천문(astro)	67	52%	title	
+P18138	至月望夜雪	천문(astro)	70	82%	title	
+P18139	早春。次沈竹西韻。時竹西任松都。	애상(sympathy)	59	38%	term	
+P18140	二月十八日。自公州扈駕還都。途中遇雪。	유람(travel)	87	94%	title	
+P18141	次明上人軸韻	불교(buddhism)	58	38%	title	
+P18142	次劉希慶枕流臺諸學士韻	한적(tranquility)	44	27%	term	
+P18143	卽事	기타(others)	72	82%	title, term	
+P18144	丁卯寒食	애상(sympathy)	50	38%	term	
+P18145	詠隱者	송별(farewell)	21	16%	term	
+P18146	冬至	천문(astro)	27	16%	term	
+P18147	漫書	불교(buddhism)	56	38%	term	
+P18148	寄贈鶴泉	기증(donate)	97	94%	title	
+P18149	人日	애상(sympathy)	54	38%	term	
+P18150	贈枕流臺主人	기증(donate)	97	94%	title	
+P18151	燈夕記感	계절(season)	56	38%	title	
+P18152	抛書	천문(astro)	22	16%	term	
+P18153	開城道中	유람(travel)	64	52%	title	
+P18154	東坡過先人遺愛碑有感	유람(travel)	71	82%	title	
+P18155	重九日偶成	(작업자 기입)	-	-	-	-
+P18156	陪幸銅雀江頭口占	(작업자 기입)	-	-	-	-
+P18157	禁直感舊。贈騎省尹員外 而述。	(작업자 기입)	-	-	-	-
+P18158	次尹而述韻	(작업자 기입)	-	-	-	-
+P18159	悼李統制舜臣戰歿	(작업자 기입)	-	-	-	-
+P18160	禁中雪次尹而述鄭和伯韻	(작업자 기입)	-	-	-	-
+P18161	冬雨	(작업자 기입)	-	-	-	-
+P18162	次鄭相國耆老所詩韻	(작업자 기입)	-	-	-	-
+P18163	次鄭相國耆老所詩韻 其二	(작업자 기입)	-	-	-	-
+P18164	扈東宮詣遂安。次楊州路中。有作。	(작업자 기입)	-	-	-	-
+P18165	新溪途中	(작업자 기입)	-	-	-	-
+P18166	次申舍人敬叔見寄	(작업자 기입)	-	-	-	-
+P18167	考院卽事	(작업자 기입)	-	-	-	-
+P18168	再次	(작업자 기입)	-	-	-	-
+P18169	再次 其二	(작업자 기입)	-	-	-	-
+P18170	別趙狀元 翊 以冬至使書狀赴京	(작업자 기입)	-	-	-	-
+P18171	別趙狀元 翊 以冬至使書狀赴京 其二	송별(farewell)	91	94%	title, term	
+P18172	送新進士省親之行	(작업자 기입)	-	-	-	-
+P18173	奉送鄭相國 琢 南歸省墓	(작업자 기입)	-	-	-	-
+P18174	雪夜偶成。贈申代言 敬叔。	(작업자 기입)	-	-	-	-
+P18175	醉後漫書	(작업자 기입)	-	-	-	-
+P18176	淸明日感興	(작업자 기입)	-	-	-	-
+P18177	送白書記赴北	(작업자 기입)	-	-	-	-
+P18178	送白書記赴北 其二	(작업자 기입)	-	-	-	-
+P18179	次尹修撰 次野 寓直省中韻	(작업자 기입)	-	-	-	-
+P18180	重次	(작업자 기입)	-	-	-	-
+P18181	大行王妃挽詞代人作	(작업자 기입)	-	-	-	-
+P18182	秋夜有懷	(작업자 기입)	-	-	-	-
+P18183	贈李實之赴郡嶺南	(작업자 기입)	-	-	-	-
+P18184	思歸	(작업자 기입)	-	-	-	-
+P18185	求郡不遂。奉寄申玄翁。	(작업자 기입)	-	-	-	-
+P18186	別李通判 士和 赴北靑辛丑	(작업자 기입)	-	-	-	-
+P18187	次金正卿送韓體察 益之 韻	(작업자 기입)	-	-	-	-
+P18188	成均館試院偶題	(작업자 기입)	-	-	-	-
+P18189	贈鄭檢詳 和伯 赴體察幕	(작업자 기입)	-	-	-	-
+P18190	暮春	(작업자 기입)	-	-	-	-
+P18191	贈信師還山	(작업자 기입)	-	-	-	-
+P18192	爲權仲明次壁上申駱峯韻	(작업자 기입)	-	-	-	-
+P18193	爲權仲明次壁上申駱峯韻 其二	(작업자 기입)	-	-	-	-
+P18194	爲權仲明次壁上申駱峯韻 其三	(작업자 기입)	-	-	-	-
+P18195	暇日訪鄭和伯江舍敍別	(작업자 기입)	-	-	-	-
+P18196	騎曹廳後小池深黑中有種荷數朶	(작업자 기입)	-	-	-	-
+P18197	陸沈	(작업자 기입)	-	-	-	-
+P18198	送江原>監司赴任	(작업자 기입)	-	-	-	-
+P18199	濩落	(작업자 기입)	-	-	-	-
+P18200	別金校理叔度以安撫御史往耽羅	(작업자 기입)	-	-	-	-
+P18201	銅雀道中	(작업자 기입)	-	-	-	-
+P18202	路傍叢祠	(작업자 기입)	-	-	-	-
+P18203	江曉	(작업자 기입)	-	-	-	-
+P18204	新坪道中	(작업자 기입)	-	-	-	-
+P18205	直騎省書示衛將諸公	(작업자 기입)	-	-	-	-
+P18206	挽辛僉知應基	(작업자 기입)	-	-	-	-
+P18207	自遣	(작업자 기입)	-	-	-	-
+P18208	三月晦日偶書贈人壬寅	(작업자 기입)	-	-	-	-
+P18209	漫遣	(작업자 기입)	-	-	-	-
+P18210	沈監司友勝大夫人挽	(작업자 기입)	-	-	-	-
+P18211	送李綏之赴大同	(작업자 기입)	-	-	-	-
+P18212	挽沈監司	(작업자 기입)	-	-	-	-
+P18213	次玄翁用懷麓韻見寄	(작업자 기입)	-	-	-	-
+P18214	雨中過申玄翁宅酬李實之留別韻	(작업자 기입)	-	-	-	-
+P18215	雨中過申玄翁宅酬李實之留別韻其二	(작업자 기입)	-	-	-	-
+P18216	奉送權同知思悅赴京	(작업자 기입)	-	-	-	-
+P18217	送申監司季收按海西	(작업자 기입)	-	-	-	-
+P18218	送柳尙書根再按湖西	(작업자 기입)	-	-	-	-
+P18219	送張同知好古以冊封世子奏請副使赴京	(작업자 기입)	-	-	-	-
+P18220	送朴子龍出按關東癸卯	(작업자 기입)	-	-	-	-
+P18221	送李端川子敏之行	(작업자 기입)	-	-	-	-
+P18222	送尙州黃使君洛	(작업자 기입)	-	-	-	-
+P18223	申秀才挽	(작업자 기입)	-	-	-	-
+P18224	送權盈德泰一赴任	(작업자 기입)	-	-	-	-
+P18225	漫書	(작업자 기입)	-	-	-	-
+P18226	春日有懷朴說之	(작업자 기입)	-	-	-	-
+P18227	送千秋使金僉知穎男赴京	(작업자 기입)	-	-	-	-
+P18228	送白評事赴寧邊	(작업자 기입)	-	-	-	-
+P18229	送白評事赴寧邊 其二	(작업자 기입)	-	-	-	-

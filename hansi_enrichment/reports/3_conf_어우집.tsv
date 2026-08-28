@@ -1,0 +1,508 @@
+id	제목	제안분류	확신도	구간정밀도	근거	비고
+P12351	襄陽途中	유람(travel)	96	94%	title	
+P12352	淸澗亭	건물(structure)	89	94%	title	
+P12353	題三河主人壁上	인물(person)	57	38%	title, term	
+P12354	玉河舘三月三日。次前韻。同尹，韓，辛，吳，金 信元 集燕。	애상(sympathy)	49	27%	term	
+P12355	玉河舘三月三日。次前韻。同尹，韓，辛，吳，金 信元 集燕。	애상(sympathy)	38	14%	term	
+P12356	玉河舘三月三日。次前韻。同尹，韓，辛，吳，金 信元 集燕。	한적(tranquility)	55	38%	term	
+P12357	玉河舘三月三日。次前韻。同尹，韓，辛，吳，金 信元 集燕。	한적(tranquility)	42	27%	term	
+P12358	送陳奏使韓 先歸	송별(farewell)	97	94%	title	
+P12359	奉東宮命。暗行過寶城遇進士愼汝訓	유람(travel)	77	82%	title	
+P12360	洪州奉東宮値苦熱處窄室。作簡黃司書	계절(season)	57	38%	title, term	
+P12361	敬復牛溪成先生	애상(sympathy)	47	27%	term	
+P12362	敬復牛溪成先生 二首 其二	현달(prosper)	49	27%	term	
+P12363	贈慶州妓月仙	기증(donate)	97	94%	title	
+P12364	抱川	인물(person)	40	27%	term	
+P12365	抱川	유람(travel)	41	27%	term	
+P12366	金城	애상(sympathy)	41	27%	term	
+P12367	淮陽	산악(mountain)	44	27%	term	
+P12368	題德源客舍	도화(picture)	67	52%	title	
+P12369	文川東軒	회고(reminiscence)	41	27%	term	
+P12370	次永興韻	변새(frontier)	41	27%	term	
+P12371	咸興	인물(person)	36	14%	term	
+P12372	吉州。由磨雲嶺。越磨天嶺。	산악(mountain)	52	38%	title	
+P12373	贈李實之 春英 向磨天嶺	기증(donate)	97	94%	title	
+P12374	七寶山	산악(mountain)	61	52%	title	
+P12375	咸慶南道別營。次壁上朴 韻。	송별(farewell)	97	94%	title	
+P12376	甲山龍湫	인물(person)	40	27%	term	
+P12377	甲山龍湫	애상(sympathy)	41	27%	term	
+P12378	次富寧懸板韻	기몽(dream)	22	16%	term	
+P12379	次富寧懸板韻	산악(mountain)	36	14%	term	
+P12380	次慶源舘舍韻	계절(season)	39	14%	term	
+P12381	遊元帥㙜。醉中奉呈尹書記 宖，崔督郵 東式，辛通判成己。欲以直釣取璜。	기증(donate)	81	94%	title	
+P12382	北關有所思。八詠	애상(sympathy)	36	14%	term	
+P12383	北關有所思。八詠。	애상(sympathy)	52	38%	term	
+P12384	北關有所思八詠	계절(season)	19	17%	term	
+P12385	北關有所思。八詠	애상(sympathy)	43	27%	term	
+P12386	北關有所思。八詠	송별(farewell)	23	16%	term	
+P12387	北關有所思。八詠。 其六	회방(meet)	37	14%	term	
+P12388	北關有所思。八詠	애상(sympathy)	50	38%	term	
+P12389	北關有所思。八詠	애상(sympathy)	40	27%	term	
+P12390	丁酉冬。避亂高原。贈御史柳景休	기증(donate)	97	94%	title	
+P12391	平壤。次許篈韻。贈四耐翁安。	애상(sympathy)	41	27%	term	차운(제목 donate 무시)
+P12392	平壤。次許篈韻。贈四耐翁安。	불교(buddhism)	50	38%	term	차운(제목 donate 무시)
+P12393	平壤。次許篈韻。贈四耐翁安。	애상(sympathy)	39	14%	term	차운(제목 donate 무시)
+P12394	次德川東軒韻	애상(sympathy)	49	27%	term	
+P12395	价川次東軒韻	애상(sympathy)	44	27%	term	
+P12396	孟山次韻	산악(mountain)	57	38%	title	
+P12397	孟山次韻	애상(sympathy)	45	27%	term	
+P12398	題陽德達覺山村	도화(picture)	53	38%	title	
+P12399	中央院次韻	변새(frontier)	52	38%	term	
+P12400	登麻訖嶺	도교(taoism)	39	14%	term	
+P12401	次醇煕院韻	회고(reminiscence)	36	14%	term	
+P12402	題醇煕院	도화(picture)	53	38%	title	
+P12403	通引潭	산악(mountain)	19	17%	term	
+P12404	次成川降仙樓韻	애상(sympathy)	47	27%	term	
+P12405	次成川降仙樓韻	한적(tranquility)	41	27%	term	
+P12406	次成川降仙樓韻	건물(structure)	55	38%	title	
+P12407	又次七言排律六韻	한적(tranquility)	39	14%	term	
+P12408	題溫井院	도화(picture)	64	52%	title	
+P12409	見鰒魚羹有感	애상(sympathy)	65	52%	title, term	
+P12410	次祥原山亭韻	건물(structure)	84	94%	title	
+P12411	題古三登江村	도화(picture)	54	38%	title	
+P12412	咸從次韻	변새(frontier)	50	38%	term	
+P12413	咸從次韻	애상(sympathy)	55	38%	term	
+P12414	次郭山韻	애상(sympathy)	48	27%	term	
+P12415	次郭山韻	산악(mountain)	59	38%	title	
+P12416	順安旅舍	유람(travel)	46	27%	term	
+P12417	贈雪英上人	기증(donate)	97	94%	title	
+P12418	贈雪英上人	기증(donate)	97	94%	title	
+P12419	路上	유람(travel)	61	52%	title, term	
+P12420	發成川	유람(travel)	88	94%	title	
+P12421	陽德途中	유람(travel)	93	94%	title	
+P12422	孟山卽事	기타(others)	71	82%	title	
+P12423	德川	유람(travel)	52	38%	term	
+P12424	煕川。次東軒韻。	건물(structure)	54	38%	title	
+P12425	江界神光院次韻	변새(frontier)	48	27%	term	
+P12426	江界神光院次韻	변새(frontier)	44	27%	term	
+P12427	江界神光院次韻	변새(frontier)	60	52%	term	
+P12428	次江界東軒韻	변새(frontier)	52	38%	term	
+P12429	次江界仁風樓韻	애상(sympathy)	44	27%	term	
+P12430	次江界仁風樓韻	애상(sympathy)	51	38%	term	
+P12431	渭原路上	유람(travel)	55	38%	title, term	
+P12432	理山郡	애상(sympathy)	42	27%	term	
+P12433	自理山乘船下碧潼	유람(travel)	58	38%	title	
+P12434	理山乘船下碧潼	변새(frontier)	41	27%	term	
+P12435	理山乘船下碧潼	애상(sympathy)	46	27%	term	
+P12436	得遲字	애상(sympathy)	47	27%	term	
+P12437	次碧潼客舍韻。遣憫。	애상(sympathy)	26	16%	term	
+P12438	碧團途中	유람(travel)	80	94%	title, term	
+P12439	昌洲舘。書懷。	회고(reminiscence)	66	52%	title	
+P12440	次韻昌城	변새(frontier)	57	38%	term	
+P12441	龍川。別尹書狀赴京	송별(farewell)	83	94%	title, term	
+P12442	龍川。別尹書狀 暉 赴京。	송별(farewell)	85	94%	title	
+P12443	信美堂。次主人李德言韻。	변새(frontier)	44	27%	term	
+P12444	分司御史。雨渡朔氏津。	천문(astro)	53	38%	title	
+P12445	譴瘧鬼	애상(sympathy)	62	52%	term	
+P12446	次僧寶訔詩軸高霽峰韻	불교(buddhism)	82	94%	title	
+P12447	又用前韻。與鄭進士天錫。	애상(sympathy)	47	27%	term	
+P12448	次養眞，壺峯，晩翠，金秀才四賢韻。	애상(sympathy)	46	27%	term	
+P12449	次養眞，壺峯，晩翠，金秀才四賢韻。	인물(person)	53	38%	title	
+P12450	次養眞，壺峯，晩翠，金秀才四賢韻。	인물(person)	56	38%	title	
+P12451	次養眞，壺峯，晩翠，金秀才四賢韻。	인물(person)	52	38%	title	
+P12452	次養眞，壺峯，晩翠，金秀才四賢韻。	애상(sympathy)	40	27%	term	
+P12453	次鄭天錫韻	천문(astro)	27	16%	term	
+P12454	偶吟	한적(tranquility)	37	14%	term	악부/제영(확신↓)
+P12455	寄趙君浹	기증(donate)	84	94%	title	
+P12456	寄趙君浹	기증(donate)	97	94%	title	
+P12457	寄趙君浹	기증(donate)	97	94%	title	
+P12458	寫懷	회고(reminiscence)	85	94%	title, term	
+P12459	次南善初詩卷崔韻	한적(tranquility)	37	14%	term	
+P12460	任鶴齡女子挽	애상(sympathy)	93	94%	title	
+P12461	次天使韻	한적(tranquility)	45	27%	term	
+P12462	次天使韻	천문(astro)	29	16%	term	
+P12463	崔領相輓章	변새(frontier)	49	27%	term	
+P12464	崔領相輓章	인물(person)	58	38%	term	
+P12465	次玉堂鶴帖韻	건물(structure)	61	52%	title	
+P12466	送李日休赴長淵	송별(farewell)	96	94%	title	
+P12467	贈僧	기증(donate)	88	94%	title	
+P12468	送松雲大師 惟政 渡海入對馬島	송별(farewell)	77	82%	title, term	
+P12469	次詩軸韻。贈僧敬誠。	불교(buddhism)	87	94%	title	차운(제목 donate 무시)
+P12470	過楊根空山里洪萬戶幽居	유람(travel)	73	82%	title, term	
+P12471	宿加平李逸民茅亭	유람(travel)	62	52%	title	
+P12472	永平	유람(travel)	31	14%	term	
+P12473	途中遇人	유람(travel)	96	94%	title	
+P12474	寄寶盖山高僧祖純	기증(donate)	67	52%	title	
+P12475	途中寄南子安	유람(travel)	62	52%	title, term	
+P12476	訪南子安	계절(season)	43	27%	term	
+P12477	南陽途中	유람(travel)	95	94%	title, term	
+P12478	永宗浦	불교(buddhism)	43	27%	term	
+P12479	航海	계절(season)	40	27%	term	
+P12480	靑溪僧希顔惠菜	불교(buddhism)	79	82%	title, term	
+P12481	放言	한적(tranquility)	49	27%	term	
+P12482	漫興	한적(tranquility)	73	82%	title, term	
+P12483	漫興	한적(tranquility)	70	82%	title	
+P12484	漫興	한적(tranquility)	53	38%	title	
+P12485	題晝點家毛詩冊	도화(picture)	61	52%	title	
+P12486	禁直	애상(sympathy)	43	27%	term	
+P12487	禁直 其二	유람(travel)	19	17%	term	
+P12488	銀㙜夜直	계절(season)	45	27%	term	
+P12489	銀㙜夜直	강해(water)	36	14%	term	
+P12490	病吟	애상(sympathy)	20	16%	term	악부/제영(확신↓)
+P12491	病吟	계절(season)	50	38%	term	악부/제영(확신↓)
+P12492	輓尹而述	천문(astro)	18	17%	term	
+P12493	送閔正言赴京	송별(farewell)	95	94%	title	
+P12494	輓具二相	애상(sympathy)	39	14%	term	
+P12495	戱贈李書狀	기증(donate)	97	94%	title	
+P12496	哭李剛仲令公	회고(reminiscence)	58	38%	term	
+P12497	輓申同知	강해(water)	43	27%	term	
+P12498	輓申同知	천문(astro)	23	16%	term	
+P12499	秋月亭八詠	건물(structure)	78	82%	title	
+P12500	秋月亭八詠	건물(structure)	79	82%	title	
+P12501	秋月亭八詠	건물(structure)	77	82%	title	
+P12502	秋月亭八詠	건물(structure)	77	82%	title	
+P12503	秋月亭八詠	건물(structure)	76	82%	title	
+P12504	秋月亭八詠	건물(structure)	79	82%	title	
+P12505	秋月亭八詠	건물(structure)	79	82%	title	
+P12506	秋月亭八詠	건물(structure)	75	82%	title	
+P12507	爲侄詠騏峰八興	천문(astro)	25	16%	term	
+P12508	爲侄 詠騏峰八興	회방(meet)	25	16%	term	
+P12509	爲侄 詠騏峰八興	회고(reminiscence)	57	38%	term	
+P12510	爲侄 詠騏峰八興	유람(travel)	42	27%	term	
+P12511	爲侄 詠騏峰八興	한적(tranquility)	51	38%	term	
+P12512	爲侄詠騏峰八興	강해(water)	50	38%	term	
+P12513	爲侄 詠騏峰八興	계절(season)	15	17%	term	
+P12514	爲侄 詠騏峰八興	한적(tranquility)	50	38%	term	
+P12515	次葵塢柳承旨落花韻	한적(tranquility)	38	14%	term	
+P12516	葵塢令公次余謾興韻。戱曰效今軆。余復酬和之。	기타(others)	58	38%	title	
+P12517	挽成晦叔年兄	애상(sympathy)	96	94%	title, term	
+P12518	次李而立韻	계절(season)	39	14%	term	
+P12519	送庇仁柳善元	송별(farewell)	97	94%	title	
+P12520	次天使韻。送從事官。	송별(farewell)	96	94%	title, term	
+P12521	次葵塢憶金剛舊遊	유람(travel)	68	52%	title	
+P12522	送尹靜春海州	송별(farewell)	97	94%	title, term	
+P12523	送尹靜春海州	송별(farewell)	97	94%	title, term	
+P12524	次葵塢書懷韻	회고(reminiscence)	67	52%	title	
+P12525	南善初初赴狼川。索別章。行忙未及副。追賦以戱。	송별(farewell)	90	94%	title, term	
+P12526	寄輝世	기증(donate)	97	94%	title	
+P12527	簡星州輝世	기증(donate)	56	38%	title	
+P12528	次斗峯韻	애상(sympathy)	36	14%	term	
+P12529	次斗峯韻	애상(sympathy)	38	14%	term	
+P12530	次左令公韻	회고(reminiscence)	36	14%	term	
+P12531	贈龍仁	기증(donate)	97	94%	title	
+P12532	贈龍仁	기증(donate)	97	94%	title	
+P12533	別侄赴海美任所	송별(farewell)	96	94%	title	
+P12534	別侄赴海美任所	송별(farewell)	96	94%	title	
+P12535	次海美韻	불교(buddhism)	56	38%	term	
+P12536	次尹而述韻。別海美。	송별(farewell)	97	94%	title	
+P12537	次尹而述韻。別海美。二首 其二	송별(farewell)	97	94%	title	
+P12538	次洪德公 慶臣 韻	송별(farewell)	47	27%	term	
+P12539	贈張好古 晩 赴湖南爲方伯 二首	기증(donate)	97	94%	title	
+P12540	贈張好古 晩 赴湖南爲方伯	기증(donate)	97	94%	title	
+P12541	次葵塢禁中詠雨	천문(astro)	64	52%	title	
+P12542	次韻答姪浩叔	송별(farewell)	39	14%	term	
+P12543	次韻答姪浩叔	변새(frontier)	50	38%	term	
+P12544	題冠岳僧詩卷	불교(buddhism)	80	94%	title	
+P12545	題冠岳僧詩卷 二首 其二	불교(buddhism)	81	94%	title	
+P12546	新年禁直悼亡書懷	애상(sympathy)	72	82%	title, term	
+P12547	悼亡	애상(sympathy)	81	94%	title, term	
+P12548	留別任司書	송별(farewell)	97	94%	title	
+P12549	宿延曙驛	유람(travel)	95	94%	title	
+P12550	碧蹄驛	유람(travel)	58	38%	title	
+P12551	臨津 壬辰。以韓應寅多福。爲都元帥守臨津。從事官洪鳳祥渰死于此。	애상(sympathy)	32	14%	term	
+P12552	開城府	건물(structure)	56	38%	title	
+P12553	松京。見沈參判婢蓮香詩軸。次西坰韻。	회고(reminiscence)	36	14%	term	
+P12554	平山途中	유람(travel)	92	94%	title	
+P12555	葱秀山	산악(mountain)	67	52%	title	
+P12556	鳳山口占	산악(mountain)	58	38%	title	
+P12557	鳳山感舊	산악(mountain)	52	38%	title	
+P12558	浿江逢故人	강해(water)	90	94%	title	
+P12559	浿江逢故人	강해(water)	86	94%	title, term	
+P12560	肅寧書懷	회고(reminiscence)	81	94%	title	
+P12561	柳營戱吟	불교(buddhism)	46	27%	term	악부/제영(확신↓)
+P12562	引灝㙜	천문(astro)	25	16%	term	
+P12563	題香山上院庵	도화(picture)	59	38%	title	
+P12564	遊內院庵	유람(travel)	61	52%	title	
+P12565	送李書狀 惕	송별(farewell)	96	94%	title, term	
+P12566	次遠接使西坰韻	유람(travel)	40	27%	term	
+P12567	大同江舟中。贈歌妓香蘭。	기증(donate)	97	94%	title	
+P12568	鳳山洞仙途中口占。奉呈吳參判晩翠。	기증(donate)	64	52%	title	
+P12569	送柳善元赴京 二首○霜㙜錄○丙午	송별(farewell)	95	94%	title	
+P12570	送柳善元赴京 二首○霜㙜錄○丙午 其二	송별(farewell)	97	94%	title	
+P12571	次天摩僧詩卷韻	불교(buddhism)	93	94%	title, term	
+P12572	贈海州神光寺僧志煕	기증(donate)	87	94%	title	
+P12573	過牛峰	유람(travel)	74	82%	title, term	
+P12574	遊九月山。題僧卷。	불교(buddhism)	75	82%	title	
+P12575	送性敏上人遊九月山	송별(farewell)	81	94%	title	
+P12576	首陽山城。次張承旨 韻。	산악(mountain)	55	38%	title	
+P12577	次韻示丁學官	송별(farewell)	57	38%	term	
+P12578	書空	강해(water)	50	38%	term	
+P12579	題抱月亭	건물(structure)	79	82%	title	
+P12580	金沙寺	불교(buddhism)	59	38%	title	
+P12581	次韻贈阿達山僧詩軸	불교(buddhism)	81	94%	title, term	차운(제목 donate 무시)
+P12582	次韻贈阿達山僧詩軸 二首 其二	불교(buddhism)	78	82%	title	차운(제목 donate 무시)
+P12583	醉題廣石溪石上	애상(sympathy)	45	27%	term	
+P12584	九月山 贈敬淳。	기증(donate)	97	94%	title	
+P12585	次韻贈九月山僧	불교(buddhism)	77	82%	title	차운(제목 donate 무시)
+P12586	次僧詩卷韻	불교(buddhism)	95	94%	title, term	
+P12587	次僧詩卷韻	불교(buddhism)	86	94%	title	
+P12588	次僧詩卷韻	불교(buddhism)	90	94%	title	
+P12589	海營南山。餞別柳士挺 東立。次丁學官 景蘭 韻。	송별(farewell)	83	94%	title, term	
+P12590	次丁學官韻	애상(sympathy)	43	27%	term	
+P12591	次丁學官韻	한적(tranquility)	52	38%	term	
+P12592	次丁學官韻	송별(farewell)	58	38%	term	
+P12593	次丁學官韻	도교(taoism)	38	14%	term	
+P12594	次丁學官韻	유람(travel)	52	38%	term	
+P12595	坡州歸路。遇千秋使李養源赴燕京。	송별(farewell)	59	38%	title	
+P12596	題文殊寺僧行淳詩卷	불교(buddhism)	82	94%	title	
+P12597	沈相國 喜壽 以余假大家文會。惠詩爲謝。敬次其韻。	건물(structure)	61	52%	title	차운(제목 donate 무시)
+P12598	沈相國以余假大家文會。惠詩爲謝。敬次其韻。 其二	인물(person)	48	27%	term	
+P12599	沈相國 喜壽 以余假大家文會。惠詩爲謝。敬次其韻。 其三	건물(structure)	50	38%	title	차운(제목 donate 무시)
+P12600	前長溪府院君黃芝川 廷彧 輓章	애상(sympathy)	32	14%	term	
+P12601	次李銓郞回文軆	애상(sympathy)	39	14%	term	
+P12602	順和君輓詞	회고(reminiscence)	60	52%	term	
+P12603	朝天別曲。奉呈西伯韓益之	기증(donate)	63	52%	title	
+P12604	盆荷	식물(plant)	50	38%	term	
+P12605	雨荷	천문(astro)	74	82%	title	
+P12606	雨過	유람(travel)	76	82%	title	
+P12607	次成則行韻 終南散閑錄○戊申	애상(sympathy)	40	27%	term	
+P12608	遄死行	유람(travel)	51	38%	title	악부/제영(확신↓)
+P12609	宣宗大行大王輓詞	애상(sympathy)	44	27%	term	
+P12610	古詩	애상(sympathy)	45	27%	term	
+P12611	古詩	도교(taoism)	50	38%	term	
+P12612	古詩	천문(astro)	27	16%	term	
+P12613	古詩	유람(travel)	36	14%	term	
+P12614	古詩	애상(sympathy)	39	14%	term	
+P12615	古詩	강해(water)	47	27%	term	
+P12616	古詩	산악(mountain)	36	14%	term	
+P12617	古詩	애상(sympathy)	43	27%	term	
+P12618	古詩	애상(sympathy)	47	27%	term	
+P12619	古詩	산악(mountain)	25	16%	term	
+P12620	古詩	애상(sympathy)	50	38%	term	
+P12621	古詩	애상(sympathy)	40	27%	term	
+P12622	古詩	애상(sympathy)	39	14%	term	
+P12623	古詩	회고(reminiscence)	45	27%	term	
+P12624	古詩	변새(frontier)	52	38%	term	
+P12625	哭洪魯直	계절(season)	40	27%	term	
+P12626	送副軆察使李養久赴北	송별(farewell)	89	94%	title	
+P12627	醮齋僑寓。街廛閱行路人。感而賦。	유람(travel)	62	52%	title	
+P12628	醮齋僑寓。街廛閱行路人。感而賦。	유람(travel)	61	52%	title	
+P12629	效靑蓮軆	애상(sympathy)	40	27%	term	
+P12630	白髮	인물(person)	41	27%	term	
+P12631	次黃岡壁上韻 	변새(frontier)	64	52%	title, term	
+P12632	次郭山陷壁前輩韻	애상(sympathy)	41	27%	term	
+P12633	宣川。次淵叔韻。	송별(farewell)	45	27%	term	
+P12634	宣川。次西坰五峯築堤韻。	천문(astro)	36	14%	term	
+P12635	次贈龍灣敏上人	기증(donate)	97	94%	title	
+P12636	臨江別	송별(farewell)	97	94%	title	
+P12637	臨江別	송별(farewell)	90	94%	title, term	
+P12638	渡鴨綠	유람(travel)	71	82%	title, term	
+P12639	渡鴨綠	유람(travel)	67	52%	title, term	
+P12640	西會寺	불교(buddhism)	63	52%	title, term	
+P12641	八角樓	한적(tranquility)	39	14%	term	
+P12642	牛家庄途中口占	유람(travel)	89	94%	title, term	
+P12643	牛家庄	건물(structure)	70	82%	title	
+P12644	遼野有感	변새(frontier)	48	27%	term	
+P12645	路上逢遊俠子	유람(travel)	71	82%	title	
+P12646	陵河少年行	건물(structure)	42	27%	term	악부/제영(확신↓)
+P12647	方言歎	인물(person)	37	14%	term	
+P12648	曹庄關途中	유람(travel)	96	94%	title	
+P12649	山海關	산악(mountain)	81	94%	title	
+P12650	山海關	변새(frontier)	48	27%	term	
+P12651	山海關	산악(mountain)	62	52%	title	
+P12652	山海關	계절(season)	44	27%	term	
+P12653	山海關	산악(mountain)	53	38%	title	
+P12654	山海關	애상(sympathy)	45	27%	term	
+P12655	題萬柳庄	애상(sympathy)	52	38%	term	
+P12656	無題	기타(others)	64	52%	title	
+P12657	無題	기타(others)	64	52%	title	
+P12658	無題	기타(others)	64	52%	title	
+P12659	幷州少年行	변새(frontier)	40	27%	term	악부/제영(확신↓)
+P12660	關王廟	변새(frontier)	38	14%	term	
+P12661	巿	애상(sympathy)	28	16%	term	
+P12662	柳	유람(travel)	46	27%	term	
+P12663	獨樂寺施詩	불교(buddhism)	56	38%	title	
+P12664	獨樂寺施詩	불교(buddhism)	70	82%	title	
+P12665	獨樂寺施詩	회고(reminiscence)	41	27%	term	
+P12666	獨樂寺施詩	불교(buddhism)	78	82%	title	
+P12667	獨樂寺施詩	강해(water)	41	27%	term	
+P12668	獨樂寺施詩	불교(buddhism)	78	82%	title	
+P12669	良苦	유람(travel)	54	38%	term	
+P12670	漁陽	회고(reminiscence)	41	27%	term	
+P12671	三河途中	유람(travel)	96	94%	title	
+P12672	三河途中	유람(travel)	90	94%	title	
+P12673	題主人壁上	인물(person)	53	38%	title	
+P12674	通州江。與千秋使同泛。	건물(structure)	43	27%	term	
+P12675	通州江。與千秋使同泛。	유람(travel)	55	38%	title	
+P12676	通州江。與千秋使同泛。	유람(travel)	61	52%	title	
+P12677	呈千秋使	기증(donate)	96	94%	title	
+P12678	東嶽廟	불교(buddhism)	48	27%	term	
+P12679	中秋月 二首	계절(season)	65	52%	title, term	
+P12680	中秋月 二首 其二	계절(season)	58	38%	title, term	
+P12681	狨氊	천문(astro)	22	16%	term	
+P12682	羊角燈	회고(reminiscence)	36	14%	term	
+P12683	玻瓈盃	애상(sympathy)	41	27%	term	
+P12684	北風	변새(frontier)	53	38%	term	
+P12685	轉蓬	천문(astro)	28	16%	term	
+P12686	幽幷	인물(person)	41	27%	term	
+P12687	馬上	변새(frontier)	37	14%	term	
+P12688	大歸高興。承恩拜姑向帶方。感懷作。南歸錄○辛亥	유람(travel)	61	52%	title, term	
+P12689	題名銜紙端。留月沙軒下。	도화(picture)	61	52%	title	
+P12690	將南歸。遇延陵李五峰于則行家。次韻。二首	송별(farewell)	68	52%	title	
+P12691	將南歸。遇延陵李五峰于則行家。次韻。二首 其二	송별(farewell)	67	52%	title	
+P12692	南歸感興	송별(farewell)	89	94%	title	
+P12693	題東山書齋	도화(picture)	61	52%	title	
+P12694	次漢陰韻。題僧戒靜詩卷。	불교(buddhism)	80	94%	title	
+P12695	次在澗堂韻 頭流錄○辛亥	건물(structure)	64	52%	title	
+P12696	次在澗堂韻 頭流錄○辛亥 其二	건물(structure)	67	52%	title	
+P12697	三疊軆倒前韻	불교(buddhism)	38	14%	term	
+P12698	水舂巖	건물(structure)	53	38%	title	
+P12699	下車憇溪上	기타(others)	38	14%	term	
+P12700	入百丈寺	불교(buddhism)	59	38%	title, term	
+P12701	黃溪途中	유람(travel)	97	94%	title, term	
+P12702	黑潭 二首	한적(tranquility)	56	38%	term	
+P12703	黑潭	천문(astro)	28	16%	term	
+P12704	內院	불교(buddhism)	52	38%	term	
+P12705	宿頂龍菴	유람(travel)	89	94%	title	
+P12706	臺巖口占	건물(structure)	59	38%	title	
+P12707	臥谷	천문(astro)	29	16%	term	
+P12708	向靈源庵	유람(travel)	80	94%	title	
+P12709	投靈源寺	불교(buddhism)	63	52%	title	
+P12710	投靈源寺	불교(buddhism)	58	38%	title	
+P12711	圓正洞	유람(travel)	58	38%	title	
+P12712	頭流菴	불교(buddhism)	53	38%	title	
+P12713	夜吟	도교(taoism)	37	14%	term	악부/제영(확신↓)
+P12714	向天王峰	유람(travel)	67	52%	title	
+P12715	登少年臺	건물(structure)	71	82%	title	
+P12716	絶句	천문(astro)	19	17%	term	
+P12717	登天王峰	도교(taoism)	37	14%	term	
+P12718	香積菴	강해(water)	39	14%	term	
+P12719	義神菴	불교(buddhism)	61	52%	title, term	
+P12720	紅流洞。次性上人韻。	불교(buddhism)	54	38%	title, term	
+P12721	花開洞	유람(travel)	58	38%	title	
+P12722	雙溪寺	애상(sympathy)	44	27%	term	
+P12723	靑鶴洞	유람(travel)	55	38%	title, term	
+P12724	出洞	송별(farewell)	49	27%	term	
+P12725	感懷	한적(tranquility)	45	27%	term	
+P12726	山木行	애상(sympathy)	46	27%	term	악부/제영(확신↓)
+P12727	過斗原	유람(travel)	80	94%	title, term	
+P12728	女觀津魚	변새(frontier)	39	14%	term	
+P12729	次成學顔韻	애상(sympathy)	54	38%	term	
+P12730	贈智異山人寶雲	기증(donate)	97	94%	title	
+P12731	途中	유람(travel)	91	94%	title, term	
+P12732	宋三宰渾元家盆梅紅白連枝。敬次諸賢韻。	염정(desire)	40	27%	term	
+P12733	答黃叔正求掌樂僉正	인물(person)	58	38%	term	
+P12734	酬柳正由求楊州韻	계절(season)	23	16%	term	
+P12735	挽金安岳 繼宗	애상(sympathy)	96	94%	title, term	
+P12736	李部將女息輓詞	천문(astro)	25	16%	term	
+P12737	漢城府坐衙京兆錄○丁巳	건물(structure)	70	82%	title	
+P12738	贈丁孤舟	기증(donate)	97	94%	title	
+P12739	南麓聽銀介歌辭。仍赴推鞫廳。	변새(frontier)	44	27%	term	
+P12740	新春有感	애상(sympathy)	58	38%	title, term	
+P12741	弄談	애상(sympathy)	47	27%	term	
+P12742	文章	인물(person)	45	27%	term	
+P12743	次東溟秋思韻	계절(season)	59	38%	title	
+P12744	湖上	강해(water)	76	82%	title	
+P12745	湖上	애상(sympathy)	49	27%	term	
+P12746	湖上	강해(water)	67	52%	title	
+P12747	湖上	강해(water)	77	82%	title	
+P12748	擬古詩十九首軆	애상(sympathy)	49	27%	term	
+P12749	擬古詩十九首軆	천문(astro)	45	27%	term	
+P12750	擬古詩十九首軆 其3	애상(sympathy)	38	14%	term	
+P12751	擬古詩十九首軆	애상(sympathy)	40	27%	term	
+P12752	擬古詩十九首軆	강해(water)	38	14%	term	
+P12753	擬古詩十九首軆 其6 擬涉江采芙蓉	애상(sympathy)	53	38%	term	
+P12754	擬古詩十九首軆  其7 擬明月皎夜光	변새(frontier)	47	27%	term	
+P12755	擬古詩十九首軆 其8 擬冉冉孤生竹	불교(buddhism)	36	14%	term	
+P12756	擬古詩十九首軆 其9 擬庭中有奇樹	염정(desire)	38	14%	term	
+P12757	擬古詩十九首軆 其10 擬迢迢牽牛星	애상(sympathy)	59	38%	term	
+P12758	擬古詩十九首軆 其11 擬回車駕言邁	송별(farewell)	55	38%	term	
+P12759	擬古詩十九首軆 其12 擬東城高且長	건물(structure)	52	38%	title	
+P12760	擬古詩十九首軆 其13 擬驅車上東門	회고(reminiscence)	41	27%	term	
+P12761	擬古詩十九首軆 其14 擬去者日以疏	유람(travel)	38	14%	term	
+P12762	擬古詩十九首軆 其15 擬生年不滿百	도교(taoism)	37	14%	term	
+P12763	擬古詩十九首軆 其16 擬凛凛歲云暮	애상(sympathy)	50	38%	term	
+P12764	擬古詩十九首軆 其17 擬孟冬寒氣至	애상(sympathy)	42	27%	term	
+P12765	擬古詩十九首軆 其18 擬客從遠方來	도교(taoism)	43	27%	term	
+P12766	擬古詩十九首軆 其19 擬明月何皎皎	애상(sympathy)	46	27%	term	
+P12767	擬李白古詩五十九首	애상(sympathy)	24	16%	term	
+P12768	擬李白古詩五十九首 其2	애상(sympathy)	44	27%	term	
+P12769	擬李白古詩五十九首 其3	애상(sympathy)	42	27%	term	
+P12770	擬李白古詩五十九首 其4	애상(sympathy)	46	27%	term	
+P12771	擬李白古詩五十九首首 其5	애상(sympathy)	43	27%	term	
+P12772	擬李白古詩五十九首 其6	변새(frontier)	58	38%	term	
+P12773	擬李白古詩五十九首 其7	회고(reminiscence)	53	38%	term	
+P12774	擬李白古詩五十九首 其8	한적(tranquility)	43	27%	term	
+P12775	擬李白古詩五十九首 其9	애상(sympathy)	41	27%	term	
+P12776	擬李白古詩五十九首 其10	애상(sympathy)	49	27%	term	
+P12777	擬李白古詩五十九首 其11	강해(water)	45	27%	term	
+P12778	擬李白古詩五十九首 其12	한적(tranquility)	44	27%	term	
+P12779	擬李白古詩五十九首 其13	유람(travel)	47	27%	term	
+P12780	擬李白古詩五十九首 其14	애상(sympathy)	43	27%	term	
+P12781	擬李白古詩五十九首 其15	송별(farewell)	46	27%	term	
+P12782	擬李白古詩五十九首 其16	애상(sympathy)	45	27%	term	
+P12783	擬李白古詩五十九首 其17	송별(farewell)	40	27%	term	
+P12784	擬李白古詩五十九首 其18	유람(travel)	48	27%	term	
+P12785	擬李白古詩五十九首 其19	천문(astro)	23	16%	term	
+P12786	擬李白古詩五十九首 其20	애상(sympathy)	43	27%	term	
+P12787	擬李白古詩五十九首 其21	애상(sympathy)	46	27%	term	
+P12788	擬李白古詩五十九首 其22	유람(travel)	49	27%	term	
+P12789	擬李白古詩五十九首 其23	한적(tranquility)	46	27%	term	
+P12790	擬李白古詩五十九首 其24	유람(travel)	39	14%	term	
+P12791	擬李白古詩五十九首 其25	유람(travel)	29	16%	term	
+P12792	擬李白古詩五十九首 其26	도교(taoism)	45	27%	term	
+P12793	擬李白古詩五十九首 其27	한적(tranquility)	50	38%	term	
+P12794	擬李白古詩五十九首 其28	변새(frontier)	45	27%	term	
+P12795	擬李白古詩五十九首 其29	한적(tranquility)	52	38%	term	
+P12796	擬李白古詩五十九首 其30	계절(season)	42	27%	term	
+P12797	擬李白古詩五十九首 其31	송별(farewell)	54	38%	term	
+P12798	擬李白古詩五十九首 其32	애상(sympathy)	45	27%	term	
+P12799	擬李白古詩五十九首 其33	계절(season)	49	27%	term	
+P12800	擬李白古詩五十九首 其34	애상(sympathy)	47	27%	term	
+P12801	擬李白古詩五十九首 其35	애상(sympathy)	42	27%	term	
+P12802	擬李白古詩五十九首 其36	계절(season)	52	38%	term	
+P12803	擬李白古詩五十九首 其37	회고(reminiscence)	52	38%	term	
+P12804	擬李白古詩五十九首 其38	계절(season)	47	27%	term	
+P12805	擬李白古詩五十九首 其39	애상(sympathy)	44	27%	term	
+P12806	擬李白古詩五十九首 其40	인물(person)	49	27%	term	
+P12807	擬李白古詩五十九首 其41	도교(taoism)	44	27%	term	
+P12808	擬李白古詩五十九首 其42	천문(astro)	26	16%	term	
+P12809	擬李白古詩五十九首 其43	불교(buddhism)	44	27%	term	
+P12810	擬李白古詩五十九首 其44	한적(tranquility)	49	27%	term	
+P12811	擬李白古詩五十九首 其45	한적(tranquility)	43	27%	term	
+P12812	擬李白古詩五十九首 其46	회고(reminiscence)	38	14%	term	
+P12813	擬李白古詩五十九首 其47	천문(astro)	40	27%	term	
+P12814	擬李白古詩五十九首 其48	회고(reminiscence)	50	38%	term	
+P12815	擬李白古詩五十九首 其49	애상(sympathy)	49	27%	term	
+P12816	擬李白古詩五十九首 其50	한적(tranquility)	38	14%	term	
+P12817	擬李白古詩五十九首 其51	애상(sympathy)	38	14%	term	
+P12818	擬李白古詩五十九首 其52	애상(sympathy)	47	27%	term	
+P12819	擬李白古詩五十九首 其53	애상(sympathy)	65	52%	term	
+P12820	擬李白古詩五十九首 其54	애상(sympathy)	23	16%	term	
+P12821	擬李白古詩五十九首 其55	천문(astro)	26	16%	term	
+P12822	擬李白古詩五十九首 其56	한적(tranquility)	38	14%	term	
+P12823	擬李白古詩五十九首 其57	한적(tranquility)	15	17%	term	
+P12824	擬李白古詩五十九首 其58	계절(season)	40	27%	term	
+P12825	擬李白古詩五十九首 其59	한적(tranquility)	45	27%	term	
+P12826	詠梳 拾遺錄	-(-)	0	0%		신호 없음
+P12827	閱書帙。見蠧魚狼藉。	애상(sympathy)	50	38%	term	
+P12828	題豐山驛	도화(picture)	59	38%	title	
+P12829	次拱北堂韻	애상(sympathy)	46	27%	term	
+P12830	次韻題性誾詩卷	도화(picture)	54	38%	title	
+P12831	謝密昌還衙惠詩。用其韻。	애상(sympathy)	48	27%	term	
+P12832	次許判書 十貂亭韻	건물(structure)	95	94%	title	
+P12833	松泉精舍	불교(buddhism)	55	38%	title	
+P12834	妙峰三瀑	(작업자 기입)	-	-	-	-
+P12835	妙峰三瀑	(작업자 기입)	-	-	-	-
+P12836	精舍夜吟	(작업자 기입)	-	-	-	-
+P12837	松泉 十絶	(작업자 기입)	-	-	-	-
+P12838	松泉 十絶	(작업자 기입)	-	-	-	-
+P12839	松泉 十絶	(작업자 기입)	-	-	-	-
+P12840	松泉 十絶	불교(buddhism)	39	14%	term	
+P12841	松泉 十絶	애상(sympathy)	41	27%	term	
+P12842	松泉 十絶	(작업자 기입)	-	-	-	-
+P12843	松泉 十絶	(작업자 기입)	-	-	-	-
+P12844	松泉 十絶	(작업자 기입)	-	-	-	-
+P12845	松泉 十絶 其九	(작업자 기입)	-	-	-	-
+P12846	松泉 十絶	(작업자 기입)	-	-	-	-
+P12847	拔宅遊	(작업자 기입)	-	-	-	-
+P12848	拔宅遊	(작업자 기입)	-	-	-	-
+P12849	拔宅遊	(작업자 기입)	-	-	-	-
+P12850	拔宅遊	(작업자 기입)	-	-	-	-
+P12851	題燕山舊宮墟石上	(작업자 기입)	-	-	-	-
+P12852	詩謝藍輿僧	(작업자 기입)	-	-	-	-
+P12853	題松泉齋宮客僧印永詩卷 次五峰韻	(작업자 기입)	-	-	-	-
+P12854	山庄	(작업자 기입)	-	-	-	-
+P12855	題金剛山僧彦機詩卷	(작업자 기입)	-	-	-	-
+P12856	題智異山僧詩軸	(작업자 기입)	-	-	-	-
+P12857	贈性敏	(작업자 기입)	-	-	-	-

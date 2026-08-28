@@ -3,3 +3,6 @@ __pycache__/
 00_raw/
 01_enriched/
 hdc_headwords.txt
+02_pilot/
+02_suggested/themes_batch_*.json
+02_suggested/themes_judged_*.json
