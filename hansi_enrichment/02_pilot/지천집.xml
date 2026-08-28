@@ -1,0 +1,3105 @@
+<Corpus>
+<Poem id="P19425">
+    <Metadata>
+      <Title>敬次<term>先祖</term><d>翼成公</d>寧越懸板韻</Title>
+      <Preface></Preface>
+      <Annotation></Annotation>
+      <Collection ns0:href="glossary.xml#지천집"/>
+      <Author ns0:href="glossary.xml#황정욱"/>
+      <Form>
+        <Basetype>근체시</Basetype>
+        <Detailtype>절구</Detailtype>
+        <Charactercount>오언</Charactercount>
+    </Form>
+      <Themes>
+        <Theme category="person" basis="title" evidence "title:翼成公">인물</Theme>
+        <Theme category="reminiscence" basis="term" evidence "term:我祖 撫古">회고</Theme>
+      </Themes>
+      <Context></Context>
+    </Metadata>
+    <text>
+      <Line id="P1942501" order="1">我祖<term>登臨</term>後</Line>
+      <Line id="P1942502" order="2"><term>玄孫</term>又<d>御<rhyme>風</rhyme></d></Line>
+      <Line id="P1942503" order="3"><term>九秋</term><term>搖落日</term>
+	   <Allusion id="작성하지않음" target="搖落日" type="D" source="楚辭" chapter="九辯" originaltext="悲哉秋之爲氣也 蕭瑟兮草木搖落而變衰"/></Line>
+      <Line id="P1942504" order="4"><term>撫古</term>一江<rhyme>空</rhyme></Line>
+    </text>
+  </Poem>
+<Poem id="P19426">
+    <Metadata>
+      <Title>寄<d>李叔獻</d></Title>
+      <Preface></Preface>
+      <Annotation>時叔獻以兵判被重䮕出待命于江上余適掃墳將向湖臬奉贐焉癸未仲秋也</Annotation>
+      <Collection ns0:href="glossary.xml#지천집"/>
+      <Author ns0:href="glossary.xml#황정욱"/>
+      <Form>
+        <Basetype>근체시</Basetype>
+        <Detailtype>절구</Detailtype>
+        <Charactercount>오언</Charactercount>
+    </Form>
+      <Themes>
+        <Theme category="person" basis="title" evidence="title:李叔獻">인물</Theme>
+        <Theme category="donate" basis="title" evidence="title:寄">기증</Theme>
+      </Themes>
+      <Context></Context>
+    </Metadata>
+    <text>
+      <Line id="P1942601" order="1"><term>出處</term>俱吾道</Line>
+      <Line id="P1942602" order="2"><term>山林</term>興自<rhyme>高</rhyme></Line>
+      <Line id="P1942603" order="3"><term>長安</term><term>日邊</term>近</Line>
+      <Line id="P1942604" order="4">不用賦<term>離<rhyme>騷</rhyme></term></Line>
+    </text>
+  </Poem>
+<Poem id="P19427">
+    <Metadata>
+      <Title><d>箭灘</d>經營<term>小築</term>偶吟示<term>內姪</term><d>趙生</d></Title>
+      <Preface></Preface>
+      <Annotation></Annotation>
+      <Collection ns0:href="glossary.xml#지천집"/>
+      <Author ns0:href="glossary.xml#황정욱"/>
+      <Form>
+        <Basetype>근체시</Basetype>
+        <Detailtype>절구</Detailtype>
+        <Charactercount>오언</Charactercount>
+    </Form>
+      <Themes>
+        <Theme category="donate" basis="title" evidence="title:偶吟示">기증</Theme>
+        <Theme category="sympathy" basis="term" evidence="term:殘生 途窮">애상</Theme>
+      </Themes>
+      <Context></Context>
+    </Metadata>
+    <text>
+      <Line id="P1942701" order="1"><d>流落</d><d>安陵郡</d></Line>
+      <Line id="P1942702" order="2">經營<term>一畝<rhyme>宮</rhyme></term></Line>
+		<Allusion id="작성하지않음" target="一畝宮" type="A" source="禮記" chapter="儒行" originaltext="儒有一畝之宮 環堵之室 篳門圭窬 蓬戶甕牖"/></Line>
+      <Line id="P1942703" order="3"><term>殘生</term>日已暮</Line>
+      <Line id="P1942704" order="4">獨立歎<term>途<rhyme>窮</rhyme></term></Line>
+		<Allusion id="작성하지않음" target="途窮" type="D" source="杜少陵詩集" chapter="投贈哥舒開府翰二十韻" originaltext="幾年春草歇 今日暮途窮"/></Line>
+    </text>
+  </Poem>
+<Poem id="P19428">
+    <Metadata>
+      <Title><d>淸水院</d>贈<d>四耐翁</d></Title>
+      <Preface></Preface>
+      <Annotation></Annotation>
+      <Collection ns0:href="glossary.xml#지천집"/>
+      <Author ns0:href="glossary.xml#황정욱"/>
+      <Form>
+        <Basetype>근체시</Basetype>
+        <Detailtype>절구</Detailtype>
+        <Charactercount>오언</Charactercount>
+    </Form>
+      <Themes>
+        <Theme category="donate" basis="title" evidence="title:贈">기증</Theme>
+        <Theme category="tranquility" basis="term" evidence="term:遊觀">한적</Theme>
+      </Themes>
+      <Context></Context>
+    </Metadata>
+    <text>
+      <Line id="P1942801" order="1">嶺雲垂<term>帟幕</term></Line>
+      <Line id="P1942802" order="2">谷鳥替奏<rhyme>樂</rhyme></Line>
+      <Line id="P1942803" order="3"><term>山川</term>恣<term>遊觀</term></Line>
+      <Line id="P1942804" order="4"><term>風月</term>誰<term>主<rhyme>客</rhyme></term></Line>
+    </text>
+  </Poem>
+<Poem id="P19429">
+    <Metadata>
+      <Title>謝<d>李生翼</d><term>來訪</term></Title>
+      <Preface></Preface>
+      <Annotation></Annotation>
+      <Collection ns0:href="glossary.xml#지천집"/>
+      <Author ns0:href="glossary.xml#황정욱"/>
+      <Form>
+        <Basetype>근체시</Basetype>
+        <Detailtype>절구</Detailtype>
+        <Charactercount>오언</Charactercount>
+    </Form>
+      <Themes>
+        <Theme category="person" basis="title" evidence="title:李生翼">인물</Theme>
+        <Theme category="meet" basis="title" evidence="title:來訪">회방</Theme>
+      </Themes>
+      <Context></Context>
+    </Metadata>
+    <text>
+      <Line id="P1942901" order="1"><term>寂寞</term>眞吾道</Line>
+      <Line id="P1942902" order="2"><term>追隨</term>獨<term>有<rhyme>情</rhyme></term></Line>
+      <Line id="P1942903" order="3"><d>侯芭</d>今<term>白首</term></Line>
+      <Line id="P1942904" order="4">猶守<term><d>太玄</term><rhyme>經</rhyme></d></Line>
+		<Allusion id="작성하지않음" target="太玄經" type="D" source="詩人玉屑" chapter="" originaltext="四海朱夫子 徵君獨典刑 靑雲伯夷傳 白首太玄經"/></Line>
+    </text>
+  </Poem>
+<Poem id="P19430">
+    <Metadata>
+      <Title>題僧軸</Title>
+      <Preface></Preface>
+      <Annotation></Annotation>
+      <Collection ns0:href="glossary.xml#지천집"/>
+      <Author ns0:href="glossary.xml#황정욱"/>
+      <Form>
+        <Basetype>근체시</Basetype>
+        <Detailtype>절구</Detailtype>
+        <Charactercount>오언</Charactercount>
+    </Form>
+      <Themes>
+        <Theme category="reminiscence" basis="term" evidence="term:揚夢 入來">회고</Theme>
+      </Themes>
+      <Context></Context>
+    </Metadata>
+    <text>
+      <Line id="P1943001" order="1"><term>夙昔</term>悠<d>揚夢</d></Line>
+      <Line id="P1943002" order="2">每尋<term>水石</term><rhyme>去</rhyme></Line>
+      <Line id="P1943003" order="3"><term>今日</term>身<term>入來</term></Line>
+      <Line id="P1943004" order="4"><term>山顔</term>開<d>晩<rhyme>雨</rhyme></d></Line>
+	  		<Allusion id="작성하지않음" target="揚夢" type="D" source="樊川集" chapter="遣懷" originaltext="十年一覺揚州夢 贏得靑樓薄倖名"/></Line>
+    </text>
+  </Poem>
+<Poem id="P19431">
+    <Metadata>
+      <Title><term>閑居</term>偶吟</Title>
+      <Preface></Preface>
+      <Annotation></Annotation>
+      <Collection ns0:href="glossary.xml#지천집"/>
+      <Author ns0:href="glossary.xml#황정욱"/>
+      <Form>
+        <Basetype>근체시</Basetype>
+        <Detailtype>절구</Detailtype>
+        <Charactercount>칠언</Charactercount>
+    </Form>
+      <Themes>
+        <Theme category="tranquility" basis="title, term" evidence="title:閑居, term:田園">한적</Theme>
+      </Themes>
+      <Context></Context>
+    </Metadata>
+    <text>
+      <Line id="P1943101" order="1">鷄鳴人語漸<term>喧<rhyme>喧</rhyme></term></Line>
+      <Line id="P1943102" order="2"><d>堗汵</d><d>衾寒</d>寢未<rhyme>溫</rhyme></Line>
+      <Line id="P1943103" order="3"><term>多少</term><term>胸中</term>閑<term>計較</term></Line>
+      <Line id="P1943104" order="4">半爲<term>家國</term>半<term>田<rhyme>園</rhyme></term></Line>
+    </text>
+  </Poem>
+<Poem id="P19432">
+    <Metadata>
+      <Title>別<term>伯氏</term>敬次嚴韻</Title>
+      <Preface></Preface>
+      <Annotation></Annotation>
+      <Collection ns0:href="glossary.xml#지천집"/>
+      <Author ns0:href="glossary.xml#황정욱"/>
+      <Form>
+        <Basetype>근체시</Basetype>
+        <Detailtype>절구</Detailtype>
+        <Charactercount>칠언</Charactercount>
+    </Form>
+      <Themes>
+        <Theme category="sympathy" basis="term" evidence="term:奪情 望雲">애상</Theme>
+        <Theme category="farewell" basis="title, term" evidence="title:別, term:遠別">송별</Theme>
+      </Themes>
+      <Context></Context>
+    </Metadata>
+    <text>
+      <Line id="P1943201" order="1"><term>父母</term>之恩與<d>事<rhyme>君</rhyme></d></Line>
+      <Line id="P1943202" order="2"><term>自來</term><term>輕重</term>不難<rhyme>分</rhyme></Line>
+      <Line id="P1943203" order="3"><term>如今</term><term>遠別</term><term lemma="奪情">情相奪</term></Line>
+		<Allusion id="작성하지않음" target="奪情" type="B" source="周書" chapter="王謙傳" originaltext="高祖手詔奪情 襲爵庸公"/>
+      <Line id="P1943204" order="4">況復看雲是<term>望<rhyme>雲</rhyme></term></Line>
+		<Allusion id="작성하지않음" target="望雲" type="B" source="舊唐書" chapter="狄仁傑列傳" originaltext="吾親所居 在此雲下"/>
+    </text>
+  </Poem>
+<Poem id="P19433">
+    <Metadata>
+      <Title><term>花月</term><term>喚起</term><d>崔復初</d><d>興源</d></Title>
+      <Preface></Preface>
+      <Annotation></Annotation>
+      <Collection ns0:href="glossary.xml#지천집"/>
+      <Author ns0:href="glossary.xml#황정욱"/>
+      <Form>
+        <Basetype>근체시</Basetype>
+        <Detailtype>절구</Detailtype>
+        <Charactercount>칠언</Charactercount>
+    </Form>
+      <Themes>
+        <Theme category="sympathy" basis="term" evidence="term:寂寥 可憐 辜負 獨臥 鳳簫">애상</Theme>
+        <Theme category="person" basis="title, term" evidence="title:崔復初 興源, term:玉人">인물</Theme>
+      </Themes>
+      <Context></Context>
+    </Metadata>
+    <text>
+      <Line id="P1943301" order="1">一樹<term>梨花</term>伴<term>寂<rhyme>寥</rhyme></term></Line>
+      <Line id="P1943302" order="2"><term>可憐</term><term>辜負</term><term>月明</term><rhyme>宵</rhyme></Line>
+      <Line id="P1943303" order="3"><d>緗簾</d><term>獨臥</term>孤曲畔</Line>
+      <Line id="P1943304" order="4"><term>何處</term><term>玉人</term>吹<term>鳳<rhyme>簫</rhyme></term></Line>
+		<Allusion id="작성하지않음" target="鳳簫" type="D" source="全唐詩" chapter="鳳簫曲" originaltext="昔時嬴如厭世紛 學吹鳳簫乘彩雲"/>
+    </text>
+  </Poem>
+<Poem id="P19434">
+    <Metadata>
+      <Title><d>高山寺</d>次<d>尹子仰</d><d>斗壽</d><d>子固</d><d>根壽</d>韻 三首</Title>
+      <Preface></Preface>
+      <Annotation></Annotation>
+      <Collection ns0:href="glossary.xml#지천집"/>
+      <Author ns0:href="glossary.xml#황정욱"/>
+      <Form>
+        <Basetype>근체시</Basetype>
+        <Detailtype>절구</Detailtype>
+        <Charactercount>칠언</Charactercount>
+    </Form>
+      <Themes>
+        <Theme category="structure" basis="title" evidence="title:高山寺">건물</Theme>
+        <Theme category="sympathy" basis="term" evidence="term:海聲 異鄕 離愁">애상</Theme>
+      </Themes>
+      <Context></Context>
+    </Metadata>
+    <text>
+      <Line id="P1943401" order="1"><term>徙倚</term>禪曲聽<d>海<rhyme>聲</rhyme></d></Line>
+		<Allusion id="작성하지않음" target="海聲" type="D" source="李太白集" chapter="夜泊黃山聞殷十四吳吟" originaltext="半酣更發江海聲 客愁頓向杯中失"/>
+      <Line id="P1943402" order="2">一盃<term>斟酌</term><term>異鄕</term><rhyme>情</rhyme></Line>
+      <Line id="P1943403" order="3">直須爛却<term>今宵</term>月</Line>
+      <Line id="P1943404" order="4"><term>明日</term><term>離愁</term><term>白髮</term><rhyme>明</rhyme></Line>
+    </text>
+  </Poem>
+<Poem id="P19435">
+    <Metadata>
+      <Title><d>高山寺</d>次<d>尹子仰</d><d>斗壽</d><d>子固</d><d>根壽</d>韻 三首</Title>
+      <Preface></Preface>
+      <Annotation>庭中有井 寒冽甚甘 余醉渴 急叫庵僧汲來以解之 故云</Annotation>
+      <Collection ns0:href="glossary.xml#지천집"/>
+      <Author ns0:href="glossary.xml#황정욱"/>
+      <Form>
+		<Basetype>근체시</Basetype>
+        <Detailtype>절구</Detailtype>
+        <Charactercount>칠언</Charactercount>
+    </Form>
+      <Themes>
+        <Theme category="structure" basis="title" evidence="title:高山寺">건물</Theme>
+        <Theme category="buddhism" basis="title, term" evidence="title:高山寺, term:胡僧">불교</Theme>
+      </Themes>
+      <Context></Context>
+    </Metadata>
+    <text>
+      <Line id="P1943501" order="1">臥聞古甃<term>轆轤</term><rhyme>聲</rhyme></Line>
+		<Allusion id="작성하지않음" target="轆轤" type="D" source="御定全唐詩" chapter="訪含曦上人" originaltext="三入寺 曦未來 轆轤無人井百尺 渴心歸去生塵埃"/>
+      <Line id="P1943502" order="2">却喜<term>胡僧</term>亦<term>有<rhyme>情</rhyme></term></Line>
+      <Line id="P1943503" order="3">解我<d>淸愁</d>因<term>病渴</term></Line>
+      <Line id="P1943504" order="4">一甁新汲<term>露華</term><rhyme>明</rhyme></Line>
+    </text>
+  </Poem>
+<Poem id="P19436">
+    <Metadata>
+      <Title><d>高山寺</d>次<d>尹子仰</d><d>斗壽</d><d>子固</d><d>根壽</d>韻 三首</Title>
+      <Preface></Preface>
+      <Annotation></Annotation>
+      <Collection ns0:href="glossary.xml#지천집"/>
+      <Author ns0:href="glossary.xml#황정욱"/>
+      <Form>
+        <Basetype>근체시</Basetype>
+        <Detailtype>절구</Detailtype>
+        <Charactercount>칠언</Charactercount>
+    </Form>
+      <Themes>
+        <Theme category="sympathy" basis="term" evidence="term:蕭蕭 離情">애상</Theme>
+        <Theme category="farewell" basis="term" evidence="term:離情">송별</Theme>
+      </Themes>
+      <Context></Context>
+    </Metadata>
+    <text>
+      <Line id="P1943601" order="1">門外<term>蕭蕭</term>聽馬<rhyme>聲</rhyme></Line>
+      <Line id="P1943602" order="2">莫敎<term>行色</term>動<term>離<rhyme>情</rhyme></term></Line>
+      <Line id="P1943603" order="3">滿江<term>煙雨</term>欲<term>收殺</term></Line>
+      <Line id="P1943604" order="4">更待<term>今宵</term>看<term>月<rhyme>明</rhyme></term></Line>
+    </text>
+  </Poem>
+<Poem id="P19437">
+    <Metadata>
+      <Title><term>高山</term>寺。次尹子仰 斗，壽 子固 根壽 韻。三首。 附<term>元韻</term></Title>
+      <Preface></Preface>
+      <Annotation></Annotation>
+      <Collection ns0:href="glossary.xml#지천집"/>
+      <Author ns0:href="glossary.xml#황정욱"/>
+      <Form>
+        <Basetype>근체시</Basetype>
+        <Detailtype>절구</Detailtype>
+        <Charactercount>칠언</Charactercount>
+    </Form>
+      <Themes></Themes>
+      <Context></Context>
+    </Metadata>
+    <text>
+      <Line id="P1943701" order="1"><term>長恨</term><term>雷封</term>闕<term>寄<rhyme>聲</rhyme></term></Line>
+      <Line id="P1943702" order="2"><term>相逢</term><term>蕭寺</term>更<term>多<rhyme>情</rhyme></term></Line>
+      <Line id="P1943703" order="3">南池<term>一曲</term>淸如鑑</Line>
+      <Line id="P1943704" order="4"><term>狂客</term><term>由來</term>出<term>四<rhyme>明</rhyme></term></Line>
+    </text>
+  </Poem>
+<Poem id="P19438">
+    <Metadata>
+      <Title><term>高山</term>寺。次尹子仰 斗，壽 子固 根壽 韻。三首。 附<term>元韻</term> 其二</Title>
+      <Preface></Preface>
+      <Annotation></Annotation>
+      <Collection ns0:href="glossary.xml#지천집"/>
+      <Author ns0:href="glossary.xml#황정욱"/>
+      <Form>
+        <Basetype>근체시</Basetype>
+        <Detailtype>절구</Detailtype>
+        <Charactercount>칠언</Charactercount>
+    </Form>
+      <Themes></Themes>
+      <Context></Context>
+    </Metadata>
+    <text>
+      <Line id="P1943801" order="1">古寺<term>相逢</term><term>笑語</term><rhyme>聲</rhyme></Line>
+      <Line id="P1943802" order="2">三灘更助<term>別離</term><rhyme>情</rhyme></Line>
+      <Line id="P1943803" order="3"><term>中宵</term>燒燭猶看劍</Line>
+      <Line id="P1943804" order="4">江雨何心妬<term>月<rhyme>明</rhyme></term></Line>
+    </text>
+  </Poem>
+<Poem id="P19439">
+    <Metadata>
+      <Title><term>高山</term>寺。次尹子仰 斗，壽 子固 根壽 韻。三首。 附<term>元韻</term> 其三</Title>
+      <Preface></Preface>
+      <Annotation></Annotation>
+      <Collection ns0:href="glossary.xml#지천집"/>
+      <Author ns0:href="glossary.xml#황정욱"/>
+      <Form>
+        <Basetype>근체시</Basetype>
+        <Detailtype>절구</Detailtype>
+        <Charactercount>칠언</Charactercount>
+    </Form>
+      <Themes></Themes>
+      <Context></Context>
+    </Metadata>
+    <text>
+      <Line id="P1943901" order="1">竹裏<term>廚人</term>細<term>送<rhyme>聲</rhyme></term></Line>
+      <Line id="P1943902" order="2">共言<term>賓主</term>似<term>多<rhyme>情</rhyme></term></Line>
+      <Line id="P1943903" order="3"><term>天風</term>又作<term>黃昏</term>雨</Line>
+      <Line id="P1943904" order="4">知是<term>歸期</term><term>定在</term><rhyme>明</rhyme></Line>
+    </text>
+  </Poem>
+<Poem id="P19440">
+    <Metadata>
+      <Title><term>高山</term>寺。次尹子仰 斗，壽 子固 根壽 韻。三首。 附<term>元韻</term> 其四</Title>
+      <Preface></Preface>
+      <Annotation></Annotation>
+      <Collection ns0:href="glossary.xml#지천집"/>
+      <Author ns0:href="glossary.xml#황정욱"/>
+      <Form>
+        <Basetype>근체시</Basetype>
+        <Detailtype>절구</Detailtype>
+        <Charactercount>칠언</Charactercount>
+    </Form>
+      <Themes></Themes>
+      <Context></Context>
+    </Metadata>
+    <text>
+      <Line id="P1944001" order="1"><term>千里</term>空煩<term>兩地</term><rhyme>聲</rhyme></Line>
+      <Line id="P1944002" order="2"><term>一尊</term>還喜<term>故人</term><rhyme>情</rhyme></Line>
+      <Line id="P1944003" order="3">城南<term>笑語</term><term>尋常</term>事</Line>
+      <Line id="P1944004" order="4">此日禪曲眼倍<rhyme>明</rhyme></Line>
+    </text>
+  </Poem>
+<Poem id="P19441">
+    <Metadata>
+      <Title><term>高山</term>寺。次尹子仰 斗，壽 子固 根壽 韻。三首。 附<term>元韻</term> 其五</Title>
+      <Preface></Preface>
+      <Annotation></Annotation>
+      <Collection ns0:href="glossary.xml#지천집"/>
+      <Author ns0:href="glossary.xml#황정욱"/>
+      <Form>
+        <Basetype>근체시</Basetype>
+        <Detailtype>절구</Detailtype>
+        <Charactercount>칠언</Charactercount>
+    </Form>
+      <Themes></Themes>
+      <Context></Context>
+    </Metadata>
+    <text>
+      <Line id="P1944101" order="1"><term>沙鷗</term><term>昨夜</term>已<term>春<rhyme>聲</rhyme></term></Line>
+      <Line id="P1944102" order="2">小雨<term>連朝</term>似<term>有<rhyme>情</rhyme></term></Line>
+      <Line id="P1944103" order="3">滯<term>却行</term>旌還<term>不惡</term></Line>
+      <Line id="P1944104" order="4">一盃<term>相屬</term><term>寸心</term><rhyme>明</rhyme></Line>
+    </text>
+  </Poem>
+<Poem id="P19442">
+    <Metadata>
+      <Title><term>高山</term>寺。次尹子仰 斗，壽 子固 根壽 韻。三首。 附<term>元韻</term> 其六</Title>
+      <Preface></Preface>
+      <Annotation></Annotation>
+      <Collection ns0:href="glossary.xml#지천집"/>
+      <Author ns0:href="glossary.xml#황정욱"/>
+      <Form>
+        <Basetype>근체시</Basetype>
+        <Detailtype>절구</Detailtype>
+        <Charactercount>칠언</Charactercount>
+    </Form>
+      <Themes></Themes>
+      <Context></Context>
+    </Metadata>
+    <text>
+      <Line id="P1944201" order="1"><term>沙彌</term><term>昨夜</term><term>報春</term><rhyme>聲</rhyme></Line>
+      <Line id="P1944202" order="2"><term>髣髴</term><term>寒山</term><term>客裏</term><rhyme>情</rhyme></Line>
+      <Line id="P1944203" order="3">月落<term>烏啼</term>渾<term>不管</term></Line>
+      <Line id="P1944204" order="4"><term>相携</term>直欲到<term>天<rhyme>明</rhyme></term></Line>
+    </text>
+  </Poem>
+<Poem id="P19443">
+    <Metadata>
+      <Title>在<d>芝</d>上題<d>天然</d>軸</Title>
+      <Preface></Preface>
+      <Annotation></Annotation>
+      <Collection ns0:href="glossary.xml#지천집"/>
+      <Author ns0:href="glossary.xml#황정욱"/>
+      <Form>
+        <Basetype>근체시</Basetype>
+        <Detailtype>절구</Detailtype>
+        <Charactercount>칠언</Charactercount>
+    </Form>
+      <Themes>
+        <Theme category="tranquility" basis="term" evidence="term:武夷 淸川 結廬 溪山">한적</Theme>
+        <Theme category="water" basis="title, term" evidence="title:芝 term:淸川">강해</Theme>
+      </Themes>
+      <Context></Context>
+    </Metadata>
+    <text>
+      <Line id="P1944301" order="1">何處浮來一<d>武<rhyme>夷</rhyme></d></Line>
+      <Line id="P1944302" order="2"><d>淸川</d><term>曲曲</term>摠堪<rhyme>疑</rhyme></Line>
+      <Line id="P1944303" order="3"><term>結廬</term>此日君休笑</Line>
+		<Allusion id="작성하지않음" target="結廬" type="D" source="陶淵明集" chapter="飮酒" originaltext="結廬在人境 而無車馬喧 問君何能爾 心遠地自偏"/>
+      <Line id="P1944304" order="4">自是<d>溪山</d>有<d>宿<rhyme>期</rhyme></d></Line>
+    </text>
+  </Poem>
+<Poem id="P19444">
+    <Metadata>
+      <Title>次<d>李伯生</d><d>純仁</d>詠<term>玉堂</term><term>小桃</term></Title>
+      <Preface></Preface>
+      <Annotation></Annotation>
+      <Collection ns0:href="glossary.xml#지천집"/>
+      <Author ns0:href="glossary.xml#황정욱"/>
+      <Form>
+        <Basetype>근체시</Basetype>
+        <Detailtype>절구</Detailtype>
+        <Charactercount>칠언</Charactercount>
+    </Form>
+      <Themes>
+        <Theme category="person" basis="title, term" evidence="title:李伯生 純仁, term:老翁 葵心">인물</Theme>
+        <Theme category="prosper" basis="term" evidence="term:葵心">현달</Theme>
+      </Themes>
+      <Context></Context>
+    </Metadata>
+    <text>
+      <Line id="P1944401" order="1"><term>無數</term><term>宮花</term>倚<term>粉<rhyme>墻</rhyme></term></Line>
+		<Allusion id="작성하지않음" target="粉墻" type="D" source="白樂天詩後集" chapter="山石榴花" originaltext="照灼連朱檻 玲瓏映粉牆"/>
+      <Line id="P1944402" order="2"><term lemma="戲蝶遊蜂">遊蜂戲蝶</term>趁<term>餘<rhyme>香</rhyme></term></Line>
+		<Allusion id="작성하지않음" target="戲蝶遊蜂" type="D" source="全唐詩" chapter="山房春事" originaltext="風恬日暖蕩春光 戲蝶遊蜂亂入房"/>
+      <Line id="P1944403" order="3"><term>老翁</term>未及<term>春風</term>看</Line>
+      <Line id="P1944404" order="4">空有<term>葵心</term>向<term>太<rhyme>陽</rhyme></term></Line>
+		<Allusion id="작성하지않음" target="葵心" type="D" source="東坡全集" chapter="奉和陳賢良" originaltext="望窮海表天還遠 傾盡葵心日愈高"/>
+    </text>
+  </Poem>
+<Poem id="P19445">
+    <Metadata>
+      <Title>題<term>雲水</term>軸</Title>
+      <Preface></Preface>
+      <Annotation></Annotation>
+      <Collection ns0:href="glossary.xml#지천집"/>
+      <Author ns0:href="glossary.xml#황정욱"/>
+      <Form>
+        <Basetype>근체시</Basetype>
+        <Detailtype>절구</Detailtype>
+        <Charactercount>칠언</Charactercount>
+    </Form>
+      <Themes>
+        <Theme category="meet" basis="term" evidence="term:始逢 又來">회방</Theme>
+        <Theme category="buddhism" basis="title, term" evidence="title:雲水, term:師 雲水">불교</Theme>
+      </Themes>
+      <Context></Context>
+    </Metadata>
+    <text>
+      <Line id="P1944501" order="1"><term>石潭</term><term>精舍</term>始逢<rhyme>師</rhyme></Line>
+      <Line id="P1944502" order="2"><d>翠壁</d><term>題名</term><term>攀桂</term><rhyme>枝</rhyme></Line>
+		<Allusion id="작성하지않음" target="翠壁" type="D" source="蘇東坡詩集" chapter="僊遊潭" originaltext="翠壁下無路 何年雷雨穿"/>
+		<Allusion id="작성하지않음" target="攀桂" type="D" source="楚辭" chapter="招隱士" originaltext="攀援桂樹兮聊淹留"/>
+      <Line id="P1944503" order="3"><term>江上</term>又來勤<term>覓句</term></Line>
+		<Allusion id="작성하지않음" target="覓句" type="D" source="杜少陵詩集" chapter="又示宗武" originaltext="覓句新知律 攤書解滿牀"/>
+      <Line id="P1944504" order="4"><term>此生</term><term>雲水</term>好<term>襟<rhyme>期</rhyme></term></Line>
+		<Allusion id="작성하지않음" target="襟期" type="D" source="杜少陵詩集" chapter="醉時歌" originaltext="日糴太倉五升米 時赴鄭老同襟期"/>
+    </text>
+  </Poem>
+<Poem id="P19446">
+    <Metadata>
+      <Title>題<d>漢江</d>二首</Title>
+      <Preface></Preface>
+      <Annotation></Annotation>
+      <Collection ns0:href="glossary.xml#지천집"/>
+      <Author ns0:href="glossary.xml#황정욱"/>
+      <Form>
+        <Basetype>근체시</Basetype>
+        <Detailtype>절구</Detailtype>
+        <Charactercount>칠언</Charactercount>
+    </Form>
+      <Themes>
+        <Theme category="travel" basis="term" evidence="term:客心 忘歸">유람</Theme>
+        <Theme category="water" basis="title, term" evidence="title:漢江, term:江湖">강해</Theme>
+      </Themes>
+      <Context></Context>
+    </Metadata>
+    <text>
+      <Line id="P1944601" order="1"><term>客心</term><term>迢遞</term>淡<term>忘<rhyme>歸</rhyme></term></Line>
+      <Line id="P1944602" order="2"><term>數日</term><term>江湖</term>故作<rhyme>遲</rhyme></Line>
+      <Line id="P1944603" order="3">山雨忽來風滿榻</Line>
+      <Line id="P1944604" order="4"><term>一時</term><term>分付</term><term>老夫</term><rhyme>詩</rhyme></Line>
+    </text>
+  </Poem>
+<Poem id="P19447">
+    <Metadata>
+      <Title>題<d>漢江</d>二首 其二</Title>
+      <Preface></Preface>
+      <Annotation></Annotation>
+      <Collection ns0:href="glossary.xml#지천집"/>
+      <Author ns0:href="glossary.xml#황정욱"/>
+      <Form>
+        <Basetype>근체시</Basetype>
+        <Detailtype>절구</Detailtype>
+        <Charactercount>칠언</Charactercount>
+    </Form>
+      <Themes>
+        <Theme category="water" basis="title, term" evidence="title:漢江, term:漢江 桃花浪 漁舟">강해</Theme>
+        <Theme category="season" basis="term" evidence="term:三月 桃花浪">계절</Theme>
+      </Themes>
+      <Context></Context>
+    </Metadata>
+    <text>
+      <Line id="P1944701" order="1"><d>冠岳</d>晴峯落<d>漢江</d></Line>
+      <Line id="P1944702" order="2"><d>狎鷗亭</d>影射軒<rhyme>曲</rhyme></Line>
+      <Line id="P1944703" order="3"><term>渺然</term><term>三月</term><term>桃花浪</term></Line>
+		<Allusion id="작성하지않음" target="桃花浪" type="D" source="全唐詩" chapter="春水" originaltext="三月桃花浪 江流復舊痕"/>
+      <Line id="P1944704" order="4">時有<term>漁舟</term>蕩作<rhyme>䨥</rhyme></Line>
+    </text>
+  </Poem>
+<Poem id="P19448">
+    <Metadata>
+      <Title><d>孫敬輿</d>折送<d>松枝</d>以邀之 詩以謝之</Title>
+      <Preface></Preface>
+      <Annotation></Annotation>
+      <Collection ns0:href="glossary.xml#지천집"/>
+      <Author ns0:href="glossary.xml#황정욱"/>
+      <Form>
+        <Basetype>근체시</Basetype>
+        <Detailtype>절구</Detailtype>
+        <Charactercount>칠언</Charactercount>
+    </Form>
+      <Themes>
+        <Theme category="donate" basis="title" evidence="title:孫敬輿 謝之">기증</Theme>
+        <Theme category="person" basis="title" evidence="title:孫敬輿">인물</Theme>
+        <Theme category="plant" basis="title, term" evidence="title:松枝, term:松枝 花明 芳菲">식물</Theme>
+      </Themes>
+      <Context></Context>
+    </Metadata>
+    <text>
+      <Line id="P1944801" order="1"><term>風雨</term><term>關門</term><term>獨坐</term><rhyme>淸</rhyme></Line>
+      <Line id="P1944802" order="2"><term>自慚</term><term>霜鬢</term>對<d>花<rhyme>明</rhyme></d></Line>
+		<Allusion id="작성하지않음" target="霜鬢" type="D" source="蘇東坡詩集" chapter="送安惇秀才失解西歸" originaltext="狂謀謬算百不遂 惟有霜鬢來如期"/>
+      <Line id="P1944803" order="3"><term>賞心</term>不逐<term>芳菲</term>改</Line>
+      <Line id="P1944804" order="4">折送<d>松枝</d>是<term>莅<rhyme>盟</rhyme></term></Line>
+    </text>
+  </Poem>
+<Poem id="P19449">
+    <Metadata>
+      <Title>和<d>金彭齡</d><term>田家</term>韻</Title>
+      <Preface></Preface>
+      <Annotation>時以奏請赴京 故落句云</Annotation>
+      <Collection ns0:href="glossary.xml#지천집"/>
+      <Author ns0:href="glossary.xml#황정욱"/>
+      <Form>
+        <Basetype>근체시</Basetype>
+        <Detailtype>절구</Detailtype>
+        <Charactercount>칠언</Charactercount>
+    </Form>
+      <Themes>
+        <Theme category="donate" basis="title" evidence="title:和">기증</Theme>
+        <Theme category="person" basis="title, term" evidence="title:金彭齡, term:薊門">인물</Theme>
+      </Themes>
+      <Context></Context>
+    </Metadata>
+    <text>
+      <Line id="P1944901" order="1">滿溪<term>流水</term>漲<term>春<rhyme>田</rhyme></term></Line>
+      <Line id="P1944902" order="2"><term>雨露</term><term>桑麻</term>送<term>老<rhyme>年</rhyme></term></Line>
+		<Allusion id="작성하지않음" target="雨露" type="D" source="全唐詩" chapter="屏跡" originaltext="桑麻深雨露 燕雀半生成"/>
+		<Allusion id="작성하지않음" target="桑麻" type="D" source="全唐詩" chapter="屏跡" originaltext="桑麻深雨露 燕雀半生成"/>
+      <Line id="P1944903" order="3">說與<term>吾人</term>眞一詑</Line>
+      <Line id="P1944904" order="4"><term>薊門</term><term>千里</term>觸<term>炎<rhyme>煙</rhyme></term></Line>
+		<Allusion id="작성하지않음" target="炎煙" type="D" source="御定全唐詩" chapter="贈韋處士六年夏大熱旱" originaltext="旱日乾密雲 炎煙焦茂草"/>
+    </text>
+  </Poem>
+<Poem id="P19450">
+    <Metadata>
+      <Title>題<d>玉生香</d>帖</Title>
+      <Preface></Preface>
+      <Annotation>香也少時 爲淸原駙馬所眄 文定命鞫于金吾 仍配義州</Annotation>
+      <Collection ns0:href="glossary.xml#지천집"/>
+      <Author ns0:href="glossary.xml#황정욱"/>
+      <Form>
+        <Basetype>근체시</Basetype>
+        <Detailtype>절구</Detailtype>
+        <Charactercount>칠언</Charactercount>
+    </Form>
+      <Themes>
+        <Theme category="person" basis="title, term" evidence="title:玉生香, term:蛾眉">인물</Theme>
+        <Theme category="desire" basis="title, term" evidence="title:玉生香, term:撫瑟悲">염정</Theme>
+        <Theme category="sympathy" basis="term" evidence="term:撫瑟悲 無去路">애상</Theme>
+      </Themes>
+      <Context></Context>
+    </Metadata>
+    <text>
+      <Line id="P1945001" order="1"><term>信陵</term><term>豪貴</term><term>狎遊</term><rhyme>時</rhyme></Line>
+      <Line id="P1945002" order="2">不道<term>潯陽</term>撫瑟<rhyme>悲</rhyme></Line>
+		<Allusion id="작성하지않음" target="潯陽" type="D" source="白樂天詩集" chapter="琵琶行" originaltext="潯陽江頭夜送客 楓葉荻花秋瑟瑟"/>
+      <Line id="P1945003" order="3"><term>一落</term><d>鴨江</d>無<term>去路</term></Line>
+      <Line id="P1945004" order="4"><term>世間</term>寧獨怨<term>蛾<rhyme>眉</rhyme></term></Line>
+		<Allusion id="작성하지않음" target="蛾眉" type="A" source="詩經" chapter="國風" originaltext="螓首蛾眉 巧笑倩兮 美目盼兮"/>
+    </text>
+  </Poem>
+<Poem id="P19451">
+    <Metadata>
+      <Title>題<d>樂歸亭</d> 在<d>永平</d><d>芝川</d>上</Title>
+      <Preface></Preface>
+      <Annotation></Annotation>
+      <Collection ns0:href="glossary.xml#지천집"/>
+      <Author ns0:href="glossary.xml#황정욱"/>
+      <Form>
+        <Basetype>근체시</Basetype>
+        <Detailtype>절구</Detailtype>
+        <Charactercount>칠언</Charactercount>
+    </Form>
+      <Themes>
+        <Theme category="structure" basis="title, term" evidence="title:樂歸亭, term:亭">건물</Theme>
+      </Themes>
+      <Context></Context>
+    </Metadata>
+    <text>
+      <Line id="P1945101" order="1"><term>淵魚</term>林鳥各<term>天<rhyme>機</rhyme></term></Line>
+		<Allusion id="작성하지않음" target="天機" type="E" source="莊子" chapter="大宗師" originaltext="其耆欲深者 其天機淺"/>
+      <Line id="P1945102" order="2">深處<term>相忘</term>茂處<rhyme>歸</rhyme></Line>
+		<Allusion id="작성하지않음" target="相忘" type="E" source="莊子" chapter="大宗師" originaltext="泉涸 魚相與處於陸 相呴以濕 相濡以沫 不如相忘於江湖"/>
+      <Line id="P1945103" order="3">可是<term>吾人</term>不如物</Line>
+      <Line id="P1945104" order="4">早來亭上拂塵<rhyme>衣</rhyme></Line>
+    </text>
+  </Poem>
+<Poem id="P19452">
+    <Metadata>
+      <Title>自<d>芝</d>上回 途中逢雨 蹔憩<term>人家</term>偶吟</Title>
+      <Preface></Preface>
+      <Annotation></Annotation>
+      <Collection ns0:href="glossary.xml#지천집"/>
+      <Author ns0:href="glossary.xml#황정욱"/>
+      <Form>
+        <Basetype>근체시</Basetype>
+        <Detailtype>절구</Detailtype>
+        <Charactercount>칠언</Charactercount>
+    </Form>
+      <Themes>
+        <Theme category="prosper" basis="term" evidence="term:內相 求田問舍">현달</Theme>
+        <Theme category="tranquility" basis="term" evidence="term:新莊 缷馬 忘歸路 求田問舍">한적</Theme>
+      </Themes>
+      <Context></Context>
+    </Metadata>
+    <text>
+      <Line id="P1945201" order="1"><term>內相</term>新莊傍郭<rhyme>開</rhyme></Line>
+      <Line id="P1945202" order="2"><term>名花</term><term>無數</term>暎階<rhyme>苔</rhyme></Line>
+      <Line id="P1945203" order="3">客來<d>缷馬</d>忘<term>歸路</term></Line>
+		<Allusion id="작성하지않음" target="缷馬" type="B" source="三國志" chapter="蜀書" originaltext="吾常身不離鞍 髀肉皆消 今不復騎 髀裏肉生 日月若馳 老將至矣 而功業不建 是以悲耳"/>
+      <Line id="P1945204" order="4">爲是<term>求田問舍</term><rhyme>回</rhyme></Line>
+		<Allusion id="작성하지않음" target="求田問舍" type="B" source="三國志" chapter="魏書" originaltext="君求田問舍 言無可采 是元龍所諱也"/>
+    </text>
+  </Poem>
+<Poem id="P19453">
+    <Metadata>
+      <Title>贈敬<term>上人</term></Title>
+      <Preface></Preface>
+      <Annotation></Annotation>
+      <Collection ns0:href="glossary.xml#지천집"/>
+      <Author ns0:href="glossary.xml#황정욱"/>
+      <Form>
+        <Basetype>근체시</Basetype>
+        <Detailtype>절구</Detailtype>
+        <Charactercount>칠언</Charactercount>
+    </Form>
+      <Themes>
+        <Theme category="donate" basis="title" evidence="title:贈">기증</Theme>
+        <Theme category="buddhism" basis="title, term" evidence="title:上人, term:第一義 見性 觀心">불교</Theme>
+      </Themes>
+      <Context></Context>
+    </Metadata>
+    <text>
+      <Line id="P1945301" order="1">爲問渠家<term>第一義</term></Line>
+		<Allusion id="작성하지않음" target="第一義" type="F" source="大乘入楞伽經" chapter="集一切佛法品" originaltext="第一義者是聖樂處 因言而入 非卽是言 第一義者是聖智內自證境 非言語分別智境 言語分別不能顯示"/>
+      <Line id="P1945302" order="2">要知<term>見性</term>與<term>觀<rhyme>心</rhyme></term></Line>
+		<Allusion id="작성하지않음" target="見性" type="F" source="壇經" chapter="般若品" originaltext="若開悟頓教 不能外修 但於自心常起正見 煩惱塵勞常不能染 卽是見性"/>
+		<Allusion id="작성하지않음" target="觀心" type="F" source="十不二門指要鈔" chapter="" originaltext="蓋一切教行 皆以觀心爲要"/>
+      <Line id="P1945303" order="3">如何<term>直內</term>兼<term>方外</term></Line>
+		<Allusion id="작성하지않음" target="直內" type="A" source="周易" chapter="坤卦" originaltext="君子敬以直內 義以方外"/>
+		<Allusion id="작성하지않음" target="方外" type="A" source="周易" chapter="坤卦" originaltext="君子敬以直內 義以方外"/>
+      <Line id="P1945304" order="4">還向吾儒分上<rhyme>尋</rhyme></Line>
+    </text>
+  </Poem>
+<Poem id="P19454">
+    <Metadata>
+      <Title>偶占<term>錄示</term><d>梁廣文</d></Title>
+      <Preface></Preface>
+      <Annotation></Annotation>
+      <Collection ns0:href="glossary.xml#지천집"/>
+      <Author ns0:href="glossary.xml#황정욱"/>
+      <Form>
+        <Basetype>근체시</Basetype>
+        <Detailtype>절구</Detailtype>
+        <Charactercount>칠언</Charactercount>
+    </Form>
+      <Themes>
+        <Theme category="donate" basis="title" evidence="title:錄示">기증</Theme>
+        <Theme category="person" basis="title, term" evidence="title:梁廣文, term:臣 渠">인물</Theme>
+      </Themes>
+      <Context></Context>
+    </Metadata>
+    <text>
+      <Line id="P1945401" order="1"><term>向來</term><term>憂辱</term>摠何<rhyme>如</rhyme></Line>
+		<Allusion id="작성하지않음" target="憂辱" type="A" source="孟子" chapter="離婁上" originaltext="苟不志於仁 終身憂辱 以陷於死亡"/>
+      <Line id="P1945402" order="2">臣罪當誅此<term>謫<rhyme>居</rhyme></term></Line>
+      <Line id="P1945403" order="3">天欲<term>興邦</term>應<term>悔禍</term></Line>
+		<Allusion id="작성하지않음" target="悔禍" type="A" source="春秋左氏傳" chapter="隱公" originaltext="若寡人得沒于地 天其以禮悔禍于許 無寧玆許公復奉其社稷"/>
+      <Line id="P1945404" order="4"><term>聖明</term><term>今日</term>倘憐<rhyme>渠</rhyme></Line>
+    </text>
+  </Poem>
+<Poem id="P19455">
+    <Metadata>
+      <Title><d>明廟</d><term>忌辰</term><term>追憶</term><term>往事</term><term>嗚咽</term>以書</Title>
+      <Preface></Preface>
+      <Annotation></Annotation>
+      <Collection ns0:href="glossary.xml#지천집"/>
+      <Author ns0:href="glossary.xml#황정욱"/>
+      <Form>
+        <Basetype>근체시</Basetype>
+        <Detailtype>절구</Detailtype>
+        <Charactercount>칠언</Charactercount>
+    </Form>
+      <Themes>
+        <Theme category="person" basis="title, term" evidence="title:明廟, term:聖躬">인물</Theme>
+        <Theme category="reminiscence" basis="title, term" evidence="title:忌辰 追憶 往事, term:追想">회고</Theme>
+        <Theme category="sympathy" basis="title, term" evidence="title:忌辰 嗚咽, term:淚滿衣">애상</Theme>
+      </Themes>
+      <Context></Context>
+    </Metadata>
+    <text>
+      <Line id="P1945501" order="1"><term>玉瓚</term><term>持盈</term><term>十室</term><rhyme>隨</rhyme></Line>
+		<Allusion id="작성하지않음" target="玉瓚" type="A" source="詩經" chapter="大雅" originaltext="瑟彼玉瓚 黃流在中 豈弟君子 福祿攸降"/>
+      <Line id="P1945502" order="2"><term>聖躬</term><term>終始</term>禮<term>無<rhyme>違</rhyme></term></Line>
+		<Allusion id="작성하지않음" target="無違" type="A" source="論語" chapter="爲政" originaltext="孟懿子問孝 子曰 無違"/>
+      <Line id="P1945503" order="3"><term>不堪</term><term>縞素</term>承<term>繁縟</term></Line>
+		<Allusion id="작성하지않음" target="縞素" type="B" source="史記" chapter="高祖本紀" originaltext="今項羽放殺義帝於江南 大逆無道 寡人親爲發喪 諸侯皆縞素"/>
+		<Allusion id="작성하지않음" target="繁縟" type="A" source="周易傳義" chapter="觀" originaltext="禮數繁縟 則人心散 而精一不若始盥之時矣"/>
+      <Line id="P1945504" order="4"><term>追想</term><term>如今</term><d>淚滿</d><rhyme>衣</rhyme></Line>
+		<Allusion id="작성하지않음" target="淚滿" type="D" source="杜少陵詩集" chapter="蜀相" originaltext="出師未捷身先死 長使英雄淚滿襟"/>
+    </text>
+  </Poem>
+<Poem id="P19456">
+    <Metadata>
+      <Title>哭<d>金德源</d><d>白富寧</d><d>李先達</d><term>戰死</term>二首</Title>
+      <Preface></Preface>
+      <Annotation></Annotation>
+      <Collection ns0:href="glossary.xml#지천집"/>
+      <Author ns0:href="glossary.xml#황정욱"/>
+      <Form>
+        <Basetype>근체시</Basetype>
+        <Detailtype>절구</Detailtype>
+        <Charactercount>칠언</Charactercount>
+    </Form>
+      <Themes>
+        <Theme category="sympathy" basis="title" evidence="title:哭">애상</Theme>
+        <Theme category="frontier" basis="term" evidence="term:孤軍 戰骨">변새</Theme>
+      </Themes>
+      <Context></Context>
+    </Metadata>
+    <text>
+      <Line id="P1945601" order="1"><d>長白山</d>前草色<rhyme>腓</rhyme></Line>
+      <Line id="P1945602" order="2">先登<term>勇氣</term>捷如<rhyme>飛</rhyme></Line>
+      <Line id="P1945603" order="3"><d>身膏</d><term>鋒刃</term><term>孤軍</term>敗</Line>
+		<Allusion id="작성하지않음" target="身膏" type="B" source="漢書" chapter="谷永傳" originaltext="仍遷至北地太守 絶命隕首 身膏草野 不足以報塞萬分"/>
+      <Line id="P1945604" order="4"><term>戰骨</term>空駄<term>駿馬</term><rhyme>歸</rhyme></Line>
+    </text>
+  </Poem>
+<Poem id="P19457">
+    <Metadata>
+      <Title>哭<d>金德源</d><d>白富寧</d><d>李先達</d><term>戰死</term>二首其二</Title>
+      <Preface></Preface>
+      <Annotation></Annotation>
+      <Collection ns0:href="glossary.xml#지천집"/>
+      <Author ns0:href="glossary.xml#황정욱"/>
+      <Form>
+        <Basetype>근체시</Basetype>
+        <Detailtype>절구</Detailtype>
+        <Charactercount>칠언</Charactercount>
+    </Form>
+      <Themes>
+        <Theme category="sympathy" basis="title" evidence="title:哭">애상</Theme>
+        <Theme category="frontier" basis="term" evidence="term:伊吾 猛士 孤城">변새</Theme>
+      </Themes>
+      <Context></Context>
+    </Metadata>
+    <text>
+      <Line id="P1945701" order="1"><term>關弓</term>倚劍拂<term>征<rhyme>衣</rhyme></term></Line>
+      <Line id="P1945702" order="2"><term>唾掌</term><term>伊吾</term>視賊<rhyme>微</rhyme></Line>
+		<Allusion id="작성하지않음" target="唾掌" type="B" source="九州春秋" chapter="公孫瓚" originaltext="始天下兵起 我謂唾掌而決"/>
+      <Line id="P1945703" order="3">一跌<d>奄捐</d>三<term>猛士</term></Line>
+		<Allusion id="작성하지않음" target="奄捐" type="B" source="陳書" chapter="世祖紀" originaltext="昊天不弔 上玄降禍 大行皇帝奄捐萬國 率土哀號 普天如喪"/>
+      <Line id="P1945704" order="4"><term>孤城</term>誰救又誰<rhyme>依</rhyme></Line>
+    </text>
+  </Poem>
+<Poem id="P19458">
+    <Metadata>
+      <Title>贈<d>金世英</d></Title>
+      <Preface></Preface>
+      <Annotation></Annotation>
+      <Collection ns0:href="glossary.xml#지천집"/>
+      <Author ns0:href="glossary.xml#황정욱"/>
+      <Form>
+        <Basetype>근체시</Basetype>
+        <Detailtype>절구</Detailtype>
+        <Charactercount>칠언</Charactercount>
+    </Form>
+      <Themes>
+        <Theme category="donate" basis="title" evidence="title:贈">기증</Theme>
+        <Theme category="sympathy" basis="term" evidence="term:惜 逝年 拘幽操 殘生 九泉">애상</Theme>
+        <Theme category="person" basis="title, term" evidence="title:金世英, term:爾">인물</Theme>
+      </Themes>
+      <Context></Context>
+    </Metadata>
+    <text>
+      <Line id="P1945801" order="1">自<term lemma="拘幽操">操拘幽</term>惜<term>逝<rhyme>年</rhyme></term></Line>
+		<Allusion id="작성하지않음" target="拘幽操" type="D" source="琴操" chapter="拘幽操" originaltext="拘幽操 文王拘於羑里而作也"/>
+      <Line id="P1945802" order="2"><term>春風</term>又送爾歸<rhyme>先</rhyme></Line>
+      <Line id="P1945803" order="3"><term>殘生</term>欲盡難<d>需待</d></Line>
+      <Line id="P1945804" order="4">此後<term>相逢</term>指<term>九<rhyme>泉</rhyme></term></Line>
+		<Allusion id="작성하지않음" target="九泉" type="D" source="昭明文選" chapter="七哀" originaltext="冥冥九泉室 漫漫長夜臺"/>
+    </text>
+  </Poem>
+<Poem id="P19459">
+    <Metadata>
+      <Title>贈<d>七寶山人</d></Title>
+      <Preface></Preface>
+      <Annotation></Annotation>
+      <Collection ns0:href="glossary.xml#지천집"/>
+      <Author ns0:href="glossary.xml#황정욱"/>
+      <Form>
+        <Basetype>근체시</Basetype>
+        <Detailtype>절구</Detailtype>
+        <Charactercount>칠언</Charactercount>
+    </Form>
+      <Themes>
+        <Theme category="donate" basis="title" evidence="title:贈">기증</Theme>
+        <Theme category="buddhism" basis="title, term" evidence="title:七寶山人, term:僧 蘭若">불교</Theme>
+      </Themes>
+      <Context></Context>
+    </Metadata>
+    <text>
+      <Line id="P1945901" order="1"><term>逐臣</term>多<term>病臥</term><term>三<rhyme>冬</rhyme></term></Line>
+		<Allusion id="작성하지않음" target="逐臣" type="B" source="戰國策" chapter="秦策五" originaltext="太公望 齊之逐夫 朝歌之廢屠 子良之逐臣 棘津之讎不庸 文王用之而王"/>
+      <Line id="P1945902" order="2">忽有僧來自<d>五<rhyme>峯</rhyme></d></Line>
+      <Line id="P1945903" order="3"><term>聞說</term>山中<term>蘭若</term>好</Line>
+		<Allusion id="작성하지않음" target="蘭若" type="D" source="杜少陵詩集" chapter="謁眞諦寺禪師" originaltext="蘭若山高處 煙霞嶂幾重"/>
+      <Line id="P1945904" order="4"><term>春風</term>擬放<term>竹枝</term><rhyme>笻</rhyme></Line>
+    </text>
+  </Poem>
+<Poem id="P19460">
+    <Metadata>
+      <Title><d>吉州</d>八詠</Title>
+      <Preface></Preface>
+      <Annotation></Annotation>
+      <Collection ns0:href="glossary.xml#지천집"/>
+      <Author ns0:href="glossary.xml#황정욱"/>
+      <Form>
+        <Basetype>근체시</Basetype>
+        <Detailtype>절구</Detailtype>
+        <Charactercount>칠언</Charactercount>
+    </Form>
+      <Themes>
+        <Theme category="frontier" basis="term" evidence="term:胡騎 城樓 凉州 出塞曲 心折">변새</Theme>
+        <Theme category="sympathy" basis="term" evidence="term:出塞曲 心折">애상</Theme>
+      </Themes>
+      <Context></Context>
+    </Metadata>
+    <text>
+      <Line id="P1946001" order="1">忽聞<term>胡騎</term>過山<rhyme>來</rhyme></Line>
+      <Line id="P1946002" order="2">夜夜<term>城樓</term>戌角<rhyme>哀</rhyme></Line>
+      <Line id="P1946003" order="3">吹送<term>凉州</term><term>出塞曲</term></Line>
+		<Allusion id="작성하지않음" target="凉州" type="D" source="唐詩三百首" chapter="涼州詞" originaltext="葡萄美酒夜光杯 欲飮琵琶馬上催 醉臥沙場君莫笑 古來征戰幾人回"/>
+		<Allusion id="작성하지않음" target="出塞曲" type="D" source="唐詩三百首" chapter="出塞" originaltext="秦時明月漢時關 萬里長征人未還 但使龍城飛將在 不敎胡馬渡陰山"/>
+      <Line id="P1946004" order="4">令人<term>心折</term>淚交<rhyme>腮</rhyme></Line>
+		<Allusion id="작성하지않음" target="心折" type="D" source="杜少陵詩集" chapter="秦州雜詩" originaltext="西征問烽火 心折此淹留"/>
+    </text>
+  </Poem>
+<Poem id="P19461">
+    <Metadata>
+	  <Title latent="吉州八詠"><d>鎭南</d>曉鍾</title>
+      <Preface></Preface>
+      <Annotation></Annotation>
+      <Collection ns0:href="glossary.xml#지천집"/>
+      <Author ns0:href="glossary.xml#황정욱"/>
+      <Form>
+        <Basetype>근체시</Basetype>
+        <Detailtype>절구</Detailtype>
+        <Charactercount>칠언</Charactercount>
+    </Form>
+      <Themes>
+        <Theme category="buddhism" basis="term" evidence="term:定僧 齋罷">불교</Theme>
+        <Theme category="tranquility" basis="term" evidence="term:淸曉">한적</Theme>
+      </Themes>
+      <Context></Context>
+    </Metadata>
+    <text>
+      <Line id="P1946101" order="1"><term>淸曉</term>疏鍾遠遠<rhyme>稀</rhyme></Line>
+      <Line id="P1946102" order="2"><term>定僧</term>齋罷語猶<rhyme>微</rhyme></Line>
+      <Line id="P1946103" order="3">應知<term>久客</term><term>還家</term>念</Line>
+      <Line id="P1946104" order="4">時送殘聲<term>發省</term><rhyme>機</rhyme></Line>
+    </text>
+  </Poem>
+<Poem id="P19462">
+    <Metadata>
+      <Title latent="吉州八詠"><d>白塔</d><term>炊煙</term></title>
+      <Preface></Preface>
+      <Annotation></Annotation>
+      <Collection ns0:href="glossary.xml#지천집"/>
+      <Author ns0:href="glossary.xml#황정욱"/>
+      <Form>
+        <Basetype>근체시</Basetype>
+        <Detailtype>절구</Detailtype>
+        <Charactercount>칠언</Charactercount>
+    </Form>
+      <Themes>
+        <Theme category="tranquility" basis="term" evidence="term:煙火 太平">한적</Theme>
+        <Theme category="reminiscence" basis="term" evidence="term:世亂 前度">회고</Theme>
+      </Themes>
+      <Context></Context>
+    </Metadata>
+    <text>
+      <Line id="P1946201" order="1"><term>隱約</term>城南<d>白塔<rhyme>村</rhyme></d></Line>
+      <Line id="P1946202" order="2"><term>依然</term><term>煙火</term><term>太平</term><rhyme>痕</rhyme></Line>
+      <Line id="P1946203" order="3">自從世亂身三到</Line>
+      <Line id="P1946204" order="4"><term>前度</term><term>居民</term>半<term>不<rhyme>存</rhyme></term></Line>
+    </text>
+  </Poem>
+<Poem id="P19463">
+    <Metadata>
+      <Title latent="吉州八詠"><term>山城</term><term>返照</term></title>
+      <Preface></Preface>
+      <Annotation></Annotation>
+      <Collection ns0:href="glossary.xml#지천집"/>
+      <Author ns0:href="glossary.xml#황정욱"/>
+      <Form>
+        <Basetype>근체시</Basetype>
+        <Detailtype>절구</Detailtype>
+        <Charactercount>칠언</Charactercount>
+    </Form>
+      <Themes>
+        <Theme category="reminiscence" basis="term" evidence="term:浩劫 只今">회고</Theme>
+        <Theme category="frontier" basis="term" evidence="term:層城 絶險 襟要">변새</Theme>
+      </Themes>
+      <Context></Context>
+    </Metadata>
+    <text>
+      <Line id="P1946301" order="1"><term>浩劫</term><term>經營</term>倚<term>碧<rhyme>霄</rhyme></term></Line>
+      <Line id="P1946302" order="2"><term>層城</term><term>絶險</term>搤<term>襟<rhyme>要</rhyme></term><Allusion id="" target="襟要" type="B" source="晉書" chapter="石勒載記下" originaltext="勒大怒 命張敬據其襟要以守之"/></Line>
+      <Line id="P1946303" order="3"><term>只今</term>留作<term>斜陽</term>面</Line>
+      <Line id="P1946304" order="4"><term>一抹</term>紅光映<term>寂<rhyme>寥</rhyme></term></Line>
+    </text>
+  </Poem>
+<Poem id="P19464">
+    <Metadata>
+      <Title latent="吉州八詠"><term>溫泉</term>浴肌</title>
+      <Preface></Preface>
+      <Annotation></Annotation>
+      <Collection ns0:href="glossary.xml#지천집"/>
+      <Author ns0:href="glossary.xml#황정욱"/>
+      <Form>
+        <Basetype>근체시</Basetype>
+        <Detailtype>절구</Detailtype>
+        <Charactercount>칠언</Charactercount>
+    </Form>
+      <Themes>
+        <Theme category="taoism" basis="term" evidence="term:神丹">도교</Theme>
+      </Themes>
+      <Context></Context>
+    </Metadata>
+    <text>
+      <Line id="P1946401" order="1">一浴<term>溫泉</term><term>病骨</term><rhyme>輕</rhyme></Line>
+      <Line id="P1946402" order="2">從知<term>地媼</term>釀奇<rhyme>靈</rhyme><Allusion id="" target="地媼" type="B" source="漢書" chapter="禮樂志" originaltext="惟泰元尊 媼神蕃釐"/></Line>
+      <Line id="P1946403" order="3">向來<term>勃窣</term>君休笑<Allusion id="" target="勃窣" type="D" source="朱子大全" chapter="晦翁足疾得程道人鍼之而愈戲贈此詩" originaltext="十載扶行恃短筇 一鍼相値有奇功 出門放步人爭看 不是前來勃窣翁"/></Line>
+      <Line id="P1946404" order="4"><term>心裏</term><term>神丹</term>亦已<rhyme>成</rhyme><Allusion id="" target="神丹" type="E" source="抱朴子" chapter="金丹" originaltext="余問諸道士以神丹金液之事 及三皇內文召天神地祇之法 了無一人知之者"/></Line>
+    </text>
+  </Poem>
+<Poem id="P19465">
+    <Metadata>
+      <Title latent="吉州八詠"><d>門巖</d><term>釣魚</term></title>
+      <Preface></Preface>
+      <Annotation></Annotation>
+      <Collection ns0:href="glossary.xml#지천집"/>
+      <Author ns0:href="glossary.xml#황정욱"/>
+      <Form>
+        <Basetype>근체시</Basetype>
+        <Detailtype>절구</Detailtype>
+        <Charactercount>칠언</Charactercount>
+    </Form>
+      <Themes>
+        <Theme category="water" basis="title, term" evidence="title:釣魚, term:衆魚 沿 漁人 擧釣 碧海 長鯨">강해</Theme>
+      </Themes>
+      <Context></Context>
+    </Metadata>
+    <text>
+      <Line id="P1946501" order="1"><term>萬古</term><term>通天</term>一竅<rhyme>開</rhyme></Line>
+      <Line id="P1946502" order="2">衆魚<term>無數</term>此沿<rhyme>洄</rhyme></Line>
+      <Line id="P1946503" order="3"><term>漁人</term>擧釣爭相叫</Line>
+      <Line id="P1946504" order="4"><term>碧海</term><term>長鯨</term>得掣<rhyme>來</rhyme></Line>
+    </text>
+  </Poem>
+<Poem id="P19466">
+    <Metadata>
+      <Title latent="吉州八詠"><d>嶺東</d>送客</title>
+      <Preface></Preface>
+      <Annotation></Annotation>
+      <Collection ns0:href="glossary.xml#지천집"/>
+      <Author ns0:href="glossary.xml#황정욱"/>
+      <Form>
+        <Basetype>근체시</Basetype>
+        <Detailtype>절구</Detailtype>
+        <Charactercount>칠언</Charactercount>
+    </Form>
+      <Themes>
+        <Theme category="sympathy" basis="term" evidence="term:可憐 嗚咽 怨別">애상</Theme>
+        <Theme category="farewell" basis="title, term" evidence="title:送客 term:孤館 送人 怨別">송별</Theme>
+      </Themes>
+      <Context></Context>
+    </Metadata>
+    <text>
+      <Line id="P1946601" order="1"><term>百里</term><term>長亭</term>復<term>短<rhyme>亭</rhyme></term><Allusion id="" target="長亭" type="D" source="庾子山集" chapter="哀江南賦" originaltext="十里五里 長亭短亭"/><Allusion id="" target="短亭" type="D" source="庾子山集" chapter="哀江南賦" originaltext="十里五里 長亭短亭"/></Line>
+      <Line id="P1946602" order="2">却來<term>孤館</term><term>送人</term><rhyme>行</rhyme><Allusion id="" target="孤館" type="D" source="唐詩品彙" chapter="瓜州留別李詡" originaltext="孤館宿時風帶雨 遠帆歸處水連雲"/></Line>
+      <Line id="P1946603" order="3"><term>可憐</term><term>嗚咽</term>前<term>溪水</term></Line>
+      <Line id="P1946604" order="4"><term>日夜</term>長含怨別<rhyme>聲</rhyme></Line>
+    </text>
+  </Poem>
+<Poem id="P19467">
+    <Metadata>
+      <Title latent="吉州八詠"><d>磨天</d>觀海</title>
+      <Preface></Preface>
+      <Annotation></Annotation>
+      <Collection ns0:href="glossary.xml#지천집"/>
+      <Author ns0:href="glossary.xml#황정욱"/>
+      <Form>
+        <Basetype>근체시</Basetype>
+        <Detailtype>절구</Detailtype>
+        <Charactercount>칠언</Charactercount>
+    </Form>
+      <Themes>
+        <Theme category="mountain" basis="title, term" evidence="title:磨天, term:長白 嶽 山頂">산악</Theme>
+      </Themes>
+      <Context></Context>
+    </Metadata>
+    <text>
+      <Line id="P1946701" order="1"><d>長白</d>南傾嶽翠<rhyme>連</rhyme></Line>
+      <Line id="P1946702" order="2">嶺東<term>山頂</term>出<term>雲<rhyme>煙</rhyme></term><Allusion id="" target="雲煙" type="D" source="李太白集" chapter="送楊山人歸天台" originaltext="石橋如可度 携手弄雲煙"/></Line>
+      <Line id="P1946703" order="3">忽看<term>滄海</term><term>無窮</term>際</Line>
+      <Line id="P1946704" order="4"><term>積氣</term><term>剛風</term>遠擧<rhyme>天</rhyme><Allusion id="" target="積氣" type="E" source="列子" chapter="天瑞" originaltext="天積氣耳 亡處亡氣"/></Line>
+    </text>
+  </Poem>
+<Poem id="P19468">
+    <Metadata>
+      <Title>送<d>主牧</d><term>領兵</term><term>南征</term></Title>
+      <Preface></Preface>
+      <Annotation></Annotation>
+      <Collection ns0:href="glossary.xml#지천집"/>
+      <Author ns0:href="glossary.xml#황정욱"/>
+      <Form>
+        <Basetype>근체시</Basetype>
+        <Detailtype>절구</Detailtype>
+        <Charactercount>칠언</Charactercount>
+    </Form>
+      <Themes>
+        <Theme category="farewell" basis="title, term" evidence="title:送, term:去">송별</Theme>
+        <Theme category="frontier" basis="title, term" evidence="title:主牧 領兵 南征, term:鐵騎 十萬軍 殊勳 千兵 一掃 海氛">변새</Theme>
+      </Themes>
+      <Context></Context>
+    </Metadata>
+    <text>
+      <Line id="P1946801" order="1"><term>鐵騎</term><term>橫馳</term><term>十萬</term><rhyme>軍</rhyme><Allusion id="" target="鐵騎" type="B" source="後漢書" chapter="公孫瓚傳" originaltext="且厲五千鐵騎於北隰之中 起火爲應"/></Line>
+      <Line id="P1946802" order="2"><term>少年</term><term>才子</term>立<term>殊<rhyme>勳</rhyme></term><Allusion id="" target="殊勳" type="B" source="三國志" chapter="魏志" originaltext="董昭等謂太祖宜進爵國公 九錫備物 以彰殊勳"/></Line>
+      <Line id="P1946803" order="3"><term>如今</term>又領<term>千兵</term>去</Line>
+      <Line id="P1946804" order="4"><term>一掃</term>應淸漲<term>海<rhyme>氛</rhyme></term><Allusion id="" target="海氛" type="D" source="荆川先生文集" chapter="與胡梅林總督" originaltext="海氛清淨 東南賴以無虞"/></Line>
+    </text>
+  </Poem>
+<Poem id="P19469">
+    <Metadata>
+      <Title>題贈<d>黃亞使</d><d>敏中</d>幷序</Title>
+      <Preface>從事黃先生 集諸公所詠爲二卷 來示余 余今蒙恩 將放歸 竊自注想於關東雲水縹緲之間 而其所選勝之地 又爲他人所占却 蓋天以余平生無稅駕之所 纍纍然如東西南北之人也 一有所嚮 輒又乖張如此 眞可笑也 仍率占一絶錄上 以博一哂</Preface>
+      <Annotation></Annotation>
+      <Collection ns0:href="glossary.xml#지천집"/>
+      <Author ns0:href="glossary.xml#황정욱"/>
+      <Form>
+        <Basetype>근체시</Basetype>
+        <Detailtype>절구</Detailtype>
+        <Charactercount>칠언</Charactercount>
+    </Form>
+      <Themes>
+        <Theme category="donate" basis="title" evidence="title:贈">기증</Theme>
+        <Theme category="tranquility" basis="term" evidence="term:江山 白鷗 遷居">한적</Theme>
+        <Theme category="prosper" basis="term" evidence="term:富貴 西歸">현달</Theme>
+      </Themes>
+      <Context></Context>
+    </Metadata>
+    <text>
+      <Line id="P1946901" order="1"><term>胸中</term><term>了了</term><term>遷居</term>地</Line>
+      <Line id="P1946902" order="2">輸與<term>江山</term><term>富貴</term><rhyme>人</rhyme></Line>
+      <Line id="P1946903" order="3"><term>從此</term><term>西歸</term>無復戀<Allusion id="" target="西歸" type="A" source="詩經" chapter="檜風" originaltext="誰將西歸 懷之好音"/></Line>
+      <Line id="P1946904" order="4"><term>白鷗</term><term>何處</term>不<term>相<rhyme>親</rhyme></term><Allusion id="" target="白鷗" type="D" source="杜少陵詩集" chapter="奉贈韋左丞丈" originaltext="白鷗沒浩蕩 萬里誰能馴"/></Line>
+    </text>
+  </Poem>
+<Poem id="P19470">
+    <Metadata>
+      <Title>謝<d>七寶山人</d>惠<term>諸葛菜</term><term>五味子</term>二首</Title>
+      <Preface></Preface>
+      <Annotation></Annotation>
+      <Collection ns0:href="glossary.xml#지천집"/>
+      <Author ns0:href="glossary.xml#황정욱"/>
+      <Form>
+        <Basetype>근체시</Basetype>
+        <Detailtype>절구</Detailtype>
+        <Charactercount>칠언</Charactercount>
+    </Form>
+      <Themes>
+        <Theme category="person" basis="title, term" evidence="title:七寶山人, term:碧眼僧">인물</Theme>
+        <Theme category="buddhism" basis="title, term" evidence="title:七寶山人, term:僧">불교</Theme>
+      </Themes>
+      <Context></Context>
+    </Metadata>
+    <text>
+      <Line id="P1947001" order="1"><term>赤憎</term><term>褦襶</term>觸<term>炎<rhyme>蒸</rhyme></term><Allusion id="" target="褦襶" type="D" source="古文苑" chapter="嘲熱客" originaltext="只今褦襶子 觸熱到人家"/></Line>
+      <Line id="P1947002" order="2">却喜今逢<term>碧眼</term><rhyme>僧</rhyme></Line>
+      <Line id="P1947003" order="3"><term>老去</term><term>交遊</term>眞汵淡</Line>
+      <Line id="P1947004" order="4"><term>山茶</term><term>野菜</term>興<term>難<rhyme>勝</rhyme></term></Line>
+    </text>
+  </Poem>
+<Poem id="P19471">
+    <Metadata>
+      <Title>謝<d>七寶山人</d>惠<term>諸葛菜</term><term>五味子</term>二首其二</Title>
+      <Preface></Preface>
+      <Annotation></Annotation>
+      <Collection ns0:href="glossary.xml#지천집"/>
+      <Author ns0:href="glossary.xml#황정욱"/>
+      <Form>
+        <Basetype>근체시</Basetype>
+        <Detailtype>절구</Detailtype>
+        <Charactercount>칠언</Charactercount>
+    </Form>
+      <Themes>
+        <Theme category="person" basis="title, term" evidence="title:七寶山人, term:渠">인물</Theme>
+        <Theme category="buddhism" basis="title" evidence="title:七寶山人">불교</Theme>
+      </Themes>
+      <Context></Context>
+    </Metadata>
+    <text>
+      <Line id="P1947101" order="1">縳寂<term>仙山</term><term>一味</term><rhyme>淸</rhyme></Line>
+      <Line id="P1947102" order="2">遠尋羇客作<term>人<rhyme>情</rhyme></term></Line>
+      <Line id="P1947103" order="3">恨無<term>羽翼</term>從渠去<Allusion id="" target="羽翼" type="D" source="杜少陵詩集" chapter="玉臺觀" originaltext="更肯紅顔生羽翼 便應黃髮老漁樵"/></Line>
+      <Line id="P1947104" order="4"><term>萬壑千巖</term><term>散策</term><rhyme>輕</rhyme><Allusion id="" target="萬壑千巖" type="D" source="李白集" chapter="送王屋山人魏萬還王屋" originaltext="遙聞會稽美 且度耶溪水 萬壑與千巖 崢嶸鏡湖裏"/></Line>
+    </text>
+  </Poem>
+<Poem id="P19472">
+    <Metadata>
+      <Title>寄<d>李大恕</d></Title>
+      <Preface></Preface>
+      <Annotation></Annotation>
+      <Collection ns0:href="glossary.xml#지천집"/>
+      <Author ns0:href="glossary.xml#황정욱"/>
+      <Form>
+        <Basetype>근체시</Basetype>
+        <Detailtype>절구</Detailtype>
+        <Charactercount>칠언</Charactercount>
+    </Form>
+      <Themes>
+        <Theme category="donate" basis="title" evidence="title:寄">기증</Theme>
+        <Theme category="person" basis="title, term" evidence="title:李大恕, term:李生">인물</Theme>
+      </Themes>
+      <Context></Context>
+    </Metadata>
+    <text>
+      <Line id="P1947201" order="1"><term>邇來</term><term>不見</term><d>李生</d>久</Line>
+      <Line id="P1947202" order="2">籬底<term>黃花</term><term>寂寞</term><rhyme>開</rhyme><Allusion id="" target="黃花" type="D" source="陶淵明集" chapter="飮酒" originaltext="采菊東籬下 悠然見南山"/></Line>
+      <Line id="P1947203" order="3"><term>虛度</term><term>秋風</term>長<term>肺渴</term><Allusion id="" target="肺渴" type="D" source="白居易集" chapter="東院" originaltext="老去齒衰嫌橘醋 病來肺渴覺茶香"/></Line>
+      <Line id="P1947204" order="4">不知<term>何日</term>共<term>傾<rhyme>杯</rhyme></term><Allusion id="" target="傾杯" type="D" source="陶淵明集" chapter="乞食" originaltext="談諧終日夕 觴至輒傾杯"/></Line>
+    </text>
+  </Poem>
+<Poem id="P19473">
+    <Metadata>
+      <Title>寄<term>方伯</term><d>宋言愼</d></Title>
+      <Preface></Preface>
+      <Annotation></Annotation>
+      <Collection ns0:href="glossary.xml#지천집"/>
+      <Author ns0:href="glossary.xml#황정욱"/>
+      <Form>
+        <Basetype>근체시</Basetype>
+        <Detailtype>절구</Detailtype>
+        <Charactercount>칠언</Charactercount>
+    </Form>
+      <Themes>
+        <Theme category="donate" basis="title" evidence="title:寄">기증</Theme>
+        <Theme category="farewell" basis="term" evidence="term:飮餞 催歸">송별</Theme>
+        <Theme category="sympathy" basis="term" evidence="term:餘恨 忡忡">애상</Theme>
+      </Themes>
+      <Context></Context>
+    </Metadata>
+    <text>
+      <Line id="P1947301" order="1"><term>飮餞</term><term>江頭</term><term>月色</term><rhyme>高</rhyme></Line>
+      <Line id="P1947302" order="2"><term>催歸</term><term>策馬</term>渡<term>長<rhyme>橋</rhyme></term><Allusion id="" target="催歸" type="D" source="後山集" chapter="歸雁" originaltext="巧作斜行字 催歸去國人"/></Line>
+      <Line id="P1947303" order="3"><term>不堪</term><term>餘恨</term><term>忡忡</term>在<Allusion id="" target="忡忡" type="A" source="詩經" chapter="草蟲" originaltext="喓喓草蟲 趯趯阜螽 未見君子 憂心忡忡"/></Line>
+      <Line id="P1947304" order="4">爲送<term>淸尊</term>共洗<rhyme>澆</rhyme></Line>
+    </text>
+  </Poem>
+<Poem id="P19474">
+    <Metadata>
+      <Title>贈<term>山人</term><d>靈修</d>二首</Title>
+      <Preface></Preface>
+      <Annotation></Annotation>
+      <Collection ns0:href="glossary.xml#지천집"/>
+      <Author ns0:href="glossary.xml#황정욱"/>
+      <Form>
+        <Basetype>근체시</Basetype>
+        <Detailtype>절구</Detailtype>
+        <Charactercount>칠언</Charactercount>
+    </Form>
+      <Themes>
+        <Theme category="donate" basis="title" evidence="title:贈">기증</Theme>
+        <Theme category="buddhism" basis="title, term" evidence="title:山人, term:山僧 禪笻">불교</Theme>
+      </Themes>
+      <Context></Context>
+    </Metadata>
+    <text>
+      <Line id="P1947401" order="1"><term>見說</term>尤多<term>石窟</term><rhyme>奇</rhyme></Line>
+      <Line id="P1947402" order="2"><term>山僧</term><term>結社</term>好相<rhyme>期</rhyme></Line>
+      <Line id="P1947403" order="3"><term>春風</term>趁此巖花發</Line>
+      <Line id="P1947404" order="4">携却<d>禪笻</d><term>到處</term><rhyme>隨</rhyme></Line>
+    </text>
+  </Poem>
+<Poem id="P19475">
+    <Metadata>
+      <Title>贈<term>山人</term><d>靈修</d>二首 其二</Title>
+      <Preface></Preface>
+      <Annotation></Annotation>
+      <Collection ns0:href="glossary.xml#지천집"/>
+      <Author ns0:href="glossary.xml#황정욱"/>
+      <Form>
+        <Basetype>근체시</Basetype>
+        <Detailtype>절구</Detailtype>
+        <Charactercount>칠언</Charactercount>
+    </Form>
+      <Themes>
+        <Theme category="donate" basis="title" evidence="title:贈">기증</Theme>
+        <Theme category="tranquility" basis="term" evidence="term:幽 騎牛 放遊">한적</Theme>
+      </Themes>
+      <Context></Context>
+    </Metadata>
+    <text>
+      <Line id="P1947501" order="1">晩愛<term>王官</term><term>一曲</term><rhyme>幽</rhyme></Line>
+      <Line id="P1947502" order="2"><term>卜隣</term>須爾趁<term>新<rhyme>秋</rhyme></term><Allusion id="" target="卜隣" type="B" source="左傳" chapter="昭公" originaltext="且諺曰 非宅是卜 唯隣是卜 二三子先卜隣矣"/></Line>
+      <Line id="P1947503" order="3"><term>山僧</term>莫訝<d>騎牛</d>去<Allusion id="" target="騎牛" type="B" source="宋書" chapter="" originaltext="我騎牛君莫笑 世間萬物從吾好"/></Line>
+      <Line id="P1947504" order="4">自是<term>殘生</term>好<term>放<rhyme>遊</rhyme></term></Line>
+    </text>
+  </Poem>
+<Poem id="P19476">
+    <Metadata>
+      <Title>謝<d>義嚴</d>惠<d>白花席</d></Title>
+      <Preface></Preface>
+      <Annotation></Annotation>
+      <Collection ns0:href="glossary.xml#지천집"/>
+      <Author ns0:href="glossary.xml#황정욱"/>
+      <Form>
+        <Basetype>근체시</Basetype>
+        <Detailtype>절구</Detailtype>
+        <Charactercount>칠언</Charactercount>
+    </Form>
+      <Themes>
+        <Theme category="prosper" basis="title" evidence="title:謝">사례</Theme>
+        <Theme category="tranquility" basis="term" evidence="term:臭味 香爐 茶鼎">한적</Theme>
+      </Themes>
+      <Context></Context>
+    </Metadata>
+    <text>
+      <Line id="P1947601" order="1"><term>織成</term>一段<d>白花席</d></Line>
+      <Line id="P1947602" order="2">來贈<term>衰翁</term><term>坐臥</term><rhyme>宜</rhyme></Line>
+      <Line id="P1947603" order="3">贏得床敷同<term>臭味</term></Line>
+      <Line id="P1947604" order="4"><term>香爐</term><term>茶鼎</term>也<term>相<rhyme>隨</rhyme></term><Allusion id="" target="茶鼎" type="D" source="御定全唐詩" chapter="春日山中大雪" originaltext="牢繫鹿兒防獵客 滿添茶鼎候吟僧"/></Line>
+    </text>
+  </Poem>
+<Poem id="P19477">
+    <Metadata>
+      <Title>賀<d>李生</d>得子</Title>
+      <Preface></Preface>
+      <Annotation></Annotation>
+      <Collection ns0:href="glossary.xml#지천집"/>
+      <Author ns0:href="glossary.xml#황정욱"/>
+      <Form>
+        <Basetype>근체시</Basetype>
+        <Detailtype>절구</Detailtype>
+        <Charactercount>칠언</Charactercount>
+    </Form>
+      <Themes>
+        <Theme category="person" basis="title" evidence="title:李生">인물</Theme>
+      </Themes>
+      <Context></Context>
+    </Metadata>
+    <text>
+      <Line id="P1947701" order="1">愛爾<term>淸標</term>逈絶<rhyme>羣</rhyme><Allusion id="" target="淸標" type="C" source="世說新語" chapter="容止" originaltext="杜弘治淸標令上爲後來之美"/></Line>
+      <Line id="P1947702" order="2"><term>風流</term>眞箇自<term>先<rhyme>君</rhyme></term></Line>
+      <Line id="P1947703" order="3"><term>怪來</term>四十猶無子</Line>
+      <Line id="P1947704" order="4"><d>停鵠</d>新看<term>翠竹</term><rhyme>門</rhyme><Allusion id="" target="停鵠" type="D" source="古文眞寶" chapter="殿中少監馬君墓銘" originaltext="退見少傅 翠竹碧梧 鸞鵠停峙 能守其業者也"/></Line>
+    </text>
+  </Poem>
+<Poem id="P19478">
+    <Metadata>
+      <Title><d>妙陰寺</d>贈僧</Title>
+      <Preface></Preface>
+      <Annotation></Annotation>
+      <Collection ns0:href="glossary.xml#지천집"/>
+      <Author ns0:href="glossary.xml#황정욱"/>
+      <Form>
+        <Basetype>근체시</Basetype>
+        <Detailtype>절구</Detailtype>
+        <Charactercount>칠언</Charactercount>
+    </Form>
+      <Themes>
+        <Theme category="donate" basis="title" evidence="title:贈">기증</Theme>
+        <Theme category="structure" basis="title, term" evidence="title:妙陰寺, term:禪宮">건물</Theme>
+      </Themes>
+      <Context></Context>
+    </Metadata>
+    <text>
+      <Line id="P1947801" order="1">一渡<term>雲橋</term>眼忽<rhyme>明</rhyme></Line>
+      <Line id="P1947802" order="2">巖花<term>倒影</term><term>玉流</term><rhyme>淸</rhyme></Line>
+      <Line id="P1947803" order="3">林間喜有<term>禪宮</term>在<Allusion id="" target="禪宮" type="D" source="王右丞集" chapter="夏日過靑龍寺謁操禪師" originaltext="龍鍾一老翁 徐步謁禪宮"/></Line>
+      <Line id="P1947804" order="4">飛上高樓<term>病脚</term><rhyme>輕</rhyme></Line>
+    </text>
+  </Poem>
+<Poem id="P19479">
+    <Metadata>
+      <Title>贈<term>山人</term><d>法聰</d>仍奉<d>楊山</d><term>太守</term>俾作<term>先容</term></Title>
+      <Preface></Preface>
+      <Annotation>二首</Annotation>
+      <Collection ns0:href="glossary.xml#지천집"/>
+      <Author ns0:href="glossary.xml#황정욱"/>
+      <Form>
+        <Basetype>근체시</Basetype>
+        <Detailtype>절구</Detailtype>
+        <Charactercount>칠언</Charactercount>
+    </Form>
+      <Themes>
+        <Theme category="donate" basis="title" evidence="title:贈">기증</Theme>
+        <Theme category="buddhism" basis="title, term" evidence="title:山人 法聰, term:袈裟 法聰 禪叢">불교</Theme>
+      </Themes>
+      <Context></Context>
+    </Metadata>
+    <text>
+      <Line id="P1947901" order="1"><term>聞說</term>燻筵辦映<rhyme>燈</rhyme></Line>
+      <Line id="P1947902" order="2"><term>袈裟</term><term>千里</term>走羣<rhyme>僧</rhyme></Line>
+      <Line id="P1947903" order="3"><d>法聰</d>奉帖持<term>香火</term></Line>
+      <Line id="P1947904" order="4">須置<d>禪叢</d>第一<rhyme>層</rhyme><Allusion id="" target="禪叢" type="F" source="長阿含經" chapter="" originaltext="何等出叢林苦"/></Line>
+    </text>
+  </Poem>
+<Poem id="P19480">
+    <Metadata>
+      <Title>贈<term>山人</term><d>法聰</d>仍奉<d>楊山</d><term>太守</term>俾作<term>先容</term></Title>
+      <Preface></Preface>
+      <Annotation>二首 其二</Annotation>
+      <Collection ns0:href="glossary.xml#지천집"/>
+      <Author ns0:href="glossary.xml#황정욱"/>
+      <Form>
+        <Basetype>근체시</Basetype>
+        <Detailtype>절구</Detailtype>
+        <Charactercount>칠언</Charactercount>
+    </Form>
+      <Themes>
+        <Theme category="donate" basis="title" evidence="title:贈">기증</Theme>
+        <Theme category="buddhism" basis="title, term" evidence="title:山人 法聰, term:匡山寺 闍棃">불교</Theme>
+      </Themes>
+      <Context></Context>
+    </Metadata>
+    <text>
+      <Line id="P1948001" order="1"><term>使君</term>舊讀<d>匡山寺</d></Line>
+      <Line id="P1948002" order="2">幾度<d>闍棃</d>飯後<rhyme>鍾</rhyme><Allusion id="" target="闍棃" type="F" source="大智度論" chapter="" originaltext="白衣來欲求出家 應求二師 一和尙 一阿闍黎"/></Line>
+      <Line id="P1948003" order="3"><term>行馬</term><term>深嚴</term>難自入</Line>
+      <Line id="P1948004" order="4">寫來<term>詩句</term>在懷<rhyme>中</rhyme></Line>
+    </text>
+  </Poem>
+<Poem id="P19481">
+    <Metadata>
+      <Title>贈<term>居停</term><term>主人</term>舊吏<d>金珍</d></Title>
+      <Preface></Preface>
+      <Annotation><d>珍</d>自少爲營吏 臨老 靑盲不視物</Annotation>
+      <Collection ns0:href="glossary.xml#지천집"/>
+      <Author ns0:href="glossary.xml#황정욱"/>
+      <Form>
+        <Basetype>근체시</Basetype>
+        <Detailtype>절구</Detailtype>
+        <Charactercount>칠언</Charactercount>
+    </Form>
+      <Themes>
+        <Theme category="donate" basis="title" evidence="title:贈">기증</Theme>
+        <Theme category="sympathy" basis="term" evidence="term:老去 悲 五色迷 迷路 白頭">애상</Theme>
+      </Themes>
+      <Context></Context>
+    </Metadata>
+    <text>
+      <Line id="P1948101" order="1"><term>少年</term><term>刀筆吏</term>稱佳<Allusion id="" target="刀筆吏" type="B" source="漢書" chapter="張湯傳" originaltext="湯無尺寸之功 起刀筆吏 陛下幸致位三公 無以塞責"/></Line>
+      <Line id="P1948102" order="2"><term>老去</term>還悲<term>五色</term><rhyme>迷</rhyme></Line>
+      <Line id="P1948103" order="3"><term>迷路</term><term>世間</term>吾亦爾</Line>
+      <Line id="P1948104" order="4"><term>白頭</term><term>筇杖</term>笑<term>相<rhyme>携</rhyme></term></Line>
+    </text>
+  </Poem>
+<Poem id="P19482">
+    <Metadata>
+      <Title>贈<d>李士祐</d><d>尙吉</d>謫<d>豐海</d></Title>
+      <Preface></Preface>
+      <Annotation></Annotation>
+      <Collection ns0:href="glossary.xml#지천집"/>
+      <Author ns0:href="glossary.xml#황정욱"/>
+      <Form>
+        <Basetype>근체시</Basetype>
+        <Detailtype>절구</Detailtype>
+        <Charactercount>칠언</Charactercount>
+    </Form>
+      <Themes>
+        <Theme category="donate" basis="title" evidence="title:贈">기증</Theme>
+        <Theme category="sympathy" basis="title, term" evidence="title:謫, term:孤臣 逐客 濛濛 淚落 餘禍">애상</Theme>
+      </Themes>
+      <Context></Context>
+    </Metadata>
+    <text>
+      <Line id="P1948201" order="1"><term>孤臣</term><term>逐客</term><term>相逢</term>地<Allusion id="" target="逐客" type="B" source="史記" chapter="李斯列傳" originaltext="諸侯人來事秦者 大抵爲其主游間於秦耳 請一切逐客"/></Line>
+      <Line id="P1948202" order="2">江霧<term>濛濛</term>雨不<rhyme>開</rhyme><Allusion id="" target="濛濛" type="D" source="陶淵明集" chapter="停雲" originaltext="靄靄停雲 濛濛時雨"/></Line>
+      <Line id="P1948203" order="3">說到<d>壬辰</d>俱淚落</Line>
+      <Line id="P1948204" order="4">兩家<d>餘禍</d>又相<rhyme>催</rhyme></Line>
+    </text>
+  </Poem>
+<Poem id="P19483">
+    <Metadata>
+      <Title>題<d>麥秋亭</d></Title>
+      <Preface></Preface>
+      <Annotation></Annotation>
+      <Collection ns0:href="glossary.xml#지천집"/>
+      <Author ns0:href="glossary.xml#황정욱"/>
+      <Form>
+        <Basetype>근체시</Basetype>
+        <Detailtype>절구</Detailtype>
+        <Charactercount>칠언</Charactercount>
+    </Form>
+      <Themes>
+        <Theme category="structure" basis="title" evidence="title:麥秋亭">건물</Theme>
+        <Theme category="season" basis="title, term" evidence="title:麥秋, term:麥禾">계절</Theme>
+      </Themes>
+      <Context></Context>
+    </Metadata>
+    <text>
+      <Line id="P1948301" order="1"><term>老夫</term>此日仍<term>閑暇</term></Line>
+      <Line id="P1948302" order="2">唯課<term>田丁</term>護<d>麥<rhyme>禾</rhyme></d></Line>
+      <Line id="P1948303" order="3">急設明春<term>嗣歲</term>計</Line>
+      <Line id="P1948304" order="4">莫愁<term>風起</term>浪生<rhyme>多</rhyme></Line>
+    </text>
+  </Poem>
+<Poem id="P19484">
+    <Metadata>
+      <Title><term>寄謝</term><term>野老</term>饋<term>杏子</term></Title>
+      <Preface></Preface>
+      <Annotation></Annotation>
+      <Collection ns0:href="glossary.xml#지천집"/>
+      <Author ns0:href="glossary.xml#황정욱"/>
+      <Form>
+        <Basetype>근체시</Basetype>
+        <Detailtype>절구</Detailtype>
+        <Charactercount>칠언</Charactercount>
+    </Form>
+      <Themes>
+        <Theme category="donate" basis="title" evidence="title:寄謝">기증</Theme>
+        <Theme category="plant" basis="title, term" evidence="title:杏子, term:杏子 顆">식물</Theme>
+      </Themes>
+      <Context></Context>
+    </Metadata>
+    <text>
+      <Line id="P1948401" order="1"><term>杏子</term><term>勻圓</term>萬顆<rhyme>同</rhyme><Allusion id="" target="勻圓" type="D" source="杜少陵詩集" chapter="野人送朱櫻" originaltext="西蜀櫻桃也自紅 野人相贈滿筠籠 數回細寫愁仍破 萬顆勻圓訝許同"/></Line>
+      <Line id="P1948402" order="2">寄來<term>提醒</term><term>晝眠</term><rhyme>翁</rhyme></Line>
+      <Line id="P1948403" order="3">從君飽了<term>人間</term>味</Line>
+      <Line id="P1948404" order="4"><term>種種</term><term>酸辛</term><term>討喫</term><rhyme>空</rhyme></Line>
+    </text>
+  </Poem>
+<Poem id="P19485">
+    <Metadata>
+      <Title><term>送人</term>赴<d>遂安郡</d></Title>
+      <Preface></Preface>
+      <Annotation>二首</Annotation>
+      <Collection ns0:href="glossary.xml#지천집"/>
+      <Author ns0:href="glossary.xml#황정욱"/>
+      <Form>
+        <Basetype>근체시</Basetype>
+        <Detailtype>절구</Detailtype>
+        <Charactercount>칠언</Charactercount>
+    </Form>
+      <Themes>
+        <Theme category="farewell" basis="title" evidence="title:送人">송별</Theme>
+        <Theme category="sympathy" basis="title, term" evidence="title:送人, term:蹉跎 奇 有命">애상</Theme>
+      </Themes>
+      <Context></Context>
+    </Metadata>
+    <text>
+      <Line id="P1948501" order="1"><term>詩才</term><term>突兀</term><term>行間</term>出<Allusion id="" target="突兀" type="C" source="世說新語" chapter="品藻" originaltext="劉尹目庾中郞 雖言不愔愔似道 突兀差可以擬道"/></Line>
+      <Line id="P1948502" order="2"><term>宦路</term><term>蹉跎</term><term>分外</term><rhyme>奇</rhyme><Allusion id="" target="蹉跎" type="D" source="楚辭" chapter="王褒" originaltext="驥垂兩耳兮 中阪蹉跎"/></Line>
+      <Line id="P1948503" order="3">摠是<term>人生</term>各<term>有命</term></Line>
+      <Line id="P1948504" order="4"><term>悠悠</term><term>餘外</term>且安<rhyme>之</rhyme></Line>
+    </text>
+  </Poem>
+<Poem id="P19486">
+    <Metadata>
+      <Title><term>送人</term>赴<d>遂安郡</d></Title>
+      <Preface></Preface>
+      <Annotation>二首 其二</Annotation>
+      <Collection ns0:href="glossary.xml#지천집"/>
+      <Author ns0:href="glossary.xml#황정욱"/>
+      <Form>
+        <Basetype>근체시</Basetype>
+        <Detailtype>절구</Detailtype>
+        <Charactercount>칠언</Charactercount>
+    </Form>
+      <Themes>
+        <Theme category="farewell" basis="title" evidence="title:送人">송별</Theme>
+        <Theme category="sympathy" basis="title, term" evidence="title:送人, term:病客 傷心 相別 恨">애상</Theme>
+      </Themes>
+      <Context></Context>
+    </Metadata>
+    <text>
+      <Line id="P1948601" order="1"><term>仙人</term><d>化鶴樓</d>中去</Line>
+      <Line id="P1948602" order="2"><term>病客</term><d>金蠅里</d>上<rhyme>居</rhyme><Allusion id="" target="病客" type="D" source="杜工部集" chapter="寄高適" originaltext="楚隔乾坤遠 難招病客魂"/></Line>
+      <Line id="P1948603" order="3"><term>岐路</term><term>傷心</term>未<term>相別</term></Line>
+      <Line id="P1948604" order="4">恨無<term>餘力</term>引君<rhyme>車</rhyme></Line>
+    </text>
+  </Poem>
+<Poem id="P19487">
+    <Metadata>
+      <Title>贈<d>洽上人</d></Title>
+      <Preface></Preface>
+      <Annotation>軸中有思庵林塘詩</Annotation>
+      <Collection ns0:href="glossary.xml#지천집"/>
+      <Author ns0:href="glossary.xml#황정욱"/>
+      <Form>
+        <Basetype>근체시</Basetype>
+        <Detailtype>절구</Detailtype>
+        <Charactercount>칠언</Charactercount>
+    </Form>
+      <Themes>
+        <Theme category="donate" basis="title" evidence="title:贈">기증</Theme>
+        <Theme category="sympathy" basis="term" evidence="term:孤臣 憔悴">애상</Theme>
+      </Themes>
+      <Context></Context>
+    </Metadata>
+    <text>
+      <Line id="P1948701" order="1">兩相<term>風流</term>已<term>隔世</term></Line>
+      <Line id="P1948702" order="2"><term>孤臣</term><term>憔悴</term>亦<term>多<rhyme>年</rhyme></term></Line>
+      <Line id="P1948703" order="3">舊詩<term>一口</term><term>瀾翻</term>倒<Allusion id="" target="瀾翻" type="D" source="韓昌黎集" chapter="記夢" originaltext="挈攜陬維口瀾翻 百二十刻須臾間"/></Line>
+      <Line id="P1948704" order="4">知我<term>平生</term>有好<rhyme>緣</rhyme></Line>
+    </text>
+  </Poem>
+<Poem id="P19488">
+    <Metadata>
+      <Title>次贈<d>成質夫</d></Title>
+      <Preface></Preface>
+      <Annotation></Annotation>
+      <Collection ns0:href="glossary.xml#지천집"/>
+      <Author ns0:href="glossary.xml#황정욱"/>
+      <Form>
+        <Basetype>근체시</Basetype>
+        <Detailtype>절구</Detailtype>
+        <Charactercount>칠언</Charactercount>
+    </Form>
+      <Themes>
+        <Theme category="prosper" basis="term" evidence="term:聖恩 優許 白日 都城">현달</Theme>
+      </Themes>
+      <Context></Context>
+    </Metadata>
+    <text>
+      <Line id="P1948801" order="1"><term>聖恩</term><term>優許</term>奉<term>先<rhyme>塋</rhyme></term></Line>
+      <Line id="P1948802" order="2"><term>頭上</term><term>蒼天</term><term>白日</term><rhyme>明</rhyme><Allusion id="" target="白日" type="D" source="文選" chapter="宋玉" originaltext="去白日之昭昭兮 襲長夜之悠悠"/></Line>
+      <Line id="P1948803" order="3"><term>不識</term><term>殘生</term>能住却</Line>
+      <Line id="P1948804" order="4">得看<term>桃李</term>滿<term>都<rhyme>城</rhyme></term></Line>
+    </text>
+  </Poem>
+<Poem id="P19489">
+    <Metadata>
+      <Title><d>金蠅山</d>下聽<term>杜鵑</term><term>有感</term></Title>
+      <Preface></Preface>
+      <Annotation></Annotation>
+      <Collection ns0:href="glossary.xml#지천집"/>
+      <Author ns0:href="glossary.xml#황정욱"/>
+      <Form>
+        <Basetype>근체시</Basetype>
+        <Detailtype>절구</Detailtype>
+        <Charactercount>칠언</Charactercount>
+    </Form>
+      <Themes>
+        <Theme category="animal" basis="title, term" evidence="title:杜鵑, term:不如歸">동물</Theme>
+      </Themes>
+      <Context></Context>
+    </Metadata>
+    <text>
+      <Line id="P1948901" order="1">滿山<term>明月</term><term>不如<rhyme>歸</rhyme></term><Allusion id="" target="不如歸" type="D" source="宛陵集" chapter="杜鵑" originaltext="蜀帝何年魄 千春化杜鵑 不如歸去語 亦自古來傳"/></Line>
+      <Line id="P1948902" order="2"><term>血赤</term><term lemma="丹心">心丹</term>盡夜<rhyme>啼</rhyme></Line>
+      <Line id="P1948903" order="3"><term>河上</term>晩歸歸<term>便好</term></Line>
+      <Line id="P1948904" order="4">莫敎<term>驚覺</term>待<term>晨<rhyme>鷄</rhyme></term></Line>
+    </text>
+  </Poem>
+<Poem id="P19490">
+    <Metadata>
+      <Title>將<term>卜居</term><d>馬灘</d>贈<d>黃生</d><d>穎男</d></Title>
+      <Preface></Preface>
+      <Annotation></Annotation>
+      <Collection ns0:href="glossary.xml#지천집"/>
+      <Author ns0:href="glossary.xml#황정욱"/>
+      <Form>
+        <Basetype>근체시</Basetype>
+        <Detailtype>절구</Detailtype>
+        <Charactercount>칠언</Charactercount>
+    </Form>
+      <Themes>
+        <Theme category="donate" basis="title" evidence="title:贈">기증</Theme>
+        <Theme category="water" basis="title, term" evidence="title:馬灘, term:漳河 衮衮 馬灘 江湖 漁釣">강해</Theme>
+      </Themes>
+      <Context></Context>
+    </Metadata>
+    <text>
+      <Line id="P1949001" order="1"><d>漳河</d><term>衮衮</term><d>馬灘</d><rhyme>長</rhyme><Allusion id="" target="衮衮" type="D" source="杜工部集" chapter="登高" originaltext="無邊落木蕭蕭下 不盡長江衮衮來"/></Line>
+      <Line id="P1949002" order="2"><term>聞說</term><term>移家</term>住此<rhyme>傍</rhyme></Line>
+      <Line id="P1949003" order="3">我亦<term>江湖</term>興不淺</Line>
+      <Line id="P1949004" order="4"><term>卜鄰</term><term>漁釣</term>日相<rhyme>將</rhyme></Line>
+    </text>
+  </Poem>
+<Poem id="P19491">
+    <Metadata>
+      <Title>送<d>居山察訪</d><d>鄭泗</d></Title>
+      <Preface></Preface>
+      <Annotation></Annotation>
+      <Collection ns0:href="glossary.xml#지천집"/>
+      <Author ns0:href="glossary.xml#황정욱"/>
+      <Form>
+        <Basetype>근체시</Basetype>
+        <Detailtype>절구</Detailtype>
+        <Charactercount>칠언</Charactercount>
+    </Form>
+      <Themes>
+        <Theme category="farewell" basis="title" evidence="title:送">송별</Theme>
+        <Theme category="tranquility" basis="term" evidence="term:藏身 白雲">한적</Theme>
+      </Themes>
+      <Context></Context>
+    </Metadata>
+    <text>
+      <Line id="P1949101" order="1"><term>世間</term><term>榮辱</term>儘<term>悠<rhyme>悠</rhyme></term></Line>
+      <Line id="P1949102" order="2"><term>何處</term><term>藏身</term>可<term>自<rhyme>由</rhyme></term></Line>
+      <Line id="P1949103" order="3">只合任他<term>牛馬</term>我</Line>
+      <Line id="P1949104" order="4"><term>蒼空</term><term>來往</term><term>白雲</term><rhyme>浮</rhyme><Allusion id="" target="白雲" type="D" source="文選" chapter="招隱" originaltext="白雲停陰岡 丹葩曜陽林"/>
+	  </Line>
+    </text>
+  </Poem>
+<Poem id="P19492">
+    <Metadata>
+      <Title>送<d>成晉善</d>赴<d>高城</d></Title>
+      <Preface></Preface>
+      <Annotation></Annotation>
+      <Collection ns0:href="glossary.xml#지천집"/>
+      <Author ns0:href="glossary.xml#황정욱"/>
+      <Form>
+        <Basetype>근체시</Basetype>
+        <Detailtype>절구</Detailtype>
+        <Charactercount>칠언</Charactercount>
+    </Form>
+      <Themes>
+        <Theme category="farewell" basis="title, term" evidence="title:送, term:羽翼">송별</Theme>
+      </Themes>
+      <Context></Context>
+    </Metadata>
+    <text>
+      <Line id="P1949201" order="1">心送<d>金剛</d>萬二<rhyme>千</rhyme></Line>
+      <Line id="P1949202" order="2">身無<term>羽翼</term>病相<rhyme>纏</rhyme><Allusion id="" target="羽翼" type="D" source="楚辭" chapter="哀時命" originaltext="勢不能淩波以徑度兮 又無羽翼而高翔"/></Line>
+      <Line id="P1949203" order="3"><term>一生</term><d>浮念</d>皆<term>無用</term></Line>
+      <Line id="P1949204" order="4">只艶君今作吏<rhyme>仙</rhyme></Line>
+    </text>
+  </Poem>
+<Poem id="P19493">
+    <Metadata>
+      <Title>挽<d>尹僉知</d><d>祁</d></Title>
+      <Preface></Preface>
+      <Annotation></Annotation>
+      <Collection ns0:href="glossary.xml#지천집"/>
+      <Author ns0:href="glossary.xml#황정욱"/>
+      <Form>
+        <Basetype>근체시</Basetype>
+        <Detailtype>절구</Detailtype>
+        <Charactercount>칠언</Charactercount>
+    </Form>
+      <Themes>
+        <Theme category="sympathy" basis="title, term" evidence="title:挽, term:凋零 殘生 無賴">애상</Theme>
+      </Themes>
+      <Context></Context>
+    </Metadata>
+    <text>
+      <Line id="P1949301" order="1"><term>親舊</term><term>凋零</term><term>落落</term><rhyme>稀</rhyme></Line>
+      <Line id="P1949302" order="2"><term>殘生</term>此世竟何<rhyme>歸</rhyme></Line>
+      <Line id="P1949303" order="3">君家<term>後事</term>尤<term>無賴</term></Line>
+      <Line id="P1949304" order="4"><term>膝下</term><term>兒孫</term>得也<rhyme>非</rhyme></Line>
+    </text>
+  </Poem>
+<Poem id="P19494">
+    <Metadata>
+      <Title><d>李宜仲</d><d>義健</d>送<term>松蕈</term>云是<d>鐵原</d>山所産率占</Title>
+      <Preface></Preface>
+      <Annotation></Annotation>
+      <Collection ns0:href="glossary.xml#지천집"/>
+      <Author ns0:href="glossary.xml#황정욱"/>
+      <Form>
+        <Basetype>근체시</Basetype>
+        <Detailtype>절구</Detailtype>
+        <Charactercount>칠언</Charactercount>
+    </Form>
+      <Themes>
+        <Theme category="plant" basis="title, term" evidence="title:松蕈, term:雲松童子">식물</Theme>
+      </Themes>
+      <Context></Context>
+    </Metadata>
+    <text>
+      <Line id="P1949401" order="1"><d>雲松童子</d><term>絶交</term>久</Line>
+      <Line id="P1949402" order="2">客有因人遠送<rhyme>來</rhyme></Line>
+      <Line id="P1949403" order="3">知是高巖<term>寶蓋</term>上</Line>
+      <Line id="P1949404" order="4"><term>山僧</term>喚我出<term>塵<rhyme>埃</rhyme></term><Allusion id="" target="塵埃" type="E" source="淮南子" chapter="俶眞訓" originaltext="芒然仿佯於塵埃之外 而消搖於無事之業"/></Line>
+    </text>
+  </Poem>
+<Poem id="P19495">
+    <Metadata>
+      <Title>率占寄<term>鄕中</term>諸<term>秀孝</term></Title>
+      <Preface></Preface>
+      <Annotation></Annotation>
+      <Collection ns0:href="glossary.xml#지천집"/>
+      <Author ns0:href="glossary.xml#황정욱"/>
+      <Form>
+        <Basetype>근체시</Basetype>
+        <Detailtype>절구</Detailtype>
+        <Charactercount>칠언</Charactercount>
+    </Form>
+      <Themes>
+        <Theme category="donate" basis="title" evidence="title:寄">기증</Theme>
+        <Theme category="tranquility" basis="title, term" evidence="title:鄕中, term:鄕人 和光">한적</Theme>
+      </Themes>
+      <Context></Context>
+    </Metadata>
+    <text>
+      <Line id="P1949501" order="1"><term>德言</term>猶足畏<term>鄕<rhyme>人</rhyme></term></Line>
+      <Line id="P1949502" order="2">我自<term>和光</term>混野<rhyme>塵</rhyme><Allusion id="" target="和光" type="E" source="老子" chapter="玄德" originaltext="和其光 同其塵"/></Line>
+      <Line id="P1949503" order="3"><term>三代</term><term>斯民</term><term>直道</term>在<Allusion id="" target="直道" type="A" source="論語" chapter="衛靈公" originaltext="斯民也 三代之所以直道而行也"/></Line>
+      <Line id="P1949504" order="4">願從<term>今日</term>共回<rhyme>淳</rhyme></Line>
+    </text>
+  </Poem>
+<Poem id="P19496">
+    <Metadata>
+      <Title>挽<d>李同知</d><d>澳</d></Title>
+      <Preface></Preface>
+      <Annotation></Annotation>
+      <Collection ns0:href="glossary.xml#지천집"/>
+      <Author ns0:href="glossary.xml#황정욱"/>
+      <Form>
+        <Basetype>근체시</Basetype>
+        <Detailtype>절구</Detailtype>
+        <Charactercount>칠언</Charactercount>
+    </Form>
+      <Themes>
+        <Theme category="sympathy" basis="title" evidence="title:挽">애상</Theme>
+      </Themes>
+      <Context></Context
+    </Metadata>
+    <text>
+      <Line id="P1949601" order="1">君能有子<term>全家</term>孝</Line>
+      <Line id="P1949602" order="2">我愧<d>頭男</d>敗着<rhyme>先</rhyme></Line>
+      <Line id="P1949603" order="3"><term>人世</term><term>嘵嘵</term>不足道</Line>
+      <Line id="P1949604" order="4"><term>靑山</term>一笑<term>喜懽</term><rhyme>緣</rhyme></Line>
+    </text>
+  </Poem>
+<Poem id="P19497">
+    <Metadata>
+      <Title>寄<d>池宗漢</d></Title>
+      <Preface></Preface>
+      <Annotation></Annotation>
+      <Collection ns0:href="glossary.xml#지천집"/>
+      <Author ns0:href="glossary.xml#황정욱"/>
+      <Form>
+        <Basetype>근체시</Basetype>
+        <Detailtype>절구</Detailtype>
+        <Charactercount>칠언</Charactercount>
+    </Form>
+      <Themes>
+        <Theme category="donate" basis="title" evidence="title:寄">기증</Theme>
+        <Theme category="tranquility" basis="term" evidence="term:松桂 幽 勝賞">한적</Theme>
+      </Themes>
+      <Context></Context>
+    </Metadata>
+    <text>
+      <Line id="P1949701" order="1"><d>松桂</d>林中<d>二樂<rhyme>樓</rhyme></d><Allusion id="" target="松桂" type="D" source="韓昌黎集" chapter="縣齋讀書" originaltext="出宰山水縣 讀書松桂林"/></Line>
+      <Line id="P1949702" order="2">樓前<term>水曲</term>爾居<rhyme>幽</rhyme></Line>
+      <Line id="P1949703" order="3"><term>昔年</term><term>勝賞</term>今<term>遺恨</term></Line>
+      <Line id="P1949704" order="4">失却飛攀一放<rhyme>眸</rhyme></Line>
+    </text>
+  </Poem>
+<Poem id="P19498">
+    <Metadata>
+      <Title>擬卜<term>大橋</term>上</Title>
+      <Preface></Preface>
+      <Annotation></Annotation>
+      <Collection ns0:href="glossary.xml#지천집"/>
+      <Author ns0:href="glossary.xml#황정욱"/>
+      <Form>
+        <Basetype>근체시</Basetype>
+        <Detailtype>절구</Detailtype>
+        <Charactercount>칠언</Charactercount>
+    </Form>
+      <Themes>
+        <Theme category="tranquility" basis="term" evidence="term:閑 自在 明月 漁歌">한적</Theme>
+      </Themes>
+      <Context></Context>
+    </Metadata>
+    <text>
+      <Line id="P1949801" order="1">潮生潮落廣<d>漳<rhyme>河</rhyme></d></Line>
+      <Line id="P1949802" order="2">屋下<term>大橋</term><term>秋水</term><rhyme>多</rhyme></Line>
+      <Line id="P1949803" order="3">一櫂<term>往來</term>閑<term>自在</term></Line>
+      <Line id="P1949804" order="4">葦間<term>明月</term>聽<term>漁<rhyme>歌</rhyme></term></Line>
+    </text>
+  </Poem>
+<Poem id="P19499">
+    <Metadata>
+      <Title><d>兔山</d><d>龍巖</d><term>先祖</term><d>翼成公</d>舊基也<term>華人</term>見而奇之曰<term>中原</term>亦無此異必生大<term>賢人</term>也</Title>
+      <Preface></Preface>
+      <Annotation></Annotation>
+      <Collection ns0:href="glossary.xml#지천집"/>
+      <Author ns0:href="glossary.xml#황정욱"/>
+      <Form>
+        <Basetype>근체시</Basetype>
+        <Detailtype>절구</Detailtype>
+        <Charactercount>칠언</Charactercount>
+    </Form>
+      <Themes>
+        <Theme category="mountain" basis="title, term" evidence="title:兔山 龍巖, term:石高 奇秀">산악</Theme>
+      </Themes>
+      <Context></Context>
+    </Metadata>
+    <text>
+      <Line id="P1949901" order="1">石高三丈躍將<rhyme>飛</rhyme></Line>
+      <Line id="P1949902" order="2"><term>一體</term><term>騰空</term>仰首<rhyme>姿</rhyme></Line>
+      <Line id="P1949903" order="3"><term>天下</term>亦無此<term>奇秀</term><Allusion id="" target="奇秀" type="D" source="甫里集" chapter="丁隱君歌" originaltext="連江大抵多奇岫 獨話君家最奇秀"/></Line>
+      <Line id="P1949904" order="4">氣鍾<term>人物</term>問他<rhyme>誰</rhyme></Line>
+    </text>
+  </Poem>
+<Poem id="P19500">
+    <Metadata>
+      <Title>寄<d>沈閣老</d><d>一松</d><d>喜壽</d>借藥</Title>
+      <Preface></Preface>
+      <Annotation></Annotation>
+      <Collection ns0:href="glossary.xml#지천집"/>
+      <Author ns0:href="glossary.xml#황정욱"/>
+      <Form>
+        <Basetype>근체시</Basetype>
+        <Detailtype>절구</Detailtype>
+        <Charactercount>칠언</Charactercount>
+    </Form>
+      <Themes>
+        <Theme category="sympathy" basis="term" evidence="term:菲薄 多病">애상</Theme>
+      </Themes>
+      <Context></Context>
+    </Metadata>
+    <text>
+      <Line id="P1950001" order="1"><term>聖朝</term><term>菲薄</term>自相<rhyme>殊</rhyme><Allusion id="" target="菲薄" type="D" source="楚辭" chapter="遠遊" originaltext="質菲薄而無因兮 焉托乘而上浮"/></Line>
+      <Line id="P1950002" order="2"><term>藥物</term><term>君臣</term>性<term>不<rhyme>誣</rhyme></term><Allusion id="" target="不誣" type="A" source="禮記" chapter="表記" originaltext="是故君有責於其臣 臣有死於其言 故其受祿不誣"/></Line>
+      <Line id="P1950003" order="3"><term>多病</term>所須唯在此</Line>
+      <Line id="P1950004" order="4"><term>刀圭</term>能濟<term>故人</term><rhyme>無</rhyme><Allusion id="" target="刀圭" type="E" source="抱朴子" chapter="金丹" originaltext="服之三刀圭 三屍九蟲皆即消壞 百病皆愈也"/></Line>
+    </text>
+  </Poem>
+<Poem id="P19501">
+    <Metadata>
+      <Title>戲贈<d>碧桃香</d>幷序</Title>
+      <Preface></Preface>
+      <Annotation>往在三十餘年之前 余一遊孔巖 碧桃携琴隨之 船上彈峩洋曲 江淸月白 逸興飛動 眞勝事也 卽今來伏金陵村舍 聞桃來在桂陽 招之不至 以簡爲謝 書此戲之</Annotation>
+      <Collection ns0:href="glossary.xml#지천집"/>
+      <Author ns0:href="glossary.xml#황정욱"/>
+      <Form>
+        <Basetype>근체시</Basetype>
+        <Detailtype>절구</Detailtype>
+        <Charactercount>칠언</Charactercount>
+    </Form>
+      <Themes>
+        <Theme category="donate" basis="title" evidence="title:贈">기증</Theme>
+      </Themes>
+      <Context></Context>
+    </Metadata>
+    <text>
+      <Line id="P1950101" order="1"><term>碧桃</term><term>春色</term>泛<term>西<rhyme>湖</rhyme></term></Line>
+      <Line id="P1950102" order="2">不羡<term>風流</term><d>范大<rhyme>夫</rhyme></d><Allusion id="" target="范大夫" type="B" source="越絶書" chapter="" originaltext="西施亡吳國後 復歸范蠡 因泛五湖而去"/></Line>
+      <Line id="P1950103" order="3"><term>惆悵</term><term>舊游</term>今<term>寂寞</term></Line>
+      <Line id="P1950104" order="4"><term>潯陽</term><term>咫尺</term>亦難<rhyme>呼</rhyme><Allusion id="" target="潯陽" type="D" source="白居易集" chapter="琵琶行" originaltext="潯陽江頭夜送客 楓葉荻花秋索索"/></Line>
+    </text>
+  </Poem>
+<Poem id="P19502">
+    <Metadata>
+      <Title>自<d>金浦</d>登舟泊<d>鷺梁</d>寄<d>尹子固</d><d>李宜仲</d></Title>
+      <Preface></Preface>
+      <Annotation></Annotation>
+      <Collection ns0:href="glossary.xml#지천집"/>
+      <Author ns0:href="glossary.xml#황정욱"/>
+      <Form>
+        <Basetype>근체시</Basetype>
+        <Detailtype>절구</Detailtype>
+        <Charactercount>칠언</Charactercount>
+    </Form>
+      <Themes>
+        <Theme category="donate" basis="title" evidence="title:寄">기증</Theme>
+        <Theme category="sympathy" basis="term" evidence="term:心傷">애상</Theme>
+      </Themes>
+      <Context></Context>
+    </Metadata>
+    <text>
+      <Line id="P1950201" order="1"><term>盡室</term>登舟泊<d>鷺<rhyme>梁</rhyme></d></Line>
+      <Line id="P1950202" order="2"><term>回頭</term><term>京輦</term>却<term>心<rhyme>傷</rhyme></term><Allusion id="" target="京輦" type="E" source="抱朴子" chapter="譏惑" originaltext="其好事者 朝夕放效 所謂京輦貴大眉 遠方皆半額也"/></Line>
+      <Line id="P1950203" order="3"><term>向來</term>十五年前事</Line>
+      <Line id="P1950204" order="4">都付<term>江流</term>送<term>渺<rhyme>茫</rhyme></term></Line>
+    </text>
+  </Poem>
+<Poem id="P19503">
+    <Metadata>
+      <Title><d>耆老所</d>諸<term>大人</term>惠<term>酒饌</term>詩以謝之</Title>
+      <Preface></Preface>
+      <Annotation></Annotation>
+      <Collection ns0:href="glossary.xml#지천집"/>
+      <Author ns0:href="glossary.xml#황정욱"/>
+      <Form>
+        <Basetype>근체시</Basetype>
+        <Detailtype>절구</Detailtype>
+        <Charactercount>칠언</Charactercount>
+    </Form>
+      <Themes>
+        <Theme category="prosper" basis="title" evidence="title:耆老所 謝">현달</Theme>
+        <Theme category="banquet" basis="title, term" evidence="title:酒饌, term:讌席 春酒 醺">연회</Theme>
+      </Themes>
+      <Context></Context>
+    </Metadata>
+    <text>
+      <Line id="P1950301" order="1"><term>風流</term><term>故事</term>艶曾<rhyme>聞</rhyme></Line>
+      <Line id="P1950302" order="2"><term>何幸</term><term>生年</term>亦已<rhyme>尊</rhyme></Line>
+      <Line id="P1950303" order="3">媿殺未登公<term>讌席</term></Line>
+      <Line id="P1950304" order="4">一盆<term>春酒</term>却先<rhyme>醺</rhyme></Line>
+    </text>
+  </Poem>
+<Poem id="P19504">
+    <Metadata>
+      <Title>余寓<d>鷺江</d>僧<d>熙彦</d><term>來訪</term>書此以贈</Title>
+      <Preface></Preface>
+      <Annotation></Annotation>
+      <Collection ns0:href="glossary.xml#지천집"/>
+      <Author ns0:href="glossary.xml#황정욱"/>
+      <Form>
+        <Basetype>근체시</Basetype>
+        <Detailtype>절구</Detailtype>
+        <Charactercount>칠언</Charactercount>
+    </Form>
+      <Themes>
+        <Theme category="tranquility" basis="title, term" evidence="title:寓, term:僑居 飛鷺 悠悠 忘機">한적</Theme>
+      </Themes>
+      <Context></Context>
+    </Metadata>
+    <text>
+      <Line id="P1950401" order="1">江店<term>僑居</term><d>萬念</d><rhyme>休</rhyme><Allusion id="" target="僑居" type="B" source="魏書" chapter="杜銓傳" originaltext="旣是宗近 何緣復僑居趙郡"/></Line>
+      <Line id="P1950402" order="2">浴鳧<d>飛鷺</d>晩<term>悠<rhyme>悠</rhyme></term><Allusion id="" target="飛鷺" type="D" source="全唐詩" chapter="漁父歌" originaltext="西塞山前白鷺飛 桃花流水鱖魚肥"/></Line>
+      <Line id="P1950403" order="3">僧來<term>驚散</term><term>忘機</term>伴<Allusion id="" target="忘機" type="D" source="李太白集" chapter="古風" originaltext="吾亦洗心者 忘機從爾遊"/></Line>
+      <Line id="P1950404" order="4">又攪<term>衰翁</term><term>覓句</term><rhyme>愁</rhyme><Allusion id="" target="覓句" type="D" source="杜少陵詩集" chapter="又示宗武" originaltext="覓句新知律 攤書解滿牀"/></Line>
+    </text>
+  </Poem>
+<Poem id="P19505">
+    <Metadata>
+      <Title>挽<d>李僉知</d><d>壽俊</d></Title>
+      <Preface></Preface>
+      <Annotation>四首</Annotation>
+      <Collection ns0:href="glossary.xml#지천집"/>
+      <Author ns0:href="glossary.xml#황정욱"/>
+      <Form>
+        <Basetype>근체시</Basetype>
+        <Detailtype>절구</Detailtype>
+        <Charactercount>칠언</Charactercount>
+    </Form>
+      <Themes>
+        <Theme category="sympathy" basis="title, term" evidence="title:挽, term:未歸">애상</Theme>
+        <Theme category="prosper" basis="title, term" evidence="title:僉知, term:才調 奉表">현달</Theme>
+      </Themes>
+      <Context></Context>
+    </Metadata>
+    <text>
+      <Line id="P1950501" order="1">憐君<term>才調</term>久<term>沈<rhyme>淪</rhyme></term><Allusion id="" target="才調" type="D" source="李義山詩集" chapter="讀任彦昇碑" originaltext="任昉當年有美名 可憐才調最縱橫"/><Allusion id="" target="沈淪" type="D" source="李太白集" chapter="贈從弟南平太守之遙" originaltext="彤庭左右呼萬歲 拜賀明主收沉淪"/></Line>
+      <Line id="P1950502" order="2">一作<term>江南</term><term>奉表</term><rhyme>臣</rhyme></Line>
+      <Line id="P1950503" order="3">萬里<term>幽燕</term>收脚底</Line>
+      <Line id="P1950504" order="4">回家<term>百里</term>未歸<rhyme>人</rhyme></Line>
+    </text>
+  </Poem>
+<Poem id="P19506">
+    <Metadata>
+      <Title>挽<d>李僉知</d><d>壽俊</d></Title>
+      <Preface></Preface>
+      <Annotation>四首 其二</Annotation>
+      <Collection ns0:href="glossary.xml#지천집"/>
+      <Author ns0:href="glossary.xml#황정욱"/>
+      <Form>
+        <Basetype>근체시</Basetype>
+        <Detailtype>절구</Detailtype>
+        <Charactercount>칠언</Charactercount>
+    </Form>
+      <Themes>
+        <Theme category="sympathy" basis="title, term" evidence="title:挽, term:無祿 云亡 愴">애상</Theme>
+        <Theme category="prosper" basis="title, term" evidence="title:僉知, term:瓌奇 磊落 超倫">현달</Theme>
+      </Themes>
+      <Context></Context>
+    </Metadata>
+    <text>
+      <Line id="P1950601" order="1"><term>節度</term><d>瓌奇</d>脫<term>世<rhyme>塵</rhyme></term></Line>
+      <Line id="P1950602" order="2">君才<term>磊落</term>亦<term>超<rhyme>倫</rhyme></term><Allusion id="" target="磊落" type="B" source="晉書" chapter="石勒載記" originaltext="大丈夫行事 當磊磊落落 如日月皎然"/><Allusion id="" target="超倫" type="B" source="舊唐書" chapter="李義府傳" originaltext="皇明睠德 超倫作貳"/></Line>
+      <Line id="P1950603" order="3"><term>如何</term>兩世皆<term>無祿</term></Line>
+      <Line id="P1950604" order="4">五十<term>云亡</term>愴我<rhyme>神</rhyme></Line>
+    </text>
+  </Poem>
+<Poem id="P19507">
+    <Metadata>
+      <Title>挽<d>李僉知</d><d>壽俊</d></Title>
+      <Preface></Preface>
+      <Annotation>四首 其三</Annotation>
+      <Collection ns0:href="glossary.xml#지천집"/>
+      <Author ns0:href="glossary.xml#황정욱"/>
+      <Form>
+        <Basetype>근체시</Basetype>
+        <Detailtype>절구</Detailtype>
+        <Charactercount>칠언</Charactercount>
+    </Form>
+      <Themes>
+        <Theme category="sympathy" basis="title, term" evidence="title:挽, term:惜別 薤露 哀歌">애상</Theme>
+      </Themes>
+      <Context></Context>
+    </Metadata>
+    <text>
+      <Line id="P1950701" order="1"><d>金陵</d>渡<term>險遠</term>來<rhyme>過</rhyme><Allusion id="" target="險遠" type="E" source="抱朴子" chapter="金丹" originaltext="余少好方術 負步請問 不憚險遠 每有異聞 則以爲喜"/></Line>
+      <Line id="P1950702" order="2">舊意<term>殷勤</term><term>惜別</term><rhyme>何</rhyme><Allusion id="" target="殷勤" type="B" source="史記" chapter="司馬相如列傳" originaltext="相如乃使人重賜文君侍者 通殷勤"/></Line>
+      <Line id="P1950703" order="3"><term>誰料</term><term>歡迎</term><term>軟脚</term>日<Allusion id="" target="軟脚" type="B" source="唐書" chapter="楊國忠列傳" originaltext="出有賜曰餞路 返有勞曰軟脚"/></Line>
+      <Line id="P1950704" order="4">却聞<term>薤露</term>動<term>哀<rhyme>歌</rhyme><Allusion id="" target="薤露" type="D" source="樂府詩集" chapter="薤露" originaltext="薤上露 何易晞 露晞明朝更復落 人死一去何時歸"/></term>
+	  </Line>
+    </text>
+  </Poem>
+<Poem id="P19508">
+    <Metadata>
+      <Title>挽<d>李僉知</d><d>壽俊</d></Title>
+      <Preface></Preface>
+      <Annotation>四首 其四</Annotation>
+      <Collection ns0:href="glossary.xml#지천집"/>
+      <Author ns0:href="glossary.xml#황정욱"/>
+      <Form>
+        <Basetype>근체시</Basetype>
+        <Detailtype>절구</Detailtype>
+        <Charactercount>칠언</Charactercount>
+    </Form>
+      <Themes>
+        <Theme category="sympathy" basis="title, term" evidence="title:挽, term:契闊 永訣">애상</Theme>
+      </Themes>
+      <Context></Context>
+    </Metadata>
+    <text>
+      <Line id="P1950801" order="1"><term>提携</term>二子<d>淑夫<rhyme>人</rhyme></d></Line>
+      <Line id="P1950802" order="2"><term>百里</term><term>馳奔</term>欲及<rhyme>晨</rhyme></Line>
+      <Line id="P1950803" order="3"><term>契闊</term>未成相<term>永訣</term><Allusion id="" target="契闊" type="A" source="詩經" chapter="擊鼓" originaltext="死生契闊 與子成說"/><Allusion id="" target="永訣" type="D" source="杜工部集" chapter="送鄭十八虔貶台州司戶" originaltext="便與先生應永訣 九重泉路盡交期"/></Line>
+      <Line id="P1950804" order="4"><term>蒼天</term><term>漠漠</term>更號<rhyme>神</rhyme></Line>
+    </text>
+  </Poem>
+<Poem id="P19509">
+    <Metadata>
+      <Title><d>李石城</d><d>德言</d>自<d>普恩寺</d>夜泊<d>鷺梁</d><term>饋送</term><term>生魚</term>率占却寄</Title>
+      <Preface></Preface>
+      <Annotation></Annotation>
+      <Collection ns0:href="glossary.xml#지천집"/>
+      <Author ns0:href="glossary.xml#황정욱"/>
+      <Form>
+        <Basetype>근체시</Basetype>
+        <Detailtype>절구</Detailtype>
+        <Charactercount>칠언</Charactercount>
+    </Form>
+      <Themes>
+        <Theme category="donate" basis="title" evidence="title:寄">기증</Theme>
+      </Themes>
+      <Context></Context>
+    </Metadata>
+    <text>
+      <Line id="P1950901" order="1">古寺鍾聲散月<rhyme>晨</rhyme></Line>
+      <Line id="P1950902" order="2">舟中<term>宿客</term>到前<rhyme>津</rhyme></Line>
+      <Line id="P1950903" order="3"><term>老夫</term>始覺<term>江村</term>興</Line>
+      <Line id="P1950904" order="4"><term>饋送</term><term>生魚</term><term>得雋</term><rhyme>新</rhyme><Allusion id="" target="得雋" type="D" source="韓昌黎集" chapter="叉魚" originaltext="競多心轉細 得雋語時囂"/></Line>
+    </text>
+  </Poem>
+<Poem id="P19510">
+    <Metadata>
+      <Title>題<d>志溫</d>軸</Title>
+      <Preface></Preface>
+      <Annotation></Annotation>
+      <Collection ns0:href="glossary.xml#지천집"/>
+      <Author ns0:href="glossary.xml#황정욱"/>
+      <Form>
+        <Basetype>근체시</Basetype>
+        <Detailtype>절구</Detailtype>
+        <Charactercount>칠언</Charactercount>
+    </Form>
+      <Themes>
+        <Theme category="buddhism" basis="term" evidence="term:安心 不二門">불교</Theme>
+      </Themes>
+      <Context></Context>
+    </Metadata>
+    <text>
+      <Line id="P1951001" order="1">典汝<d>安心</d>祖<term>有<rhyme>言</rhyme></term><Allusion id="" target="安心" type="F" source="景德傳燈錄" chapter="" originaltext="將心來 與汝安"/></Line>
+      <Line id="P1951002" order="2">還能回志向人<rhyme>溫</rhyme></Line>
+      <Line id="P1951003" order="3"><term>一身</term><term>作用</term><term>無他</term>說</Line>
+      <Line id="P1951004" order="4">我亦從知<d>不二<rhyme>門</rhyme></d><Allusion id="" target="不二門" type="F" source="維摩詰經" chapter="入不二法門品" originaltext="如我意者 於一切法無言無說 無示無識 離諸問答 是爲入不二法門"/></Line>
+    </text>
+  </Poem>
+<Poem id="P19511">
+    <Metadata>
+      <Title>題志溫軸 附崔立之岦<term>和韻</term></Title>
+      <Preface></Preface>
+      <Annotation></Annotation>
+      <Collection ns0:href="glossary.xml#지천집"/>
+      <Author ns0:href="glossary.xml#황정욱"/>
+      <Form>
+        <Basetype>근체시</Basetype>
+        <Detailtype>절구</Detailtype>
+        <Charactercount>칠언</Charactercount>
+    </Form>
+      <Themes></Themes>
+      <Context></Context>
+    </Metadata>
+    <text>
+      <Line id="P1951101" order="1">卷裏溪公廿八<rhyme>言</rhyme></Line>
+      <Line id="P1951102" order="2"><term>乖違</term>十載當<term>寒<rhyme>溫</rhyme></term></Line>
+      <Line id="P1951103" order="3">已無<term>驚惱</term>應同我</Line>
+      <Line id="P1951104" order="4"><term>憂喜</term><term>從前</term>幾聚<rhyme>門</rhyme></Line>
+    </text>
+  </Poem>
+<Poem id="P19512">
+    <Metadata>
+      <Title><term>題畫</term>梅</Title>
+      <Preface></Preface>
+      <Annotation></Annotation>
+      <Collection ns0:href="glossary.xml#지천집"/>
+      <Author ns0:href="glossary.xml#황정욱"/>
+      <Form>
+        <Basetype>근체시</Basetype>
+        <Detailtype>절구</Detailtype>
+        <Charactercount>칠언</Charactercount>
+    </Form>
+      <Themes>
+        <Theme category="picture" basis="title" evidence="title:題畫">도화</Theme>
+        <Theme category="plant" basis="title, term" evidence="title:梅, term:梅">식물</Theme>
+      </Themes>
+      <Context></Context>
+    </Metadata>
+    <text>
+      <Line id="P1951201" order="1"><term>白雪</term><term>滿山</term>梅正發</Line>
+      <Line id="P1951202" order="2">客從<term>何處</term>遠尋<rhyme>來</rhyme></Line>
+      <Line id="P1951203" order="3"><term>依然</term><term>玉色</term>如<term>京洛</term><Allusion id="" target="京洛" type="D" source="杜少陵詩集" chapter="雲山" originaltext="京洛雲山外 音書靜不來"/></Line>
+      <Line id="P1951204" order="4">應使<term>孤臣</term>眼刮<rhyme>開</rhyme></Line>
+    </text>
+  </Poem>
+<Poem id="P19513">
+    <Metadata>
+      <Title><term>修理</term><d>孝陵</d>次<d>蘇齋</d>韻</Title>
+      <Preface></Preface>
+      <Annotation>四首 盧公守愼</Annotation>
+      <Collection ns0:href="glossary.xml#지천집"/>
+      <Author ns0:href="glossary.xml#황정욱"/>
+      <Form>
+        <Basetype>근체시</Basetype>
+        <Detailtype>율시</Detailtype>
+        <Charactercount>오언</Charactercount>
+    </Form>
+      <Themes>
+        <Theme category="person" basis="title" evidence="title:孝陵">인물</Theme>
+      </Themes>
+      <Context></Context>
+    </Metadata>
+    <text>
+      <Line id="P1951301" order="1">斯道吾東望</Line>
+      <Line id="P1951302" order="2"><term>先生</term><term>後輩</term><rhyme>刑</rhyme></Line>
+      <Couplet><Line id="P1951303" order="3">愛人何<term>太過</term></Line>
+        <Line id="P1951304" order="4">許我屢<term>相<rhyme>形</rhyme></term></Line></Couplet>
+      <Couplet><Line id="P1951305" order="5">自是容<d>依往</d></Line>
+        <Line id="P1951306" order="6">非緣準試<rhyme>經</rhyme></Line></Couplet>
+      <Line id="P1951307" order="7"><term>殷勤</term>奉<term>盛藻</term><Allusion id="" target="盛藻" type="D" source="文賦" chapter="序" originaltext="作文賦 以述先士之盛藻 因論作文之利害所由"/></Line>
+      <Line id="P1951308" order="8"><term>金玉</term>叶心<rhyme>聽</rhyme></Line>
+</text>
+  </Poem>
+<Poem id="P19514">
+    <Metadata>
+	  <Title latent="修理孝陵 次蘇齋韻">二</Title>
+      <Preface></Preface>
+      <Annotation>四首 盧公守愼</Annotation>
+      <Collection ns0:href="glossary.xml#지천집"/>
+      <Author ns0:href="glossary.xml#황정욱"/>
+      <Form>
+        <Basetype>근체시</Basetype>
+        <Detailtype>율시</Detailtype>
+        <Charactercount>오언</Charactercount>
+    </Form>
+      <Themes>
+        <Theme category="person" basis="title" evidence="title:孝陵">인물</Theme>
+      </Themes>
+      <Context></Context>
+    </Metadata>
+    <text>
+      <Line id="P1951401" order="1"><term>鍊石</term>殊名色</Line>
+      <Line id="P1951402" order="2"><term>鎔金</term>各範<rhyme>刑</rhyme></Line>
+      <Couplet><Line id="P1951403" order="3">琢成新畫樣</Line>
+        <Line id="P1951404" order="4">封得舊陵<rhyme>形</rhyme></Line></Couplet>
+      <Couplet><Line id="P1951405" order="5">只益危衷苦</Line>
+        <Line id="P1951406" order="6">非關<term>小智</term><rhyme>經</rhyme></Line></Couplet>
+      <Line id="P1951407" order="7">呑聲<term>不敢</term>哭</Line>
+      <Line id="P1951408" order="8"><term>到底</term>倘神<rhyme>聽</rhyme></Line>
+</text>
+  </Poem>
+<Poem id="P19515">
+    <Metadata>
+	  <Title latent="修理孝陵 次蘇齋韻">三</Title>
+      <Preface></Preface>
+      <Annotation>四首 盧公守愼</Annotation>
+      <Collection ns0:href="glossary.xml#지천집"/>
+      <Author ns0:href="glossary.xml#황정욱"/>
+      <Form>
+        <Basetype>근체시</Basetype>
+        <Detailtype>율시</Detailtype>
+        <Charactercount>오언</Charactercount>
+    </Form>
+      <Themes>
+        <Theme category="person" basis="title, term" evidence="title:孝陵, term:因山">인물</Theme>
+      </Themes>
+      <Context></Context>
+    </Metadata>
+    <text>
+      <Line id="P1951501" order="1">帥職供<term>趨走</term></Line>
+      <Line id="P1951502" order="2">差功倩<term>化<rhyme>形</rhyme></term></Line>
+      <Couplet><Line id="P1951503" order="3">受成甘自享</Line>
+        <Line id="P1951504" order="4"><term>歸美</term>沕<term>無<rhyme>形</rhyme></term><Allusion id="" target="歸美" type="B" source="宋書" chapter="武帝中" originaltext="由是四海歸美 朝野推崇"/></Line></Couplet>
+      <Couplet><Line id="P1951505" order="5"><term>浩劫</term>看重造</Line>
+        <Line id="P1951506" order="6"><d>因山</d>訝自<rhyme>經</rhyme></Line></Couplet>
+      <Line id="P1951507" order="7"><term>當時</term>孰忍此</Line>
+      <Line id="P1951508" order="8"><term>公論</term>合須<rhyme>聽</rhyme></Line>
+</text>
+  </Poem>
+<Poem id="P19516">
+    <Metadata>
+	  <Title latent="修理孝陵 次蘇齋韻">四</Title>
+      <Preface></Preface>
+      <Annotation>四首 盧公守愼</Annotation>
+      <Collection ns0:href="glossary.xml#지천집"/>
+      <Author ns0:href="glossary.xml#황정욱"/>
+      <Form>
+        <Basetype>근체시</Basetype>
+        <Detailtype>율시</Detailtype>
+        <Charactercount>오언</Charactercount>
+    </Form>
+      <Themes>
+        <Theme category="person" basis="title" evidence="title:孝陵">인물</Theme>
+      </Themes>
+      <Context></Context>
+    </Metadata>
+    <text>
+      <Line id="P1951601" order="1">澤浹含生感</Line>
+      <Line id="P1951602" order="2">名垂<term>繼世</term><rhyme>刑</rhyme></Line>
+      <Couplet><Line id="P1951603" order="3"><term>乾坤</term>詎<term>容狀</term></Line>
+        <Line id="P1951604" order="4"><term>品物</term><term>自流</term><rhyme>形</rhyme></Line></Couplet>
+      <Couplet><Line id="P1951605" order="5">窆事初<term>如此</term></Line>
+        <Line id="P1951606" order="6"><term>凶圖</term><term>不暇</term><rhyme>經</rhyme></Line></Couplet>
+      <Line id="P1951607" order="7"><term>何當</term>秉<term>鈇鉞</term></Line>
+      <Line id="P1951608" order="8">數與<term>髑髏</term><rhyme>聽</rhyme></Line>
+</text>
+  </Poem>
+<Poem id="P19517">
+    <Metadata>
+	  <Title latent="修理孝陵 次蘇齋韻">附元韻</Title>
+      <Preface></Preface>
+      <Annotation>四首 盧公守愼</Annotation>
+      <Collection ns0:href="glossary.xml#지천집"/>
+      <Author ns0:href="glossary.xml#황정욱"/>
+      <Form>
+        <Basetype>근체시</Basetype>
+        <Detailtype>율시</Detailtype>
+        <Charactercount>오언</Charactercount>
+    </Form>
+      <Themes>
+        <Theme category="person" basis="title" evidence="title:孝陵">인물</Theme>
+      </Themes>
+      <Context></Context>
+    </Metadata>
+    <text>
+      <Line id="P1951701" order="1"><term>文學</term>羣<term>公表</term></Line>
+      <Line id="P1951702" order="2"><term>風流</term><term>一世</term><rhyme>刑</rhyme></Line>
+      <Couplet><Line id="P1951703" order="3"><term>論思</term>會有極</Line>
+        <Line id="P1951704" order="4">執敬視<term>無<rhyme>形</rhyme></term></Line></Couplet>
+      <Couplet><Line id="P1951705" order="5"><term>告廟</term>多<term>儀正</term></Line>
+        <Line id="P1951706" order="6">修陵<term>庶務</term><rhyme>經</rhyme></Line></Couplet>
+      <Line id="P1951707" order="7">因人幸<term>成事</term></Line>
+      <Line id="P1951708" order="8">非子復誰<rhyme>聽</rhyme></Line>
+</text>
+  </Poem>
+<Poem id="P19518">
+    <Metadata>
+	  <Title latent="修理孝陵 次蘇齋韻">附元韻 其二</Title>
+      <Preface></Preface>
+      <Annotation>四首 盧公守愼</Annotation>
+      <Collection ns0:href="glossary.xml#지천집"/>
+      <Author ns0:href="glossary.xml#황정욱"/>
+      <Form>
+        <Basetype>근체시</Basetype>
+        <Detailtype>율시</Detailtype>
+        <Charactercount>오언</Charactercount>
+    </Form>
+      <Themes>
+        <Theme category="person" basis="title" evidence="title:孝陵">인물</Theme>
+      </Themes>
+      <Context></Context>
+    </Metadata>
+    <text>
+      <Line id="P1951801" order="1"><term>可愛</term><term>他山</term>石</Line>
+      <Line id="P1951802" order="2">須遭<term>巧匠</term><rhyme>刑</rhyme></Line>
+      <Couplet><Line id="P1951803" order="3">初裁幾<term>方面</term></Line>
+        <Line id="P1951804" order="4">竟作一圓<rhyme>形</rhyme></Line></Couplet>
+      <Couplet><Line id="P1951805" order="5"><term>臣子</term>寧無恔</Line>
+        <Line id="P1951806" order="6"><term>邦家</term><term>固有</term><rhyme>經</rhyme></Line></Couplet>
+      <Line id="P1951807" order="7"><term>都廳</term><term>能事</term>畢</Line>
+      <Line id="P1951808" order="8">爲賀<term>足觀</term><rhyme>聽</rhyme></Line>
+</text>
+  </Poem>
+<Poem id="P19519">
+    <Metadata>
+      <Title>挽<term>外祖母</term><term>夫人</term></Title>
+      <Preface></Preface>
+      <Annotation></Annotation>
+      <Collection ns0:href="glossary.xml#지천집"/>
+      <Author ns0:href="glossary.xml#황정욱"/>
+      <Form>
+        <Basetype>근체시</Basetype>
+        <Detailtype>율시</Detailtype>
+        <Charactercount>오언</Charactercount>
+    </Form>
+      <Themes>
+        <Theme category="sympathy" basis="title, term" evidence="title:挽, term:慟哭 泉原">애상</Theme>
+      </Themes>
+      <Context></Context>
+    </Metadata>
+    <text>
+      <Line id="P1951901" order="1"><term>父母</term><term>艱難</term>日</Line>
+      <Line id="P1951902" order="2">深蒙<term>鞠育</term><rhyme>思</rhyme></Line>
+      <Couplet><Line id="P1951903" order="3"><term>髮膚</term>遺此體</Line>
+        <Line id="P1951904" order="4"><term>慈愛</term>異<term>諸<rhyme>孫</rhyme></term></Line></Couplet>
+      <Couplet><Line id="P1951905" order="5"><term>分外</term>承<term>天寵</term><Allusion id="" target="天寵" type="D" source="文苑英華" chapter="侍宴" originaltext="自昔承天寵 於茲被人爵"/></Line>
+        <Line id="P1951906" order="6">皆由<term>積德</term><rhyme>門</rhyme></Line></Couplet>
+      <Line id="P1951907" order="7">但違畿佐願</Line>
+      <Line id="P1951908" order="8"><term>慟哭</term>望<d>泉<rhyme>原</rhyme></d></Line>
+</text>
+  </Poem>
+<Poem id="P19520">
+    <Metadata>
+      <Title>登<d>浩然亭</d>次<d>栗谷</d>韻</Title>
+      <Preface></Preface>
+      <Annotation>二首</Annotation>
+      <Collection ns0:href="glossary.xml#지천집"/>
+      <Author ns0:href="glossary.xml#황정욱"/>
+      <Form>
+        <Basetype>근체시</Basetype>
+        <Detailtype>율시</Detailtype>
+        <Charactercount>오언</Charactercount>
+    </Form>
+      <Themes>
+        <Theme category="structure" basis="title, term" evidence="title:浩然亭, term:飛閣">건물</Theme>
+      </Themes>
+      <Context></Context>
+    </Metadata>
+    <text>
+      <Line id="P1952001" order="1"><term>飛閣</term>臨<term>無地</term></Line>
+      <Line id="P1952002" order="2"><term>危峯</term>盡處<rhyme>巓</rhyme></Line>
+      <Couplet><Line id="P1952003" order="3">胸呑<term>千里</term>闊</Line>
+        <Line id="P1952004" order="4"><term>目極</term><term>片帆</term><rhyme>懸</rhyme><Allusion id="" target="目極" type="D" source="楚辭" chapter="招魂" originaltext="目極千里兮傷春心 魂兮歸來哀江南"/></Line></Couplet>
+      <Couplet><Line id="P1952005" order="5"><term>蜃氣</term>晴浮市<Allusion id="" target="蜃氣" type="B" source="史記" chapter="天官書" originaltext="海旁蜄氣象樓臺"/></Line>
+        <Line id="P1952006" order="6">潮聲暮<term>拍<rhyme>天</rhyme></term></Line></Couplet>
+      <Line id="P1952007" order="7"><term>淸遊</term>煩<term>夢想</term></Line>
+      <Line id="P1952008" order="8"><term>汗漫</term>似<term>登<rhyme>仙</rhyme></term><Allusion id="" target="登仙" type="D" source="楚辭" chapter="遠遊" originaltext="貴眞人之休德兮 美往世之登仙"/></Line>
+</text>
+  </Poem>
+<Poem id="P19521">
+    <Metadata>
+	  <Title latent="登浩然亭 次栗谷韻">二</Title>
+      <Preface></Preface>
+      <Annotation>二首</Annotation>
+      <Collection ns0:href="glossary.xml#지천집"/>
+      <Author ns0:href="glossary.xml#황정욱"/>
+      <Form>
+        <Basetype>근체시</Basetype>
+        <Detailtype>율시</Detailtype>
+        <Charactercount>오언</Charactercount>
+    </Form>
+      <Themes>
+        <Theme category="structure" basis="title" evidence="title:浩然亭">건물</Theme>
+        <Theme category="tranquility" basis="term" evidence="term:浩蕩 飛仙">한적</Theme>
+      </Themes>
+      <Context></Context>
+    </Metadata>
+    <text>
+      <Line id="P1952101" order="1"><term>浩蕩</term>眞無礙</Line>
+      <Line id="P1952102" order="2"><term>虛空</term>却向<rhyme>巓</rhyme></Line>
+      <Couplet><Line id="P1952103" order="3">入窓<term>雲霧</term>盡</Line>
+        <Line id="P1952104" order="4">萬里日星<rhyme>懸</rhyme></Line></Couplet>
+      <Couplet><Line id="P1952105" order="5"><term>大氣</term>還浮地</Line>
+        <Line id="P1952106" order="6"><term>剛風</term>本擧<rhyme>天</rhyme></Line></Couplet>
+      <Line id="P1952107" order="7">有誰窮<term>上下</term></Line>
+      <Line id="P1952108" order="8">吾欲學<term>飛<rhyme>仙</rhyme></term><Allusion id="" target="飛仙" type="D" source="蘇東坡集" chapter="前赤壁賦" originaltext="挾飛仙以遨遊 抱明月而長終"/></Line>
+</text>
+  </Poem>
+<Poem id="P19522">
+    <Metadata>
+	  <Title latent="登浩然亭 次栗谷韻">附元韻</Title>
+      <Preface></Preface>
+      <Annotation></Annotation>
+      <Collection ns0:href="glossary.xml#지천집"/>
+      <Author ns0:href="glossary.xml#황정욱"/>
+      <Form>
+        <Basetype>근체시</Basetype>
+        <Detailtype>율시</Detailtype>
+        <Charactercount>오언</Charactercount>
+    </Form>
+      <Themes>
+        <Theme category="structure" basis="title" evidence="title:浩然亭">건물</Theme>
+      </Themes>
+      <Context></Context>
+    </Metadata>
+    <text>
+      <Line id="P1952201" order="1"><term>一丘</term>專勝賞</Line>
+      <Line id="P1952202" order="2"><term>飛閣</term>架<term>危<rhyme>巓</rhyme></term></Line>
+      <Couplet><Line id="P1952203" order="3">逈壓<term>西溟</term>盡</Line>
+        <Line id="P1952204" order="4"><term>平看</term><term>北斗</term><rhyme>懸</rhyme></Line></Couplet>
+      <Couplet><Line id="P1952205" order="5">明沙斜耀日</Line>
+        <Line id="P1952206" order="6">碧岫細浮<rhyme>天</rhyme></Line></Couplet>
+      <Line id="P1952207" order="7">更得風將月</Line>
+      <Line id="P1952208" order="8"><term>應成</term><term>玉界</term><rhyme>仙</rhyme></Line>
+</text>
+  </Poem>
+<Poem id="P19523">
+    <Metadata>
+      <Title>挽<d>李德川</d><d>碩明</d></Title>
+      <Preface></Preface>
+      <Annotation></Annotation>
+      <Collection ns0:href="glossary.xml#지천집"/>
+      <Author ns0:href="glossary.xml#황정욱"/>
+      <Form>
+        <Basetype>근체시</Basetype>
+        <Detailtype>율시</Detailtype>
+        <Charactercount>오언</Charactercount>
+    </Form>
+      <Themes>
+        <Theme category="sympathy" basis="title, term" evidence="title:挽, term:不可見 淚">애상</Theme>
+      </Themes>
+      <Context></Context>
+    </Metadata>
+    <text>
+      <Line id="P1952301" order="1"><term>問學</term><term>從遊</term>早</Line>
+      <Line id="P1952302" order="2">吾知此老<rhyme>賢</rhyme></Line>
+      <Couplet><Line id="P1952303" order="3"><term>功名</term>看<term>外物</term></Line>
+        <Line id="P1952304" order="4"><term>淸白</term>是遺<rhyme>氈</rhyme><Allusion id="" target="淸白" type="D" source="楚辭" chapter="離騷" originaltext="伏淸白以死直兮 固前聖之所厚"/></Line></Couplet>
+      <Couplet><Line id="P1952305" order="5"><term>皓首</term><term>休官</term>日</Line>
+        <Line id="P1952306" order="6"><term>靑燈</term><d>讀易<rhyme>年</rhyme></d><Allusion id="" target="靑燈" type="D" source="劍南詩稿" chapter="秋夜讀書每以二鼓壺爲節" originaltext="白髮無情侵老境 靑燈有味似兒時"/><Allusion id="" target="讀易年" type="A" source="論語" chapter="述而" originaltext="加我數年 五十而學易 可以無大過矣"/></Line></Couplet>
+      <Line id="P1952307" order="7"><term>如今</term><d>不可見</d></Line>
+      <Line id="P1952308" order="8">淚盡曉<term>江<rhyme>天</rhyme></term></Line>
+</text>
+  </Poem>
+<Poem id="P19524">
+    <Metadata>
+      <Title>挽<d>李河陽</d><d>長胤</d></Title>
+      <Preface></Preface>
+      <Annotation></Annotation>
+      <Collection ns0:href="glossary.xml#지천집"/>
+      <Author ns0:href="glossary.xml#황정욱"/>
+      <Form>
+        <Basetype>근체시</Basetype>
+        <Detailtype>율시</Detailtype>
+        <Charactercount>오언</Charactercount>
+    </Form>
+      <Themes>
+        <Theme category="sympathy" basis="title, term" evidence="title:挽, term:別離 疾病 悄然 寂">애상</Theme>
+      </Themes>
+      <Context></Context>
+    </Metadata>
+    <text>
+      <Line id="P1952401" order="1"><term>散步</term>卽<term>對面</term></Line>
+      <Line id="P1952402" order="2"><term>相尋</term>不<term>命<rhyme>車</rhyme></term></Line>
+      <Couplet><Line id="P1952403" order="3"><term>別離</term>三載久</Line>
+        <Line id="P1952404" order="4"><term>疾病</term>一秋<rhyme>俄</rhyme></Line></Couplet>
+      <Couplet><Line id="P1952405" order="5"><term>濁酒</term>墻頭盡</Line>
+        <Line id="P1952406" order="6"><term>梅花</term>階上<rhyme>多</rhyme></Line></Couplet>
+      <Line id="P1952407" order="7"><term>悄然</term><term>門巷</term>寂</Line>
+      <Line id="P1952408" order="8"><term>他日</term>孰重<rhyme>過</rhyme></Line>
+</text>
+  </Poem>
+<Poem id="P19525">
+    <Metadata>
+      <Title>送<d>李夢應</d><d>濟臣</d>赴<d>北道</d><term>節度使</term></Title>
+      <Preface></Preface>
+      <Annotation></Annotation>
+      <Collection ns0:href="glossary.xml#지천집"/>
+      <Author ns0:href="glossary.xml#황정욱"/>
+      <Form>
+        <Basetype>근체시</Basetype>
+        <Detailtype>율시</Detailtype>
+        <Charactercount>오언</Charactercount>
+    </Form>
+      <Themes>
+        <Theme category="farewell" basis="title" evidence="title:送">송별</Theme>
+        <Theme category="prosper" basis="title, term" evidence="title:節度使, term:儒家 將家 文餙吏 節隨麻 得地 拜 嘉">현달</Theme>
+      </Themes>
+      <Context></Context>
+    </Metadata>
+    <text>
+      <Line id="P1952501" order="1"><term>何事</term>非吾事</Line>
+      <Line id="P1952502" order="2"><term>儒家</term>亦<term>將<rhyme>家</rhyme></term></Line>
+      <Couplet><Line id="P1952503" order="3">早從<term>文餙</term>吏</Line>
+        <Line id="P1952504" order="4">還有節隨<rhyme>麻</rhyme></Line></Couplet>
+      <Couplet><Line id="P1952505" order="5"><term>淸水</term>魚羣戲</Line>
+        <Line id="P1952506" order="6"><term>深林</term>獸<d>五<rhyme>豝</rhyme></d><Allusion id="" target="五豝" type="A" source="詩經" chapter="騶虞" originaltext="彼茁者葭 壹發五豝 于嗟乎騶虞"/></Line></Couplet>
+      <Line id="P1952507" order="7">爲仁自<term>得地</term></Line>
+      <Line id="P1952508" order="8"><term>持贈</term>拜君<rhyme>嘉</rhyme></Line>
+</text>
+  </Poem>
+<Poem id="P19526">
+    <Metadata>
+      <Title>題<d>龍湫亭</d></Title>
+      <Preface></Preface>
+      <Annotation></Annotation>
+      <Collection ns0:href="glossary.xml#지천집"/>
+      <Author ns0:href="glossary.xml#황정욱"/>
+      <Form>
+        <Basetype>근체시</Basetype>
+        <Detailtype>율시</Detailtype>
+        <Charactercount>오언</Charactercount>
+    </Form>
+      <Themes>
+        <Theme category="structure" basis="title, term" evidence="title:浩然亭, term:龍湫 鳥嶺">건물</Theme>
+        <Theme category="sympathy" basis="term" evidence="term:寒日 悲 離筵 自惜別">애상</Theme>
+        <Theme category="farewell" basis="term" evidence="term:離筵 別">송별</Theme>
+      </Themes>
+      <Context></Context>
+    </Metadata>
+    <text>
+      <Line id="P1952601" order="1">行到<d>龍湫</d>處</Line>
+      <Line id="P1952602" order="2">回攀<d>鳥嶺</d><rhyme>時</rhyme></Line>
+      <Couplet><Line id="P1952603" order="3"><term>秋風</term><term>桂子</term>落<Allusion id="" target="桂子" type="D" source="樂章集" chapter="望海潮" originaltext="有三秋桂子 十里荷花"/></Line>
+        <Line id="P1952604" order="4"><term>寒日</term><d>葉聲</d><rhyme>悲</rhyme></Line></Couplet>
+      <Couplet><Line id="P1952605" order="5">亂酌還<term>無數</term></Line>
+        <Line id="P1952606" order="6"><term>離筵</term>更作<rhyme>遲</rhyme></Line></Couplet>
+      <Line id="P1952607" order="7"><term>人生</term>自惜別</Line>
+      <Line id="P1952608" order="8">見月始能<rhyme>知</rhyme></Line>
+</text>
+  </Poem>
+<Poem id="P19527">
+    <Metadata>
+      <Title>謝<d>禹景善</d><d>性傳</d><term>來訪</term></Title>
+      <Preface></Preface>
+      <Annotation></Annotation>
+      <Collection ns0:href="glossary.xml#지천집"/>
+      <Author ns0:href="glossary.xml#황정욱"/>
+      <Form>
+        <Basetype>근체시</Basetype>
+        <Detailtype>율시</Detailtype>
+        <Charactercount>오언</Charactercount>
+    </Form>
+      <Themes>
+        <Theme category="meet" basis="title, term" evidence="title:來訪, term:知音">회방</Theme>
+      </Themes>
+      <Context></Context>
+    </Metadata>
+    <text>
+      <Line id="P1952701" order="1"><term>世路</term>何嘗爾</Line>
+      <Line id="P1952702" order="2"><term>知音</term>亦此<rhyme>中</rhyme><Allusion id="" target="知音" type="C" source="列子" chapter="湯問" originaltext="伯牙善鼓琴 鍾子期善聽 伯牙鼓琴 志在登高山 鍾子期曰 善哉 峨峨兮若泰山 志在流水 鍾子期曰 善哉 洋洋兮若江河 伯牙所念 鍾子期必得之"/></Line>
+      <Couplet><Line id="P1952703" order="3"><term>一言</term>如的破</Line>
+        <Line id="P1952704" order="4"><term>萬事</term><d>見牛</d><rhyme>空</rhyme><Allusion id="" target="見牛" type="E" source="莊子" chapter="養生主" originaltext="始臣之解牛之時 所見 無非全牛者 三年之後 未嘗見全牛也"/></Line></Couplet>
+      <Couplet><Line id="P1952705" order="5">君病甘<term>衰白</term><Allusion id="" target="衰白" type="D" source="杜工部集" chapter="收京" originaltext="生意甘衰白 天涯正寂寥"/></Line>
+        <Line id="P1952706" order="6"><term>丹心</term>保<term>始<rhyme>終</rhyme></term></Line></Couplet>
+      <Line id="P1952707" order="7">三盃經<term>起去</term></Line>
+      <Line id="P1952708" order="8">秪是負<term>春<rhyme>風</rhyme></term></Line>
+</text>
+  </Poem>
+<Poem id="P19528">
+    <Metadata>
+      <Title><term>和題</term><d>邀月堂</d></Title>
+      <Preface></Preface>
+      <Annotation>直長林浩亭子 在靈巖</Annotation>
+      <Collection ns0:href="glossary.xml#지천집"/>
+      <Author ns0:href="glossary.xml#황정욱"/>
+      <Form>
+        <Basetype>근체시</Basetype>
+        <Detailtype>율시</Detailtype>
+        <Charactercount>오언</Charactercount>
+    </Form>
+      <Themes>
+        <Theme category="tranquility" basis="term" evidence="term:明月 碧落">한적</Theme>
+        <Theme category="sympathy" basis="term" evidence="term:獨謠 白頭 佇立">애상</Theme>
+      </Themes>
+      <Context></Context>
+    </Metadata>
+    <text>
+      <Line id="P1952801" order="1"><term>明月</term>如<term>相約</term></Line>
+      <Line id="P1952802" order="2"><term>團圓</term>赴我<rhyme>邀</rhyme></Line>
+      <Couplet><Line id="P1952803" order="3">思時<term>一望</term>魄</Line>
+        <Line id="P1952804" order="4">喜極幾傾<rhyme>瓢</rhyme></Line></Couplet>
+      <Couplet><Line id="P1952805" order="5"><term>碧落</term>無<term>千里</term><Allusion id="" target="碧落" type="D" source="全唐詩" chapter="離騷" originaltext="上窮碧落下黃泉 兩處茫茫皆不見"/></Line>
+        <Line id="P1952806" order="6"><term>佳人</term>誰<term>獨<rhyme>謠</rhyme></term></Line></Couplet>
+      <Line id="P1952807" order="7"><term>白頭</term>頻<term>佇立</term><Allusion id="" target="佇立" type="A" source="詩經" chapter="燕燕" originaltext="瞻望弗及 佇立以泣"/></Line>
+      <Line id="P1952808" order="8">此意未凋<rhyme>蕭</rhyme></Line>
+</text>
+  </Poem>
+<Poem id="P19529">
+    <Metadata>
+      <Title>遊<d>白馬江</d></Title>
+      <Preface></Preface>
+      <Annotation></Annotation>
+      <Collection ns0:href="glossary.xml#지천집"/>
+      <Author ns0:href="glossary.xml#황정욱"/>
+      <Form>
+        <Basetype>근체시</Basetype>
+        <Detailtype>율시</Detailtype>
+        <Charactercount>오언</Charactercount>
+    </Form>
+      <Themes>
+        <Theme category="sympathy" basis="term" evidence="term:含恨 鎖愁 客鬢 暮景 惆悵">애상</Theme>
+        <Theme category="travel" basis="title, term" evidence="title:遊, term:徙倚 沿洄 移舟">유람</Theme>
+        <Theme category="water" basis="title, term" evidence="title:白馬江, term:沿洄 白馬灘 江流 移舟">강해</Theme>
+      </Themes>
+      <Context></Context>
+    </Metadata>
+    <text>
+      <Line id="P1952901" order="1"><term>徙倚</term><d>高蘭寺</d><Allusion id="" target="徙倚" type="D" source="楚辭" chapter="遠遊" originaltext="步徙倚而遙思兮 怊惝怳而乖懷"/></Line>
+      <Line id="P1952902" order="2"><term>沿洄</term><d>白馬</d><rhyme>灘</rhyme></Line>
+      <Couplet><Line id="P1952903" order="3">江流<term>含恨</term>去</Line>
+        <Line id="P1952904" order="4">山竹鎖愁<rhyme>殘</rhyme></Line></Couplet>
+      <Couplet><Line id="P1952905" order="5"><d>撫跡</d><term>客鬢</term>古</Line>
+        <Line id="P1952906" order="6">移舟<term>暮景</term><rhyme>寒</rhyme><Allusion id="" target="暮景" type="D" source="樊川詩集" chapter="題敬愛寺樓" originaltext="暮景千山雪 春寒百尺樓"/></Line></Couplet>
+      <Line id="P1952907" order="7"><term>尊前</term><term>多少</term>意</Line>
+      <Line id="P1952908" order="8"><term>惆悵</term>憶<term>憑<rhyme>欄</rhyme></term></Line>
+</text>
+  </Poem>
+<Poem id="P19530">
+    <Metadata>
+      <Title>挽<d>栗谷</d></Title>
+      <Preface></Preface>
+      <Annotation></Annotation>
+      <Collection ns0:href="glossary.xml#지천집"/>
+      <Author ns0:href="glossary.xml#황정욱"/>
+      <Form>
+        <Basetype>근체시</Basetype>
+        <Detailtype>율시</Detailtype>
+        <Charactercount>오언</Charactercount>
+    </Form>
+      <Themes>
+        <Theme category="sympathy" basis="title, term" evidence="title:挽, term:傷心">애상</Theme>
+        <Theme category="person" basis="title, term" evidence="title:栗谷, term:石潭 許亭">인물</Theme>
+      </Themes>
+      <Context></Context>
+    </Metadata>
+    <text>
+      <Line id="P1953001" order="1"><term>物外</term>非<term>生客</term><Allusion id="" target="物外" type="D" source="文選" chapter="歸田賦" originaltext="苟縱心於物外 安知榮辱之所如"/></Line>
+      <Line id="P1953002" order="2">塵中見<d>特<rhyme>流</rhyme></d></Line>
+      <Couplet><Line id="P1953003" order="3"><term>劇論</term><d>石潭</d>夜</Line>
+        <Line id="P1953004" order="4">共寢<d>許亭</d><rhyme>秋</rhyme></Line></Couplet>
+      <Couplet><Line id="P1953005" order="5">積黍差<term>同異</term></Line>
+        <Line id="P1953006" order="6"><term>虛舟</term>任泛<rhyme>浮</rhyme></Line></Couplet>
+      <Line id="P1953007" order="7"><term>傷心</term><d>羊叔子</d><Allusion id="" target="羊叔子" type="B" source="晉書" chapter="羊祜列傳" originaltext="望其碑者 莫不流涕 杜預因名爲墮淚碑"/></Line>
+      <Line id="P1953008" order="8"><term>不忍</term>過<term>西<rhyme>州</rhyme></term></Line>
+</text>
+  </Poem>
+<Poem id="P19531">
+    <Metadata>
+      <Title><term>贈別</term><d>松江</d>南歸</Title>
+      <Preface></Preface>
+      <Annotation>鄭公澈</Annotation>
+      <Collection ns0:href="glossary.xml#지천집"/>
+      <Author ns0:href="glossary.xml#황정욱"/>
+      <Form>
+        <Basetype>근체시</Basetype>
+        <Detailtype>율시</Detailtype>
+        <Charactercount>오언</Charactercount>
+    </Form>
+      <Themes>
+        <Theme category="farewell" basis="title, term" evidence="title:贈別, term:靈芝 別 沈約詩 停雲">송별</Theme>
+        <Theme category="sympathy" basis="term" evidence="term:停雲">애상</Theme>
+      </Themes>
+      <Context></Context>
+    </Metadata>
+    <text>
+      <Line id="P1953101" order="1">曾誦<term>靈芝</term>別<Allusion id="" target="靈芝" type="D" source="晦庵集" chapter="與李季章書" originaltext="史院同僚餞别靈芝 坐間或誦此言"/></Line>
+      <Line id="P1953102" order="2">相吟<d>沈約</d><rhyme>詩</rhyme><Allusion id="" target="沈約" type="D" source="文選" chapter="別范安成" originaltext="生平少年日 分手易前期 及爾同衰暮 非復別離時"/></Line>
+      <Couplet><Line id="P1953103" order="3"><term>古人</term>還<term>我輩</term></Line>
+        <Line id="P1953104" order="4"><term>今日</term>豈<term>當<rhyme>時</rhyme></term></Line></Couplet>
+      <Couplet><Line id="P1953105" order="5"><term>尊酒</term>難重把</Line>
+        <Line id="P1953106" order="6"><term>停雲</term><term>入望</term><rhyme>思</rhyme><Allusion id="" target="停雲" type="D" source="陶淵明集" chapter="停雲" originaltext="停雲靄靄 時雨濛濛"/></Line></Couplet>
+      <Line id="P1953107" order="7">應知<term>出關</term>氣</Line>
+      <Line id="P1953108" order="8"><term>不久</term>向秦<rhyme>移</rhyme></Line>
+</text>
+  </Poem>
+<Poem id="P19532">
+    <Metadata>
+      <Title>寄題<d>平遠堂</d>用<d>子仰</d>韻</Title>
+      <Preface></Preface>
+      <Annotation></Annotation>
+      <Collection ns0:href="glossary.xml#지천집"/>
+      <Author ns0:href="glossary.xml#황정욱"/>
+      <Form>
+        <Basetype>근체시</Basetype>
+        <Detailtype>율시</Detailtype>
+        <Charactercount>오언</Charactercount>
+    </Form>
+      <Themes>
+        <Theme category="structure" basis="title" evidence="title:平遠堂">건물</Theme>
+        <Theme category="tranquility" basis="term" evidence="term:無聲畫 風流 淸吟">한적</Theme>
+      </Themes>
+      <Context></Context>
+    </Metadata>
+    <text>
+      <Line id="P1953201" order="1"><term>勝境</term>還<term>平地</term></Line>
+      <Line id="P1953202" order="2"><term>良工</term>獨<term>苦<rhyme>心</rhyme></term><Allusion id="" target="良工" type="D" source="杜少陵詩集" chapter="題李尊師松樹障子歌" originaltext="已知仙客意相親 更覺良工心獨苦"/></Line>
+      <Couplet><Line id="P1953203" order="3">海山分<term>物色</term></Line>
+        <Line id="P1953204" order="4"><term>朝暮</term>異<term>登<rhyme>臨</rhyme></term></Line></Couplet>
+      <Couplet><Line id="P1953205" order="5"><term>會見</term><term>無聲畫</term><Allusion id="" target="無聲畫" type="D" source="文山集" chapter="翰林權直罷歸和朱約山韻" originaltext="閑雲舒卷無聲畫 醉石敲推一色棋"/></Line>
+        <Line id="P1953206" order="6">誰聞<d>不鼓<rhyme>琴</rhyme></d><Allusion id="" target="不鼓琴" type="E" source="莊子" chapter="齊物論" originaltext="無成與虧 故昭氏之不鼓琴也"/></Line></Couplet>
+      <Line id="P1953207" order="7"><term>風流</term>能管此</Line>
+      <Line id="P1953208" order="8">欲去共<term>淸<rhyme>吟</rhyme></term><Allusion id="" target="淸吟" type="D" source="白香山詩集" chapter="與夢得沽酒閒飲且約後期" originaltext="閒徵雅令窮經史 醉聽淸吟勝管弦"/></Line>
+</text>
+  </Poem>
+<Poem id="P19533">
+    <Metadata>
+      <Title><d>李監牧</d><d>有慶</d><term>來訪</term>於<d>吉州</d><term>臨別</term>贈此</Title>
+      <Preface></Preface>
+      <Annotation>二首</Annotation>
+      <Collection ns0:href="glossary.xml#지천집"/>
+      <Author ns0:href="glossary.xml#황정욱"/>
+      <Form>
+        <Basetype>근체시</Basetype>
+        <Detailtype>율시</Detailtype>
+        <Charactercount>오언</Charactercount>
+    </Form>
+      <Themes>
+        <Theme category="prosper" basis="title, term" evidence="title:監牧, term:朝廷 進退">현달</Theme>
+        <Theme category="sympathy" basis="term" evidence="term:失路 思親 荊棘 葭莩 惜 衰老 沾巾">애상</Theme>
+        <Theme category="farewell" basis="title, term" evidence="title:臨別, term:此別">송별</Theme>
+      </Themes>
+      <Context></Context>
+    </Metadata>
+    <text>
+      <Line id="P1953301" order="1"><term>草野</term><term>安危</term>計</Line>
+      <Line id="P1953302" order="2"><term>朝廷</term><term>進退</term><rhyme>身</rhyme></Line>
+      <Couplet><Line id="P1953303" order="3">一官還<term>失路</term></Line>
+        <Line id="P1953304" order="4"><term>千里</term>尙<term>思<rhyme>親</rhyme></term></Line></Couplet>
+      <Couplet><Line id="P1953305" order="5"><term>荊棘</term>投蹤遠</Line>
+        <Line id="P1953306" order="6"><term>葭莩</term>托義<rhyme>新</rhyme><Allusion id="" target="葭莩" type="B" source="漢書" chapter="中山靖王傳" originaltext="今群臣非有葭莩之親 鴻毛之重 群居黨議 朋友相爲 使夫宗室擯却 骨肉冰釋"/></Line></Couplet>
+      <Line id="P1953307" order="7"><term>春風</term>惜此別</Line>
+      <Line id="P1953308" order="8"><term>衰老</term>自<term>沾<rhyme>巾</rhyme></term></Line>
+</text>
+  </Poem>
+<Poem id="P19534">
+    <Metadata>
+	  <Title latent="李監牧有慶來訪於吉州 臨別贈此">二</Title>
+      <Preface></Preface>
+      <Annotation>二首</Annotation>
+      <Collection ns0:href="glossary.xml#지천집"/>
+      <Author ns0:href="glossary.xml#황정욱"/>
+      <Form>
+        <Basetype>근체시</Basetype>
+        <Detailtype>율시</Detailtype>
+        <Charactercount>오언</Charactercount>
+    </Form>
+      <Themes>
+        <Theme category="farewell" basis="title" evidence="title:臨別">송별</Theme>
+        <Theme category="prosper" basis="title, term" evidence="title:監牧, term:萬馬 注簿 齋郞 富國 論才">현달</Theme>
+        <Theme category="tranquility" basis="term" evidence="term:水雲鄕">한적</Theme>
+      </Themes>
+      <Context></Context>
+    </Metadata>
+    <text>
+      <Line id="P1953401" order="1">非子留<term>汧渭</term><Allusion id="" target="汧渭" type="B" source="史記" chapter="封禪書" originaltext="秦文公東獵汧渭之間 卜居之而吉"/></Line>
+      <Line id="P1953402" order="2"><term>雲屯</term>萬馬<rhyme>良</rhyme><Allusion id="" target="雲屯" type="B" source="後漢書" chapter="袁紹劉表傳贊" originaltext="魚麗漢軸 雲屯冀馬"/></Line>
+      <Couplet><Line id="P1953403" order="3">責專新<d>注簿</d></Line>
+        <Line id="P1953404" order="4"><term>名重</term>舊<term>齋<rhyme>郞</rhyme></term></Line></Couplet>
+      <Couplet><Line id="P1953405" order="5"><term>富國</term>無能數</Line>
+        <Line id="P1953406" order="6"><term>論才</term>孰許<rhyme>當</rhyme></Line></Couplet>
+      <Line id="P1953407" order="7"><term>雖然</term><term>終老</term>約</Line>
+      <Line id="P1953408" order="8"><term>結社</term><term>水雲<rhyme>鄕</rhyme></term><Allusion id="" target="水雲鄕" type="D" source="劍南詩藁" chapter="秋夜遣懷" originaltext="六年歸臥水雲鄉 本自無閑可得忙"/></Line>
+</text>
+  </Poem>
+<Poem id="P19535">
+    <Metadata>
+      <Title>題<d>麥秋亭</d></Title>
+      <Preface></Preface>
+      <Annotation></Annotation>
+      <Collection ns0:href="glossary.xml#지천집"/>
+      <Author ns0:href="glossary.xml#황정욱"/>
+      <Form>
+        <Basetype>근체시</Basetype>
+        <Detailtype>율시</Detailtype>
+        <Charactercount>오언</Charactercount>
+    </Form>
+      <Themes>
+        <Theme category="structure" basis="title, term" evidence="title:麥秋亭, term:亭榭">건물</Theme>
+        <Theme category="season" basis="title, term" evidence="title:麥秋, term:麥已熟 颯如秋 黃雲 功收">계절</Theme>
+      </Themes>
+      <Context></Context>
+    </Metadata>
+    <text>
+      <Line id="P1953501" order="1"><term>田家</term>麥已熟</Line>
+      <Line id="P1953502" order="2"><term>亭榭</term>颯如<rhyme>秋</rhyme></Line>
+      <Couplet><Line id="P1953503" order="3"><term>翠浪</term><term>隨風</term>起</Line>
+        <Line id="P1953504" order="4"><term>黃雲</term>滿地<rhyme>浮</rhyme><Allusion id="" target="黃雲" type="D" source="王荆公詩注" chapter="同陳和叔遊齊安院" originaltext="繅成白雪桑重綠 割盡黃雲稻正靑"/></Line></Couplet>
+      <Couplet><Line id="P1953505" order="5"><term>雪霜</term>凾活去</Line>
+        <Line id="P1953506" order="6"><term>炎夏</term>賽<term>功<rhyme>收</rhyme></term></Line></Couplet>
+      <Line id="P1953507" order="7"><term>帝命</term>眞詒我</Line>
+      <Line id="P1953508" order="8"><term>蒼生</term>福有<rhyme>求</rhyme><Allusion id="" target="蒼生" type="D" source="文選" chapter="出師頌" originaltext="蒼生更始 朔風變律"/></Line>
+</text>
+  </Poem>
+<Poem id="P19536">
+    <Metadata>
+      <Title>贈<d>華山</d>申劉池三老</Title>
+      <Preface></Preface>
+      <Annotation></Annotation>
+      <Collection ns0:href="glossary.xml#지천집"/>
+      <Author ns0:href="glossary.xml#황정욱"/>
+      <Form>
+        <Basetype>근체시</Basetype>
+        <Detailtype>율시</Detailtype>
+        <Charactercount>오언</Charactercount>
+    </Form>
+      <Themes>
+        <Theme category="tranquility" basis="term" evidence="term:避地 吾廬 庭 開尊 盡醉">한적</Theme>
+        <Theme category="mountain" basis="title, term" evidence="title:華山, term:牛頂岑 山 翠松 碧荔">산악</Theme>
+      </Themes>
+      <Context></Context>
+    </Metadata>
+    <text>
+      <Line id="P1953601" order="1"><term>避地</term>華不注<Allusion id="" target="避地" type="B" source="後漢書" chapter="郅惲傳" originaltext="後坐事左轉芒長 又免歸 避地教授 著書八篇"/></Line>
+      <Line id="P1953602" order="2">隔溪<d>牛頂</d><rhyme>岑</rhyme></Line>
+      <Couplet><Line id="P1953603" order="3">吾廬堪住此</Line>
+        <Line id="P1953604" order="4"><term>鄰舍</term>喜<term>相<rhyme>尋</rhyme></term></Line></Couplet>
+      <Couplet><Line id="P1953605" order="5">山擁翠松色</Line>
+        <Line id="P1953606" order="6">庭留碧荔<rhyme>陰</rhyme></Line></Couplet>
+      <Line id="P1953607" order="7"><term>開尊</term>邀共飮</Line>
+      <Line id="P1953608" order="8"><term>盡醉</term>滌<term>愁<rhyme>襟</rhyme></term><Allusion id="" target="愁襟" type="D" source="全唐詩" chapter="下第" originaltext="謾把靑春酒一杯 愁襟未信酒能開"/></Line>
+</text>
+  </Poem>
+<Poem id="P19537">
+    <Metadata>
+      <Title><d>白川</d><d>如意社</d><term>新築</term><term>小舍</term>題曰<d>八達亭</d></Title>
+      <Preface></Preface>
+      <Annotation></Annotation>
+      <Collection ns0:href="glossary.xml#지천집"/>
+      <Author ns0:href="glossary.xml#황정욱"/>
+      <Form>
+        <Basetype>근체시</Basetype>
+        <Detailtype>율시</Detailtype>
+        <Charactercount>오언</Charactercount>
+    </Form>
+      <Themes>
+        <Theme category="tranquility" basis="title, term" evidence="title:小舍, term:物外 胸襟闊 江山 一快">한적</Theme>
+      </Themes>
+      <Context></Context>
+    </Metadata>
+    <text>
+      <Line id="P1953701" order="1"><term>世事</term>不如意</Line>
+      <Line id="P1953702" order="2">何爲里<term>得<rhyme>名</rhyme></term></Line>
+      <Couplet><Line id="P1953703" order="3"><term>人間</term>皆幻安</Line>
+        <Line id="P1953704" order="4"><term>物外</term>孰<term>輸<rhyme>贏</rhyme></term><Allusion id="" target="物外" type="D" source="文選" chapter="歸田賦" originaltext="苟縱心於物外 安知榮辱之所如"/></Line></Couplet>
+      <Couplet><Line id="P1953705" order="5"><term>天地</term><term>胸襟</term>闊</Line>
+        <Line id="P1953706" order="6"><term>江山</term><term>眼界</term><rhyme>平</rhyme></Line></Couplet>
+      <Line id="P1953707" order="7"><term>吾生</term>方<term>一快</term></Line>
+      <Line id="P1953708" order="8">到此句還<rhyme>成</rhyme></Line>
+</text>
+  </Poem>
+<Poem id="P19538">
+    <Metadata>
+      <Title>次贈<d>李察訪</d><d>渭賓</d></Title>
+      <Preface></Preface>
+      <Annotation></Annotation>
+      <Collection ns0:href="glossary.xml#지천집"/>
+      <Author ns0:href="glossary.xml#황정욱"/>
+      <Form>
+        <Basetype>근체시</Basetype>
+        <Detailtype>율시</Detailtype>
+        <Charactercount>오언</Charactercount>
+    </Form>
+      <Themes>
+        <Theme category="sympathy" basis="term" evidence="term:愁 心傷 禍網">애상</Theme>
+      </Themes>
+      <Context></Context>
+    </Metadata>
+    <text>
+      <Line id="P1953801" order="1"><term>脫略</term><term>人間</term>事</Line>
+      <Line id="P1953802" order="2"><term>崢嶸</term>亂後<rhyme>愁</rhyme></Line>
+      <Couplet><Line id="P1953803" order="3"><term>心傷</term>縈<d>禍網</d></Line>
+        <Line id="P1953804" order="4">迹<term>遠駕</term>洋<rhyme>舟</rhyme><Allusion id="" target="遠駕" type="D" source="文選" chapter="宋郊祀歌" originaltext="遙興遠駕 曜曜振振"/></Line></Couplet>
+      <Couplet><Line id="P1953805" order="5">管寧在<term>前列</term></Line>
+        <Line id="P1953806" order="6"><d>師襄</d>居<term>上<rhyme>頭</rhyme></term><Allusion id="" target="師襄" type="B" source="孔子家語" chapter="辯樂解" originaltext="孔子學琴於師襄子"/></Line></Couplet>
+      <Line id="P1953807" order="7"><term>古人</term>猶可見</Line>
+      <Line id="P1953808" order="8"><term>俯仰</term>幸無<rhyme>羞</rhyme></Line>
+</text>
+  </Poem>
+<Poem id="P19539">
+    <Metadata>
+      <Title>夜坐偶占示<term>內姪</term><d>趙生</d></Title>
+      <Preface></Preface>
+      <Annotation></Annotation>
+      <Collection ns0:href="glossary.xml#지천집"/>
+      <Author ns0:href="glossary.xml#황정욱"/>
+      <Form>
+        <Basetype>근체시</Basetype>
+        <Detailtype>율시</Detailtype>
+        <Charactercount>오언</Charactercount>
+    </Form>
+      <Themes>
+        <Theme category="tranquility" basis="term" evidence="term:栗里 歸田 晩隱">한적</Theme>
+      </Themes>
+      <Context></Context>
+    </Metadata>
+    <text>
+      <Line id="P1953901" order="1"><term>栗里</term><term>歸田</term>日<Allusion id="" target="栗里" type="D" source="陶淵明集" chapter="附録" originaltext="淵明嘗往廬山 弘命淵明故人龐通之 齎酒具於半道栗里之間邀之"/></Line>
+      <Line id="P1953902" order="2"><term>王官</term>晩隱<rhyme>時</rhyme></Line>
+      <Couplet><Line id="P1953903" order="3"><term>古人</term>知<term>進退</term></Line>
+        <Line id="P1953904" order="4"><term>吾道</term>竟<term>支<rhyme>離</rhyme></term></Line></Couplet>
+      <Couplet><Line id="P1953905" order="5"><term>海內</term><term>無家</term>久</Line>
+        <Line id="P1953906" order="6"><term>南邊</term><term>報捷</term><rhyme>遲</rhyme></Line></Couplet>
+      <Line id="P1953907" order="7"><term>百年</term>餘<term>幾許</term></Line>
+      <Line id="P1953908" order="8">若命且安<rhyme>之</rhyme></Line>
+</text>
+  </Poem>
+<Poem id="P19540">
+    <Metadata>
+      <Title>贈<d>金浦</d><d>沈明府</d></Title>
+      <Preface></Preface>
+      <Annotation></Annotation>
+      <Collection ns0:href="glossary.xml#지천집"/>
+      <Author ns0:href="glossary.xml#황정욱"/>
+      <Form>
+        <Basetype>근체시</Basetype>
+        <Detailtype>율시</Detailtype>
+        <Charactercount>오언</Charactercount>
+    </Form>
+      <Themes>
+        <Theme category="donate" basis="title" evidence="title:贈">기증</Theme>
+        <Theme category="water" basis="title, term" evidence="title:金浦, term:楊花渡 舟子 津 河道">강해</Theme>
+      </Themes>
+      <Context></Context>
+    </Metadata>
+    <text>
+      <Line id="P1954001" order="1"><term>未濟</term><d>楊花渡</d></Line>
+      <Line id="P1954002" order="2"><term>招招</term><term>舟子</term><rhyme>頻</rhyme></Line>
+      <Couplet><Line id="P1954003" order="3"><term>無人</term><term>不利</term>涉</Line>
+        <Line id="P1954004" order="4">有客滯歸<rhyme>津</rhyme></Line></Couplet>
+      <Couplet><Line id="P1954005" order="5"><term>析木</term>通<term>河道</term></Line>
+        <Line id="P1954006" order="6"><term>金沙</term>出水<rhyme>垠</rhyme></Line></Couplet>
+      <Line id="P1954007" order="7"><term>邑君</term><term>珍重</term>意</Line>
+      <Line id="P1954008" order="8">都化數盃<rhyme>春</rhyme></Line>
+</text>
+  </Poem>
+<Poem id="P19541">
+    <Metadata>
+      <Title>次寄<d>李宜仲</d></Title>
+      <Preface></Preface>
+      <Annotation>二首</Annotation>
+      <Collection ns0:href="glossary.xml#지천집"/>
+      <Author ns0:href="glossary.xml#황정욱"/>
+      <Form>
+        <Basetype>근체시</Basetype>
+        <Detailtype>율시</Detailtype>
+        <Charactercount>오언</Charactercount>
+    </Form>
+      <Themes>
+        <Theme category="donate" basis="title" evidence="title:寄">기증</Theme>
+        <Theme category="sympathy" basis="term" evidence="term:孤臣 旅食 慮患 傷">애상</Theme>
+      </Themes>
+      <Context></Context>
+    </Metadata>
+    <text>
+      <Line id="P1954101" order="1"><term>報國</term>慚<term>無效</term></Line>
+      <Line id="P1954102" order="2"><term>歸田</term>恨久<rhyme>荒</rhyme></Line>
+      <Couplet><Line id="P1954103" order="3"><term>孤臣</term><term>慮患</term>切</Line>
+        <Line id="P1954104" order="4"><term>旅食</term>操音<rhyme>傷</rhyme><Allusion id="" target="旅食" type="D" source="文選補遺" chapter="北戍琅琊城" originaltext="薄暮苦羈愁 終朝傷旅食"/></Line></Couplet>
+      <Couplet><Line id="P1954105" order="5"><term>南海</term>新傳捷</Line>
+        <Line id="P1954106" order="6"><term>春風</term>好返<rhyme>鄕</rhyme></Line></Couplet>
+      <Line id="P1954107" order="7">何當共<term>握手</term></Line>
+      <Line id="P1954108" order="8"><term>懽笑</term>一<term>傾<rhyme>觴</rhyme></term></Line>
+</text>
+  </Poem>
+<Poem id="P19542">
+    <Metadata>
+	  <Title latent="次寄李宜仲">二</Title>
+      <Preface></Preface>
+      <Annotation>二首</Annotation>
+      <Collection ns0:href="glossary.xml#지천집"/>
+      <Author ns0:href="glossary.xml#황정욱"/>
+      <Form>
+        <Basetype>근체시</Basetype>
+        <Detailtype>율시</Detailtype>
+        <Charactercount>오언</Charactercount>
+    </Form>
+      <Themes>
+        <Theme category="donate" basis="title" evidence="title:寄">기증</Theme>
+      </Themes>
+      <Context></Context>
+    </Metadata>
+    <text>
+      <Line id="P1954201" order="1"><term>阿咸</term><term>結社</term>處<Allusion id="" target="阿咸" type="D" source="杜工部詩集" chapter="杜位宅守歲" originaltext="守歲阿咸家 椒盤已頌花 盍簪喧櫪馬 列炬散林鴉"/></Line>
+      <Line id="P1954202" order="2">君去<term>共棲</term><rhyme>遲</rhyme></Line>
+      <Couplet><Line id="P1954203" order="3"><term>捷報</term>爭相賀</Line>
+        <Line id="P1954204" order="4">懽聲正此<rhyme>時</rhyme></Line></Couplet>
+      <Couplet><Line id="P1954205" order="5"><d>松京</d>眞樂地</Line>
+        <Line id="P1954206" order="6"><term>萍跡</term>亦歸<rhyme>斯</rhyme><Allusion id="" target="萍跡" type="D" source="知稼翁集" chapter="春日懷王慶長" originaltext="王孫緣底事 萍跡久他鄕"/></Line></Couplet>
+      <Line id="P1954207" order="7">莫作久<term>淪落</term><Allusion id="" target="淪落" type="D" source="白居易集" chapter="琵琶行" originaltext="同是天涯淪落人 相逢何必曾相識"/></Line>
+      <Line id="P1954208" order="8">同來敍<term>喜<rhyme>悲</rhyme></term></Line>
+</text>
+  </Poem>
+<Poem id="P19543">
+    <Metadata>
+      <Title>贈<d>安演</d><term>兄弟</term></Title>
+      <Preface></Preface>
+      <Annotation></Annotation>
+      <Collection ns0:href="glossary.xml#지천집"/>
+      <Author ns0:href="glossary.xml#황정욱"/>
+      <Form>
+        <Basetype>근체시</Basetype>
+        <Detailtype>율시</Detailtype>
+        <Charactercount>오언</Charactercount>
+    </Form>
+      <Themes>
+        <Theme category="donate" basis="title" evidence="title:贈">기증</Theme>
+        <Theme category="sympathy" basis="term" evidence="term:散落 亂世 干戈 泣 途窮">애상</Theme>
+      </Themes>
+      <Context></Context>
+    </Metadata>
+    <text>
+      <Line id="P1954301" order="1"><term>淸白</term>先承相</Line>
+      <Line id="P1954302" order="2"><term>傳家</term><term>孝悌</term><rhyme>風</rhyme></Line>
+      <Couplet><Line id="P1954303" order="3">孫行今<term>散落</term></Line>
+        <Line id="P1954304" order="4"><term>亂世</term>各<term>西<rhyme>東</rhyme></term></Line></Couplet>
+      <Couplet><Line id="P1954305" order="5"><term>作善</term>嗟無報</Line>
+        <Line id="P1954306" order="6"><term>求才</term>未必<rhyme>公</rhyme></Line></Couplet>
+      <Line id="P1954307" order="7"><term>干戈</term>尙靡定</Line>
+      <Line id="P1954308" order="8">吾亦泣<term>途<rhyme>窮</rhyme></term><Allusion id="" target="途窮" type="D" source="文選" chapter="阮步兵" originaltext="物故不可論 途窮能無慟"/></Line>
+</text>
+  </Poem>
+</Corpus>

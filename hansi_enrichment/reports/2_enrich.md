@@ -1,0 +1,805 @@
+# 2단계 enrich 리포트
+
+**전체**: basetype채움:∅→근체시 12287 · theme_MainSub_제거 12168 · couplet_추가 10613 · 수구압운 9970 · rhyme_added 9925 · detailtype채움:∅→율시 7177 · theme_stub_제거 5150 · detailtype채움:∅→절구 4523 · rhyme_change 4192 · form_uncertain: 장형 — 배율/고시 평측 미검 1039 · 측성압운 (근체판정 재검토) 812 · couplet_이미존재 788 · detailtype채움:∅→배율 697 · form_uncertain: 측성압운 (고절/고시 가능) 561 · basetype채움:∅→고체시 364 · basetype_불일치:고체시(유지) vs 근체시(판정) 339 · rhyme_char_unknown 281 · detailtype채움:∅→고시 278 · detailtype_불일치:고시(유지) vs 배율(판정) 182 · charcount_불일치:칠언(유지) vs 불규칙(판정) 164 · form_uncertain: 행길이 혼재 133 · charcount_불일치:미상(유지) vs 불규칙(판정) 100 · theme_구태그_제거:Donate,Person 96 · theme_구태그_제거:Person,Sympathy 95 · theme_구태그_제거:Person 82
+
+## 고죽유고 (245수)
+- 수구압운: 121
+- couplet_추가: 98
+- basetype_불일치:고체시(유지) vs 근체시(판정): 31
+- detailtype_불일치:고시(유지) vs 배율(판정): 23
+- form_uncertain: 장형 — 배율/고시 평측 미검: 23
+- 측성압운 (근체판정 재검토): 22
+- form_uncertain: 측성압운 (고절/고시 가능): 19
+- rhyme_added: 13
+- theme_MainSub_제거: 11
+- rhyme_removed: 11
+- detailtype_불일치:고시(유지) vs 율시(판정): 7
+- basetype_불일치:근체시(유지) vs 고체시(판정): 6
+- form_uncertain: 행길이 혼재: 5
+- detailtype_불일치:율시(유지) vs 고시(판정): 4
+- rhyme_change: 3
+- basetype채움:∅→근체시: 2
+- detailtype채움:∅→절구: 2
+- detailtype_불일치:절구(유지) vs 고시(판정): 2
+- charcount_불일치:칠언(유지) vs 불규칙(판정): 2
+- detailtype_불일치:악부(유지) vs 절구(판정): 1
+- rhyme_char_unknown: 1
+- detailtype_불일치:고시(유지) vs 악부(판정): 1
+
+## 기재집 (1710수)
+- theme_MainSub_제거: 1710
+- basetype채움:∅→근체시: 1627
+- 수구압운: 993
+- rhyme_added: 993
+- couplet_추가: 972
+- detailtype채움:∅→율시: 881
+- detailtype채움:∅→절구: 655
+- rhyme_change: 556
+- detailtype채움:∅→배율: 91
+- form_uncertain: 장형 — 배율/고시 평측 미검: 91
+- basetype채움:∅→고체시: 83
+- 측성압운 (근체판정 재검토): 79
+- detailtype채움:∅→고시: 69
+- form_uncertain: 측성압운 (고절/고시 가능): 61
+- charcount_불일치:미상(유지) vs 불규칙(판정): 34
+- charcount_불일치:칠언(유지) vs 불규칙(판정): 22
+- charcount_불일치:오언(유지) vs 불규칙(판정): 16
+- rhyme_char_unknown: 13
+- detailtype채움:∅→부: 12
+- form_uncertain: 행길이 혼재: 6
+- detailtype채움:∅→사(辭): 1
+- detailtype채움:∅→악부: 1
+- charcount_불일치:미상(유지) vs 육언(판정): 1
+
+## 눌재집 (206수)
+- couplet_추가: 183
+- theme_MainSub_제거: 177
+- rhyme_added: 109
+- 수구압운: 108
+- rhyme_change: 89
+- basetype_불일치:고체시(유지) vs 근체시(판정): 36
+- form_uncertain: 장형 — 배율/고시 평측 미검: 36
+- detailtype_불일치:고시(유지) vs 배율(판정): 34
+- 측성압운 (근체판정 재검토): 17
+- rhyme_char_unknown: 9
+- form_uncertain: 측성압운 (고절/고시 가능): 6
+- form_uncertain: 행길이 혼재: 6
+- basetype채움:∅→근체시: 5
+- detailtype_불일치:고시(유지) vs 악부(판정): 3
+- detailtype채움:∅→율시: 3
+- detailtype채움:∅→배율: 2
+- detailtype_불일치:고시(유지) vs 율시(판정): 2
+- charcount_불일치:칠언(유지) vs 불규칙(판정): 2
+- detailtype_불일치:부(유지) vs 고시(판정): 1
+- rhyme_removed: 1
+- detailtype_불일치:율시(유지) vs 절구(판정): 1
+
+## 동명집 (1215수)
+- theme_MainSub_제거: 1215
+- basetype채움:∅→근체시: 1143
+- couplet_추가: 738
+- detailtype채움:∅→율시: 647
+- 수구압운: 541
+- rhyme_added: 541
+- detailtype채움:∅→절구: 405
+- rhyme_change: 317
+- detailtype채움:∅→배율: 91
+- form_uncertain: 장형 — 배율/고시 평측 미검: 91
+- 측성압운 (근체판정 재검토): 75
+- basetype채움:∅→고체시: 72
+- detailtype채움:∅→고시: 54
+- form_uncertain: 측성압운 (고절/고시 가능): 39
+- charcount_불일치:칠언(유지) vs 불규칙(판정): 35
+- detailtype채움:∅→악부: 18
+- form_uncertain: 행길이 혼재: 14
+- charcount_불일치:오언(유지) vs 불규칙(판정): 13
+- rhyme_char_unknown: 10
+- charcount_불일치:미상(유지) vs 육언(판정): 4
+- charcount_불일치:미상(유지) vs 불규칙(판정): 1
+
+## 동악집 (4644수)
+- theme_MainSub_제거: 4644
+- basetype채움:∅→근체시: 4575
+- couplet_추가: 2894
+- detailtype채움:∅→율시: 2788
+- 수구압운: 2725
+- rhyme_added: 2725
+- detailtype채움:∅→절구: 1681
+- rhyme_change: 761
+- 측성압운 (근체판정 재검토): 133
+- detailtype채움:∅→배율: 106
+- form_uncertain: 장형 — 배율/고시 평측 미검: 106
+- form_uncertain: 측성압운 (고절/고시 가능): 100
+- basetype채움:∅→고체시: 69
+- detailtype채움:∅→고시: 66
+- rhyme_char_unknown: 29
+- charcount_불일치:칠언(유지) vs 불규칙(판정): 25
+- charcount_불일치:미상(유지) vs 불규칙(판정): 20
+- form_uncertain: 행길이 혼재: 13
+- charcount_불일치:오언(유지) vs 불규칙(판정): 7
+- charcount_불일치:미상(유지) vs 육언(판정): 5
+- detailtype채움:∅→부: 2
+- detailtype채움:∅→사(詞): 1
+
+## 성소부부고 (570수)
+- theme_stub_제거: 987
+- 수구압운: 330
+- rhyme_added: 330
+- basetype채움:∅→근체시: 299
+- couplet_추가: 289
+- detailtype채움:∅→절구: 187
+- rhyme_change: 151
+- detailtype채움:∅→율시: 86
+- form_uncertain: 장형 — 배율/고시 평측 미검: 60
+- detailtype채움:∅→배율: 26
+- basetype채움:∅→고체시: 26
+- 측성압운 (근체판정 재검토): 25
+- detailtype채움:∅→고시: 17
+- rhyme_char_unknown: 11
+- form_uncertain: 행길이 혼재: 11
+- charcount_불일치:미상(유지) vs 불규칙(판정): 10
+- charcount_불일치:칠언(유지) vs 불규칙(판정): 9
+- form_uncertain: 측성압운 (고절/고시 가능): 7
+- detailtype채움:∅→악부: 4
+- charcount_불일치:미상(유지) vs 육언(판정): 4
+- detailtype채움:∅→부: 4
+- basetype_불일치:근체시(유지) vs 고체시(판정): 3
+- charcount_불일치:오언(유지) vs 불규칙(판정): 3
+- detailtype_불일치:절구(유지) vs 고시(판정): 1
+- detailtype_불일치:율시(유지) vs 고시(판정): 1
+- charcount채움:∅→오언: 1
+- detailtype_불일치:배율(유지) vs 고시(판정): 1
+- detailtype채움:∅→사(辭): 1
+- charcount_불일치:미상(유지) vs 오언(판정): 1
+
+## 소재집 (1529수)
+- theme_stub_제거: 3776
+- basetype채움:∅→근체시: 1226
+- couplet_추가: 1152
+- detailtype채움:∅→율시: 847
+- rhyme_added: 455
+- 수구압운: 453
+- detailtype채움:∅→절구: 274
+- rhyme_change: 215
+- form_uncertain: 장형 — 배율/고시 평측 미검: 129
+- detailtype채움:∅→배율: 107
+- rhyme_char_unknown: 83
+- 측성압운 (근체판정 재검토): 63
+- form_uncertain: 측성압운 (고절/고시 가능): 38
+- basetype채움:∅→고체시: 25
+- detailtype채움:∅→고시: 23
+- detailtype_불일치:장편(유지) vs 배율(판정): 22
+- form_uncertain: 행길이 혼재: 16
+- charcount_불일치:오언(유지) vs 불규칙(판정): 6
+- charcount_불일치:미상(유지) vs 불규칙(판정): 4
+- basetype_불일치:근체시(유지) vs 고체시(판정): 4
+- detailtype채움:∅→부: 3
+- charcount_불일치:칠언(유지) vs 불규칙(판정): 3
+- detailtype_불일치:율시(유지) vs 고시(판정): 3
+- basetype_불일치:고시(유지) vs 근체시(판정): 2
+- rhyme_removed: 1
+- charcount_불일치:오칠언(유지) vs 오언(판정): 1
+- basetype_불일치:고시(유지) vs 고체시(판정): 1
+- detailtype_불일치:장편(유지) vs 고시(판정): 1
+
+## 손곡시집 (368수)
+- theme_MainSub_제거: 260
+- basetype채움:∅→근체시: 258
+- detailtype채움:∅→절구: 205
+- 수구압운: 186
+- rhyme_added: 179
+- couplet_이미존재: 78
+- couplet_추가: 74
+- detailtype채움:∅→율시: 53
+- rhyme_change: 34
+- 측성압운 (근체판정 재검토): 23
+- form_uncertain: 측성압운 (고절/고시 가능): 21
+- form_uncertain: 장형 — 배율/고시 평측 미검: 9
+- charcount_불일치:미상(유지) vs 육언(판정): 8
+- basetype_불일치:고체시(유지) vs 근체시(판정): 7
+- detailtype_불일치:고시(유지) vs 배율(판정): 5
+- rhyme_removed: 3
+- form_uncertain: 행길이 혼재: 3
+- rhyme_char_unknown: 2
+- charcount_불일치:칠언(유지) vs 불규칙(판정): 2
+- basetype채움:∅→고체시: 2
+- detailtype_불일치:고시(유지) vs 율시(판정): 1
+- detailtype_불일치:가행(유지) vs 배율(판정): 1
+- detailtype_불일치:고시(유지) vs 악부(판정): 1
+- detailtype채움:∅→악부: 1
+- detailtype_불일치:악부(유지) vs 고시(판정): 1
+- detailtype_불일치:삼오칠언(유지) vs 고시(판정): 1
+- detailtype채움:∅→고시: 1
+
+## 어우집 (507수)
+- theme_MainSub_제거: 367
+- 수구압운: 289
+- couplet_이미존재: 281
+- couplet_추가: 120
+- rhyme_added: 114
+- basetype_불일치:고체시(유지) vs 근체시(판정): 104
+- form_uncertain: 장형 — 배율/고시 평측 미검: 93
+- detailtype채움:∅→배율: 86
+- 측성압운 (근체판정 재검토): 53
+- rhyme_change: 50
+- detailtype채움:∅→율시: 40
+- form_uncertain: 측성압운 (고절/고시 가능): 34
+- basetype채움:∅→근체시: 28
+- rhyme_char_unknown: 20
+- theme_구태그_제거:Structure: 13
+- form_uncertain: 행길이 혼재: 10
+- detailtype채움:∅→절구: 9
+- charcount_불일치:칠언(유지) vs 불규칙(판정): 9
+- rhyme_removed: 7
+- detailtype_불일치:악부(유지) vs 고시(판정): 6
+- basetype_불일치:고시(유지) vs 근체시(판정): 5
+- basetype_불일치:근체시(유지) vs 고체시(판정): 4
+- detailtype_불일치:율시(유지) vs 고시(판정): 2
+- basetype채움:∅→고체시: 2
+- detailtype_불일치:절구(유지) vs 고시(판정): 2
+- detailtype_불일치:악부(유지) vs 배율(판정): 2
+- detailtype_불일치:율시(유지) vs 배율(판정): 2
+- charcount_불일치:오언(유지) vs 칠언(판정): 1
+- charcount_불일치:미상(유지) vs 불규칙(판정): 1
+- detailtype_불일치:잡체시(유지) vs 고시(판정): 1
+- detailtype_불일치:율시(유지) vs 절구(판정): 1
+- detailtype채움:∅→고시: 1
+- charcount_불일치:6언(유지) vs 육언(판정): 1
+- theme_stub_제거: 1
+
+## 오산집 (520수)
+- rhyme_added: 420
+- 수구압운: 419
+- theme_stub_제거: 353
+- couplet_추가: 332
+- theme_MainSub_제거: 256
+- couplet_이미존재: 148
+- rhyme_change: 91
+- theme_구태그_제거:Prosper: 45
+- theme_구태그_제거:Person: 38
+- form_uncertain: 장형 — 배율/고시 평측 미검: 33
+- theme_구태그_제거:Others: 27
+- theme_구태그_제거:Sympathy: 24
+- theme_구태그_제거:Donate: 18
+- theme_구태그_제거:Farewell: 17
+- rhyme_char_unknown: 16
+- theme_구태그_제거:Tranquility: 15
+- theme_구태그_제거:Meet: 12
+- basetype_불일치:근체시(유지) vs 고체시(판정): 12
+- detailtype_불일치:율시(유지) vs 고시(판정): 11
+- theme_구태그_제거:Frontier: 11
+- theme_구태그_제거:Person,Prosper: 10
+- theme_구태그_제거:Frontier,Prosper: 9
+- theme_구태그_제거:Reminiscence: 8
+- theme_구태그_제거:Season: 7
+- theme_구태그_제거:Structure: 7
+- detailtype채움:∅→율시: 7
+- rhyme_removed: 6
+- theme_구태그_제거:Frontier,Person: 6
+- basetype채움:∅→근체시: 6
+- basetype_불일치:고체시(유지) vs 근체시(판정): 5
+- detailtype_불일치:고시(유지) vs 배율(판정): 5
+- theme_구태그_제거:Object: 4
+- theme_구태그_제거:Season,Sympathy: 4
+- form_uncertain: 행길이 혼재: 4
+- theme_구태그_제거:Plant: 3
+- theme_구태그_제거:Banquet: 3
+- theme_구태그_제거:Donate,Others: 3
+- charcount_불일치:칠언(유지) vs 불규칙(판정): 2
+- 측성압운 (근체판정 재검토): 2
+- theme_구태그_제거:Picture: 2
+- theme_구태그_제거:Donate,Sympathy: 2
+- theme_구태그_제거:Water: 2
+- theme_구태그_제거:Reminiscence,Sympathy: 2
+- theme_구태그_제거:Sympathy,Tranquility: 2
+- theme_구태그_제거:Astro: 2
+- theme_구태그_제거:People: 2
+- theme_구태그_제거:Person,Reminiscence: 2
+- theme_구태그_제거:Donate,Prosper: 2
+- theme_구태그_제거:Farewell,Prosper: 2
+- theme_구태그_제거:Others,Sympathy: 2
+- theme_구태그_제거:Taoism: 2
+- theme_구태그_제거:Others,Season: 2
+- theme_구태그_제거:Buddhism,Plant,Taoism: 1
+- theme_구태그_제거:Plant,Season: 1
+- theme_구태그_제거:Donate,Person,Reminiscence: 1
+- theme_구태그_제거:Donate,Person,Prosper: 1
+- detailtype_불일치:고시(유지) vs 악부(판정): 1
+- theme_구태그_제거:Person,Reminiscence,Structure: 1
+- theme_구태그_제거:Animal: 1
+- theme_구태그_제거:Structure,Tranquility: 1
+- theme_구태그_제거:Object,Tranquility: 1
+- theme_구태그_제거:Reminiscense: 1
+- theme_구태그_제거:Sympathy,Travel: 1
+- theme_구태그_제거:Prosper,Season: 1
+- theme_구태그_제거:Travel: 1
+- theme_구태그_제거:Others,People: 1
+- theme_구태그_제거:Donate,Tranquility: 1
+- theme_구태그_제거:Banquet,Donate: 1
+- theme_구태그_제거:Person,Prosper,Tranquility: 1
+- theme_구태그_제거:Person,Propser,Tranquility: 1
+- theme_구태그_제거:Donate,Person: 1
+- theme_구태그_제거:Sympathy,Taoism: 1
+- theme_구태그_제거:Banquet,Others: 1
+- theme_구태그_제거:Donate,Meet: 1
+- theme_구태그_제거:Animal,Prosper: 1
+- theme_구태그_제거:Person,Taoism: 1
+- theme_구태그_제거:Farewell,Reminiscence: 1
+- theme_구태그_제거:Prosper,Tranquility: 1
+- theme_구태그_제거:Meet,Structure: 1
+- theme_구태그_제거:Object,Others: 1
+- theme_구태그_제거:Frontier,Others: 1
+- theme_구태그_제거:Object,Season: 1
+- theme_구태그_제거:Donate,Reminiscence: 1
+- theme_구태그_제거:Astro,Others: 1
+- detailtype_불일치:칠언(유지) vs 율시(판정): 1
+- detailtype_불일치:배율(유지) vs 고시(판정): 1
+
+## 옥봉집 (506수)
+- 수구압운: 248
+- rhyme_added: 248
+- couplet_이미존재: 110
+- couplet_추가: 34
+- 측성압운 (근체판정 재검토): 27
+- basetype_불일치:고체시(유지) vs 근체시(판정): 26
+- rhyme_change: 25
+- detailtype_불일치:고시(유지) vs 배율(판정): 23
+- form_uncertain: 장형 — 배율/고시 평측 미검: 23
+- form_uncertain: 측성압운 (고절/고시 가능): 19
+- charcount_불일치:칠언(유지) vs 불규칙(판정): 7
+- theme_MainSub_제거: 6
+- basetype_불일치:근체시(유지) vs 고체시(판정): 5
+- detailtype_불일치:절구(유지) vs 고시(판정): 5
+- rhyme_char_unknown: 4
+- form_uncertain: 행길이 혼재: 4
+- rhyme_removed: 2
+- detailtype_불일치:고시(유지) vs 율시(판정): 2
+- charcount채움:∅→오언: 1
+- detailtype_불일치:고시(유지) vs 악부(판정): 1
+- charcount채움:∅→육언: 1
+- detailtype_불일치:고시(유지) vs 절구(판정): 1
+
+## 용재집 (784수)
+- couplet_추가: 475
+- rhyme_added: 387
+- 수구압운: 346
+- theme_MainSub_제거: 288
+- theme_구태그_제거:Donate,Person: 84
+- theme_구태그_제거:Person,Sympathy: 73
+- theme_구태그_제거:Farewell,Person: 56
+- 측성압운 (근체판정 재검토): 54
+- form_uncertain: 측성압운 (고절/고시 가능): 44
+- theme_구태그_제거:Person: 44
+- detailtype_불일치:율시(유지) vs 배율(판정): 37
+- form_uncertain: 장형 — 배율/고시 평측 미검: 37
+- theme_구태그_제거:Picture,Prosper: 26
+- theme_구태그_제거:Structure: 23
+- theme_구태그_제거:Person,Prosper: 15
+- basetype_불일치:근체시(유지) vs 고체시(판정): 12
+- detailtype_불일치:율시(유지) vs 고시(판정): 12
+- theme_구태그_제거:Tranquility: 9
+- theme_구태그_제거:Banquet,Person: 9
+- theme_구태그_제거:Picture: 8
+- theme_구태그_제거:Plant: 8
+- theme_구태그_제거:Season: 7
+- rhyme_char_unknown: 6
+- theme_구태그_제거:Banquet,Plant: 6
+- theme_구태그_제거:Buddhism,Taoism: 6
+- theme_구태그_제거:Person,Taoism: 5
+- theme_구태그_제거:Prosper: 5
+- rhyme_removed: 5
+- theme_구태그_제거:Person,Plant: 4
+- theme_구태그_제거:Person,Structure,Taoism: 4
+- theme_구태그_제거:Person,Structure: 4
+- theme_구태그_제거:Sympathy: 3
+- theme_구태그_제거:Banquet: 3
+- theme_구태그_제거:Donate: 3
+- theme_구태그_제거:Person,Season: 3
+- theme_구태그_제거:Travel: 3
+- theme_구태그_제거:Reminiscence: 3
+- theme_구태그_제거:Person,Structure,Tranquility: 3
+- theme_구태그_제거:Donate,Reminiscence: 2
+- theme_구태그_제거:Plant,Structure: 2
+- theme_구태그_제거:Water: 2
+- theme_구태그_제거:Literature,Prosper: 2
+- theme_구태그_제거:Reminiscence,Season: 2
+- theme_구태그_제거:Astro: 2
+- theme_구태그_제거:Prosper,Structure: 2
+- theme_구태그_제거:Donate,Literature,Person: 2
+- theme_구태그_제거:Buddhism: 2
+- theme_구태그_제거:Astro,Season: 2
+- theme_구태그_제거:Astro,Plant: 2
+- theme_구태그_제거:Donate,Person,Structure: 2
+- theme_구태그_제거:Dream,Tranquility: 1
+- theme_구태그_제거:Donate,Prosper: 1
+- theme_구태그_제거:Prosper,Sympathy: 1
+- theme_구태그_제거:Structure,Tranquility: 1
+- theme_구태그_제거:Plant,Tranquility: 1
+- theme_구태그_제거:Animal,Prosper: 1
+- theme_구태그_제거:Banquet,Water: 1
+- theme_구태그_제거:Meet,Person: 1
+- theme_구태그_제거:Animal,Picture: 1
+- theme_구태그_제거:Person,Travel: 1
+- theme_구태그_제거:Frontier: 1
+- theme_구태그_제거:Farewell,Person,Plant: 1
+- theme_구태그_제거:Mountain,Person: 1
+- theme_구태그_제거:Prosper,Season: 1
+- theme_구태그_제거:Picture,Tranquility: 1
+- theme_구태그_제거:Prosper,Travel: 1
+- theme_구태그_제거:Astro,Donate: 1
+- theme_구태그_제거:Animal: 1
+- theme_구태그_제거:Astro,Person: 1
+- theme_구태그_제거:Season,Water: 1
+- form_uncertain: 행길이 혼재: 1
+
+## 읍취헌유고 (259수)
+- rhyme_added: 222
+- couplet_추가: 205
+- basetype_불일치:고체시(유지) vs 근체시(판정): 64
+- 수구압운: 52
+- detailtype_불일치:고시(유지) vs 배율(판정): 42
+- form_uncertain: 장형 — 배율/고시 평측 미검: 42
+- rhyme_change: 40
+- 측성압운 (근체판정 재검토): 36
+- detailtype_불일치:연구(유지) vs 율시(판정): 28
+- detailtype_불일치:고시(유지) vs 율시(판정): 22
+- form_uncertain: 측성압운 (고절/고시 가능): 16
+- theme_구태그_제거:Farewell: 6
+- rhyme_char_unknown: 6
+- theme_구태그_제거:Travel: 6
+- theme_구태그_제거:Donate: 5
+- form_uncertain: 행길이 혼재: 3
+- theme_구태그_제거:Buddhism,Reminiscence,Travel: 3
+- theme_구태그_제거:Donate,Person: 3
+- theme_구태그_제거:Astro,Donate: 2
+- theme_구태그_제거:Season,Taoism: 1
+- charcount_불일치:사언(유지) vs 불규칙(판정): 1
+- theme_구태그_제거:Buddhism,Travel: 1
+- theme_구태그_제거:Mountain,Reminiscence,Travel: 1
+- theme_구태그_제거:Astro,Travel: 1
+- theme_구태그_제거:Donate,Tranquility: 1
+- theme_구태그_제거:Donate,Picture: 1
+- theme_구태그_제거:Donate,Others: 1
+- theme_구태그_제거:Travel,Water: 1
+- theme_구태그_제거:Person,Season: 1
+- theme_구태그_제거:Season,Travel: 1
+- theme_구태그_제거:Banquet,Person: 1
+- charcount_불일치:칠언(유지) vs 불규칙(판정): 1
+- basetype_불일치:근체시(유지) vs 고체시(판정): 1
+- detailtype_불일치:율시(유지) vs 고시(판정): 1
+- detailtype_불일치:연구(유지) vs 절구(판정): 1
+
+## 임백호집 (723수)
+- rhyme_added: 499
+- 수구압운: 396
+- couplet_추가: 343
+- rhyme_change: 133
+- 측성압운 (근체판정 재검토): 53
+- form_uncertain: 측성압운 (고절/고시 가능): 43
+- form_uncertain: 장형 — 배율/고시 평측 미검: 37
+- basetype_불일치:고체시(유지) vs 근체시(판정): 24
+- detailtype_불일치:고시(유지) vs 배율(판정): 21
+- form_uncertain: 행길이 혼재: 5
+- rhyme_char_unknown: 4
+- charcount_불일치:칠언(유지) vs 불규칙(판정): 4
+- charcount_불일치:오언(유지) vs 불규칙(판정): 3
+- basetype_불일치:근체시(유지) vs 고체시(판정): 3
+- detailtype_불일치:절구(유지) vs 고시(판정): 3
+- couplet_이미존재: 3
+- rhyme_removed: 3
+- detailtype_불일치:고시(유지) vs 악부(판정): 3
+- detailtype_불일치:고시(유지) vs 율시(판정): 2
+- charcount_불일치:불규칙(유지) vs 오언(판정): 1
+- detailtype_불일치:고시(유지) vs 절구(판정): 1
+- detailtype_불일치:칠언(유지) vs 절구(판정): 1
+- detailtype_불일치:고시(유지) vs 사(詞)(판정): 1
+
+## 지봉집 (462수)
+- 수구압운: 247
+- rhyme_added: 247
+- couplet_이미존재: 116
+- couplet_추가: 94
+- form_uncertain: 측성압운 (고절/고시 가능): 32
+- 측성압운 (근체판정 재검토): 32
+- basetype채움:∅→근체시: 29
+- theme_구태그_제거:Astro: 22
+- theme_MainSub_제거: 22
+- detailtype채움:∅→율시: 22
+- theme_구태그_제거:Buddhism: 7
+- detailtype채움:∅→절구: 7
+- theme_구태그_제거:Dream: 5
+- theme_구태그_제거:Picture: 4
+- basetype_불일치:근체시(유지) vs 고체시(판정): 2
+- form_uncertain: 행길이 혼재: 2
+- theme_stub_제거: 2
+- theme_구태그_제거:Buddhism,Picture: 1
+- charcount_불일치:오언(유지) vs 불규칙(판정): 1
+- detailtype_불일치:절구(유지) vs 고시(판정): 1
+- rhyme_removed: 1
+- charcount_불일치:칠언(유지) vs 불규칙(판정): 1
+- detailtype_불일치:절구(유지) vs 잡체시(판정): 1
+
+## 지천집 (119수)
+- 수구압운: 67
+- rhyme_added: 36
+- theme_stub_제거: 31
+- couplet_추가: 31
+- basetype채움:∅→근체시: 6
+- detailtype채움:∅→절구: 6
+- form_uncertain: 측성압운 (고절/고시 가능): 3
+- 측성압운 (근체판정 재검토): 3
+- rhyme_char_unknown: 1
+
+## 현곡집 (744수)
+- couplet_추가: 653
+- rhyme_added: 511
+- 수구압운: 506
+- theme_MainSub_제거: 192
+- rhyme_change: 185
+- basetype채움:∅→근체시: 146
+- detailtype채움:∅→절구: 80
+- form_uncertain: 장형 — 배율/고시 평측 미검: 53
+- detailtype채움:∅→율시: 49
+- basetype_불일치:고체시(유지) vs 근체시(판정): 37
+- 측성압운 (근체판정 재검토): 28
+- detailtype_불일치:고시(유지) vs 배율(판정): 25
+- theme_구태그_제거:Person,Sympathy: 22
+- detailtype채움:∅→배율: 17
+- theme_구태그_제거:Donate,Sympathy: 15
+- form_uncertain: 측성압운 (고절/고시 가능): 15
+- rhyme_char_unknown: 12
+- detailtype_불일치:고시(유지) vs 율시(판정): 12
+- theme_구태그_제거:Person,Reminiscence,Sympathy: 11
+- theme_구태그_제거:Donate,Person,Sympathy: 9
+- theme_구태그_제거:Frontier,Person,Sympathy: 9
+- theme_구태그_제거:Donate,Person: 8
+- theme_구태그_제거:Season,Sympathy: 8
+- rhyme_removed: 7
+- theme_구태그_제거:Sympathy: 7
+- theme_구태그_제거:Mountain,Travel: 7
+- theme_구태그_제거:Reminiscence: 5
+- theme_구태그_제거:Season,Tranquility: 5
+- theme_구태그_제거:Reminiscence,Structure,Sympathy: 5
+- theme_구태그_제거:Season,Structure: 4
+- theme_구태그_제거:Donate,Season,Sympathy: 4
+- theme_구태그_제거:Season,Travel: 4
+- theme_구태그_제거:Season,Sympathy,Travel: 4
+- theme_구태그_제거:Farewell,Person,Sympathy: 4
+- theme_구태그_제거:Donate,Meet,Sympathy: 4
+- theme_구태그_제거:Frontier,Reminiscence,Structure: 4
+- theme_구태그_제거:Donate,Sympathy,Travel: 4
+- charcount_불일치:미상(유지) vs 육언(판정): 4
+- detailtype_불일치:부(賦)(유지) vs 부(판정): 3
+- theme_구태그_제거:Donate,Tranquility: 3
+- theme_구태그_제거:Donate,Person,Reminiscence: 3
+- theme_구태그_제거:Frontier: 3
+- theme_구태그_제거:Donate,Meet,Person: 3
+- theme_구태그_제거:Meet,Tranquility: 3
+- theme_구태그_제거:Structure: 3
+- theme_구태그_제거:Structure,Taoism: 3
+- form_uncertain: 행길이 혼재: 3
+- theme_구태그_제거:Season,Water: 3
+- theme_구태그_제거:Frontier,Structure: 3
+- theme_구태그_제거:Farewell,Sympathy: 3
+- theme_구태그_제거:Literature,Person,Sympathy: 3
+- theme_구태그_제거:Mountain,Travel,Water: 3
+- theme_구태그_제거:Banquet,Sympathy: 3
+- theme_구태그_제거:Donate,Literature,Person: 3
+- theme_구태그_제거:Person,Reminiscence: 3
+- theme_구태그_제거:Sympathy,Tranquility: 3
+- theme_구태그_제거:Donate,Person,Season: 2
+- theme_구태그_제거:Donate: 2
+- theme_구태그_제거:Buddhism,Mountain,Travel: 2
+- theme_구태그_제거:Donate,Person,Tranquility: 2
+- theme_구태그_제거:Donate,Taoism: 2
+- charcount_불일치:칠언(유지) vs 불규칙(판정): 2
+- theme_구태그_제거:Travel: 2
+- theme_구태그_제거:Buddhism,Mountain: 2
+- theme_구태그_제거:Meet,Season,Sympathy: 2
+- theme_구태그_제거:Meet,Season: 2
+- theme_구태그_제거:Farewell,Person: 2
+- theme_구태그_제거:Buddhism,Reminiscence,Structure: 2
+- theme_구태그_제거:Mountain,Taoism: 2
+- theme_구태그_제거:Donate,Structure,Tranquility: 2
+- theme_구태그_제거:Banquet: 2
+- basetype_불일치:근체시(유지) vs 고체시(판정): 2
+- theme_구태그_제거:Structure,Sympathy: 2
+- theme_구태그_제거:Frontier,Mountain,Reminiscence: 2
+- theme_구태그_제거:Sympathy,Travel,Water: 2
+- theme_구태그_제거:Reminiscence,Taoism: 2
+- theme_구태그_제거:Buddhism,Structure: 2
+- theme_구태그_제거:Structure,Water: 2
+- theme_구태그_제거:Mountain,Tranquility,Travel: 2
+- theme_구태그_제거:Mountain,Reminiscence,Travel,Water: 2
+- theme_구태그_제거:Donate,Literature,Person,Travel: 2
+- theme_구태그_제거:Meet,Sympathy,Tranquility: 2
+- theme_구태그_제거:Picture: 1
+- theme_구태그_제거:Animal,Reminiscence: 1
+- theme_구태그_제거:Object,Sympathy: 1
+- theme_구태그_제거:Farewell,Frontier: 1
+- theme_구태그_제거:Dream,Structure: 1
+- theme_구태그_제거:Donate,Mountain,Person,Travel: 1
+- theme_구태그_제거:Object,Reminiscence: 1
+- theme_구태그_제거:Donate,Farewell,Person,Reminiscence: 1
+- theme_구태그_제거:Reminiscence,Sympathy: 1
+- charcount채움:∅→오언: 1
+- theme_구태그_제거:Donate,Reminiscence: 1
+- theme_구태그_제거:Banquet,Travel,Water: 1
+- theme_구태그_제거:Meet: 1
+- theme_구태그_제거:Farewell,Meet: 1
+- theme_구태그_제거:Banquet,Season: 1
+- theme_구태그_제거:Banquet,Meet,Season: 1
+- theme_구태그_제거:Farewell,Season: 1
+- theme_구태그_제거:Astro,Season: 1
+- theme_구태그_제거:Astro,Season,Water: 1
+- theme_구태그_제거:Water: 1
+- theme_구태그_제거:Farewell: 1
+- theme_구태그_제거:Banquet,Farewell: 1
+- theme_구태그_제거:Astro,Water: 1
+- theme_구태그_제거:Sympathy,Travel: 1
+- theme_구태그_제거:Literature,Tranquility: 1
+- theme_구태그_제거:Farewell,Travel: 1
+- theme_구태그_제거:Mountain,Taoism,Travel: 1
+- theme_구태그_제거:Buddhism,Sympathy,Travel: 1
+- theme_구태그_제거:Tranquility,Water: 1
+- theme_구태그_제거:Frontier,Sympathy: 1
+- theme_구태그_제거:Tranquility,Travel: 1
+- theme_구태그_제거:Buddhism,Reminiscence: 1
+- theme_구태그_제거:Animal,Mountain: 1
+- theme_구태그_제거:Taoism,Travel: 1
+- theme_구태그_제거:Buddhism,Donate,Farewell: 1
+- theme_구태그_제거:Mountain,Taoism,Tranquility: 1
+- theme_구태그_제거:Donate,Taoism,Tranquility: 1
+- theme_구태그_제거:Meet,Season,Tranquility: 1
+- theme_구태그_제거:Astro,Sympathy: 1
+- theme_구태그_제거:Astro,Meet: 1
+- theme_구태그_제거:Donate,Reminiscence,Tranquility: 1
+- theme_구태그_제거:Donate,Meet: 1
+- theme_구태그_제거:Meet,Tranquility,Travel: 1
+- theme_구태그_제거:Buddhism,Mountain,Sympathy,Travel: 1
+- theme_구태그_제거:Buddhism,Mountain,Taoism,Travel: 1
+- theme_구태그_제거:Mountain,Structure,Travel,Water: 1
+- theme_구태그_제거:Person,Reminiscence,Travel: 1
+- theme_구태그_제거:Donate,Farewell: 1
+- theme_구태그_제거:Buddhism,Meet,Person: 1
+- theme_구태그_제거:Travel,Water: 1
+- theme_구태그_제거:Season,Tranquility,Travel: 1
+- theme_구태그_제거:Reminiscence,Season,Travel: 1
+- theme_구태그_제거:Banquet,Season,Tranquility: 1
+- theme_구태그_제거:Buddhism,Donate: 1
+- theme_구태그_제거:Buddhism,Literature,Person: 1
+- theme_구태그_제거:Object: 1
+- theme_구태그_제거:Banquet,Person: 1
+- theme_구태그_제거:Banquet,Person,Sympathy: 1
+- theme_구태그_제거:Banquet,Reminiscence,Sympathy: 1
+- theme_구태그_제거:Person,Sympathy,Tranquility: 1
+- theme_구태그_제거:Farewell,Frontier,Sympathy: 1
+- theme_구태그_제거:Donate,Farewell,Prosper: 1
+- detailtype_불일치:배율(유지) vs 고시(판정): 1
+- theme_구태그_제거:Donate,Literature: 1
+- theme_구태그_제거:Banquet,Donate,Tranquility: 1
+- detailtype_불일치:율시(유지) vs 고시(판정): 1
+- theme_구태그_제거:Donate,Sympathy,Tranquility: 1
+- theme_구태그_제거:Meet,Person,Sympathy: 1
+- theme_구태그_제거:Reminiscence,Travel,Water: 1
+- theme_구태그_제거:Mountain,Reminiscence,Travel: 1
+- theme_구태그_제거:Mountain,Season,Structure,Water: 1
+- theme_구태그_제거:Banquet,Season,Structure: 1
+- theme_구태그_제거:Astro,Banquet,Structure: 1
+- theme_구태그_제거:Frontier,Meet,Person: 1
+- theme_구태그_제거:Mountain,Reminiscence: 1
+- theme_구태그_제거:Frontier,Travel: 1
+- theme_구태그_제거:Mountain,Structure: 1
+- theme_구태그_제거:Frontier,Person,Reminiscence: 1
+- theme_구태그_제거:Mountain,Person,Reminiscence: 1
+- theme_구태그_제거:Reminiscence,Taoism,Water: 1
+- theme_구태그_제거:Mountain,Reminiscence,Structure,Water: 1
+- theme_구태그_제거:Mountain,Reminiscence,Taoism: 1
+- theme_구태그_제거:Structure,Travel: 1
+- theme_구태그_제거:Structure,Sympathy,Travel: 1
+- theme_구태그_제거:Banquet,Structure: 1
+- theme_구태그_제거:Astro,Structure: 1
+- theme_구태그_제거:Object,Reminiscence,Season: 1
+- theme_구태그_제거:Animal,Taoism: 1
+- theme_구태그_제거:Animal,Sympathy: 1
+- theme_구태그_제거:Season: 1
+- theme_구태그_제거:Donate,Literature,Season: 1
+- theme_구태그_제거:Dream,Person,Reminiscence,Sympathy: 1
+- theme_구태그_제거:Person,Sympathy,Travel: 1
+- theme_구태그_제거:Season,Sympathy,Tranquility: 1
+- theme_구태그_제거:Frontier,Person,Picture: 1
+- theme_구태그_제거:Buddhism,Travel: 1
+- theme_구태그_제거:Person,Tranquility: 1
+- theme_구태그_제거:Person,Structure,Tranquility: 1
+- theme_구태그_제거:Season,Structure,Tranquility: 1
+- theme_구태그_제거:Structure,Tranquility,Travel: 1
+- theme_구태그_제거:Frontier,Person,Reminiscence,Sympathy: 1
+- theme_구태그_제거:Banquet,Farewell,Reminiscence: 1
+- theme_구태그_제거:Astro,Tranquility,Water: 1
+- theme_구태그_제거:Sympathy,Tranquility,Water: 1
+- theme_구태그_제거:Farewell,Person,Prosper,Water: 1
+- theme_구태그_제거:Farewell,Water: 1
+- theme_구태그_제거:Buddhism,Mountain,Taoism,Travel,Water: 1
+- theme_구태그_제거:Buddhism,Reminiscence,Travel: 1
+- theme_구태그_제거:Buddhism,Structure,Taoism,Travel: 1
+- theme_구태그_제거:Donate,Farewell,Sympathy,Taoism: 1
+- theme_구태그_제거:Donate,Meet,Sympathy,Tranquility: 1
+- theme_구태그_제거:Buddhism,Donate,Sympathy: 1
+- theme_구태그_제거:Banquet,Donate,Farewell: 1
+- theme_구태그_제거:Taoism,Tranquility: 1
+- theme_구태그_제거:Banquet,Donate,Meet: 1
+- theme_구태그_제거:Farewell,Reminiscence,Travel: 1
+- theme_구태그_제거:Donate,Farewell,Season: 1
+- theme_구태그_제거:Astronomy,Meet,Sympathy: 1
+- theme_구태그_제거:Season,Structure,Travel: 1
+- theme_구태그_제거:Literature,Mountain,Structure,Travel: 1
+- theme_구태그_제거:Farewell,Season,Sympathy: 1
+- theme_구태그_제거:Donate,Travel: 1
+- theme_구태그_제거:Dream,Person,Sympathy: 1
+- theme_구태그_제거:Donate,Mountain,Tranquility,Water: 1
+- theme_구태그_제거:Person,Season,Sympathy: 1
+- theme_구태그_제거:Meet,Sympathy: 1
+- theme_구태그_제거:Donate,Reminiscence,Tranquility,Travel: 1
+- theme_구태그_제거:Reminiscence,Sympathy,Travel,Water: 1
+- theme_구태그_제거:Mountain,Person,Reminiscence,Travel: 1
+- theme_구태그_제거:Mountain,Person,Tranquility,Travel,Water: 1
+- theme_구태그_제거:Meet,Structure,Tranquility: 1
+- theme_구태그_제거:Astronomy,Mountain,Water: 1
+- basetype채움:∅→고체시: 1
+- detailtype채움:∅→고시: 1
+
+## 현주집 (631수)
+- rhyme_change: 1519
+- theme_MainSub_제거: 631
+- basetype채움:∅→근체시: 567
+- couplet_추가: 395
+- 수구압운: 347
+- rhyme_added: 347
+- detailtype채움:∅→율시: 305
+- detailtype채움:∅→절구: 172
+- detailtype채움:∅→배율: 90
+- form_uncertain: 장형 — 배율/고시 평측 미검: 90
+- basetype채움:∅→고체시: 64
+- rhyme_char_unknown: 34
+- 측성압운 (근체판정 재검토): 34
+- detailtype채움:∅→고시: 28
+- detailtype채움:∅→부: 28
+- charcount_불일치:칠언(유지) vs 불규칙(판정): 27
+- charcount_불일치:미상(유지) vs 불규칙(판정): 27
+- form_uncertain: 행길이 혼재: 20
+- form_uncertain: 측성압운 (고절/고시 가능): 20
+- detailtype채움:∅→악부: 6
+- charcount_불일치:오언(유지) vs 불규칙(판정): 3
+- charcount_불일치:미상(유지) vs 육언(판정): 2
+- detailtype채움:∅→사(辭): 2
+
+## 호음잡고 (2493수)
+- theme_MainSub_제거: 2389
+- basetype채움:∅→근체시: 2370
+- 수구압운: 1596
+- rhyme_added: 1549
+- couplet_추가: 1531
+- detailtype채움:∅→율시: 1449
+- detailtype채움:∅→절구: 840
+- form_uncertain: 장형 — 배율/고시 평측 미검: 86
+- detailtype채움:∅→배율: 81
+- 측성압운 (근체판정 재검토): 53
+- couplet_이미존재: 52
+- form_uncertain: 측성압운 (고절/고시 가능): 44
+- rhyme_change: 23
+- rhyme_char_unknown: 20
+- basetype채움:∅→고체시: 20
+- detailtype채움:∅→고시: 18
+- charcount_불일치:미상(유지) vs 육언(판정): 18
+- charcount_불일치:칠언(유지) vs 불규칙(판정): 11
+- form_uncertain: 행길이 혼재: 7
+- basetype_불일치:고체시(유지) vs 근체시(판정): 5
+- detailtype_불일치:고시(유지) vs 배율(판정): 4
+- charcount_불일치:오언(유지) vs 불규칙(판정): 3
+- charcount_불일치:미상(유지) vs 불규칙(판정): 3
+- rhyme_removed: 2
+- detailtype채움:∅→사(詞): 2
+- basetype_불일치:근체시(유지) vs 고체시(판정): 1
+- detailtype_불일치:절구(유지) vs 고시(판정): 1
+- charcount채움:∅→칠언: 1
+- detailtype_불일치:악부(유지) vs 배율(판정): 1

@@ -1,0 +1,1218 @@
+# 3_themes_동명집
+
+**동명집 1215수: auto 607 · judge 0 · 검수 608 · 기보유/제외 0**
+- [검수] P03158 塞下曲  (시소러스:frontier)
+- [검수] P03159 襄陽曲  (시소러스:mountain)
+- [검수] P03160 玉階怨 二首  (시소러스:sympathy)
+- [검수] P03161 玉階怨 二首 其二  (시소러스:sympathy)
+- [검수] P03162 樹中草  (시소러스:farewell)
+- [검수] P03163 相逢行  (시소러스:farewell)
+- [검수] P03164 江南曲  (시소러스:water)
+- [검수] P03165 採蓮曲  (시소러스:mountain)
+- [auto] P03166 擬越女別西施 → farewell
+- [검수] P03167 閨怨  (시소러스:sympathy)
+- [auto] P03168 送權侙子敬從軍 → farewell
+- [검수] P03169 詠李兔山皥三白堂  (시소러스:structure)
+- [검수] P03170 詠扇畫梅  (시소러스:picture)
+- [검수] P03171 登磨天嶺  (시소러스:astro)
+- [검수] P03172 望潮  (시소러스:travel)
+- [auto] P03173 送丹丘沈使君慣 → farewell
+- [auto] P03174 閑居卽事 十五首 → others
+- [auto] P03175 閑居卽事 十五首 其二 → others
+- [auto] P03176 閑居卽事 十五首 其三 → others
+- [auto] P03177 閑居卽事 十五首 其四 → others
+- [auto] P03178 閑居卽事 十五首 其五 → others
+- [검수] P03179 閑居卽事 十五首 其六  (시소러스:others)
+- [auto] P03180 閑居卽事 十五首 其七 → others
+- [검수] P03181 閑居卽事 十五首 其八  (시소러스:others)
+- [auto] P03182 閑居卽事 十五首 其九 → others
+- [auto] P03183 閑居卽事 十五首 其十 → others
+- [검수] P03184 閑居卽事 十五首 其十一  (시소러스:others)
+- [auto] P03185 閑居卽事 十五首 其十二 → others
+- [auto] P03186 閑居卽事 十五首 其十三 → others
+- [auto] P03187 閑居卽事 十五首 其十四 → others
+- [auto] P03188 閑居卽事 十五首 其十五 → others
+- [auto] P03189 送全都事德古克恒 → farewell
+- [auto] P03190 送崔知禮 → farewell
+- [검수] P03191 與李子封兄弟夜飮  (시소러스:farewell)
+- [검수] P03192 江村偶吟 二首  (시소러스:farewell)
+- [검수] P03193 江村偶吟 二首 其二  (시소러스:tranquility)
+- [검수] P03194 詠猿  (시소러스:sympathy)
+- [검수] P03195 題愼家畫壁  (시소러스:picture)
+- [검수] P03196 畫竹  (시소러스:picture)
+- [검수] P03197 曺留守文秀子實送酒  (시소러스:farewell)
+- [auto] P03198 送柳弟汝一下重試還官 → farewell
+- [검수] P03199 賀吳翮逸少登第  (시소러스:sympathy)
+- [검수] P03200 醉作  (시소러스:tranquility)
+- [검수] P03201 題徐勉仲貞履畫帖 四首  (시소러스:picture)
+- [검수] P03202 題徐勉仲貞履畫帖 四首 其二  (시소러스:picture)
+- [auto] P03203 題徐勉仲貞履畫帖 四首 其三 → picture
+- [검수] P03204 題徐勉仲貞履畫帖 四首 其四  (시소러스:picture)
+- [검수] P03205 送楓岳悟山人。兼寄李通川國耳重國 二首。  (시소러스:farewell)
+- [검수] P03206 送楓岳悟山人。兼寄李通川國耳重國 二首。 其二  (시소러스:farewell)
+- [auto] P03207 對菊。寄朴仲久長遠。 → donate
+- [auto] P03208 送姜淸風叔久柏年 → farewell
+- [검수] P03209 閔仲集酒席作  (시소러스:sympathy)
+- [auto] P03210 寄朴三陟德一吉應 → donate
+- [auto] P03211 寄白軒謪所 二首 → donate
+- [auto] P03212 寄白軒謪所 二首 其二 → donate
+- [auto] P03213 別趙胤之謪去 二首 → farewell
+- [auto] P03214 別趙胤之謪去 二首 其二 → farewell
+- [검수] P03215 醉題趙員外壁  (시소러스:picture)
+- [auto] P03216 別姜全義汝受弘益 → farewell
+- [검수] P03217 白軒求海棠寄數叢。仍次其韻。  (시소러스:donate)
+- [auto] P03218 重陽泛菊酒杯 → travel
+- [auto] P03219 題扇寄胤之謪去 → donate
+- [auto] P03220 送任察訪翰伯 → farewell
+- [auto] P03221 寄朴高城日省 → donate
+- [auto] P03222 送張京叔應一還鄕 → farewell
+- [검수] P03223 題畫帖  (시소러스:picture)
+- [auto] P03224 別姜公獻瑜出宰江界 → farewell
+- [검수] P03225 題朴李兩生書齋  (시소러스:picture)
+- [auto] P03226 題僧軸 → buddhism
+- [검수] P03227 鷺梁上。對李使君後膺飮。  (시소러스:water)
+- [auto] P03228 送崔康津攸之 → farewell
+- [auto] P03229 奉贈同春宋判書明甫 幷序 → donate
+- [검수] P03230 題李進士先慶琴  (시소러스:picture)
+- [auto] P03231 題徐勉仲貞履畫帖 → picture
+- [auto] P03232 送李通川國耳重國 → farewell
+- [auto] P03233 次崔有淵聖止見贈 → donate
+- [auto] P03234 送睦達夫兼善之燕 → farewell
+- [검수] P03235 塞上曲  (시소러스:astro)
+- [검수] P03236 塞下曲  (시소러스:frontier)
+- [검수] P03237 靑樓曲  (시소러스:structure)
+- [검수] P03238 結襪子  (시소러스:frontier)
+- [검수] P03239 楚宮詞 七首  (시소러스:frontier)
+- [검수] P03240 楚宮詞 七首 其二  (시소러스:water)
+- [검수] P03241 楚宮詞 七首 其三  (시소러스:astro)
+- [검수] P03242 楚宮詞 七首 其四  (시소러스:season)
+- [검수] P03243 楚宮詞 七首 其五  (시소러스:structure)
+- [검수] P03244 楚宮詞 七首 其六  (시소러스:sympathy)
+- [검수] P03245 楚宮詞 七首 其七  (시소러스:mountain)
+- [검수] P03246 少年行  (시소러스:travel)
+- [검수] P03247 從軍行  (시소러스:frontier)
+- [검수] P03248 閨怨 四首  (시소러스:astro)
+- [검수] P03249 閨怨 四首 其二  (시소러스:mountain)
+- [검수] P03250 閨怨 四首 其三  (시소러스:meet)
+- [검수] P03251 閨怨 四首 其四  (시소러스:sympathy)
+- [검수] P03252 明妃怨 七首  (시소러스:frontier)
+- [검수] P03253 明妃怨 七首 其二  (시소러스:sympathy)
+- [검수] P03254 明妃怨 七首 其三  (시소러스:tranquility)
+- [검수] P03255 明妃怨 七首 其四  (시소러스:prosper)
+- [검수] P03256 明妃怨 七首 其五  (시소러스:frontier)
+- [검수] P03257 明妃怨 七首 其六  (시소러스:sympathy)
+- [검수] P03258 明妃怨 七首 其七  (시소러스:sympathy)
+- [검수] P03259 宮怨  (시소러스:season)
+- [검수] P03260 俠客行 七首  (시소러스:travel)
+- [검수] P03261 俠客行 七首 其二  (시소러스:travel)
+- [검수] P03262 俠客行 七首 其三  (시소러스:travel)
+- [검수] P03263 俠客行 七首 其四  (시소러스:travel)
+- [auto] P03264 俠客行 七首 其五 → travel
+- [검수] P03265 俠客行 七首 其六  (시소러스:frontier)
+- [검수] P03266 俠客行 七首 其七  (시소러스:travel)
+- [검수] P03267 少年行  (시소러스:travel)
+- [검수] P03268 漢宮詞 十二首  (시소러스:water)
+- [검수] P03269 漢宮詞 十二首 其二  (시소러스:frontier)
+- [검수] P03270 漢宮詞 十二首 其三  (시소러스:tranquility)
+- [검수] P03271 漢宮詞 十二首 其四  (시소러스:season)
+- [검수] P03272 漢宮詞 十二首 其五  (시소러스:meet)
+- [검수] P03273 漢宮詞 十二首 其六  (시소러스:desire)
+- [검수] P03274 漢宮詞 十二首 其七  (시소러스:astro)
+- [검수] P03275 漢宮詞 十二首 其八  (시소러스:frontier)
+- [검수] P03276 漢宮詞 十二首 其九  (시소러스:season)
+- [검수] P03277 漢宮詞 十二首 其十  (시소러스:prosper)
+- [검수] P03278 漢宮詞 十二首 其十一  (시소러스:astro)
+- [검수] P03279 漢宮詞 十二首 其十二  (시소러스:sympathy)
+- [검수] P03280 吳宮詞 六首  (시소러스:banquet)
+- [검수] P03281 吳宮詞 六首 其二  (시소러스:sympathy)
+- [검수] P03282 吳宮詞 六首 其三  (시소러스:season)
+- [검수] P03283 吳宮詞 六首 其四  (시소러스:desire)
+- [검수] P03284 吳宮詞 六首 其五  (시소러스:farewell)
+- [검수] P03285 吳宮詞 六首 其六  (시소러스:tranquility)
+- [검수] P03286 採蓮曲 六首  (시소러스:water)
+- [검수] P03287 採蓮曲 六首 其二  (시소러스:sympathy)
+- [검수] P03288 採蓮曲 六首 其三  (시소러스:farewell)
+- [검수] P03289 採蓮曲 六首 其四  (시소러스:sympathy)
+- [검수] P03290 採蓮曲 六首 其五  (시소러스:plant)
+- [검수] P03291 採蓮曲 六首 其六  (시소러스:sympathy)
+- [검수] P03292 馮婕妤  (시소러스:tranquility)
+- [검수] P03293 秦宮詞  (시소러스:astro)
+- [검수] P03294 公無渡河  (시소러스:travel)
+- [검수] P03295 楊經理北征歌 十首  (시소러스:frontier)
+- [검수] P03296 楊經理北征歌 十首 其二  (시소러스:frontier)
+- [검수] P03297 楊經理北征歌 十首 其三  (시소러스:frontier)
+- [검수] P03298 楊經理北征歌 十首 其四  (시소러스:travel)
+- [검수] P03299 楊經理北征歌 十首 其五  (시소러스:frontier)
+- [검수] P03300 楊經理北征歌 十首 其六  (시소러스:travel)
+- [검수] P03301 楊經理北征歌 十首 其七  (시소러스:frontier)
+- [검수] P03302 楊經理北征歌 十首 其八  (시소러스:frontier)
+- [검수] P03303 楊經理北征歌 十首 其九  (시소러스:frontier)
+- [검수] P03304 楊經理北征歌 十首 其十  (시소러스:sympathy)
+- [auto] P03305 送李尙質子文之襄陽 → farewell
+- [auto] P03306 送人之日本 → farewell
+- [auto] P03307 送鄭大方世規朝燕 → farewell
+- [검수] P03308 郭將軍震卿戴恩堂歌 十首  (시소러스:structure)
+- [검수] P03309 郭將軍震卿戴恩堂歌 十首 其二  (시소러스:structure)
+- [검수] P03310 郭將軍震卿戴恩堂歌 十首 其三  (시소러스:structure)
+- [검수] P03311 郭將軍震卿戴恩堂歌 十首 其四  (시소러스:structure)
+- [검수] P03312 郭將軍震卿戴恩堂歌 十首 其五  (시소러스:frontier)
+- [검수] P03313 郭將軍震卿戴恩堂歌 十首 其六  (시소러스:structure)
+- [검수] P03314 郭將軍震卿戴恩堂歌 十首 其七  (시소러스:structure)
+- [검수] P03315 郭將軍震卿戴恩堂歌 十首 其八  (시소러스:structure)
+- [검수] P03316 郭將軍震卿戴恩堂歌 十首 其九  (시소러스:structure)
+- [검수] P03317 郭將軍震卿戴恩堂歌 十首 其十  (시소러스:structure)
+- [auto] P03318 白馬江懷古 七首 → reminiscence
+- [auto] P03319 白馬江懷古 七首 其二 → reminiscence
+- [auto] P03320 白馬江懷古 七首 其三 → reminiscence
+- [검수] P03321 白馬江懷古 七首 其四  (시소러스:reminiscence)
+- [auto] P03322 白馬江懷古 七首 其五 → reminiscence
+- [auto] P03323 白馬江懷古 七首 其六 → reminiscence
+- [auto] P03324 白馬江懷古 七首 其七 → reminiscence
+- [검수] P03325 龍山 七首  (시소러스:water)
+- [검수] P03326 龍山 七首 其二  (시소러스:water)
+- [검수] P03327 龍山 七首 其三  (시소러스:mountain)
+- [검수] P03328 龍山 七首 其四  (시소러스:water)
+- [검수] P03329 龍山 七首 其五  (시소러스:mountain)
+- [검수] P03330 龍山 七首 其六  (시소러스:tranquility)
+- [검수] P03331 龍山 七首 其七  (시소러스:season)
+- [검수] P03332 松都賈客詞 二首  (시소러스:mountain)
+- [검수] P03333 松都賈客詞 二首 其二  (시소러스:farewell)
+- [검수] P03334 詠古劍  (시소러스:reminiscence)
+- [auto] P03335 閑居卽事 → others
+- [검수] P03336 長安道  (시소러스:season)
+- [검수] P03337 賈客詞  (시소러스:sympathy)
+- [검수] P03338 詠白杜鵑花  (시소러스:sympathy)
+- [auto] P03339 李山圭挽 → sympathy
+- [검수] P03340 滿月臺 四首  (시소러스:structure)
+- [검수] P03341 滿月臺 四首 其二  (시소러스:sympathy)
+- [검수] P03342 滿月臺 四首 其三  (시소러스:structure)
+- [검수] P03343 滿月臺 四首 其四  (시소러스:sympathy)
+- [검수] P03344 舟過長湍 三首  (시소러스:travel)
+- [검수] P03345 舟過長湍 三首 其二  (시소러스:travel)
+- [auto] P03346 舟過長湍 三首 其三 → travel
+- [검수] P03347 碧瀾渡 二首  (시소러스:travel)
+- [auto] P03348 碧瀾渡 二首 其二 → travel
+- [검수] P03349 泊澄波渡  (시소러스:travel)
+- [auto] P03350 曉發澄波渡 → travel
+- [검수] P03351 崇義殿 二首  (시소러스:buddhism)
+- [검수] P03352 崇義殿 二首 其二  (시소러스:sympathy)
+- [검수] P03353 泛祖江。懷李文順公。  (시소러스:travel)
+- [auto] P03354 醉別子文休休 → farewell
+- [검수] P03355 天壽院  (시소러스:farewell)
+- [검수] P03356 望三角  (시소러스:astro)
+- [auto] P03357 送洪川李使君靜叔憪 → farewell
+- [검수] P03358 酒泉館。與休休飮。伻請洪安東元老命耇。  (시소러스:mountain)
+- [auto] P03359 贈李員外彬彬 → donate
+- [검수] P03360 端午帖  (시소러스:tranquility)
+- [검수] P03361 驪江樓。與韓使君會一亨甫夜飮。  (시소러스:structure)
+- [검수] P03362 別韓使君  (시소러스:farewell)
+- [검수] P03363 登朴思庵白鶴臺蒼玉屛 三首  (시소러스:tranquility)
+- [검수] P03364 登朴思庵白鶴臺蒼玉屛 三首 其二  (시소러스:sympathy)
+- [검수] P03365 登朴思庵白鶴臺蒼玉屛 三首 其三  (시소러스:sympathy)
+- [auto] P03366 別金節度俊龍 → farewell
+- [auto] P03367 贈金節度 → donate
+- [auto] P03368 別姜君白 → farewell
+- [auto] P03369 戲贈子文 → donate
+- [auto] P03370 贈暗行繡衣子文 → donate
+- [검수] P03371 萬歲橋 二首  (시소러스:farewell)
+- [검수] P03372 萬歲橋 二首 其二  (시소러스:water)
+- [검수] P03373 邊城怨曲。爲閔尙書棄妾作 四首。  (시소러스:farewell)
+- [검수] P03374 邊城怨曲。爲閔尙書棄妾作 四首。 其二  (시소러스:meet)
+- [검수] P03375 邊城怨曲。爲閔尙書棄妾作 四首。 其三  (시소러스:sympathy)
+- [검수] P03376 邊城怨曲。爲閔尙書棄妾作 四首。 其四  (시소러스:structure)
+- [검수] P03377 富寧兄弟巖  (시소러스:structure)
+- [검수] P03378 永郞湖  (시소러스:water)
+- [auto] P03379 送玄上人 二首 → farewell
+- [auto] P03380 送玄上人 二首 其二 → farewell
+- [auto] P03381 送任慈仁善伯 二首 → farewell
+- [auto] P03382 送任慈仁善伯 二首 其二 → farewell
+- [auto] P03383 碧蹄留別 → farewell
+- [auto] P03384 送淳昌兪使君善曾 → farewell
+- [검수] P03385 送沈元直𢋡。兼寄子美𪗆。  (시소러스:farewell)
+- [auto] P03386 送尹而遠鳴殷謫鏡城 四首 → farewell
+- [auto] P03387 送尹而遠鳴殷謫鏡城 四首 其二 → farewell
+- [auto] P03388 送尹而遠鳴殷謫鏡城 四首 其三 → farewell
+- [auto] P03389 送尹而遠鳴殷謫鏡城 四首 其四 → farewell
+- [auto] P03390 送鄭東萊德基維城 四首 → farewell
+- [auto] P03391 送鄭東萊德基維城 四首 其二 → farewell
+- [auto] P03392 送鄭東萊德基維城 四首 其三 → farewell
+- [auto] P03393 送鄭東萊德基維城 四首 其四 → farewell
+- [검수] P03394 送再從弟弼善震伯雷卿。兼寄瀋陽扈從諸友。  (시소러스:farewell)
+- [검수] P03395 隋城夜聞笛  (시소러스:frontier)
+- [검수] P03396 聞隣人彈琴  (시소러스:sympathy)
+- [검수] P03397 擬王子思歸曲 五首  (시소러스:sympathy)
+- [검수] P03398 擬王子思歸曲 五首 其二  (시소러스:farewell)
+- [검수] P03399 擬王子思歸曲 五首 其三  (시소러스:farewell)
+- [검수] P03400 擬王子思歸曲 五首 其四  (시소러스:farewell)
+- [검수] P03401 擬王子思歸曲 五首 其五  (시소러스:farewell)
+- [auto] P03402 次太學士尙輔令公見寄韻 二首 → donate
+- [auto] P03403 次太學士尙輔令公見寄韻 二首 其二 → donate
+- [검수] P03404 題瀟湘八景圖 洞庭秋月  (시소러스:picture)
+- [검수] P03405 題瀟湘八景圖 其二 瀟湘夜雨  (시소러스:picture)
+- [검수] P03406 題瀟湘八景圖 其三 平沙落雁  (시소러스:picture)
+- [검수] P03407 題瀟湘八景圖 其四 遠浦歸帆  (시소러스:farewell)
+- [검수] P03408 題瀟湘八景圖 其五 漁村落照  (시소러스:picture)
+- [검수] P03409 題瀟湘八景圖 其六 煙寺晩鍾  (시소러스:picture)
+- [검수] P03410 題瀟湘八景圖 其七 江天暮雪  (시소러스:astro)
+- [검수] P03411 題瀟湘八景圖 其八 山市晴嵐  (시소러스:picture)
+- [auto] P03412 送宋芚庵淵之江都 六首 → farewell
+- [auto] P03413 送宋芚庵淵之江都 六首 其二 → farewell
+- [auto] P03414 送宋芚庵淵之江都 六首 其三 → farewell
+- [auto] P03415 送宋芚庵淵之江都 六首 其四 → farewell
+- [auto] P03416 送宋芚庵淵之江都 六首 其五 → farewell
+- [auto] P03417 送宋芚庵淵之江都 六首 其六 → farewell
+- [auto] P03418 送李長水大奇 二首 → farewell
+- [auto] P03419 送李長水大奇 二首 其二 → farewell
+- [auto] P03420 送聽潮堂主人沈上舍 二首 → farewell
+- [auto] P03421 送聽潮堂主人沈上舍 二首 其二 → farewell
+- [auto] P03422 送李貳師入瀋陽 → farewell
+- [auto] P03423 送人之嶺北 → farewell
+- [auto] P03424 酒泉館。贈趙休休 四首。 → donate
+- [auto] P03425 酒泉館。贈趙休休 四首。 其二 → donate
+- [auto] P03426 酒泉館。贈趙休休 四首。 其三 → donate
+- [auto] P03427 酒泉館。贈趙休休 四首。 其四 → donate
+- [auto] P03428 留別休休 → farewell
+- [검수] P03429 戲贈金別坐忠愨  (시소러스:donate)
+- [검수] P03430 憶壺亭  (시소러스:structure)
+- [auto] P03431 寄李統制使顯達 三首 → donate
+- [auto] P03432 寄李統制使顯達 三首 其二 → donate
+- [auto] P03433 寄李統制使顯達 三首 其三 → donate
+- [검수] P03434 蓮花寺偶吟 二首  (시소러스:buddhism)
+- [검수] P03435 蓮花寺偶吟 二首 其二  (시소러스:buddhism)
+- [auto] P03436 贈元尙書 → donate
+- [auto] P03437 醉贈郭員外欽老之欽 → donate
+- [검수] P03438 唐浦亭上。別林上舍。  (시소러스:farewell)
+- [auto] P03439 別沈子美謫臨陂 → farewell
+- [검수] P03440 憶子美  (시소러스:reminiscence)
+- [auto] P03441 寄子美筆 → donate
+- [검수] P03442 寄柳使君弟汝重晉三  (시소러스:donate)
+- [auto] P03443 寄林川韓使君會一 → donate
+- [검수] P03444 贈閔使君 閔使君別妓。有昨日夜何短。今日夜何長之句。故戲作。  (시소러스:donate)
+- [검수] P03445 醉席上戲作  (시소러스:sympathy)
+- [검수] P03446 江都陪尹留守履之夜飮  (시소러스:mountain)
+- [검수] P03447 題姜汝受酒樓 二首  (시소러스:picture)
+- [검수] P03448 題姜汝受酒樓 二首 其二  (시소러스:picture)
+- [검수] P03449 題宋淳之畫帖後 四首 蘭  (시소러스:picture)
+- [검수] P03450 題宋淳之畫帖後 四首 其二 梅  (시소러스:picture)
+- [검수] P03451 題宋淳之畫帖後 四首 其三 竹  (시소러스:picture)
+- [검수] P03452 題宋淳之畫帖後 四首 其四 山水  (시소러스:picture)
+- [auto] P03453 題畫扇 → picture
+- [auto] P03454 贈俊上人 → donate
+- [검수] P03455 詠史 二首  (시소러스:reminiscence)
+- [검수] P03456 詠史 二首 其二  (시소러스:reminiscence)
+- [검수] P03457 題宋芚菴烈女傳  (시소러스:picture)
+- [검수] P03458 望水落山。懷金東峯 二首。  (시소러스:mountain)
+- [검수] P03459 望水落山。懷金東峯 二首。 其二  (시소러스:mountain)
+- [검수] P03460 櫻桃  (시소러스:mountain)
+- [검수] P03461 哭金繼緖  (시소러스:structure)
+- [auto] P03462 崔廣文挽 → sympathy
+- [검수] P03463 題友生家  (시소러스:picture)
+- [검수] P03464 過東岳宅  (시소러스:travel)
+- [검수] P03465 哭李使君彬彬 六首  (시소러스:farewell)
+- [검수] P03466 哭李使君彬彬 六首 其二  (시소러스:tranquility)
+- [검수] P03467 哭李使君彬彬 六首 其三  (시소러스:buddhism)
+- [검수] P03468 哭李使君彬彬 六首 其四  (시소러스:desire)
+- [검수] P03469 哭李使君彬彬 六首 其五  (시소러스:taoism)
+- [검수] P03470 哭李使君彬彬 六首 其六  (시소러스:reminiscence)
+- [auto] P03471 李整甫妹氏挽 → sympathy
+- [검수] P03472 金水使新羅琴 五首  (시소러스:taoism)
+- [검수] P03473 金水使新羅琴 五首 其二  (시소러스:sympathy)
+- [검수] P03474 金水使新羅琴 五首 其三  (시소러스:frontier)
+- [검수] P03475 金水使新羅琴 五首 其四  (시소러스:frontier)
+- [검수] P03476 金水使新羅琴 五首 其五  (시소러스:reminiscence)
+- [auto] P03477 呈崔相國鳴吉薦沈生之治 → donate
+- [auto] P03478 寄趙吏部胤之薦權淸河伉 → donate
+- [검수] P03479 觀濟州貢物 三首  (시소러스:taoism)
+- [검수] P03480 觀濟州貢物 三首 其二  (시소러스:tranquility)
+- [검수] P03481 觀濟州貢物 三首 其三  (시소러스:literature)
+- [검수] P03482 題宋淳之草書帖後  (시소러스:picture)
+- [검수] P03483 有感  (시소러스:sympathy)
+- [auto] P03484 積雨 → astro
+- [검수] P03485 雨晴  (시소러스:astro)
+- [검수] P03486 雨中詠苔  (시소러스:astro)
+- [검수] P03487 訪洪元九往永安家不遇  (시소러스:sympathy)
+- [검수] P03488 觀向化射獵  (시소러스:travel)
+- [검수] P03489 溫井。訪東陽尉不遇。  (시소러스:sympathy)
+- [검수] P03490 觀漲  (시소러스:astro)
+- [검수] P03491 讀道書  (시소러스:travel)
+- [auto] P03492 贈聽潮堂主人 → donate
+- [검수] P03493 洪水部送酒資  (시소러스:farewell)
+- [검수] P03494 聞權侙子敬以家貧賣宅。作詩以慰。  (시소러스:frontier)
+- [auto] P03495 送無上人之磨尼山 → farewell
+- [검수] P03496 李行遇士會酒席。次李時楳子和韻。  (시소러스:travel)
+- [auto] P03497 別江都李留守澥 二首 → farewell
+- [auto] P03498 別江都李留守澥 二首 其二 → farewell
+- [검수] P03499 題山水圖  (시소러스:picture)
+- [검수] P03500 秋懷  (시소러스:travel)
+- [검수] P03501 詠竹  (시소러스:astro)
+- [검수] P03502 苦雨  (시소러스:astro)
+- [auto] P03503 送洪直長陪璿源錄往五臺山 → farewell
+- [auto] P03504 寄湖南伯尹而遠 → donate
+- [검수] P03505 贈別秀夫 二首  (시소러스:donate)
+- [검수] P03506 贈別秀夫 二首 其二  (시소러스:donate)
+- [검수] P03507 醉愼家  (시소러스:structure)
+- [auto] P03508 寄刑部吳尙書 → donate
+- [auto] P03509 送元直謫南海 → farewell
+- [auto] P03510 呈吳尙書竹南翁 → donate
+- [auto] P03511 寄尹北伯履之仲素 → donate
+- [검수] P03512 寄元直  (시소러스:donate)
+- [auto] P03513 寄許主簿 → donate
+- [검수] P03514 天安王子城  (시소러스:structure)
+- [auto] P03515 送李君瑞應蓍謫北塞 → farewell
+- [검수] P03516 見子文詩有感  (시소러스:sympathy)
+- [검수] P03517 舟過映碧堂。寄沈子養之涵。  (시소러스:donate)
+- [검수] P03518 巴陵渡  (시소러스:water)
+- [auto] P03519 別全昌尉 二首 → farewell
+- [auto] P03520 別全昌尉 二首 其二 → farewell
+- [auto] P03521 別朴書狀德一 二首 → farewell
+- [auto] P03522 別朴書狀德一 二首 其二 → farewell
+- [auto] P03523 別朴白川仲久 二首 → farewell
+- [auto] P03524 別朴白川仲久 二首 其二 → farewell
+- [검수] P03525 平安伯朴尙之遾送酒資  (시소러스:farewell)
+- [auto] P03526 送李靈光野叟𡐔 → farewell
+- [검수] P03527 次海崇尉玄洲病中憶東溟子之作  (시소러스:sympathy)
+- [검수] P03528 次海崇尉玄洲病中憶東溟子之作 元韻  (시소러스:sympathy)
+- [auto] P03529 送金鍾城士卓元立 → farewell
+- [auto] P03530 送平安庶尹柳安世時定 → farewell
+- [auto] P03531 送金茂長大賚地南 → farewell
+- [auto] P03532 送金直長忠愨還江陵 → farewell
+- [auto] P03533 送吳江界賓羽䎙 → farewell
+- [auto] P03534 送趙胤之謫扶安 → farewell
+- [auto] P03535 別崔星州德會繼勳 → farewell
+- [auto] P03536 贈宋淳之 → donate
+- [검수] P03537 試院作 壬辰冬。一榜取三十三人。  (시소러스:astro)
+- [auto] P03538 別趙胤之 → farewell
+- [auto] P03539 李正字挽 → sympathy
+- [auto] P03540 送崔靑山 → farewell
+- [auto] P03541 胤之在扶安寄詩 → donate
+- [auto] P03542 送郭忠州欽老 → farewell
+- [auto] P03543 送南明瑞老星 → farewell
+- [검수] P03544 安興叔池上飮酒  (시소러스:travel)
+- [검수] P03545 送南漢僧  (시소러스:farewell)
+- [auto] P03546 送沈成川𢋡 → farewell
+- [auto] P03547 送留上人 二首 → farewell
+- [auto] P03548 送留上人 二首 其二 → farewell
+- [검수] P03549 題南陽友人李生家  (시소러스:picture)
+- [auto] P03550 送許三陟 → farewell
+- [검수] P03551 送洪秀才萬宗之壽春。寄曺使君守而。  (시소러스:farewell)
+- [auto] P03552 閔監察大夫人挽 → sympathy
+- [auto] P03553 錦陽尉翁主挽 → sympathy
+- [auto] P03554 題僧軸 → buddhism
+- [검수] P03555 與白軒對飮池上次韻  (시소러스:structure)
+- [auto] P03556 送保寧閔明府 → farewell
+- [auto] P03557 姜正字錫圭母氏挽 → sympathy
+- [auto] P03558 送高進士斗明之湖南 → farewell
+- [auto] P03559 送洪督郵鍾聞 → farewell
+- [auto] P03560 寄申察訪碩蕃 → donate
+- [auto] P03561 送金城南使君 → farewell
+- [auto] P03562 送金井韓督郵斗相 → farewell
+- [auto] P03563 送尹御史深以設場取才入濟州 → farewell
+- [검수] P03564 大風  (시소러스:frontier)
+- [auto] P03565 送權子敬從軍 → farewell
+- [검수] P03566 臨江節士  (시소러스:sympathy)
+- [검수] P03567 折楊柳  (시소러스:farewell)
+- [auto] P03568 發白馬 → travel
+- [검수] P03569 結客少年場行  (시소러스:travel)
+- [검수] P03570 詠史  (시소러스:reminiscence)
+- [auto] P03571 送李天章明漢之江都 → farewell
+- [auto] P03572 送梁僉使 → farewell
+- [auto] P03573 贈金齊休周 → donate
+- [검수] P03574 山水圖 二首  (시소러스:water)
+- [검수] P03575 山水圖 二首 其二  (시소러스:taoism)
+- [검수] P03576 朴節度馬  (시소러스:frontier)
+- [auto] P03577 送金大賚還鄕 → farewell
+- [auto] P03578 贈沈元直 → donate
+- [auto] P03579 送彭澤李使君儼 → farewell
+- [auto] P03580 贈李士謙行進 → donate
+- [auto] P03581 寄具子任仁重 → donate
+- [auto] P03582 送宋子深淵丈還江都 二首 → farewell
+- [auto] P03583 送宋子深淵丈還江都 二首 其二 → farewell
+- [검수] P03584 呈壺亭  (시소러스:donate)
+- [검수] P03585 過金繼緖舊居  (시소러스:travel)
+- [auto] P03586 贈朴仲說大順 → donate
+- [auto] P03587 贈元子建李子淵 → donate
+- [auto] P03588 贈朴子仲 → donate
+- [검수] P03589 春日遊中興洞 十首  (시소러스:travel)
+- [검수] P03590 春日遊中興洞 十首 其二  (시소러스:travel)
+- [검수] P03591 春日遊中興洞 十首 其三  (시소러스:travel)
+- [검수] P03592 春日遊中興洞 十首 其四  (시소러스:travel)
+- [검수] P03593 春日遊中興洞 十首 其五  (시소러스:travel)
+- [검수] P03594 春日遊中興洞 十首 其六  (시소러스:travel)
+- [검수] P03595 春日遊中興洞 十首 其七  (시소러스:travel)
+- [검수] P03596 春日遊中興洞 十首 其八  (시소러스:travel)
+- [검수] P03597 春日遊中興洞 十首 其九  (시소러스:travel)
+- [검수] P03598 春日遊中興洞 十首 其十  (시소러스:travel)
+- [auto] P03599 重遊中興洞 五首 → travel
+- [검수] P03600 重遊中興洞 五首 其二  (시소러스:travel)
+- [auto] P03601 重遊中興洞 五首 其三 → travel
+- [auto] P03602 重遊中興洞 五首 其四 → travel
+- [검수] P03603 重遊中興洞 五首 其五  (시소러스:travel)
+- [검수] P03604 宿奉恩寺  (시소러스:travel)
+- [검수] P03605 松都遇張誠甫紳  (시소러스:frontier)
+- [검수] P03606 東明王祠  (시소러스:sympathy)
+- [검수] P03607 箕子祠  (시소러스:meet)
+- [검수] P03608 檀君祠  (시소러스:buddhism)
+- [auto] P03609 郭山別宋參議駿 → farewell
+- [auto] P03610 龍灣路上逢華人。卽浙江義烏縣人也。飮酒贈余酒杯。 → donate
+- [auto] P03611 與李將軍仁慶飮解劍贈之 → donate
+- [검수] P03612 張谿谷來訪  (시소러스:meet)
+- [auto] P03613 送申碩蕃兄弟歸嶺南 → farewell
+- [검수] P03614 朝與震伯共訪趙子服飮  (시소러스:sympathy)
+- [검수] P03615 詠月沙相國淮陽詩板 二首  (시소러스:water)
+- [검수] P03616 詠月沙相國淮陽詩板 二首 其二  (시소러스:person)
+- [auto] P03617 贈洪一之柱一 → donate
+- [auto] P03618 贈李彬彬 → donate
+- [검수] P03619 無題爲全德古作  (시소러스:others)
+- [검수] P03620 謁北靑白沙相國祠  (시소러스:reminiscence)
+- [검수] P03621 上侍中臺  (시소러스:structure)
+- [검수] P03622 登磨雲嶺  (시소러스:astro)
+- [검수] P03623 磨天嶺望海 六首  (시소러스:mountain)
+- [검수] P03624 磨天嶺望海 六首 其二  (시소러스:sympathy)
+- [검수] P03625 磨天嶺望海 六首 其三  (시소러스:buddhism)
+- [검수] P03626 磨天嶺望海 六首 其四  (시소러스:mountain)
+- [검수] P03627 磨天嶺望海 六首 其五  (시소러스:astro)
+- [검수] P03628 磨天嶺望海 六首 其六  (시소러스:astro)
+- [검수] P03629 無題爲春娥作  (시소러스:others)
+- [검수] P03630 邊城夜雪。懷趙子服。  (시소러스:sympathy)
+- [auto] P03631 奉次淸陰金尙書見寄 → donate
+- [auto] P03632 奉次淸陰金尙書見寄 元韻 → donate
+- [auto] P03633 別金節度俊龍 → farewell
+- [auto] P03634 寄金節度 二首 → donate
+- [auto] P03635 寄金節度 二首 其二 → donate
+- [검수] P03636 金剛山 五首  (시소러스:mountain)
+- [검수] P03637 金剛山 五首 其二  (시소러스:mountain)
+- [검수] P03638 金剛山 五首 其三  (시소러스:mountain)
+- [검수] P03639 金剛山 五首 其四  (시소러스:taoism)
+- [검수] P03640 金剛山 五首 其五  (시소러스:mountain)
+- [검수] P03641 夜飮南節度以興舊宅 二首  (시소러스:reminiscence)
+- [검수] P03642 夜飮南節度以興舊宅 二首 其二  (시소러스:sympathy)
+- [검수] P03643 過張元帥晩舊宅 二首  (시소러스:travel)
+- [검수] P03644 過張元帥晩舊宅 二首 其二  (시소러스:travel)
+- [auto] P03645 奉送高員外傅川朝燕 → farewell
+- [auto] P03646 送東岳以追崇冊封入京 三首 → farewell
+- [auto] P03647 送東岳以追崇冊封入京 三首 其二 → farewell
+- [auto] P03648 送東岳以追崇冊封入京 三首 其三 → farewell
+- [검수] P03649 奉送壺亭朝天  (시소러스:farewell)
+- [auto] P03650 送朴員外守文朝天 → farewell
+- [검수] P03651 立春春帖字  (시소러스:season)
+- [검수] P03652 觀漲 二首  (시소러스:farewell)
+- [검수] P03653 觀漲 二首 其二  (시소러스:farewell)
+- [검수] P03654 林弟士澄溜家飮酒  (시소러스:structure)
+- [검수] P03655 憶羅夢賚萬甲 六首  (시소러스:reminiscence)
+- [검수] P03656 憶羅夢賚萬甲 六首 其二  (시소러스:reminiscence)
+- [검수] P03657 憶羅夢賚萬甲 六首 其三  (시소러스:sympathy)
+- [검수] P03658 憶羅夢賚萬甲 六首 其四  (시소러스:reminiscence)
+- [검수] P03659 憶羅夢賚萬甲 六首 其五  (시소러스:reminiscence)
+- [검수] P03660 憶羅夢賚萬甲 六首 其六  (시소러스:reminiscence)
+- [검수] P03661 閑中偶吟  (시소러스:sympathy)
+- [검수] P03662 棊局消長夏 月課  (시소러스:tranquility)
+- [검수] P03663 陪尹留守履之登江都山城 二首  (시소러스:frontier)
+- [검수] P03664 陪尹留守履之登江都山城 二首 其二  (시소러스:mountain)
+- [auto] P03665 成秀才時望江亭 十首 → structure
+- [auto] P03666 成秀才時望江亭 十首 其二 → structure
+- [auto] P03667 成秀才時望江亭 十首 其三 → structure
+- [auto] P03668 成秀才時望江亭 十首 其四 → structure
+- [검수] P03669 成秀才時望江亭 十首 其五  (시소러스:structure)
+- [auto] P03670 成秀才時望江亭 十首 其六 → structure
+- [auto] P03671 成秀才時望江亭 十首 其七 → structure
+- [auto] P03672 成秀才時望江亭 十首 其八 → structure
+- [auto] P03673 成秀才時望江亭 十首 其九 → structure
+- [auto] P03674 成秀才時望江亭 十首 其十 → structure
+- [검수] P03675 題蔡伯昌裕後江亭  (시소러스:structure)
+- [검수] P03676 遊鄭將軍山林 十首  (시소러스:travel)
+- [검수] P03677 遊鄭將軍山林 十首 其二  (시소러스:travel)
+- [검수] P03678 遊鄭將軍山林 十首 其三  (시소러스:travel)
+- [검수] P03679 遊鄭將軍山林 十首 其四  (시소러스:travel)
+- [검수] P03680 遊鄭將軍山林 十首 其五  (시소러스:travel)
+- [검수] P03681 遊鄭將軍山林 十首 其六  (시소러스:travel)
+- [검수] P03682 遊鄭將軍山林 十首 其七  (시소러스:travel)
+- [검수] P03683 遊鄭將軍山林 十首 其八  (시소러스:travel)
+- [검수] P03684 遊鄭將軍山林 十首 其九  (시소러스:travel)
+- [검수] P03685 遊鄭將軍山林 十首 其十  (시소러스:travel)
+- [검수] P03686 題申察訪草堂 二首  (시소러스:structure)
+- [검수] P03687 題申察訪草堂 二首 其二  (시소러스:structure)
+- [검수] P03688 詠荊江龍穴  (시소러스:taoism)
+- [검수] P03689 送印上人  (시소러스:farewell)
+- [검수] P03690 訪徐秀夫於天安  (시소러스:reminiscence)
+- [auto] P03691 留別秀夫兄弟 → farewell
+- [검수] P03692 望白雲臺  (시소러스:astro)
+- [검수] P03693 山寺偶吟 二首  (시소러스:buddhism)
+- [검수] P03694 山寺偶吟 二首 其二  (시소러스:mountain)
+- [검수] P03695 白鷗 二首  (시소러스:sympathy)
+- [검수] P03696 白鷗 二首 其二  (시소러스:desire)
+- [검수] P03697 江湖卽事  (시소러스:others)
+- [검수] P03698 擬王子思歸曲 四首○孝廟嘗於瀋中。有感懷詩數篇。先生聞而悲憤。作此詩。  (시소러스:farewell)
+- [검수] P03699 擬王子思歸曲 四首○孝廟嘗於瀋中。有感懷詩數篇。先生聞而悲憤。作此詩。 其二  (시소러스:farewell)
+- [검수] P03700 擬王子思歸曲 四首○孝廟嘗於瀋中。有感懷詩數篇。先生聞而悲憤。作此詩。 其三  (시소러스:sympathy)
+- [검수] P03701 擬王子思歸曲 四首○孝廟嘗於瀋中。有感懷詩數篇。先生聞而悲憤。作此詩。 其四  (시소러스:sympathy)
+- [검수] P03702 次東陽尉韻。別趙子玄 二首。  (시소러스:farewell)
+- [검수] P03703 次東陽尉韻。別趙子玄 二首。 其二  (시소러스:farewell)
+- [auto] P03704 別徐忠州秀夫 八首 → farewell
+- [auto] P03705 別徐忠州秀夫 八首 其二 → farewell
+- [auto] P03706 別徐忠州秀夫 八首 其三 → farewell
+- [auto] P03707 別徐忠州秀夫 八首 其四 → farewell
+- [auto] P03708 別徐忠州秀夫 八首 其五 → farewell
+- [auto] P03709 別徐忠州秀夫 八首 其六 → farewell
+- [auto] P03710 別徐忠州秀夫 八首 其七 → farewell
+- [auto] P03711 別徐忠州秀夫 八首 其八 → farewell
+- [auto] P03712 別日本上使尹樂天順之 二首 → farewell
+- [auto] P03713 別日本上使尹樂天順之 二首 其二 → farewell
+- [auto] P03714 別副使趙日章絅 二首 → farewell
+- [auto] P03715 別副使趙日章絅 二首 其二 → farewell
+- [auto] P03716 別書狀官申君澤濡 二首 → farewell
+- [auto] P03717 別書狀官申君澤濡 二首 其二 → farewell
+- [auto] P03718 送李說書正英赴瀋陽 二首 → farewell
+- [auto] P03719 送李說書正英赴瀋陽 二首 其二 → farewell
+- [검수] P03720 夜與李說書，朴安陰飮  (시소러스:desire)
+- [auto] P03721 送朴安陰仲久 四首 → farewell
+- [auto] P03722 送朴安陰仲久 四首 其二 → farewell
+- [auto] P03723 送朴安陰仲久 四首 其三 → farewell
+- [auto] P03724 送朴安陰仲久 四首 其四 → farewell
+- [auto] P03725 因朴安陰寄金子公得臣 → donate
+- [auto] P03726 寄朴永同景明烶 → donate
+- [auto] P03727 寄江都李留守澥 → donate
+- [auto] P03728 寄杞平君兪伯曾 四首 → donate
+- [auto] P03729 寄杞平君兪伯曾 四首 其二 → donate
+- [auto] P03730 寄杞平君兪伯曾 四首 其三 → donate
+- [검수] P03731 寄杞平君兪伯曾 四首 其四  (시소러스:donate)
+- [auto] P03732 送沈子美謫臨陂 二首 → farewell
+- [auto] P03733 送沈子美謫臨陂 二首 其二 → farewell
+- [auto] P03734 送海伯朴尙之 → farewell
+- [auto] P03735 送李靜叔入瀋陽 → farewell
+- [검수] P03736 送沈弘之。因寄李聖久。  (시소러스:farewell)
+- [auto] P03737 次閔明九見贈 → donate
+- [검수] P03738 賀鄭郞中恢遠丈以耋升資 二首  (시소러스:travel)
+- [검수] P03739 賀鄭郞中恢遠丈以耋升資 二首 其二  (시소러스:reminiscence)
+- [auto] P03740 送姜弘憲還嶺南 → farewell
+- [검수] P03741 憶張谿谷 二首  (시소러스:reminiscence)
+- [검수] P03742 憶張谿谷 二首 其二  (시소러스:sympathy)
+- [검수] P03743 貢津與韓使君飮  (시소러스:water)
+- [auto] P03744 復寄鄭郞中丈 → donate
+- [auto] P03745 送姜秀才璡之關東 → farewell
+- [auto] P03746 送申光州汝萬 二首 → farewell
+- [auto] P03747 送申光州汝萬 二首 其二 → farewell
+- [auto] P03748 寄蔡伯昌 → donate
+- [검수] P03749 上元。次前韻寄伯昌。  (시소러스:donate)
+- [auto] P03750 贈李主簿 進 → donate
+- [auto] P03751 送林東野還湖南 → farewell
+- [검수] P03752 次東岳韻。贈悅上人。  (시소러스:donate)
+- [검수] P03753 題奉恩寺圭上人軸  (시소러스:buddhism)
+- [auto] P03754 送金鍾城士卓 → farewell
+- [auto] P03755 洛東江鄭秀才求亭詩 → structure
+- [auto] P03756 贈白谷上人 二首 → donate
+- [auto] P03757 贈白谷上人 二首 其二 → donate
+- [검수] P03758 題睦參判敍欽朴淵圖  (시소러스:picture)
+- [auto] P03759 送嶺伯睦性之性善 → farewell
+- [auto] P03760 送長沙金使君大賚 二首 → farewell
+- [auto] P03761 送長沙金使君大賚 二首 其二 → farewell
+- [auto] P03762 送閔判尹聖徽之燕 二首 → farewell
+- [auto] P03763 送閔判尹聖徽之燕 二首 其二 → farewell
+- [auto] P03764 送李書狀時萬錫汝 二首 → farewell
+- [auto] P03765 送李書狀時萬錫汝 二首 其二 → farewell
+- [auto] P03766 贈趙胤之 → donate
+- [auto] P03767 送李林川倚相 → farewell
+- [auto] P03768 送月出山智上人 → farewell
+- [auto] P03769 送李善山省吾惕然 → farewell
+- [auto] P03770 送尹安陰孝直舜擧 → farewell
+- [auto] P03771 送張金化善徵 → farewell
+- [auto] P03772 送吳江界賓羽䎙 → farewell
+- [auto] P03773 送柳甲山子建 → farewell
+- [auto] P03774 送任星州翰伯 → farewell
+- [auto] P03775 送洪星州遠伯重普 → farewell
+- [auto] P03776 寄申永川湸之 → donate
+- [auto] P03777 送金永興知白素 → farewell
+- [auto] P03778 送白谷上人 二首 → farewell
+- [auto] P03779 送白谷上人 二首 其二 → farewell
+- [auto] P03780 送柳弟高原汝重晉三 → farewell
+- [auto] P03781 贈李直長觀夏 → donate
+- [auto] P03782 送李延豐聖久 → farewell
+- [검수] P03783 次鄭僉知枏壽竹松兩盆韻  (시소러스:tranquility)
+- [auto] P03784 寄趙尙書日章 → donate
+- [auto] P03785 送鄭禮卿知和隨李相國之燕 → farewell
+- [auto] P03786 送安察訪長卿汝恒 → farewell
+- [auto] P03787 贈朴尙書尙之 → donate
+- [검수] P03788 尹景先衡覺酒席作  (시소러스:farewell)
+- [검수] P03789 朴尙之送酒資  (시소러스:farewell)
+- [검수] P03790 衿陽訪胤之對飮  (시소러스:season)
+- [auto] P03791 謝松都金留守光煜寄詩惠酒 二首 → donate
+- [auto] P03792 謝松都金留守光煜寄詩惠酒 二首 其二 → donate
+- [auto] P03793 謝松都金留守光煜寄詩惠酒 二首 附竹所詩 → donate
+- [auto] P03794 送姜弟汝垂裕後宰機張郡 二首 → farewell
+- [auto] P03795 送姜弟汝垂裕後宰機張郡 二首 其二 → farewell
+- [auto] P03796 送崔結城亨叔時遇 → farewell
+- [검수] P03797 癸巳春帖字  (시소러스:reminiscence)
+- [auto] P03798 送北伯李君瑞應蓍 → farewell
+- [auto] P03799 送李公州靜叔憪 → farewell
+- [auto] P03800 送趙校理備宰任實。卽休休弟也。 → farewell
+- [검수] P03801 重陽憶趙胤之  (시소러스:sympathy)
+- [auto] P03802 聞上求言贈弼善舍弟聖瑞 → donate
+- [auto] P03803 寄申永川湸之 → donate
+- [auto] P03804 政院。有石榴結實六箇。與六承旨數合。故賦呈僚友求和。 → donate
+- [auto] P03805 雪夜憶胤之。賦詩寄洪大而 四首。 → donate
+- [auto] P03806 雪夜憶胤之。賦詩寄洪大而 四首。 其二 → donate
+- [검수] P03807 雪夜憶胤之。賦詩寄洪大而 四首。 其三  (시소러스:donate)
+- [auto] P03808 雪夜憶胤之。賦詩寄洪大而 四首。 其四 → donate
+- [검수] P03809 淨土寺。與黃子由飮。  (시소러스:buddhism)
+- [auto] P03810 送日本上使趙君獻珩 → farewell
+- [auto] P03811 送副使兪伯圭瑒 → farewell
+- [auto] P03812 送南書狀雲卿龍翼 → farewell
+- [검수] P03813 城西耆老會 幷序  (시소러스:structure)
+- [auto] P03814 寄靑霞子 隱居註參同契 → donate
+- [검수] P03815 寄丑襄陽景先  (시소러스:donate)
+- [검수] P03816 奉酬海崇尉  (시소러스:frontier)
+- [auto] P03817 送金員外壽增宰石城 → farewell
+- [검수] P03818 賀趙仲初以庭試超資入銀臺  (시소러스:travel)
+- [auto] P03819 春日。與諸友登八角亭。 → structure
+- [auto] P03820 贈宋尙書明甫 → donate
+- [auto] P03821 和權進士厚之見贈 → donate
+- [검수] P03822 寄靑霞子  (시소러스:donate)
+- [auto] P03823 別李義州士強 二首 → farewell
+- [auto] P03824 別李義州士強 二首 其二 → farewell
+- [auto] P03825 辛丑人日。奉寄同春，尤菴。 → donate
+- [auto] P03826 送南御史九萬 → farewell
+- [auto] P03827 送任吉州翰伯 → farewell
+- [auto] P03828 送趙康津䃏 → farewell
+- [auto] P03829 送文川辛使君 → farewell
+- [auto] P03830 贈李進士藼 → donate
+- [auto] P03831 贈李忠州靜叔 → donate
+- [검수] P03832 覽金淸陰相國集  (시소러스:sympathy)
+- [검수] P03833 乙巳六月。上賜同春宋尙書秋露酒。同春分我一壺。詩以爲謝。  (시소러스:season)
+- [auto] P03834 寄題洪州李使君垕近民堂 → donate
+- [auto] P03835 送南參判龍翼之燕 → farewell
+- [auto] P03836 送湖南伯呂希天 → farewell
+- [auto] P03837 穆陵遷葬挽歌 四首 → sympathy
+- [auto] P03838 穆陵遷葬挽歌 四首 其二 → sympathy
+- [auto] P03839 穆陵遷葬挽歌 四首 其三 → sympathy
+- [auto] P03840 穆陵遷葬挽歌 四首 其四 → sympathy
+- [auto] P03841 仁穆王后挽歌 三首 → sympathy
+- [auto] P03842 仁穆王后挽歌 三首 其二 → sympathy
+- [auto] P03843 仁穆王后挽歌 三首 其三 → sympathy
+- [auto] P03844 仁烈王后挽歌 三首 → sympathy
+- [auto] P03845 仁烈王后挽歌 三首 其二 → sympathy
+- [auto] P03846 仁烈王后挽歌 三首 其三 → sympathy
+- [auto] P03847 昭顯世子挽歌 三首○代作 → sympathy
+- [auto] P03848 昭顯世子挽歌 三首○代作 其二 → sympathy
+- [auto] P03849 昭顯世子挽歌 三首○代作 其三 → sympathy
+- [auto] P03850 仁祖大王挽歌 四首 → sympathy
+- [auto] P03851 仁祖大王挽歌 四首 其二 → sympathy
+- [auto] P03852 仁祖大王挽歌 四首 其三 → sympathy
+- [auto] P03853 仁祖大王挽歌 四首 其四 → sympathy
+- [auto] P03854 孝宗大王挽歌 七首 → sympathy
+- [auto] P03855 孝宗大王挽歌 七首 其二 → sympathy
+- [auto] P03856 孝宗大王挽歌 七首 其三 → sympathy
+- [auto] P03857 孝宗大王挽歌 七首 其四 → sympathy
+- [auto] P03858 孝宗大王挽歌 七首 其五 → sympathy
+- [auto] P03859 孝宗大王挽歌 七首 其六 → sympathy
+- [auto] P03860 孝宗大王挽歌 七首 其七 → sympathy
+- [auto] P03861 延平府院君挽 五首 → sympathy
+- [auto] P03862 延平府院君挽 五首 其二 → sympathy
+- [auto] P03863 延平府院君挽 五首 其三 → sympathy
+- [auto] P03864 延平府院君挽 五首 其四 → sympathy
+- [auto] P03865 延平府院君挽 五首 其五 → sympathy
+- [auto] P03866 延平遷葬挽 二首 → sympathy
+- [auto] P03867 延平遷葬挽 二首 其二 → sympathy
+- [auto] P03868 月沙李相國挽 五首 → sympathy
+- [auto] P03869 月沙李相國挽 五首 其二 → sympathy
+- [auto] P03870 月沙李相國挽 五首 其三 → sympathy
+- [auto] P03871 月沙李相國挽 五首 其四 → sympathy
+- [auto] P03872 月沙李相國挽 五首 其五 → sympathy
+- [auto] P03873 錦南君鄭忠信挽 四首 → sympathy
+- [검수] P03874 錦南君鄭忠信挽 四首 其二  (시소러스:sympathy)
+- [auto] P03875 錦南君鄭忠信挽 四首 其三 → sympathy
+- [auto] P03876 錦南君鄭忠信挽 四首 其四 → sympathy
+- [auto] P03877 綾城府院君挽 六首 → sympathy
+- [auto] P03878 綾城府院君挽 六首 其二 → sympathy
+- [auto] P03879 綾城府院君挽 六首 其三 → sympathy
+- [auto] P03880 綾城府院君挽 六首 其四 → sympathy
+- [auto] P03881 綾城府院君挽 六首 其五 → sympathy
+- [auto] P03882 綾城府院君挽 六首 其六 → sympathy
+- [auto] P03883 義昌君挽 二首○代作 → sympathy
+- [auto] P03884 義昌君挽 二首○代作 其二 → sympathy
+- [auto] P03885 北兵使朴瑺挽 二首 → sympathy
+- [검수] P03886 北兵使朴瑺挽 二首 其二  (시소러스:sympathy)
+- [검수] P03887 丁卯在洪州。聞李正字𥡦訃。  (시소러스:sympathy)
+- [검수] P03888 再從妹李司諫士會內室挽 四首  (시소러스:sympathy)
+- [검수] P03889 再從妹李司諫士會內室挽 四首 其二  (시소러스:sympathy)
+- [auto] P03890 再從妹李司諫士會內室挽 四首 其三 → sympathy
+- [auto] P03891 再從妹李司諫士會內室挽 四首 其四 → sympathy
+- [auto] P03892 東岳李尙書挽 四首 → sympathy
+- [auto] P03893 東岳李尙書挽 四首 其二 → sympathy
+- [auto] P03894 東岳李尙書挽 四首 其三 → sympathy
+- [auto] P03895 東岳李尙書挽 四首 其四 → sympathy
+- [auto] P03896 李尙書景稷挽 二首 → sympathy
+- [auto] P03897 李尙書景稷挽 二首 其二 → sympathy
+- [auto] P03898 李尙書顯英挽 二首 → sympathy
+- [auto] P03899 李尙書顯英挽 二首 其二 → sympathy
+- [auto] P03900 鄭訓鍊正應井挽 二首 → sympathy
+- [auto] P03901 鄭訓鍊正應井挽 二首 其二 → sympathy
+- [auto] P03902 李秀才卣挽 卽延之兄 → sympathy
+- [auto] P03903 方參奉子厚挽 → sympathy
+- [auto] P03904 朴校理仲漣內室挽 → sympathy
+- [auto] P03905 趙善山玄洲纘韓挽 → sympathy
+- [auto] P03906 尹宜寧之復挽 二首 → sympathy
+- [auto] P03907 尹宜寧之復挽 二首 其二 → sympathy
+- [auto] P03908 權承旨鑊挽 → sympathy
+- [auto] P03909 滄浪成先生文濬挽 → sympathy
+- [auto] P03910 錦洲君朴大觀炡挽 三首 → sympathy
+- [auto] P03911 錦洲君朴大觀炡挽 三首 其二 → sympathy
+- [auto] P03912 錦洲君朴大觀炡挽 三首 其三 → sympathy
+- [auto] P03913 曹監司子實挽 二首 → sympathy
+- [auto] P03914 曹監司子實挽 二首 其二 → sympathy
+- [auto] P03915 申掌令達道挽 二首 → sympathy
+- [auto] P03916 申掌令達道挽 二首 其二 → sympathy
+- [auto] P03917 金文叔弘郁大夫人挽 二首 → sympathy
+- [auto] P03918 金文叔弘郁大夫人挽 二首 其二 → sympathy
+- [auto] P03919 沈全州子美挽 → sympathy
+- [auto] P03920 金持平大賚挽 二首 → sympathy
+- [auto] P03921 金持平大賚挽 二首 其二 → sympathy
+- [auto] P03922 睦監司性之挽 → sympathy
+- [auto] P03923 睦監司性之挽 其二 → sympathy
+- [auto] P03924 李統制顯達挽 二首 → sympathy
+- [auto] P03925 李統制顯達挽 二首 其二 → sympathy
+- [auto] P03926 李參判子方景義挽 → sympathy
+- [auto] P03927 沈持平天以世鐸挽 三首 → sympathy
+- [auto] P03928 沈持平天以世鐸挽 三首 其二 → sympathy
+- [auto] P03929 沈持平天以世鐸挽 三首 其三 → sympathy
+- [auto] P03930 哭從弟安秀才載挽 二首 → sympathy
+- [auto] P03931 哭從弟安秀才載挽 二首 其二 → sympathy
+- [auto] P03932 權判書盼挽 二首 → sympathy
+- [auto] P03933 權判書盼挽 二首 其二 → sympathy
+- [auto] P03934 九畹李監司春元挽 二首 → sympathy
+- [auto] P03935 九畹李監司春元挽 二首 其二 → sympathy
+- [검수] P03936 閔吉州應恢挽  (시소러스:sympathy)
+- [auto] P03937 宋芚菴淵挽 → sympathy
+- [auto] P03938 朴管餉就之挽 → sympathy
+- [auto] P03939 李庶尹執中挽 → sympathy
+- [검수] P03940 順陽君安夢尹挽  (시소러스:sympathy)
+- [auto] P03941 柳南原時定安世挽 → sympathy
+- [auto] P03942 睦知事敍欽挽 → sympathy
+- [auto] P03943 申大司成敏一挽 → sympathy
+- [auto] P03944 李利川敬仁挽 → sympathy
+- [auto] P03945 金參判光炫挽 二首 → sympathy
+- [auto] P03946 金參判光炫挽 二首 其二 → sympathy
+- [auto] P03947 張谿谷夫人挽 四首 → sympathy
+- [auto] P03948 張谿谷夫人挽 四首 其二 → sympathy
+- [auto] P03949 張谿谷夫人挽 四首 其三 → sympathy
+- [auto] P03950 張谿谷夫人挽 四首 其四 → sympathy
+- [auto] P03951 宋英甫大夫人挽 → sympathy
+- [auto] P03952 洪監司元老夫人挽。 → sympathy
+- [auto] P03953 湖安君夫人挽 → sympathy
+- [auto] P03954 金秀才地西挽 大賚弟也 → sympathy
+- [auto] P03955 柳訓鍊都正挽 → sympathy
+- [auto] P03956 柳僉知公憲挽 → sympathy
+- [auto] P03957 羅秀才星緯挽 夢賚之子 → sympathy
+- [검수] P03958 次胤之韻 幷序  (시소러스:structure)
+- [검수] P03959 次胤之韻 幷序 元韻  (시소러스:farewell)
+- [auto] P03960 洪榮川柱世挽 → sympathy
+- [auto] P03961 兪參判棨挽 → sympathy
+- [auto] P03962 李參議有謙挽 → sympathy
+- [auto] P03963 張谿谷遷葬挽 → sympathy
+- [auto] P03964 南金城德輝挽 → sympathy
+- [auto] P03965 湖安君挽 → sympathy
+- [auto] P03966 金判書佐明夫人挽 → sympathy
+- [검수] P03967 長安三十韻  (시소러스:frontier)
+- [검수] P03968 昔昔鹽 二首  (시소러스:frontier)
+- [검수] P03969 昔昔鹽 二首 其二  (시소러스:sympathy)
+- [검수] P03970 白帝城  (시소러스:frontier)
+- [검수] P03971 詠囊螢  (시소러스:farewell)
+- [검수] P03972 聞梁監軍渡海賦 六韻五首  (시소러스:season)
+- [검수] P03973 聞梁監軍渡海賦 六韻五首 其二  (시소러스:person)
+- [검수] P03974 聞梁監軍渡海賦 六韻五首 其三  (시소러스:frontier)
+- [검수] P03975 聞梁監軍渡海賦 六韻五首 其四  (시소러스:frontier)
+- [검수] P03976 聞梁監軍渡海賦 六韻五首 其五  (시소러스:frontier)
+- [auto] P03977 昭顯世子挽詞代作 → sympathy
+- [auto] P03978 送海伯朴尙之 → farewell
+- [auto] P03979 送閔東萊應協寅甫 → farewell
+- [auto] P03980 李參判楘挽 → sympathy
+- [auto] P03981 奉送東萊宋使君 → farewell
+- [auto] P03982 柳正字挽 → sympathy
+- [검수] P03983 長安道  (시소러스:taoism)
+- [검수] P03984 詠史 七首  (시소러스:reminiscence)
+- [검수] P03985 詠史 七首 其二  (시소러스:reminiscence)
+- [검수] P03986 詠史 七首 其三  (시소러스:reminiscence)
+- [검수] P03987 詠史 七首 其四  (시소러스:sympathy)
+- [검수] P03988 詠史 七首 其五  (시소러스:reminiscence)
+- [검수] P03989 詠史 七首 其六  (시소러스:sympathy)
+- [검수] P03990 詠史 七首 其七  (시소러스:sympathy)
+- [검수] P03991 漢宮詞  (시소러스:frontier)
+- [검수] P03992 從軍行 二首  (시소러스:frontier)
+- [검수] P03993 從軍行 二首 其二  (시소러스:frontier)
+- [auto] P03994 送李參判景稷使日本 二首 → farewell
+- [auto] P03995 送李參判景稷使日本 二首 其二 → farewell
+- [검수] P03996 神勒寺 二首  (시소러스:sympathy)
+- [검수] P03997 神勒寺 二首 其二  (시소러스:buddhism)
+- [검수] P03998 自神勒寺泛舟下江漢 二首  (시소러스:travel)
+- [검수] P03999 自神勒寺泛舟下江漢 二首 其二  (시소러스:travel)
+- [검수] P04000 奉審英陵丁字閣  (시소러스:travel)
+- [검수] P04001 送東陽尉遊楓岳  (시소러스:farewell)
+- [검수] P04002 題天下地圖  (시소러스:picture)
+- [auto] P04003 寄洪安東元老命耇 → donate
+- [검수] P04004 觀西郊迎勑  (시소러스:buddhism)
+- [검수] P04005 詠落葉  (시소러스:sympathy)
+- [검수] P04006 詠畫古松  (시소러스:picture)
+- [검수] P04007 寄鄭壺亭  (시소러스:donate)
+- [검수] P04008 登滿月臺  (시소러스:structure)
+- [검수] P04009 春日登凌漢城  (시소러스:sympathy)
+- [검수] P04010 登凌漢山城 二首  (시소러스:sympathy)
+- [검수] P04011 登凌漢山城 二首 其二  (시소러스:person)
+- [검수] P04012 登凌漢城懷子文休休  (시소러스:reminiscence)
+- [검수] P04013 登凌漢飮酒 三首  (시소러스:frontier)
+- [검수] P04014 登凌漢飮酒 三首 其二  (시소러스:sympathy)
+- [검수] P04015 登凌漢飮酒 三首 其三  (시소러스:frontier)
+- [auto] P04016 奉呈北渚金相國 → donate
+- [검수] P04017 携龍灣李府尹登統軍亭 三首  (시소러스:structure)
+- [검수] P04018 携龍灣李府尹登統軍亭 三首 其二  (시소러스:structure)
+- [검수] P04019 携龍灣李府尹登統軍亭 三首 其三  (시소러스:structure)
+- [auto] P04020 西塞懷古 三首 → reminiscence
+- [검수] P04021 西塞懷古 三首 其二  (시소러스:reminiscence)
+- [auto] P04022 西塞懷古 三首 其三 → reminiscence
+- [검수] P04023 夜登百祥樓  (시소러스:structure)
+- [검수] P04024 西塞卽事  (시소러스:others)
+- [검수] P04025 落花 月課  (시소러스:travel)
+- [검수] P04026 春日卽事  (시소러스:others)
+- [검수] P04027 春日對酒作  (시소러스:season)
+- [검수] P04028 迎祥春帖字  (시소러스:tranquility)
+- [검수] P04029 端午帖字  (시소러스:prosper)
+- [auto] P04030 送鄭員外震伯往永興寫太祖御容 → farewell
+- [auto] P04031 贈相者文致郁 → donate
+- [검수] P04032 和徐秀夫人日見寄  (시소러스:donate)
+- [검수] P04033 磨天嶺上作  (시소러스:desire)
+- [검수] P04034 愁州遣懷  (시소러스:sympathy)
+- [검수] P04035 行營卽事  (시소러스:others)
+- [검수] P04036 元帥臺 二首  (시소러스:frontier)
+- [검수] P04037 元帥臺 二首 其二  (시소러스:sympathy)
+- [auto] P04038 奉呈李巡相 → donate
+- [auto] P04039 鏡城。遇暗行御史李尙質。醉贈四首。 → donate
+- [auto] P04040 鏡城。遇暗行御史李尙質。醉贈四首。 其二 → donate
+- [auto] P04041 鏡城。遇暗行御史李尙質。醉贈四首。 其三 → donate
+- [auto] P04042 鏡城。遇暗行御史李尙質。醉贈四首。 其四 → donate
+- [검수] P04043 奉寄愁州趙使君令丈廷虎 三首  (시소러스:donate)
+- [auto] P04044 奉寄愁州趙使君令丈廷虎 三首 其二 → donate
+- [auto] P04045 奉寄愁州趙使君令丈廷虎 三首 其三 → donate
+- [auto] P04046 醉贈姜君白兼示李子文 → donate
+- [auto] P04047 又贈李子文 → donate
+- [검수] P04048 邊城卽事  (시소러스:others)
+- [auto] P04049 留別姜君白 三首 → farewell
+- [auto] P04050 留別姜君白 三首 其二 → farewell
+- [auto] P04051 留別姜君白 三首 其三 → farewell
+- [검수] P04052 宿漁郞浦池秀才家。見東岳詩在壁上。有感。  (시소러스:travel)
+- [auto] P04053 留別秀夫 → farewell
+- [검수] P04054 別申進甫 二首  (시소러스:farewell)
+- [auto] P04055 別申進甫 二首 其二 → farewell
+- [검수] P04056 留別秀夫  (시소러스:farewell)
+- [검수] P04057 述懷  (시소러스:sympathy)
+- [검수] P04058 柳亭。留別宋澤之。  (시소러스:farewell)
+- [auto] P04059 贈吉州閔使君 → donate
+- [auto] P04060 吉州。贈閔使君。兼示御史子文。 → donate
+- [auto] P04061 城津。留別閔使君。 → farewell
+- [검수] P04062 城津 八首  (시소러스:sympathy)
+- [검수] P04063 城津 八首 其二  (시소러스:frontier)
+- [검수] P04064 城津 八首 其三  (시소러스:frontier)
+- [검수] P04065 城津 八首 其四  (시소러스:structure)
+- [검수] P04066 城津 八首 其五  (시소러스:sympathy)
+- [검수] P04067 城津 八首 其六  (시소러스:frontier)
+- [검수] P04068 城津 八首 其七  (시소러스:sympathy)
+- [검수] P04069 城津 八首 其八  (시소러스:sympathy)
+- [검수] P04070 咸關嶺。逢寒食 二首。  (시소러스:sympathy)
+- [검수] P04071 咸關嶺。逢寒食 二首。 其二  (시소러스:frontier)
+- [auto] P04072 程副摠別章 二首○代作 → farewell
+- [auto] P04073 程副摠別章 二首○代作 其二 → farewell
+- [auto] P04074 奉別程副摠 → farewell
+- [auto] P04075 奉送金光炫令公延慰冊封天使 → farewell
+- [auto] P04076 和洪員外一之見寄 → donate
+- [검수] P04077 雪後携酒訪洪一之  (시소러스:astro)
+- [auto] P04078 次趙胤之見寄 → donate
+- [auto] P04079 送全德古覲鷄林 → farewell
+- [검수] P04080 田園卽事 二首  (시소러스:others)
+- [검수] P04081 田園卽事 二首 其二  (시소러스:others)
+- [auto] P04082 奉贈東陽尉 → donate
+- [검수] P04083 上東岳 幷序  (시소러스:mountain)
+- [검수] P04084 上東岳 幷序 附東岳書札詩  (시소러스:frontier)
+- [auto] P04085 寄元子建令公 → donate
+- [auto] P04086 俊上人往謁肅羽。以詩贈之。 → donate
+- [검수] P04087 懷肅羽令公  (시소러스:reminiscence)
+- [auto] P04088 送嶺伯肅羽 → farewell
+- [auto] P04089 送黃海李方伯 → farewell
+- [auto] P04090 寄元老時爲關西方伯 二首 → donate
+- [auto] P04091 寄元老時爲關西方伯 二首 其二 → donate
+- [검수] P04092 次趙吏部胤之見贈韻  (시소러스:donate)
+- [auto] P04093 送北伯尹令公履之 → farewell
+- [auto] P04094 送申羅州 → farewell
+- [auto] P04095 送慶州金府尹尙 → farewell
+- [auto] P04096 送北伯完南君 二首 → farewell
+- [auto] P04097 送北伯完南君 二首 其二 → farewell
+- [검수] P04098 題靜叔趙子昂八駿圖  (시소러스:picture)
+- [auto] P04099 送李使君靜叔之尙州 → farewell
+- [검수] P04100 詠宋僉正盆松  (시소러스:meet)
+- [auto] P04101 送濟牧金星老壽翼 → farewell
+- [auto] P04102 送嶺南伯澤之南銑 → farewell
+- [검수] P04103 題白軒金剛錄後  (시소러스:picture)
+- [auto] P04104 別沈鍾城元直𢋡 二首 → farewell
+- [auto] P04105 別沈鍾城元直𢋡 二首 其二 → farewell
+- [검수] P04106 務安李使君士實送米 二首  (시소러스:farewell)
+- [검수] P04107 務安李使君士實送米 二首 其二  (시소러스:farewell)
+- [auto] P04108 奉寄士實 → donate
+- [auto] P04109 別申君澤濡之燕 → farewell
+- [auto] P04110 寄柳忠州德甫碩 → donate
+- [auto] P04111 送李御史慶億之濟州 二首 → farewell
+- [auto] P04112 送李御史慶億之濟州 二首 其二 → farewell
+- [auto] P04113 送李濟州禬 → farewell
+- [auto] P04114 贈趙胤之 → donate
+- [auto] P04115 送金自珍南重之燕 → farewell
+- [auto] P04116 送北伯鄭禮卿知和 → farewell
+- [auto] P04117 送永安尉洪柱元 → farewell
+- [auto] P04118 送湖南伯 → farewell
+- [auto] P04119 送湖西伯李志曼曼 → farewell
+- [검수] P04120 次任鍾城孝伯受降樓韻  (시소러스:structure)
+- [auto] P04121 秋日書懷奉呈竹南吳尙書 → donate
+- [auto] P04122 送睦淸風兼善 → farewell
+- [auto] P04123 寄任鍾城有後 → donate
+- [auto] P04124 送權定山說 → farewell
+- [auto] P04125 送李江陵東溟 → farewell
+- [검수] P04126 兪承旨瑒伯圭庭試文武入格。壽親席上作。  (시소러스:travel)
+- [auto] P04127 送趙康津䃏 → farewell
+- [auto] P04128 寄關西伯李正英 → donate
+- [auto] P04129 送湖南伯閔維重 → farewell
+- [auto] P04130 沈駙馬碧波亭 三首 → structure
+- [auto] P04131 沈駙馬碧波亭 三首 其二 → structure
+- [auto] P04132 沈駙馬碧波亭 三首 其三 → structure
+- [auto] P04133 送閔嶺伯煕 → farewell
+- [auto] P04134 送嶺東伯李子高後山 → farewell
+- [auto] P04135 送泰安李使君球 → farewell
+- [auto] P04136 送海運趙判官䃏 → farewell
+- [auto] P04137 送北兵使李春長晩榮 → farewell
+- [검수] P04138 送北評事洪柱國。兼寄節度使春長令公 二首。  (시소러스:farewell)
+- [검수] P04139 送北評事洪柱國。兼寄節度使春長令公 二首。 其二  (시소러스:farewell)
+- [auto] P04140 奉送福昌君之燕 → farewell
+- [auto] P04141 梅鶴亭 幷序 → structure
+- [auto] P04142 梅鶴亭 幷序 其二 → structure
+- [auto] P04143 進士鄭晩世挽 → sympathy
+- [검수] P04144 哭李子文  (시소러스:frontier)
+- [auto] P04145 杞平君兪伯曾挽 二首 → sympathy
+- [auto] P04146 杞平君兪伯曾挽 二首 其二 → sympathy
+- [auto] P04147 尹而遠鳴殷挽 → sympathy
+- [auto] P04148 崔政丞鳴吉挽 → sympathy
+- [auto] P04149 趙監司廷虎挽 二首 → sympathy
+- [검수] P04150 趙監司廷虎挽 二首 其二  (시소러스:sympathy)
+- [auto] P04151 北渚金政丞挽 二首 → sympathy
+- [auto] P04152 北渚金政丞挽 二首 其二 → sympathy
+- [검수] P04153 哭柳弟圭三  (시소러스:sympathy)
+- [auto] P04154 趙知事緯韓挽 → sympathy
+- [auto] P04155 兪參議省曾挽 二首 → sympathy
+- [auto] P04156 兪參議省曾挽 二首 其二 → sympathy
+- [auto] P04157 淸陰金先生挽 → sympathy
+- [auto] P04158 海崇尉挽 → sympathy
+- [auto] P04159 宋澤之國澤挽 → sympathy
+- [auto] P04160 閔參議仲集光勳挽 → sympathy
+- [auto] P04161 延陽府院君挽 二首 → sympathy
+- [auto] P04162 延陽府院君挽 二首 其二 → sympathy
+- [auto] P04163 完南府院君挽 → sympathy
+- [auto] P04164 李宣川性恒挽 → sympathy
+- [auto] P04165 李判書時昉挽 → sympathy
+- [auto] P04166 鄭監司大方世矩挽 → sympathy
+- [auto] P04167 金判書藎國挽 → sympathy
+- [auto] P04168 申參判汝萬翊全挽 → sympathy
+- [auto] P04169 李僉正井男挽 → sympathy
+- [auto] P04170 趙政丞翼挽 → sympathy
+- [auto] P04171 金政丞堉挽 → sympathy
+- [auto] P04172 蔡判書伯昌裕後挽 → sympathy
+- [auto] P04173 李參判君瑞應蓍挽 → sympathy
+- [auto] P04174 朴尙書尙之遾挽 → sympathy
+- [검수] P04175 李判書時發夫人挽  (시소러스:sympathy)
+- [auto] P04176 愼參判伯擧天翊挽 → sympathy
+- [auto] P04177 郭執義欽老之欽挽 → sympathy
+- [auto] P04178 鄭判書君則世規挽 → sympathy
+- [auto] P04179 睦參議行善挽 → sympathy
+- [auto] P04180 閔三宰應亨挽 → sympathy
+- [auto] P04181 申正湸之湸挽 → sympathy
+- [검수] P04182 龍興致雲 庭試作  (시소러스:astro)
+- [검수] P04183 北上行  (시소러스:frontier)
+- [검수] P04184 上之回  (시소러스:sympathy)
+- [검수] P04185 遊仙詞 十一首  (시소러스:travel)
+- [검수] P04186 遊仙詞 十一首 其二  (시소러스:travel)
+- [auto] P04187 遊仙詞 十一首 其三 → travel
+- [auto] P04188 遊仙詞 十一首 其四 → travel
+- [검수] P04189 遊仙詞 十一首 其五  (시소러스:travel)
+- [auto] P04190 遊仙詞 十一首 其六 → travel
+- [검수] P04191 遊仙詞 十一首 其七  (시소러스:travel)
+- [검수] P04192 遊仙詞 十一首 其八  (시소러스:travel)
+- [검수] P04193 遊仙詞 十一首 其九  (시소러스:travel)
+- [검수] P04194 遊仙詞 十一首 其十  (시소러스:travel)
+- [auto] P04195 遊仙詞 十一首 其十一 → travel
+- [검수] P04196 西門秦女  (시소러스:sympathy)
+- [검수] P04197 白頭吟  (시소러스:sympathy)
+- [검수] P04198 猛虎行  (시소러스:season)
+- [검수] P04199 邯鄲才人下嫁廝養卒  (시소러스:tranquility)
+- [검수] P04200 東武吟  (시소러스:sympathy)
+- [검수] P04201 大堤曲  (시소러스:farewell)
+- [검수] P04202 東海有勇婦 二首  (시소러스:frontier)
+- [검수] P04203 東海有勇婦 二首 其二  (시소러스:frontier)
+- [검수] P04204 黃葛篇  (시소러스:season)
+- [검수] P04205 與鄭文中申伯擧，庾伯起遊三角山。少時作  (시소러스:travel)
+- [auto] P04206 詠史 → reminiscence
+- [검수] P04207 詠史  (시소러스:reminiscence)
+- [검수] P04208 邊城苦寒  (시소러스:frontier)
+- [auto] P04209 記行述懷。贈北評事朴德一吉應。 → donate
+- [검수] P04210 讀莊子  (시소러스:sympathy)
+- [auto] P04211 贈趙休休 → donate
+- [auto] P04212 送李察訪國耳重國 → farewell
+- [auto] P04213 寄兪杞平君伯曾 七首 → donate
+- [auto] P04214 寄兪杞平君伯曾 七首 其二 → donate
+- [auto] P04215 寄兪杞平君伯曾 七首 其三 → donate
+- [auto] P04216 寄兪杞平君伯曾 七首 其四 → donate
+- [auto] P04217 寄兪杞平君伯曾 七首 其五 → donate
+- [auto] P04218 寄兪杞平君伯曾 七首 其六 → donate
+- [auto] P04219 寄兪杞平君伯曾 七首 其七 → donate
+- [검수] P04220 代箴  (시소러스:sympathy)
+- [검수] P04221 懶龍  (시소러스:sympathy)
+- [auto] P04222 送李靈光野叟 → farewell
+- [auto] P04223 送金直長忠愨還江陵 → farewell
+- [auto] P04224 贈李比安 → donate
+- [auto] P04225 送李扶安慶億 → farewell
+- [auto] P04226 寄鄭杆城瀁 → donate
+- [auto] P04227 送魚川李察訪 → farewell
+- [auto] P04228 送瓮津禹使君 → farewell
+- [검수] P04229 哭金茂朱祴  (시소러스:reminiscence)
+- [auto] P04230 柳掌令𥳍母夫人挽 → sympathy
+- [auto] P04231 具僉知挽 → sympathy
+- [검수] P04232 哭柳江陵𥳍  (시소러스:buddhism)
+- [auto] P04233 尹星州景先挽 → sympathy
+- [auto] P04234 尹判書絅挽 → sympathy
+- [검수] P04235 長歌行  (시소러스:sympathy)
+- [검수] P04236 短歌行  (시소러스:travel)
+- [검수] P04237 古行路難  (시소러스:sympathy)
+- [검수] P04238 行路難 十九首  (시소러스:reminiscence)
+- [검수] P04239 行路難 十九首 其二  (시소러스:travel)
+- [검수] P04240 行路難 十九首 其三  (시소러스:travel)
+- [검수] P04241 行路難 十九首 其四  (시소러스:travel)
+- [검수] P04242 行路難 十九首 其五  (시소러스:frontier)
+- [검수] P04243 行路難 十九首 其六  (시소러스:travel)
+- [검수] P04244 行路難 十九首 其七  (시소러스:reminiscence)
+- [검수] P04245 行路難 十九首 其八  (시소러스:travel)
+- [검수] P04246 行路難 十九首 其九  (시소러스:sympathy)
+- [검수] P04247 行路難 十九首 其十  (시소러스:sympathy)
+- [검수] P04248 行路難 十九首 其十一  (시소러스:travel)
+- [검수] P04249 行路難 十九首 其十二  (시소러스:sympathy)
+- [검수] P04250 行路難 十九首 其十三  (시소러스:sympathy)
+- [검수] P04251 行路難 十九首 其十四  (시소러스:travel)
+- [검수] P04252 行路難 十九首 其十五  (시소러스:travel)
+- [검수] P04253 行路難 十九首 其十六  (시소러스:travel)
+- [검수] P04254 行路難 十九首 其十七  (시소러스:sympathy)
+- [검수] P04255 行路難 十九首 其十八  (시소러스:travel)
+- [검수] P04256 行路難 十九首 其十九  (시소러스:travel)
+- [검수] P04257 報恩行  (시소러스:sympathy)
+- [검수] P04258 楚宮行  (시소러스:travel)
+- [검수] P04259 梁孝王歌  (시소러스:frontier)
+- [검수] P04260 長相思  (시소러스:farewell)
+- [검수] P04261 燕歌行  (시소러스:sympathy)
+- [검수] P04262 枯魚過河泣  (시소러스:travel)
+- [검수] P04263 馮姬行  (시소러스:sympathy)
+- [검수] P04264 刺客歌  (시소러스:sympathy)
+- [검수] P04265 俠客篇 二首  (시소러스:sympathy)
+- [검수] P04266 俠客篇 二首 其二  (시소러스:sympathy)
+- [검수] P04267 古意  (시소러스:reminiscence)
+- [검수] P04268 日出入行  (시소러스:travel)
+- [검수] P04269 白登行  (시소러스:frontier)
+- [검수] P04270 金臺行  (시소러스:sympathy)
+- [검수] P04271 吳宮行  (시소러스:sympathy)
+- [검수] P04272 吳宮燕  (시소러스:desire)
+- [auto] P04273 古樂府行。贈權子敬。 → donate
+- [auto] P04274 奉送高參議善行朝天 → farewell
+- [auto] P04275 送柳汝一道三赴端川 → farewell
+- [auto] P04276 奉送洪參議季通命亨朝天 → farewell
+- [auto] P04277 奉送李參議顯英泛海朝天 → farewell
+- [auto] P04278 送內兄鄭評事斗源赴寧邊 → farewell
+- [검수] P04279 別壺亭鄭斗源遊中興洞  (시소러스:farewell)
+- [검수] P04280 乘舟下斗尾作  (시소러스:travel)
+- [검수] P04281 郭將軍震卿戴恩堂歌  (시소러스:frontier)
+- [검수] P04282 錦袍歌  (시소러스:sympathy)
+- [검수] P04283 莫愁歌  (시소러스:reminiscence)
+- [검수] P04284 香娥歌  (시소러스:sympathy)
+- [검수] P04285 城津樓。陪金使君夜飮。  (시소러스:travel)
+- [검수] P04286 鏡城聞大風。作長句示徐秀夫。  (시소러스:person)
+- [검수] P04287 鏡城觀獵  (시소러스:frontier)
+- [검수] P04288 李節度寶劍歌  (시소러스:frontier)
+- [검수] P04289 鏡城夜聞角  (시소러스:sympathy)
+- [검수] P04290 城津觀蜃樓  (시소러스:sympathy)
+- [검수] P04291 月沙李相公廷龜詩板歌  (시소러스:farewell)
+- [auto] P04292 驪江夜飮歌。寄韓使君會一。 → donate
+- [검수] P04293 馬巖 三首  (시소러스:sympathy)
+- [검수] P04294 馬巖 三首 其二  (시소러스:structure)
+- [검수] P04295 馬巖 三首 其三  (시소러스:structure)
+- [검수] P04296 神勒寺  (시소러스:buddhism)
+- [검수] P04297 程副摠龍畫蘭引  (시소러스:frontier)
+- [검수] P04298 石陽正畫竹歌 二首  (시소러스:picture)
+- [검수] P04299 石陽正畫竹歌 二首 其二  (시소러스:picture)
+- [검수] P04300 奉送程副摠還朝  (시소러스:farewell)
+- [auto] P04301 送崔子迪惠吉朝天 → farewell
+- [검수] P04302 與元子建斗杓，李子淵澥諸人。遊蕩春臺。  (시소러스:travel)
+- [auto] P04303 送李子善基祚出按嶺南 → farewell
+- [auto] P04304 送湖南方伯 → farewell
+- [검수] P04305 李子文尙質挽歌  (시소러스:sympathy)
+- [검수] P04306 又哭子文  (시소러스:sympathy)
+- [검수] P04307 張谿谷挽歌  (시소러스:sympathy)
+- [검수] P04308 亂後寄徐秀夫  (시소러스:donate)
+- [auto] P04309 寄李使君聖文 → donate
+- [auto] P04310 走筆贈朴伯謙兄弟 → donate
+- [검수] P04311 隋城夜飮歌  (시소러스:structure)
+- [auto] P04312 寄平澤使君久 → donate
+- [검수] P04313 觀獵  (시소러스:others)
+- [검수] P04314 射雁歌  (시소러스:sympathy)
+- [검수] P04315 七夕。與韓使君翼明登貢津山亭。作長句。  (시소러스:structure)
+- [검수] P04316 題山水圖  (시소러스:picture)
+- [검수] P04317 題朴淵圖  (시소러스:picture)
+- [검수] P04318 畫龍行  (시소러스:picture)
+- [검수] P04319 畫馬行  (시소러스:sympathy)
+- [검수] P04320 畫鷹  (시소러스:sympathy)
+- [검수] P04321 畫虎行  (시소러스:picture)
+- [검수] P04322 新羅琴歌  (시소러스:reminiscence)
+- [검수] P04323 三寅劍歌  (시소러스:astro)
+- [검수] P04324 靑螺杯歌  (시소러스:reminiscence)
+- [검수] P04325 閨怨  (시소러스:astro)
+- [검수] P04326 洗馬歌  (시소러스:sympathy)
+- [검수] P04327 白鷗  (시소러스:tranquility)
+- [검수] P04328 蒲萄  (시소러스:farewell)
+- [검수] P04329 詠杜鵑花  (시소러스:sympathy)
+- [검수] P04330 霖雨行 三首  (시소러스:sympathy)
+- [검수] P04331 霖雨行 三首 其二  (시소러스:travel)
+- [검수] P04332 霖雨行 三首 其三  (시소러스:astro)
+- [검수] P04333 苦寒行 二首  (시소러스:frontier)
+- [검수] P04334 苦寒行 二首 其二  (시소러스:frontier)
+- [검수] P04335 讀靑烏子  (시소러스:sympathy)
+- [검수] P04336 萬物  (시소러스:travel)
+- [검수] P04337 君不見  (시소러스:sympathy)
+- [검수] P04338 前憶昔歌 七首  (시소러스:reminiscence)
+- [검수] P04339 前憶昔歌 七首 其二  (시소러스:reminiscence)
+- [검수] P04340 前憶昔歌 七首 其三  (시소러스:reminiscence)
+- [검수] P04341 前憶昔歌 七首 其四  (시소러스:reminiscence)
+- [검수] P04342 前憶昔歌 七首 其五  (시소러스:reminiscence)
+- [검수] P04343 前憶昔歌 七首 其六  (시소러스:reminiscence)
+- [auto] P04344 前憶昔歌 七首 其七 → reminiscence
+- [검수] P04345 後憶昔歌 七首  (시소러스:reminiscence)
+- [검수] P04346 後憶昔歌 七首 其二  (시소러스:reminiscence)
+- [검수] P04347 後憶昔歌 七首 其三  (시소러스:reminiscence)
+- [검수] P04348 後憶昔歌 七首 其四  (시소러스:reminiscence)
+- [auto] P04349 後憶昔歌 七首 其五 → reminiscence
+- [검수] P04350 後憶昔歌 七首 其六  (시소러스:reminiscence)
+- [auto] P04351 後憶昔歌 七首 其七 → reminiscence
+- [검수] P04352 雁門太守行  (시소러스:frontier)
+- [auto] P04353 幽州歌。送李靜叔憪以質子入瀋陽。 → farewell
+- [검수] P04354 箭野行  (시소러스:reminiscence)
+- [auto] P04355 彈琴臺歌。送徐忠州挺然。 → farewell
+- [auto] P04356 送新寧奇使君 → farewell
+- [auto] P04357 白馬江歌。送安弟。 → farewell
+- [auto] P04358 送江西李使君一之 → farewell
+- [검수] P04359 送俊上人向朴淵  (시소러스:farewell)
+- [auto] P04360 送張秀才善沖 → farewell
+- [auto] P04361 送閔保寧賀 → farewell
+- [auto] P04362 別李奉化丈 → farewell
+- [검수] P04363 送朴亮  (시소러스:farewell)
+- [auto] P04364 送高山督郵李倚相 → farewell
+- [auto] P04365 送安陰朴使君長遠仲久 → farewell
+- [auto] P04366 送義城嚴使君重叔 → farewell
+- [검수] P04367 送防沓梁僉使  (시소러스:farewell)
+- [auto] P04368 又送俊上人往洛山 → farewell
+- [auto] P04369 奉送鄭尙書世規君則出按北道 → farewell
+- [검수] P04370 與洪元九泛西湖  (시소러스:travel)
+- [검수] P04371 寄義州鄭令公 幷序  (시소러스:donate)
+- [auto] P04372 寄義州鄭令公 幷序 其二 → donate

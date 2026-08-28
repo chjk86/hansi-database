@@ -1,0 +1,5 @@
+__pycache__/
+*.pyc
+00_raw/
+01_enriched/
+hdc_headwords.txt

@@ -1,0 +1,3 @@
+# 01_enriched/ 는 저장소에서 제외 (재생성 가능):
+#   cd hansi_enrichment && python scripts_2_enrich/run.py
+# 필요한 입력(별도): 한어대사전.txt 평수운_수정.txt 임백호집_3차완본*.txt 대상데이터_데이터클리닝/
