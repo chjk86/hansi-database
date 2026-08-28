@@ -12,7 +12,7 @@
         <Charactercount>미상</Charactercount>
     </Form>
       <Themes>
-        <Theme category="sympathy" basis="term" evidence="term:零落 霜雪 明月">애상</Theme>
+        <Theme category="sympathy" basis="term" evidence="term:霜雪 明月 零落">애상</Theme>
       </Themes>
       <Context></Context>
     </Metadata>
@@ -408,7 +408,7 @@
         <Charactercount>미상</Charactercount>
     </Form>
       <Themes>
-        <Theme category="sympathy" basis="term" evidence="term:千里 羈愁 不見">애상</Theme>
+        <Theme category="sympathy" basis="term" evidence="term:羈愁 不見 千里">애상</Theme>
       </Themes>
       <Context></Context>
     </Metadata>
@@ -458,7 +458,7 @@
         <Charactercount>칠언</Charactercount>
     </Form>
       <Themes>
-        <Theme category="sympathy" basis="term" evidence="term:延望 寂寥 不見 悠悠">애상</Theme>
+        <Theme category="sympathy" basis="term" evidence="term:不見 延望 悠悠 寂寥">애상</Theme>
       </Themes>
       <Context></Context>
     </Metadata>
@@ -551,7 +551,7 @@
         <Charactercount>미상</Charactercount>
     </Form>
       <Themes>
-        <Theme category="structure" basis="title, term" evidence="title:城 樓 家, term:芙蓉">건물</Theme>
+        <Theme category="structure" basis="title, term" evidence="title:家 城 樓, term:芙蓉">건물</Theme>
       </Themes>
       <Context></Context>
     </Metadata>
@@ -768,7 +768,7 @@
         <Charactercount>미상</Charactercount>
     </Form>
       <Themes>
-        <Theme category="tranquility" basis="term" evidence="term:不平 丁丁">한적</Theme>
+        <Theme category="tranquility" basis="term" evidence="term:丁丁 不平">한적</Theme>
       </Themes>
       <Context></Context>
     </Metadata>
@@ -1074,7 +1074,7 @@
         <Charactercount>칠언</Charactercount>
     </Form>
       <Themes>
-        <Theme category="reminiscence" basis="term" evidence="term:當時 至今 往事">회고</Theme>
+        <Theme category="reminiscence" basis="term" evidence="term:往事 至今 當時">회고</Theme>
       </Themes>
       <Context></Context>
     </Metadata>
@@ -1135,7 +1135,7 @@
         <Charactercount>미상</Charactercount>
     </Form>
       <Themes>
-        <Theme category="sympathy" basis="term" evidence="term:夢斷 茫茫 長夜 哀哀">애상</Theme>
+        <Theme category="sympathy" basis="term" evidence="term:茫茫 哀哀 長夜 夢斷">애상</Theme>
       </Themes>
       <Context></Context>
     </Metadata>
@@ -1316,7 +1316,7 @@
         <Charactercount>미상</Charactercount>
     </Form>
       <Themes>
-        <Theme category="sympathy" basis="term" evidence="term:無心 不見">애상</Theme>
+        <Theme category="sympathy" basis="term" evidence="term:不見 無心">애상</Theme>
       </Themes>
       <Context></Context>
     </Metadata>
@@ -1427,7 +1427,7 @@
         <Charactercount>칠언</Charactercount>
     </Form>
       <Themes>
-        <Theme category="reminiscence" basis="term" evidence="term:故國 歸來 浪迹">회고</Theme>
+        <Theme category="reminiscence" basis="term" evidence="term:故國 浪迹 歸來">회고</Theme>
       </Themes>
       <Context></Context>
     </Metadata>
@@ -1471,7 +1471,7 @@
         <Charactercount>오언</Charactercount>
     </Form>
       <Themes>
-        <Theme category="sympathy" basis="term" evidence="term:瘦馬 浮名">애상</Theme>
+        <Theme category="sympathy" basis="term" evidence="term:浮名 瘦馬">애상</Theme>
       </Themes>
       <Context></Context>
     </Metadata>
@@ -1587,7 +1587,7 @@
         <Charactercount>칠언</Charactercount>
     </Form>
       <Themes>
-        <Theme category="donate" basis="title" evidence="title:寄 謝">기증</Theme>
+        <Theme category="donate" basis="title" evidence="title:謝 寄">기증</Theme>
       </Themes>
       <Context></Context>
     </Metadata>
@@ -2103,7 +2103,7 @@
         <Charactercount>칠언</Charactercount>
     </Form>
       <Themes>
-        <Theme category="donate" basis="title" evidence="title:寄 謝">기증</Theme>
+        <Theme category="donate" basis="title" evidence="title:謝 寄">기증</Theme>
       </Themes>
       <Context></Context>
     </Metadata>
@@ -2159,7 +2159,7 @@
         <Charactercount>칠언</Charactercount>
     </Form>
       <Themes>
-        <Theme category="sympathy" basis="title, term" evidence="title:挽, term:消息 千里 旅櫬">애상</Theme>
+        <Theme category="sympathy" basis="title, term" evidence="title:挽, term:千里 旅櫬 消息">애상</Theme>
       </Themes>
       <Context></Context>
     </Metadata>
@@ -2491,7 +2491,7 @@
         <Charactercount>칠언</Charactercount>
     </Form>
       <Themes>
-        <Theme category="travel" basis="title, term" evidence="title:過 自 行, term:湖山">유람</Theme>
+        <Theme category="travel" basis="title, term" evidence="title:自 行 過, term:湖山">유람</Theme>
       </Themes>
       <Context></Context>
     </Metadata>
@@ -2519,7 +2519,7 @@
         <Charactercount>칠언</Charactercount>
     </Form>
       <Themes>
-        <Theme category="travel" basis="title" evidence="title:過 自 行">유람</Theme>
+        <Theme category="travel" basis="title" evidence="title:自 行 過">유람</Theme>
       </Themes>
       <Context></Context>
     </Metadata>
@@ -2575,7 +2575,7 @@
         <Charactercount>칠언</Charactercount>
     </Form>
       <Themes>
-        <Theme category="sympathy" basis="term" evidence="term:客愁 遺愛 無由 長路">애상</Theme>
+        <Theme category="sympathy" basis="term" evidence="term:無由 長路 遺愛 客愁">애상</Theme>
       </Themes>
       <Context></Context>
     </Metadata>
@@ -2659,7 +2659,7 @@
         <Charactercount>칠언</Charactercount>
     </Form>
       <Themes>
-        <Theme category="reminiscence" basis="title, term" evidence="title:有懷 懷, term:功業 十年">회고</Theme>
+        <Theme category="reminiscence" basis="title, term" evidence="title:有懷 懷, term:十年 功業">회고</Theme>
       </Themes>
       <Context></Context>
     </Metadata>
@@ -2719,7 +2719,7 @@
     </Metadata>
     <text>
       <Line id="P0030501" order="1">樓下<term>魚龍</term>亦解<rhyme>降</rhyme></Line>
-      <Line id="P0030502" order="2"><term>使君</term><d>爲政</d>敞雲<rhyme>窓</rhyme></Line>
+      <Line id="P0030502" order="2"><term>使君</term>爲政敞雲<rhyme>窓</rhyme></Line>
       <Couplet><Line id="P0030503" order="3"><term>淸心</term>八大無邊月</Line>
         <Line id="P0030504" order="4">神勒<term>黃驪</term>不盡<rhyme>江</rhyme></Line></Couplet>
       <Couplet><Line id="P0030505" order="5">焉用割鷄<term>游利</term>刃</Line>
@@ -2966,11 +2966,11 @@
     <text>
       <Line id="P0031401" order="1">無邊<term>春意</term>物俱<rhyme>降</rhyme></Line>
       <Line id="P0031402" order="2">樓上<term>姸華</term>滿<d>客<rhyme>窓</rhyme></d></Line>
-      <Couplet><Line id="P0031403" order="3"><term>心斷</term><d>好山</d>圍遠野</Line>
+      <Couplet><Line id="P0031403" order="3"><term>心斷</term>好山圍遠野</Line>
         <Line id="P0031404" order="4"><term>眼明</term><term>歸棹</term>下<d>前<rhyme>江</rhyme></d></Line></Couplet>
       <Couplet><Line id="P0031405" order="5">敢捐蘭佩<term>沈煙</term>浦</Line>
         <Line id="P0031406" order="6">擬採蘋花<d>載酒</d><rhyme>缸</rhyme></Line></Couplet>
-      <Line id="P0031407" order="7">更賴<term>使君</term><d>爲政</d>美</Line>
+      <Line id="P0031407" order="7">更賴<term>使君</term>爲政美</Line>
       <Line id="P0031408" order="8"><term>關關</term><d>啼鳥</d>亦求<rhyme>雙</rhyme></Line>
 </text>
   </Poem>
@@ -3015,7 +3015,7 @@
         <Charactercount>칠언</Charactercount>
     </Form>
       <Themes>
-        <Theme category="tranquility" basis="term" evidence="term:高人 淸談">한적</Theme>
+        <Theme category="tranquility" basis="term" evidence="term:淸談 高人">한적</Theme>
       </Themes>
       <Context></Context>
     </Metadata>
@@ -3385,7 +3385,7 @@
         <Charactercount>칠언</Charactercount>
     </Form>
       <Themes>
-        <Theme category="donate" basis="title" evidence="title:簡 謝">기증</Theme>
+        <Theme category="donate" basis="title" evidence="title:謝 簡">기증</Theme>
       </Themes>
       <Context></Context>
     </Metadata>
@@ -3564,7 +3564,7 @@
         <Charactercount>칠언</Charactercount>
     </Form>
       <Themes>
-        <Theme category="donate" basis="title, term" evidence="title:寄 謝, term:一封">기증</Theme>
+        <Theme category="donate" basis="title, term" evidence="title:謝 寄, term:一封">기증</Theme>
       </Themes>
       <Context></Context>
     </Metadata>
@@ -4874,7 +4874,7 @@
         <Charactercount>칠언</Charactercount>
     </Form>
       <Themes>
-        <Theme category="travel" basis="title, term" evidence="title:洞, term:金剛 征驂 登臨">유람</Theme>
+        <Theme category="travel" basis="title, term" evidence="title:洞, term:征驂 金剛 登臨">유람</Theme>
       </Themes>
       <Context></Context>
     </Metadata>
@@ -4941,7 +4941,7 @@
         <Charactercount>칠언</Charactercount>
     </Form>
       <Themes>
-        <Theme category="reminiscence" basis="term" evidence="term:生涯 閉戶">회고</Theme>
+        <Theme category="reminiscence" basis="term" evidence="term:閉戶 生涯">회고</Theme>
       </Themes>
       <Context></Context>
     </Metadata>
@@ -5404,7 +5404,7 @@
     <text>
       <Line id="P0040301" order="1"><d>開窓</d>花正咲</Line>
       <Line id="P0040302" order="2">何意獨登<rhyme>原</rhyme></Line>
-      <Line id="P0040303" order="3">人遠<d>鸎啼</d>晩</Line>
+      <Line id="P0040303" order="3">人遠鸎啼晩</Line>
       <Line id="P0040304" order="4">愁<term>長春</term>睡<rhyme>昏</rhyme></Line>
     </text>
   </Poem>
@@ -5469,7 +5469,7 @@
         <Charactercount>오언</Charactercount>
     </Form>
       <Themes>
-        <Theme category="sympathy" basis="term" evidence="term:黃昏 風雨">애상</Theme>
+        <Theme category="sympathy" basis="term" evidence="term:風雨 黃昏">애상</Theme>
       </Themes>
       <Context></Context>
     </Metadata>
@@ -5715,7 +5715,7 @@
         <Charactercount>칠언</Charactercount>
     </Form>
       <Themes>
-        <Theme category="donate" basis="title" evidence="title:簡 謝">기증</Theme>
+        <Theme category="donate" basis="title" evidence="title:謝 簡">기증</Theme>
       </Themes>
       <Context></Context>
     </Metadata>
@@ -5767,7 +5767,7 @@
         <Charactercount>칠언</Charactercount>
     </Form>
       <Themes>
-        <Theme category="donate" basis="title" evidence="title:寄 簡 謝">기증</Theme>
+        <Theme category="donate" basis="title" evidence="title:謝 寄 簡">기증</Theme>
       </Themes>
       <Context></Context>
     </Metadata>
@@ -6192,7 +6192,7 @@
     <text>
       <Line id="P0043401" order="1"><d>堤柳</d><term>搖搖</term>先得<rhyme>陽</rhyme></Line>
       <Line id="P0043402" order="2"><term>東風</term><term>吹拂</term>嫩絲<rhyme>長</rhyme></Line>
-      <Line id="P0043403" order="3">莫敎<term>容易</term><d>鸎啼</d>綠</Line>
+      <Line id="P0043403" order="3">莫敎<term>容易</term>鸎啼綠</Line>
       <Line id="P0043404" order="4">兼恐<term>明朝</term>雨洗<rhyme>黃</rhyme></Line>
     </text>
   </Poem>
@@ -6329,7 +6329,7 @@
         <Charactercount>칠언</Charactercount>
     </Form>
       <Themes>
-        <Theme category="donate" basis="title" evidence="title:簡 謝">기증</Theme>
+        <Theme category="donate" basis="title" evidence="title:謝 簡">기증</Theme>
       </Themes>
       <Context></Context>
     </Metadata>
@@ -6383,7 +6383,7 @@
         <Charactercount>칠언</Charactercount>
     </Form>
       <Themes>
-        <Theme category="frontier" basis="term" evidence="term:出塞 幕府 元戎">변새</Theme>
+        <Theme category="frontier" basis="term" evidence="term:元戎 出塞 幕府">변새</Theme>
       </Themes>
       <Context></Context>
     </Metadata>
@@ -6439,7 +6439,7 @@
         <Charactercount>오언</Charactercount>
     </Form>
       <Themes>
-        <Theme category="season" basis="term" evidence="term:桃李 黃花">계절</Theme>
+        <Theme category="season" basis="term" evidence="term:黃花 桃李">계절</Theme>
       </Themes>
       <Context></Context>
     </Metadata>
@@ -6639,7 +6639,7 @@
         <Charactercount>칠언</Charactercount>
     </Form>
       <Themes>
-        <Theme category="water" basis="term" evidence="term:夕照 西風 蕭蕭">강해</Theme>
+        <Theme category="water" basis="term" evidence="term:夕照 蕭蕭 西風">강해</Theme>
       </Themes>
       <Context></Context>
     </Metadata>
@@ -6717,7 +6717,7 @@
         <Charactercount>칠언</Charactercount>
     </Form>
       <Themes>
-        <Theme category="travel" basis="title, term" evidence="title:過 自, term:行人">유람</Theme>
+        <Theme category="travel" basis="title, term" evidence="title:自 過, term:行人">유람</Theme>
       </Themes>
       <Context></Context>
     </Metadata>
@@ -6820,7 +6820,7 @@
       <Context></Context>
     </Metadata>
     <text>
-      <Line id="P0045501" order="1">春<d>雪深</d>埋逕</Line>
+      <Line id="P0045501" order="1">春雪深埋逕</Line>
       <Line id="P0045502" order="2"><term>寒雲</term>夜羃<rhyme>村</rhyme></Line>
       <Couplet><Line id="P0045503" order="3">人尋<term>楊子</term>宅</Line>
         <Line id="P0045504" order="4"><term>犬吠</term>翟<term>公<rhyme>門</rhyme></term></Line></Couplet>
@@ -7235,7 +7235,7 @@
         <Charactercount>칠언</Charactercount>
     </Form>
       <Themes>
-        <Theme category="donate" basis="title" evidence="title:寄 謝">기증</Theme>
+        <Theme category="donate" basis="title" evidence="title:謝 寄">기증</Theme>
       </Themes>
       <Context></Context>
     </Metadata>
@@ -7291,7 +7291,7 @@
         <Charactercount>오언</Charactercount>
     </Form>
       <Themes>
-        <Theme category="frontier" basis="term" evidence="term:時平 重關">변새</Theme>
+        <Theme category="frontier" basis="term" evidence="term:重關 時平">변새</Theme>
       </Themes>
       <Context></Context>
     </Metadata>
@@ -7515,7 +7515,7 @@
         <Charactercount>칠언</Charactercount>
     </Form>
       <Themes>
-        <Theme category="donate" basis="title" evidence="title:簡 謝">기증</Theme>
+        <Theme category="donate" basis="title" evidence="title:謝 簡">기증</Theme>
       </Themes>
       <Context></Context>
     </Metadata>
@@ -7807,7 +7807,7 @@
         <Charactercount>오언</Charactercount>
     </Form>
       <Themes>
-        <Theme category="donate" basis="title" evidence="title:寄 謝">기증</Theme>
+        <Theme category="donate" basis="title" evidence="title:謝 寄">기증</Theme>
       </Themes>
       <Context></Context>
     </Metadata>
@@ -7863,7 +7863,7 @@
         <Charactercount>오언</Charactercount>
     </Form>
       <Themes>
-        <Theme category="sympathy" basis="term" evidence="term:寒山 蕭蕭">애상</Theme>
+        <Theme category="sympathy" basis="term" evidence="term:蕭蕭 寒山">애상</Theme>
       </Themes>
       <Context></Context>
     </Metadata>
@@ -8051,7 +8051,7 @@
     </Metadata>
     <text>
       <Line id="P0050001" order="1"><term>春山</term><term>落日</term>沒村<rhyme>西</rhyme></Line>
-      <Line id="P0050002" order="2">浦柳<term>輕煙</term><d>翠色</d><rhyme>齊</rhyme></Line>
+      <Line id="P0050002" order="2">浦柳<term>輕煙</term>翠色<rhyme>齊</rhyme></Line>
       <Couplet><Line id="P0050003" order="3">卷幔靜看<term>新月</term>影</Line>
         <Line id="P0050004" order="4"><term>敲門</term><d>驚起</d><d>暮鴉</d><rhyme>棲</rhyme></Line></Couplet>
       <Couplet><Line id="P0050005" order="5"><term>重逢</term>僧面心<term>如在</term></Line>
@@ -8111,7 +8111,7 @@
         <Charactercount>칠언</Charactercount>
     </Form>
       <Themes>
-        <Theme category="meet" basis="term" evidence="term:神交 高會">회방</Theme>
+        <Theme category="meet" basis="term" evidence="term:高會 神交">회방</Theme>
       </Themes>
       <Context></Context>
     </Metadata>
@@ -8120,7 +8120,7 @@
       <Line id="P0050202" order="2"><term>主人</term>自號<term>元亨</term><rhyme>翁</rhyme></Line>
       <Couplet><Line id="P0050203" order="3"><d>揚雄</d><term>解嘲</term>意已疏</Line>
         <Line id="P0050204" order="4"><term>十年</term>衆毀<term>來成</term><rhyme>叢</rhyme></Line></Couplet>
-      <Couplet><Line id="P0050205" order="5"><d>心閑</d><d>一室</d><term>萬慮</term>虛</Line>
+      <Couplet><Line id="P0050205" order="5">心閑<d>一室</d><term>萬慮</term>虛</Line>
         <Line id="P0050206" order="6">不覺<term>朝旭</term>明窓<rhyme>櫳</rhyme></Line></Couplet>
       <Couplet><Line id="P0050207" order="7"><term>剝啄</term>初聞<term>相公</term>書</Line>
         <Line id="P0050208" order="8">仙夢遠回<term>蓬萊</term><rhyme>宮</rhyme></Line></Couplet>
@@ -8367,7 +8367,7 @@
         <Charactercount>칠언</Charactercount>
     </Form>
       <Themes>
-        <Theme category="sympathy" basis="term" evidence="term:天涯 悠悠">애상</Theme>
+        <Theme category="sympathy" basis="term" evidence="term:悠悠 天涯">애상</Theme>
       </Themes>
       <Context></Context>
     </Metadata>
@@ -8649,7 +8649,7 @@
         <Charactercount>칠언</Charactercount>
     </Form>
       <Themes>
-        <Theme category="donate" basis="title" evidence="title:贈 寄 謝">기증</Theme>
+        <Theme category="donate" basis="title" evidence="title:謝 寄 贈">기증</Theme>
       </Themes>
       <Context></Context>
     </Metadata>
@@ -8729,7 +8729,7 @@
         <Charactercount>칠언</Charactercount>
     </Form>
       <Themes>
-        <Theme category="picture" basis="title" evidence="title:圖 畫 題">도화</Theme>
+        <Theme category="picture" basis="title" evidence="title:畫 圖 題">도화</Theme>
       </Themes>
       <Context></Context>
     </Metadata>
@@ -8803,7 +8803,7 @@
         <Charactercount>칠언</Charactercount>
     </Form>
       <Themes>
-        <Theme category="donate" basis="title" evidence="title:寄 簡 謝">기증</Theme>
+        <Theme category="donate" basis="title" evidence="title:謝 寄 簡">기증</Theme>
       </Themes>
       <Context></Context>
     </Metadata>
@@ -9208,7 +9208,7 @@
         <Line id="P0054304" order="4"><term>一生</term>唯恨早稱<rhyme>亡</rhyme></Line></Couplet>
       <Couplet><Line id="P0054305" order="5"><term>東征</term>有賦<term>人方</term>羨</Line>
         <Line id="P0054306" order="6">北背無萱事<term>可<rhyme>傷</rhyme></term></Line></Couplet>
-      <Line id="P0054307" order="7">誓到爾居<d>雙劍</d>合</Line>
+      <Line id="P0054307" order="7">誓到爾居雙<term>劍合</term></Line>
       <Line id="P0054308" order="8"><term>故山</term>松梓更<term>蒼<rhyme>蒼</rhyme></term></Line>
 </text>
   </Poem>
@@ -9453,7 +9453,7 @@
         <Charactercount>칠언</Charactercount>
     </Form>
       <Themes>
-        <Theme category="farewell" basis="term" evidence="term:杳杳 孤懷">송별</Theme>
+        <Theme category="farewell" basis="term" evidence="term:孤懷 杳杳">송별</Theme>
       </Themes>
       <Context></Context>
     </Metadata>
@@ -9801,7 +9801,7 @@
         <Charactercount>오언</Charactercount>
     </Form>
       <Themes>
-        <Theme category="sympathy" basis="term" evidence="term:自憐 脩門 折柳 寂寞">애상</Theme>
+        <Theme category="sympathy" basis="term" evidence="term:折柳 脩門 寂寞 自憐">애상</Theme>
       </Themes>
       <Context></Context>
     </Metadata>
@@ -10224,7 +10224,7 @@
       <Context></Context>
     </Metadata>
     <text>
-      <Line id="P0057401" order="1"><d>滿紙</d><term>新詩</term><term>玉作</term><rhyme>聯</rhyme></Line>
+      <Line id="P0057401" order="1">滿紙<term>新詩</term><term>玉作</term><rhyme>聯</rhyme></Line>
       <Line id="P0057402" order="2">只應多爲賦<term>言<rhyme>旋</rhyme></term></Line>
       <Couplet><Line id="P0057403" order="3"><term>白頭</term>君似吟莊舃</Line>
         <Line id="P0057404" order="4"><term>明月</term>吾憐聽<term>杜<rhyme>鵑</rhyme></term></Line></Couplet>
@@ -10247,7 +10247,7 @@
         <Charactercount>칠언</Charactercount>
     </Form>
       <Themes>
-        <Theme category="picture" basis="title" evidence="title:圖 題">도화</Theme>
+        <Theme category="picture" basis="title" evidence="title:題 圖">도화</Theme>
       </Themes>
       <Context></Context>
     </Metadata>
@@ -10275,7 +10275,7 @@
         <Charactercount>칠언</Charactercount>
     </Form>
       <Themes>
-        <Theme category="picture" basis="title" evidence="title:圖 題">도화</Theme>
+        <Theme category="picture" basis="title" evidence="title:題 圖">도화</Theme>
       </Themes>
       <Context></Context>
     </Metadata>
@@ -10390,7 +10390,7 @@
         <Line id="P0058012" order="12">醉爲好賓醒<term>惡<rhyme>賓</rhyme></term></Line></Couplet>
       <Couplet><Line id="P0058013" order="13">何人復此槌碎樓</Line>
         <Line id="P0058014" order="14"><term>百年</term>一雪<term>江山</term><rhyme>羞</rhyme></Line></Couplet>
-      <Couplet><Line id="P0058015" order="15"><term>風流</term><d>爲政</d>老<term>遨頭</term></Line>
+      <Couplet><Line id="P0058015" order="15"><term>風流</term>爲政老<term>遨頭</term></Line>
         <Line id="P0058016" order="16">得享<term>昇平</term>天所<rhyme>休</rhyme></Line></Couplet>
       <Couplet><Line id="P0058017" order="17"><term>有時</term>或作<term>醉舞</term>亭</Line>
         <Line id="P0058018" order="18"><term>紅粉</term>百隊圍<term>玉<rhyme>甁</rhyme></term></Line></Couplet>
@@ -10525,7 +10525,7 @@
         <Charactercount>오언</Charactercount>
     </Form>
       <Themes>
-        <Theme category="frontier" basis="term" evidence="term:陰風 北闕 積雪">변새</Theme>
+        <Theme category="frontier" basis="term" evidence="term:陰風 積雪 北闕">변새</Theme>
       </Themes>
       <Context></Context>
     </Metadata>
@@ -10689,7 +10689,7 @@
         <Charactercount>칠언</Charactercount>
     </Form>
       <Themes>
-        <Theme category="farewell" basis="title, term" evidence="title:送, term:歸來 相逢 聚散">송별</Theme>
+        <Theme category="farewell" basis="title, term" evidence="title:送, term:聚散 相逢 歸來">송별</Theme>
       </Themes>
       <Context></Context>
     </Metadata>
@@ -10857,7 +10857,7 @@
         <Charactercount>칠언</Charactercount>
     </Form>
       <Themes>
-        <Theme category="travel" basis="term" evidence="term:客路 風光">유람</Theme>
+        <Theme category="travel" basis="term" evidence="term:風光 客路">유람</Theme>
       </Themes>
       <Context></Context>
     </Metadata>
@@ -11079,7 +11079,7 @@
       <Line id="P0060401" order="1">山豁江<term>分地</term>一<rhyme>陬</rhyme></Line>
       <Line id="P0060402" order="2">若論<term>形勝</term>是<term>豪<rhyme>酋</rhyme></term></Line>
       <Couplet><Line id="P0060403" order="3"><term>從前</term>固國非無險</Line>
-        <Line id="P0060404" order="4"><d>此日</d><d>臨邊</d>自有<rhyme>謀</rhyme></Line></Couplet>
+        <Line id="P0060404" order="4"><d>此日</d>臨邊自有<rhyme>謀</rhyme></Line></Couplet>
       <Couplet><Line id="P0060405" order="5"><d>亭上</d>謾圍<term>紅袖</term>陣</Line>
         <Line id="P0060406" order="6">詩中亦絶<term>白裘</term><rhyme>偸</rhyme></Line></Couplet>
       <Line id="P0060407" order="7"><term>書生</term><term>健筆</term>還無敵</Line>
@@ -11330,7 +11330,7 @@
     <text>
       <Line id="P0061301" order="1">矗出<term>玲瓏</term>峙<term>水<rhyme>湄</rhyme></term></Line>
       <Line id="P0061302" order="2">兩峯<term>淸絶</term>儼<term>相<rhyme>持</rhyme></term></Line>
-      <Couplet><Line id="P0061303" order="3">嵒崖霧濕樹<d>濃淡</d></Line>
+      <Couplet><Line id="P0061303" order="3">嵒崖霧濕樹濃淡</Line>
         <Line id="P0061304" order="4"><term>石竇</term><d>春寒</d>氷<term>陸<rhyme>離</rhyme></term></Line></Couplet>
       <Couplet><Line id="P0061305" order="5">董子始題蔥<term>秀異</term></Line>
         <Line id="P0061306" order="6">龔公還記<term>翠屛</term><rhyme>奇</rhyme></Line></Couplet>
@@ -11407,7 +11407,7 @@
         <Charactercount>칠언</Charactercount>
     </Form>
       <Themes>
-        <Theme category="structure" basis="title" evidence="title:百祥樓 樓">건물</Theme>
+        <Theme category="structure" basis="title" evidence="title:樓 百祥樓">건물</Theme>
       </Themes>
       <Context></Context>
     </Metadata>
@@ -11717,7 +11717,7 @@
         <Charactercount>칠언</Charactercount>
     </Form>
       <Themes>
-        <Theme category="sympathy" basis="term" evidence="term:離別 千里">애상</Theme>
+        <Theme category="sympathy" basis="term" evidence="term:千里 離別">애상</Theme>
       </Themes>
       <Context></Context>
     </Metadata>
@@ -11894,7 +11894,7 @@
     <text>
       <Line id="P0063401" order="1">如入<term>桃源</term>界</Line>
       <Line id="P0063402" order="2">曾聞大守<rhyme>豪</rhyme></Line>
-      <Couplet><Line id="P0063403" order="3">路危添<d>鍊石</d></Line>
+      <Couplet><Line id="P0063403" order="3">路危添鍊石</Line>
         <Line id="P0063404" order="4">江淨照<term>秋<rhyme>毫</rhyme></term></Line></Couplet>
       <Couplet><Line id="P0063405" order="5"><term>寒碧</term>樓<term>名勝</term></Line>
         <Line id="P0063406" order="6"><term>淸風</term>郡勢<rhyme>高</rhyme></Line></Couplet>
@@ -11971,7 +11971,7 @@
         <Charactercount>칠언</Charactercount>
     </Form>
       <Themes>
-        <Theme category="travel" basis="title, term" evidence="title:驛 宿, term:名山">유람</Theme>
+        <Theme category="travel" basis="title, term" evidence="title:宿 驛, term:名山">유람</Theme>
       </Themes>
       <Context></Context>
     </Metadata>
@@ -12057,7 +12057,7 @@
         <Charactercount>칠언</Charactercount>
     </Form>
       <Themes>
-        <Theme category="donate" basis="title" evidence="title:寄 謝">기증</Theme>
+        <Theme category="donate" basis="title" evidence="title:謝 寄">기증</Theme>
       </Themes>
       <Context></Context>
     </Metadata>
@@ -12105,7 +12105,7 @@
         <Charactercount>칠언</Charactercount>
     </Form>
       <Themes>
-        <Theme category="tranquility" basis="term" evidence="term:天風 蒼鷹">한적</Theme>
+        <Theme category="tranquility" basis="term" evidence="term:蒼鷹 天風">한적</Theme>
       </Themes>
       <Context></Context>
     </Metadata>
@@ -12153,7 +12153,7 @@
         <Charactercount>칠언</Charactercount>
     </Form>
       <Themes>
-        <Theme category="farewell" basis="title, term" evidence="title:送, term:今朝 歸去">송별</Theme>
+        <Theme category="farewell" basis="title, term" evidence="title:送, term:歸去 今朝">송별</Theme>
       </Themes>
       <Context></Context>
     </Metadata>
@@ -12217,7 +12217,7 @@
         <Charactercount>칠언</Charactercount>
     </Form>
       <Themes>
-        <Theme category="donate" basis="title" evidence="title:寄 謝">기증</Theme>
+        <Theme category="donate" basis="title" evidence="title:謝 寄">기증</Theme>
       </Themes>
       <Context></Context>
     </Metadata>
@@ -12659,7 +12659,7 @@
         <Charactercount>오언</Charactercount>
     </Form>
       <Themes>
-        <Theme category="reminiscence" basis="title" evidence="title:有懷 懷">회고</Theme>
+        <Theme category="reminiscence" basis="title" evidence="title:懷 有懷">회고</Theme>
       </Themes>
       <Context></Context>
     </Metadata>
@@ -13169,7 +13169,7 @@
         <Charactercount>오언</Charactercount>
     </Form>
       <Themes>
-        <Theme category="farewell" basis="title, term" evidence="title:送, term:相逢 行路">송별</Theme>
+        <Theme category="farewell" basis="title, term" evidence="title:送, term:行路 相逢">송별</Theme>
       </Themes>
       <Context></Context>
     </Metadata>
@@ -13411,7 +13411,7 @@
         <Charactercount>칠언</Charactercount>
     </Form>
       <Themes>
-        <Theme category="farewell" basis="title, term" evidence="title:送 赴京, term:別離">송별</Theme>
+        <Theme category="farewell" basis="title, term" evidence="title:赴京 送, term:別離">송별</Theme>
       </Themes>
       <Context></Context>
     </Metadata>
@@ -13869,7 +13869,7 @@
         <Charactercount>칠언</Charactercount>
     </Form>
       <Themes>
-        <Theme category="season" basis="title, term" evidence="title:九日, term:落木 西風">계절</Theme>
+        <Theme category="season" basis="title, term" evidence="title:九日, term:西風 落木">계절</Theme>
       </Themes>
       <Context></Context>
     </Metadata>
@@ -13897,7 +13897,7 @@
         <Charactercount>칠언</Charactercount>
     </Form>
       <Themes>
-        <Theme category="structure" basis="title" evidence="title:家 城">건물</Theme>
+        <Theme category="structure" basis="title" evidence="title:城 家">건물</Theme>
       </Themes>
       <Context></Context>
     </Metadata>
@@ -13921,7 +13921,7 @@
         <Charactercount>칠언</Charactercount>
     </Form>
       <Themes>
-        <Theme category="structure" basis="title" evidence="title:家 城">건물</Theme>
+        <Theme category="structure" basis="title" evidence="title:城 家">건물</Theme>
       </Themes>
       <Context></Context>
     </Metadata>
@@ -13987,7 +13987,7 @@
       <Couplet><Line id="P0071107" order="7">常聞麟是聖之瑞</Line>
         <Line id="P0071108" order="8">出則<term>文明</term><term>王道</term><rhyme>昌</rhyme></Line></Couplet>
       <Couplet><Line id="P0071109" order="9"><term>如何</term><term>西狩</term>謾傷足</Line>
-        <Line id="P0071110" order="10">竟使<term>象尼</term><d>雙淚</d><rhyme>滂</rhyme></Line></Couplet>
+        <Line id="P0071110" order="10">竟使<term>象尼</term>雙淚<rhyme>滂</rhyme></Line></Couplet>
       <Line id="P0071111" order="11"><term>春秋</term>筆絶<term>吾道</term>窮</Line>
       <Line id="P0071112" order="12">麟<term>至于</term>玆還不<rhyme>祥</rhyme></Line>
 </text>
@@ -14161,7 +14161,7 @@
         <Charactercount>오언</Charactercount>
     </Form>
       <Themes>
-        <Theme category="sympathy" basis="term" evidence="term:驚心 歸思">애상</Theme>
+        <Theme category="sympathy" basis="term" evidence="term:歸思 驚心">애상</Theme>
       </Themes>
       <Context></Context>
     </Metadata>
@@ -14255,7 +14255,7 @@
         <Charactercount>오언</Charactercount>
     </Form>
       <Themes>
-        <Theme category="farewell" basis="title, term" evidence="title:歸, term:歸來 專對">송별</Theme>
+        <Theme category="farewell" basis="title, term" evidence="title:歸, term:專對 歸來">송별</Theme>
       </Themes>
       <Context></Context>
     </Metadata>
@@ -14383,7 +14383,7 @@
         <Charactercount>칠언</Charactercount>
     </Form>
       <Themes>
-        <Theme category="sympathy" basis="term" evidence="term:千里 無心 興亡">애상</Theme>
+        <Theme category="sympathy" basis="term" evidence="term:無心 興亡 千里">애상</Theme>
       </Themes>
       <Context></Context>
     </Metadata>
@@ -14407,7 +14407,7 @@
       <Couplet><Line id="P0072417" order="17">潰出<term>重圍</term>非不逝</Line>
         <Line id="P0072418" order="18"><term>失道</term><term>陰陵</term>天<term>所<rhyme>爲</rhyme></term></Line></Couplet>
       <Couplet><Line id="P0072419" order="19"><d>哀鳴</d><term>獨立</term><term>江上</term>亭</Line>
-        <Line id="P0072420" order="20">那忍<term>重瞳</term><d>雙淚</d><rhyme>乘</rhyme></Line></Couplet>
+        <Line id="P0072420" order="20">那忍<term>重瞳</term>雙淚<rhyme>乘</rhyme></Line></Couplet>
       <Couplet><Line id="P0072421" order="21"><term>功名</term>敢望上<d>畫圖</d></Line>
         <Line id="P0072422" order="22"><term>老死</term><term>無心</term>葬<term>弊<rhyme>帷</rhyme></term></Line></Couplet>
       <Line id="P0072423" order="23"><term>興亡</term>雖異亦一馬</Line>
@@ -14759,7 +14759,7 @@
         <Charactercount>칠언</Charactercount>
     </Form>
       <Themes>
-        <Theme category="farewell" basis="title, term" evidence="title:送別 別 送, term:故人 相逢">송별</Theme>
+        <Theme category="farewell" basis="title, term" evidence="title:送別 送 別, term:相逢 故人">송별</Theme>
       </Themes>
       <Context></Context>
     </Metadata>
@@ -14913,7 +14913,7 @@
         <Charactercount>칠언</Charactercount>
     </Form>
       <Themes>
-        <Theme category="donate" basis="title" evidence="title:簡 謝">기증</Theme>
+        <Theme category="donate" basis="title" evidence="title:謝 簡">기증</Theme>
       </Themes>
       <Context></Context>
     </Metadata>
@@ -15093,7 +15093,7 @@
         <Charactercount>오언</Charactercount>
     </Form>
       <Themes>
-        <Theme category="picture" basis="title" evidence="title:圖 題">도화</Theme>
+        <Theme category="picture" basis="title" evidence="title:題 圖">도화</Theme>
       </Themes>
       <Context></Context>
     </Metadata>
@@ -15339,7 +15339,7 @@
         <Charactercount>칠언</Charactercount>
     </Form>
       <Themes>
-        <Theme category="donate" basis="title" evidence="title:簡 謝">기증</Theme>
+        <Theme category="donate" basis="title" evidence="title:謝 簡">기증</Theme>
       </Themes>
       <Context></Context>
     </Metadata>
@@ -15503,7 +15503,7 @@
         <Charactercount>칠언</Charactercount>
     </Form>
       <Themes>
-        <Theme category="donate" basis="title" evidence="title:寄 謝">기증</Theme>
+        <Theme category="donate" basis="title" evidence="title:謝 寄">기증</Theme>
       </Themes>
       <Context></Context>
     </Metadata>
@@ -15527,7 +15527,7 @@
         <Charactercount>칠언</Charactercount>
     </Form>
       <Themes>
-        <Theme category="donate" basis="title" evidence="title:寄 謝">기증</Theme>
+        <Theme category="donate" basis="title" evidence="title:謝 寄">기증</Theme>
       </Themes>
       <Context></Context>
     </Metadata>
@@ -15535,7 +15535,7 @@
       <Line id="P0076701" order="1"><term>田中</term><term>辛苦</term>猶怨暑</Line>
       <Line id="P0076702" order="2"><term>天上</term><term>光陰</term>已報<rhyme>秋</rhyme></Line>
       <Line id="P0076703" order="3"><term>有酒</term>有肴過此夕</Line>
-      <Line id="P0076704" order="4"><term>使君</term><d>爲政</d>極<term>風<rhyme>流</rhyme></term></Line>
+      <Line id="P0076704" order="4"><term>使君</term>爲政極<term>風<rhyme>流</rhyme></term></Line>
     </text>
   </Poem>
 <Poem id="P00768">
@@ -15632,7 +15632,7 @@
       <Context></Context>
     </Metadata>
     <text>
-      <Line id="P0077101" order="1"><term>一帶</term><d>淸川</d>繞碧<rhyme>羅</rhyme></Line>
+      <Line id="P0077101" order="1"><term>一帶</term>淸川繞碧<rhyme>羅</rhyme></Line>
       <Line id="P0077102" order="2"><term>玉簪</term><d>峯影</d>倒<d>明<rhyme>沙</rhyme></d></Line>
       <Line id="P0077103" order="3"><term>白頭</term>倘有<d>重遊</d>日</Line>
       <Line id="P0077104" order="4">須及嵒崖<term>躑躅</term><rhyme>花</rhyme></Line>
@@ -15884,7 +15884,7 @@
         <Charactercount>오언</Charactercount>
     </Form>
       <Themes>
-        <Theme category="picture" basis="title" evidence="title:圖 題">도화</Theme>
+        <Theme category="picture" basis="title" evidence="title:題 圖">도화</Theme>
       </Themes>
       <Context></Context>
     </Metadata>
@@ -15936,7 +15936,7 @@
         <Charactercount>칠언</Charactercount>
     </Form>
       <Themes>
-        <Theme category="others" basis="term" evidence="term:唱酬 江湖">기타</Theme>
+        <Theme category="others" basis="term" evidence="term:江湖 唱酬">기타</Theme>
       </Themes>
       <Context></Context>
     </Metadata>
@@ -16882,7 +16882,7 @@
         <Charactercount>칠언</Charactercount>
     </Form>
       <Themes>
-        <Theme category="picture" basis="title" evidence="title:圖 畫">도화</Theme>
+        <Theme category="picture" basis="title" evidence="title:畫 圖">도화</Theme>
       </Themes>
       <Context></Context>
     </Metadata>
@@ -17008,7 +17008,7 @@
         <Charactercount>칠언</Charactercount>
     </Form>
       <Themes>
-        <Theme category="tranquility" basis="title, term" evidence="title:梅花, term:騷人 寂寂 淸夜 蒼苔">한적</Theme>
+        <Theme category="tranquility" basis="title, term" evidence="title:梅花, term:寂寂 淸夜 蒼苔 騷人">한적</Theme>
       </Themes>
       <Context></Context>
     </Metadata>
@@ -17100,7 +17100,7 @@
         <Charactercount>칠언</Charactercount>
     </Form>
       <Themes>
-        <Theme category="sympathy" basis="term" evidence="term:黃塵 不見">애상</Theme>
+        <Theme category="sympathy" basis="term" evidence="term:不見 黃塵">애상</Theme>
       </Themes>
       <Context></Context>
     </Metadata>
@@ -17353,7 +17353,7 @@
         <Charactercount>오언</Charactercount>
     </Form>
       <Themes>
-        <Theme category="farewell" basis="title, term" evidence="title:送, term:相逢 離筵 何處">송별</Theme>
+        <Theme category="farewell" basis="title, term" evidence="title:送, term:何處 離筵 相逢">송별</Theme>
       </Themes>
       <Context></Context>
     </Metadata>
@@ -17405,7 +17405,7 @@
         <Charactercount>칠언</Charactercount>
     </Form>
       <Themes>
-        <Theme category="farewell" basis="title, term" evidence="title:逢 敍別 別, term:相逢 分手">송별</Theme>
+        <Theme category="farewell" basis="title, term" evidence="title:敍別 逢 別, term:相逢 分手">송별</Theme>
       </Themes>
       <Context></Context>
     </Metadata>
@@ -17479,7 +17479,7 @@
         <Charactercount>오언</Charactercount>
     </Form>
       <Themes>
-        <Theme category="farewell" basis="title, term" evidence="title:送, term:離別 聚散">송별</Theme>
+        <Theme category="farewell" basis="title, term" evidence="title:送, term:聚散 離別">송별</Theme>
       </Themes>
       <Context></Context>
     </Metadata>
@@ -17623,7 +17623,7 @@
         <Charactercount>칠언</Charactercount>
     </Form>
       <Themes>
-        <Theme category="structure" basis="title" evidence="title:臺 堂">건물</Theme>
+        <Theme category="structure" basis="title" evidence="title:堂 臺">건물</Theme>
       </Themes>
       <Context></Context>
     </Metadata>
@@ -17947,7 +17947,7 @@
         <Charactercount>오언</Charactercount>
     </Form>
       <Themes>
-        <Theme category="picture" basis="title" evidence="title:圖 題">도화</Theme>
+        <Theme category="picture" basis="title" evidence="title:題 圖">도화</Theme>
       </Themes>
       <Context></Context>
     </Metadata>
@@ -18027,7 +18027,7 @@
         <Charactercount>칠언</Charactercount>
     </Form>
       <Themes>
-        <Theme category="frontier" basis="term" evidence="term:功名 昇平 旌旗">변새</Theme>
+        <Theme category="frontier" basis="term" evidence="term:旌旗 昇平 功名">변새</Theme>
       </Themes>
       <Context></Context>
     </Metadata>
@@ -18055,7 +18055,7 @@
         <Charactercount>오언</Charactercount>
     </Form>
       <Themes>
-        <Theme category="donate" basis="title" evidence="title:寄 簡 謝">기증</Theme>
+        <Theme category="donate" basis="title" evidence="title:謝 寄 簡">기증</Theme>
       </Themes>
       <Context></Context>
     </Metadata>
@@ -18083,7 +18083,7 @@
         <Charactercount>칠언</Charactercount>
     </Form>
       <Themes>
-        <Theme category="travel" basis="title, term" evidence="title:發 遊 舊遊, term:舊遊">유람</Theme>
+        <Theme category="travel" basis="title, term" evidence="title:發 舊遊 遊, term:舊遊">유람</Theme>
       </Themes>
       <Context></Context>
     </Metadata>
@@ -18093,7 +18093,7 @@
       <Couplet><Line id="P0085803" order="3"><term>岷嶺</term>自<term>收工</term>部栗</Line>
         <Line id="P0085804" order="4"><term>南陽</term>誰問<term>孔明</term><rhyme>廬</rhyme></Line></Couplet>
       <Couplet><Line id="P0085805" order="5">朝中每惜吟<term>佳句</term></Line>
-        <Line id="P0085806" order="6"><d>驢背</d>何心羨廣<rhyme>輿</rhyme></Line></Couplet>
+        <Line id="P0085806" order="6">驢背何心羨廣<rhyme>輿</rhyme></Line></Couplet>
       <Line id="P0085807" order="7"><term>惆悵</term><term>元亨</term><term>舊遊</term>伴</Line>
       <Line id="P0085808" order="8"><term>黃花</term>無復滿頭<rhyme>諸</rhyme></Line>
 </text>
@@ -18617,7 +18617,7 @@
         <Charactercount>칠언</Charactercount>
     </Form>
       <Themes>
-        <Theme category="buddhism" basis="title, term" evidence="title:僧, term:禪衣 方丈 尋眞">불교</Theme>
+        <Theme category="buddhism" basis="title, term" evidence="title:僧, term:禪衣 尋眞 方丈">불교</Theme>
       </Themes>
       <Context></Context>
     </Metadata>
@@ -18891,7 +18891,7 @@
         <Charactercount>오언</Charactercount>
     </Form>
       <Themes>
-        <Theme category="farewell" basis="title, term" evidence="title:送 赴京, term:別離">송별</Theme>
+        <Theme category="farewell" basis="title, term" evidence="title:赴京 送, term:別離">송별</Theme>
       </Themes>
       <Context></Context>
     </Metadata>
@@ -19021,7 +19021,7 @@
         <Charactercount>오언</Charactercount>
     </Form>
       <Themes>
-        <Theme category="farewell" basis="title, term" evidence="title:留別 別, term:離別 天涯">송별</Theme>
+        <Theme category="farewell" basis="title, term" evidence="title:別 留別, term:天涯 離別">송별</Theme>
       </Themes>
       <Context></Context>
     </Metadata>
@@ -19311,7 +19311,7 @@
         <Charactercount>칠언</Charactercount>
     </Form>
       <Themes>
-        <Theme category="sympathy" basis="term" evidence="term:辛苦 悠悠 無限 遠思 不見">애상</Theme>
+        <Theme category="sympathy" basis="term" evidence="term:不見 無限 遠思 悠悠 辛苦">애상</Theme>
       </Themes>
       <Context></Context>
     </Metadata>
@@ -19573,7 +19573,7 @@
         <Charactercount>칠언</Charactercount>
     </Form>
       <Themes>
-        <Theme category="travel" basis="title" evidence="title:過 重過">유람</Theme>
+        <Theme category="travel" basis="title" evidence="title:重過 過">유람</Theme>
       </Themes>
       <Context></Context>
     </Metadata>
@@ -19743,7 +19743,7 @@
     </Metadata>
     <text>
       <Line id="P0092001" order="1"><term>目擊</term><term>先知</term>道可<rhyme>通</rhyme></Line>
-      <Line id="P0092002" order="2"><d>此心</d>元不限<term>西<rhyme>東</rhyme></term></Line>
+      <Line id="P0092002" order="2">此心元不限<term>西<rhyme>東</rhyme></term></Line>
       <Couplet><Line id="P0092003" order="3"><term>淵源</term>想<term>自程</term><term>朱學</term></Line>
         <Line id="P0092004" order="4"><term>句律</term>猶存<term>李杜</term><rhyme>風</rhyme></Line></Couplet>
       <Couplet><Line id="P0092005" order="5"><term>聖世</term><term>卽今</term>分繡鉞</Line>
@@ -20353,7 +20353,7 @@
         <Charactercount>오언</Charactercount>
     </Form>
       <Themes>
-        <Theme category="sympathy" basis="term" evidence="term:流塵 自憐">애상</Theme>
+        <Theme category="sympathy" basis="term" evidence="term:自憐 流塵">애상</Theme>
       </Themes>
       <Context></Context>
     </Metadata>
@@ -20879,7 +20879,7 @@
     </Metadata>
     <text>
       <Line id="P0095801" order="1"><term>縹緲</term><term>簾櫳</term>近斗<rhyme>邊</rhyme></Line>
-      <Line id="P0095802" order="2"><term>兩江</term>號汹拆<d>淸<rhyme>川</rhyme></d></Line>
+      <Line id="P0095802" order="2"><term>兩江</term>號汹拆淸<rhyme>川</rhyme></Line>
       <Couplet><Line id="P0095803" order="3"><term>天空</term><term>俯視</term><term>雲鴻</term>背</Line>
         <Line id="P0095804" order="4"><term>日照</term>遙分海岫<rhyme>巓</rhyme></Line></Couplet>
       <Couplet><Line id="P0095805" order="5">范子有憂何日樂</Line>
@@ -21065,7 +21065,7 @@
         <Charactercount>오언</Charactercount>
     </Form>
       <Themes>
-        <Theme category="travel" basis="title" evidence="title:洞 道中">유람</Theme>
+        <Theme category="travel" basis="title" evidence="title:道中 洞">유람</Theme>
       </Themes>
       <Context></Context>
     </Metadata>
@@ -21205,7 +21205,7 @@
         <Charactercount>오언</Charactercount>
     </Form>
       <Themes>
-        <Theme category="sympathy" basis="term" evidence="term:逝水 興亡 悠悠">애상</Theme>
+        <Theme category="sympathy" basis="term" evidence="term:興亡 悠悠 逝水">애상</Theme>
       </Themes>
       <Context></Context>
     </Metadata>
@@ -21631,7 +21631,7 @@
         <Charactercount>오언</Charactercount>
     </Form>
       <Themes>
-        <Theme category="tranquility" basis="term" evidence="term:天風 靑燈">한적</Theme>
+        <Theme category="tranquility" basis="term" evidence="term:靑燈 天風">한적</Theme>
       </Themes>
       <Context></Context>
     </Metadata>
@@ -21683,7 +21683,7 @@
         <Charactercount>오언</Charactercount>
     </Form>
       <Themes>
-        <Theme category="tranquility" basis="term" evidence="term:黃花 故人 風光">한적</Theme>
+        <Theme category="tranquility" basis="term" evidence="term:風光 黃花 故人">한적</Theme>
       </Themes>
       <Context></Context>
     </Metadata>
@@ -22075,7 +22075,7 @@
         <Charactercount>칠언</Charactercount>
     </Form>
       <Themes>
-        <Theme category="picture" basis="title" evidence="title:圖 題">도화</Theme>
+        <Theme category="picture" basis="title" evidence="title:題 圖">도화</Theme>
       </Themes>
       <Context></Context>
     </Metadata>
@@ -22231,7 +22231,7 @@
         <Charactercount>칠언</Charactercount>
     </Form>
       <Themes>
-        <Theme category="picture" basis="title" evidence="title:圖 畫 題">도화</Theme>
+        <Theme category="picture" basis="title" evidence="title:畫 圖 題">도화</Theme>
       </Themes>
       <Context></Context>
     </Metadata>
@@ -22431,7 +22431,7 @@
         <Charactercount>칠언</Charactercount>
     </Form>
       <Themes>
-        <Theme category="farewell" basis="title, term" evidence="title:送, term:送君 專對">송별</Theme>
+        <Theme category="farewell" basis="title, term" evidence="title:送, term:專對 送君">송별</Theme>
       </Themes>
       <Context></Context>
     </Metadata>
@@ -22761,7 +22761,7 @@
         <Charactercount>오언</Charactercount>
     </Form>
       <Themes>
-        <Theme category="picture" basis="title" evidence="title:圖 題">도화</Theme>
+        <Theme category="picture" basis="title" evidence="title:題 圖">도화</Theme>
       </Themes>
       <Context></Context>
     </Metadata>
@@ -22895,7 +22895,7 @@
         <Charactercount>칠언</Charactercount>
     </Form>
       <Themes>
-        <Theme category="picture" basis="title" evidence="title:圖 題">도화</Theme>
+        <Theme category="picture" basis="title" evidence="title:題 圖">도화</Theme>
       </Themes>
       <Context></Context>
     </Metadata>
@@ -23331,7 +23331,7 @@
         <Charactercount>칠언</Charactercount>
     </Form>
       <Themes>
-        <Theme category="donate" basis="title" evidence="title:寄 簡 謝">기증</Theme>
+        <Theme category="donate" basis="title" evidence="title:謝 寄 簡">기증</Theme>
       </Themes>
       <Context></Context>
     </Metadata>
@@ -23801,7 +23801,7 @@
         <Charactercount>칠언</Charactercount>
     </Form>
       <Themes>
-        <Theme category="donate" basis="title" evidence="title:寄 謝">기증</Theme>
+        <Theme category="donate" basis="title" evidence="title:謝 寄">기증</Theme>
       </Themes>
       <Context></Context>
     </Metadata>
@@ -24011,7 +24011,7 @@
         <Charactercount>오언</Charactercount>
     </Form>
       <Themes>
-        <Theme category="donate" basis="title" evidence="title:簡 謝">기증</Theme>
+        <Theme category="donate" basis="title" evidence="title:謝 簡">기증</Theme>
       </Themes>
       <Context></Context>
     </Metadata>
@@ -24095,7 +24095,7 @@
     </Metadata>
     <text>
       <Line id="P0107701" order="1"><term>空庭</term>艸樹<term>露華</term><rhyme>團</rhyme></Line>
-      <Line id="P0107702" order="2"><term>山氣</term><d>蒼然</d><term>暑氣</term><rhyme>殘</rhyme></Line>
+      <Line id="P0107702" order="2"><term>山氣</term>蒼然<term>暑氣</term><rhyme>殘</rhyme></Line>
       <Line id="P0107703" order="3"><term>自愛</term>企齋<d>今夜</d>月</Line>
       <Line id="P0107704" order="4"><term>淸光</term>來照駱峯<rhyme>顏</rhyme></Line>
     </text>
@@ -24113,7 +24113,7 @@
         <Charactercount>칠언</Charactercount>
     </Form>
       <Themes>
-        <Theme category="season" basis="term" evidence="term:黃花 佳節">계절</Theme>
+        <Theme category="season" basis="term" evidence="term:佳節 黃花">계절</Theme>
       </Themes>
       <Context></Context>
     </Metadata>
@@ -24137,7 +24137,7 @@
         <Charactercount>칠언</Charactercount>
     </Form>
       <Themes>
-        <Theme category="sympathy" basis="title, term" evidence="title:挽, term:遠情 悠悠">애상</Theme>
+        <Theme category="sympathy" basis="title, term" evidence="title:挽, term:悠悠 遠情">애상</Theme>
       </Themes>
       <Context></Context>
     </Metadata>
@@ -24313,7 +24313,7 @@
         <Charactercount>칠언</Charactercount>
     </Form>
       <Themes>
-        <Theme category="donate" basis="title" evidence="title:簡 謝">기증</Theme>
+        <Theme category="donate" basis="title" evidence="title:謝 簡">기증</Theme>
       </Themes>
       <Context></Context>
     </Metadata>
@@ -24413,7 +24413,7 @@
         <Charactercount>칠언</Charactercount>
     </Form>
       <Themes>
-        <Theme category="travel" basis="title" evidence="title:遊 赴 上山 經">유람</Theme>
+        <Theme category="travel" basis="title" evidence="title:赴 上山 遊 經">유람</Theme>
       </Themes>
       <Context></Context>
     </Metadata>
@@ -24509,7 +24509,7 @@
         <Charactercount>칠언</Charactercount>
     </Form>
       <Themes>
-        <Theme category="season" basis="title, term" evidence="title:九日, term:黃花 西風">계절</Theme>
+        <Theme category="season" basis="title, term" evidence="title:九日, term:西風 黃花">계절</Theme>
       </Themes>
       <Context></Context>
     </Metadata>
@@ -24564,7 +24564,7 @@
       <Context></Context>
     </Metadata>
     <text>
-      <Line id="P0109601" order="1"><term>黃霧</term>霾<term>空日</term><d>夜<rhyme>風</rhyme></d></Line>
+      <Line id="P0109601" order="1"><term>黃霧</term>霾<term>空日</term>夜<rhyme>風</rhyme></Line>
       <Line id="P0109602" order="2"><term>天中</term>怪<term>種落</term><term>濛<rhyme>濛</rhyme></term></Line>
       <Couplet><Line id="P0109603" order="3">方<term>愁雲</term>漢頭添白</Line>
         <Line id="P0109604" order="4">豈料城<term>花雨</term>濕<rhyme>紅</rhyme></Line></Couplet>
@@ -25389,7 +25389,7 @@
         <Charactercount>미상</Charactercount>
     </Form>
       <Themes>
-        <Theme category="tranquility" basis="term" evidence="term:獨立 釣臺 菟裘 煙波 春風">한적</Theme>
+        <Theme category="tranquility" basis="term" evidence="term:獨立 釣臺 菟裘 春風 煙波">한적</Theme>
       </Themes>
       <Context></Context>
     </Metadata>
@@ -25439,7 +25439,7 @@
       <Line id="P0112743" order="43"><term>已矣</term>乎</Line>
       <Line id="P0112744" order="44">上蔡鷹<rhyme>逸</rhyme></Line>
       <Line id="P0112745" order="45"><term>黃犬</term>俱亡</Line>
-      <Line id="P0112746" order="46"><d>淮陰</d>鳥<rhyme>盡</rhyme></Line>
+      <Line id="P0112746" order="46">淮<term>陰鳥</term><rhyme>盡</rhyme></Line>
       <Line id="P0112747" order="47"><term>良弓</term>幷藏</Line>
       <Line id="P0112748" order="48">鷗乎鷗<rhyme>乎</rhyme></Line>
       <Line id="P0112749" order="49"><term>知機</term>而<term>勇退</term>者乎</Line>
@@ -25614,7 +25614,7 @@
         <Charactercount>미상</Charactercount>
     </Form>
       <Themes>
-        <Theme category="frontier" basis="term" evidence="term:胡虜 山戎 許國 據鞍 勳業">변새</Theme>
+        <Theme category="frontier" basis="term" evidence="term:勳業 許國 山戎 胡虜 據鞍">변새</Theme>
       </Themes>
       <Context></Context>
     </Metadata>
@@ -25697,7 +25697,7 @@
         <Charactercount>미상</Charactercount>
     </Form>
       <Themes>
-        <Theme category="sympathy" basis="term" evidence="term:何日 風雨 悄悄">애상</Theme>
+        <Theme category="sympathy" basis="term" evidence="term:何日 悄悄 風雨">애상</Theme>
       </Themes>
       <Context></Context>
     </Metadata>
@@ -25706,7 +25706,7 @@
       <Line id="P0113102" order="2">廓<term>獨處</term>而無<rhyme>儔</rhyme></Line>
       <Line id="P0113103" order="3">聞<term>鶴言</term>於<term>往牒</term></Line>
       <Line id="P0113104" order="4"><term>養眞</term>身於<term>丹<rhyme>丘</rhyme></term></Line>
-      <Line id="P0113105" order="5">非<d>群鷄</d>之爭食</Line>
+      <Line id="P0113105" order="5">非群鷄之爭食</Line>
       <Line id="P0113106" order="6">性固異於<term>凡<rhyme>流</rhyme></term></Line>
       <Line id="P0113107" order="7">朝飮露兮<term>蓬島</term></Line>
       <Line id="P0113108" order="8"><d>夕餐</d>霞兮<term>瀛<rhyme>洲</rhyme></term></Line>
@@ -25714,7 +25714,7 @@
       <Line id="P0113110" order="10">一<term>垂翅</term>而<term>嘵<rhyme>嘵</rhyme></term></Line>
       <Line id="P0113111" order="11"><term>風雨</term><term>飄搖</term>乎<term>棲遲</term></Line>
       <Line id="P0113112" order="12">禿汝羽之<term>翛<rhyme>翛</rhyme></term></Line>
-      <Line id="P0113113" order="13">悲<d>昏鴉</d>之<d>滿林</d></Line>
+      <Line id="P0113113" order="13">悲昏鴉之<d>滿林</d></Line>
       <Line id="P0113114" order="14">憐<term>急景</term>之<term>彫<rhyme>年</rhyme></term></Line>
       <Line id="P0113115" order="15"><term>江山</term><term>闃其</term><term>無人</term></Line>
       <Line id="P0113116" order="16">托誰夢以<term>蹁<rhyme>躚</rhyme></term></Line>
@@ -26303,7 +26303,7 @@
         <Charactercount>미상</Charactercount>
     </Form>
       <Themes>
-        <Theme category="sympathy" basis="term" evidence="term:子規 千里 殘春">애상</Theme>
+        <Theme category="sympathy" basis="term" evidence="term:殘春 子規 千里">애상</Theme>
       </Themes>
       <Context></Context>
     </Metadata>
@@ -26437,7 +26437,7 @@
       <Couplet><Line id="P0114603" order="3">彼微一婦<term>亦何</term>知</Line>
         <Line id="P0114604" order="4">名與<d>郭山</d>俱嵂<rhyme>兀</rhyme></Line></Couplet>
       <Couplet><Line id="P0114605" order="5"><term>當時</term><term>斷指</term>血<term>淋漓</term></Line>
-        <Line id="P0114606" order="6"><d>此心</d><term>耿耿</term>終無<rhyme>歇</rhyme></Line></Couplet>
+        <Line id="P0114606" order="6">此心<term>耿耿</term>終無<rhyme>歇</rhyme></Line></Couplet>
       <Couplet><Line id="P0114607" order="7"><term>從來</term><term>至諴</term>物亦動</Line>
         <Line id="P0114608" order="8">明神不<term>與人</term><term>隔<rhyme>絶</rhyme></term></Line></Couplet>
       <Couplet><Line id="P0114609" order="9">觀<term>過知</term><term>仁聖</term>有訓</Line>
@@ -26758,7 +26758,7 @@
         <Charactercount>칠언</Charactercount>
     </Form>
       <Themes>
-        <Theme category="tranquility" basis="term" evidence="term:東風 玉簫 得意">한적</Theme>
+        <Theme category="tranquility" basis="term" evidence="term:東風 得意 玉簫">한적</Theme>
       </Themes>
       <Context></Context>
     </Metadata>
@@ -26815,7 +26815,7 @@
       <Context></Context>
     </Metadata>
     <text>
-      <Line id="P0115401" order="1"><d>雙劍</d>落<term>延津</term></Line>
+      <Line id="P0115401" order="1">雙劍落<term>延津</term></Line>
       <Line id="P0115402" order="2">何<term>年來</term>此<rhyme>水</rhyme></Line>
       <Couplet><Line id="P0115403" order="3">地名托<term>神物</term></Line>
         <Line id="P0115404" order="4">物<term>貴地</term>亦<rhyme>貴</rhyme></Line></Couplet>
@@ -26834,7 +26834,7 @@
       <Couplet><Line id="P0115417" order="17">掘地如<term>有得</term></Line>
         <Line id="P0115418" order="18">儻可充<term>雜<rhyme>佩</rhyme></term></Line></Couplet>
       <Line id="P0115419" order="19"><term>行行</term><term>夜昏</term>黑</Line>
-      <Line id="P0115420" order="20"><d>前山</d>泣<term>魑<rhyme>魅</rhyme></term></Line>
+      <Line id="P0115420" order="20">前山泣<term>魑<rhyme>魅</rhyme></term></Line>
 </text>
   </Poem>
 <Poem id="P01155">
@@ -27026,7 +27026,7 @@
         <Charactercount>칠언</Charactercount>
     </Form>
       <Themes>
-        <Theme category="tranquility" basis="term" evidence="term:桃源 幽人 眞源 煙波">한적</Theme>
+        <Theme category="tranquility" basis="term" evidence="term:煙波 桃源 眞源 幽人">한적</Theme>
       </Themes>
       <Context></Context>
     </Metadata>
@@ -27070,7 +27070,7 @@
     <text>
       <Line id="P0116001" order="1"><term>解衣</term>眼忽明</Line>
       <Line id="P0116002" order="2"><term>東坡</term>名小<rhyme>館</rhyme></Line>
-      <Line id="P0116003" order="3">平臨野<term>三面</term></Line>
+      <Line id="P0116003" order="3"><d>平臨</d>野<term>三面</term></Line>
       <Line id="P0116004" order="4">斜倚山<term>一<rhyme>半</rhyme></term></Line>
       <Line id="P0116005" order="5">東韓<term>西蜀</term>地相隔</Line>
       <Line id="P0116006" order="6">誰將<term>華扁</term>追<term>逸<rhyme>跡</rhyme></term></Line>
@@ -27137,7 +27137,7 @@
         <Charactercount>칠언</Charactercount>
     </Form>
       <Themes>
-        <Theme category="sympathy" basis="term" evidence="term:茫茫 風雨 不見">애상</Theme>
+        <Theme category="sympathy" basis="term" evidence="term:不見 茫茫 風雨">애상</Theme>
       </Themes>
       <Context></Context>
     </Metadata>
@@ -27149,7 +27149,7 @@
       <Line id="P0116205" order="5"><term>處處</term>生<term>瑤草</term></Line>
       <Line id="P0116206" order="6">前峯與後<rhyme>嶺</rhyme></Line>
       <Line id="P0116207" order="7"><term>琬琰</term>上<term>千仞</term></Line>
-      <Line id="P0116208" order="8">生祥降<term>瑞氣</term><d>蔥<rhyme>蔥</rhyme></d></Line>
+      <Line id="P0116208" order="8">生祥降<term>瑞氣</term>蔥<rhyme>蔥</rhyme></Line>
       <Line id="P0116209" order="9"><term>五雲</term>常繞<term>蓬萊</term>宮</Line>
       <Line id="P0116210" order="10"><term>風流</term><term>文物</term>自<term>皇<rhyme>朝</rhyme></term></Line>
       <Line id="P0116211" order="11">滿街<term>玉珂</term>搖<term>玲瓏</term></Line>
@@ -27257,7 +27257,7 @@
         <Charactercount>칠언</Charactercount>
     </Form>
       <Themes>
-        <Theme category="sympathy" basis="term" evidence="term:關河 歸思">애상</Theme>
+        <Theme category="sympathy" basis="term" evidence="term:歸思 關河">애상</Theme>
       </Themes>
       <Context></Context>
     </Metadata>
@@ -27397,7 +27397,7 @@
         <Charactercount>칠언</Charactercount>
     </Form>
       <Themes>
-        <Theme category="sympathy" basis="term" evidence="term:茫茫 不見">애상</Theme>
+        <Theme category="sympathy" basis="term" evidence="term:不見 茫茫">애상</Theme>
       </Themes>
       <Context></Context>
     </Metadata>
@@ -27502,7 +27502,7 @@
         <Charactercount>칠언</Charactercount>
     </Form>
       <Themes>
-        <Theme category="sympathy" basis="term" evidence="term:落日 黃塵 茫茫">애상</Theme>
+        <Theme category="sympathy" basis="term" evidence="term:黃塵 茫茫 落日">애상</Theme>
       </Themes>
       <Context></Context>
     </Metadata>
@@ -27618,7 +27618,7 @@
       <Line id="P0117101" order="1"><term>行行</term>路不窮</Line>
       <Line id="P0117102" order="2"><term>漾漾</term>心無<rhyme>定</rhyme></Line>
       <Couplet><Line id="P0117103" order="3">困來投小館</Line>
-        <Line id="P0117104" order="4"><d>前山</d>已迎<rhyme>暝</rhyme></Line></Couplet>
+        <Line id="P0117104" order="4">前山已迎<rhyme>暝</rhyme></Line></Couplet>
       <Couplet><Line id="P0117105" order="5"><term>村市</term>暗<term>戎戎</term></Line>
         <Line id="P0117106" order="6"><term>物色</term>渾不<rhyme>省</rhyme></Line></Couplet>
       <Couplet><Line id="P0117107" order="7"><term>猶疑</term><term>輞川</term>圖</Line>
@@ -27763,7 +27763,7 @@
         <Charactercount>미상</Charactercount>
     </Form>
       <Themes>
-        <Theme category="sympathy" basis="term" evidence="term:消息 江南">애상</Theme>
+        <Theme category="sympathy" basis="term" evidence="term:江南 消息">애상</Theme>
       </Themes>
       <Context></Context>
     </Metadata>
@@ -27861,7 +27861,7 @@
         <Charactercount>칠언</Charactercount>
     </Form>
       <Themes>
-        <Theme category="structure" basis="title" evidence="title:百祥樓 樓">건물</Theme>
+        <Theme category="structure" basis="title" evidence="title:樓 百祥樓">건물</Theme>
       </Themes>
       <Context></Context>
     </Metadata>
@@ -27975,7 +27975,7 @@
         <Charactercount>오언</Charactercount>
     </Form>
       <Themes>
-        <Theme category="tranquility" basis="term" evidence="term:玉簫 荷蓋">한적</Theme>
+        <Theme category="tranquility" basis="term" evidence="term:荷蓋 玉簫">한적</Theme>
       </Themes>
       <Context></Context>
     </Metadata>
@@ -28037,7 +28037,7 @@
         <Charactercount>칠언</Charactercount>
     </Form>
       <Themes>
-        <Theme category="sympathy" basis="term" evidence="term:夢中 茫茫 自非 風雨 不見">애상</Theme>
+        <Theme category="sympathy" basis="term" evidence="term:不見 茫茫 自非 夢中 風雨">애상</Theme>
       </Themes>
       <Context></Context>
     </Metadata>
@@ -28489,7 +28489,7 @@
         <Charactercount>오언</Charactercount>
     </Form>
       <Themes>
-        <Theme category="sympathy" basis="term" evidence="term:離合 夢中">애상</Theme>
+        <Theme category="sympathy" basis="term" evidence="term:夢中 離合">애상</Theme>
       </Themes>
       <Context></Context>
     </Metadata>
@@ -28853,7 +28853,7 @@
         <Charactercount>오언</Charactercount>
     </Form>
       <Themes>
-        <Theme category="reminiscence" basis="term" evidence="term:朝天 至今">회고</Theme>
+        <Theme category="reminiscence" basis="term" evidence="term:至今 朝天">회고</Theme>
       </Themes>
       <Context></Context>
     </Metadata>
@@ -29049,7 +29049,7 @@
         <Charactercount>칠언</Charactercount>
     </Form>
       <Themes>
-        <Theme category="sympathy" basis="term" evidence="term:寒山 遠思 遼海 落日">애상</Theme>
+        <Theme category="sympathy" basis="term" evidence="term:落日 遼海 寒山 遠思">애상</Theme>
       </Themes>
       <Context></Context>
     </Metadata>
@@ -29245,7 +29245,7 @@
     </Metadata>
     <text>
       <Line id="P0123001" order="1"><term>區域</term>雖分<term>性命</term><rhyme>同</rhyme></Line>
-      <Line id="P0123002" order="2"><d>此心</d><term>明處</term><term>一靈</term><rhyme>通</rhyme></Line>
+      <Line id="P0123002" order="2">此心<term>明處</term><term>一靈</term><rhyme>通</rhyme></Line>
       <Couplet><Line id="P0123003" order="3"><term>知行</term>有缺關難透</Line>
         <Line id="P0123004" order="4">寂感無方鑑自<rhyme>空</rhyme></Line></Couplet>
       <Couplet><Line id="P0123005" order="5"><term>孤陋</term>未成陳<term>北學</term></Line>
@@ -29295,7 +29295,7 @@
         <Charactercount>오언</Charactercount>
     </Form>
       <Themes>
-        <Theme category="person" basis="term" evidence="term:意氣 玉節">인물</Theme>
+        <Theme category="person" basis="term" evidence="term:玉節 意氣">인물</Theme>
       </Themes>
       <Context></Context>
     </Metadata>
@@ -30031,7 +30031,7 @@
         <Charactercount>오언</Charactercount>
     </Form>
       <Themes>
-        <Theme category="sympathy" basis="title, term" evidence="title:挽, term:忍淚 零落 生死">애상</Theme>
+        <Theme category="sympathy" basis="title, term" evidence="title:挽, term:忍淚 生死 零落">애상</Theme>
       </Themes>
       <Context></Context>
     </Metadata>
@@ -30309,7 +30309,7 @@
         <Charactercount>칠언</Charactercount>
     </Form>
       <Themes>
-        <Theme category="sympathy" basis="title" evidence="title:挽 挽詞">애상</Theme>
+        <Theme category="sympathy" basis="title" evidence="title:挽詞 挽">애상</Theme>
       </Themes>
       <Context></Context>
     </Metadata>
@@ -30337,7 +30337,7 @@
         <Charactercount>오언</Charactercount>
     </Form>
       <Themes>
-        <Theme category="sympathy" basis="title" evidence="title:挽 挽詞">애상</Theme>
+        <Theme category="sympathy" basis="title" evidence="title:挽詞 挽">애상</Theme>
       </Themes>
       <Context></Context>
     </Metadata>
@@ -30393,7 +30393,7 @@
         <Charactercount>칠언</Charactercount>
     </Form>
       <Themes>
-        <Theme category="farewell" basis="title, term" evidence="title:別 送 歸, term:千里">송별</Theme>
+        <Theme category="farewell" basis="title, term" evidence="title:別 歸 送, term:千里">송별</Theme>
       </Themes>
       <Context></Context>
     </Metadata>
@@ -30421,7 +30421,7 @@
         <Charactercount>칠언</Charactercount>
     </Form>
       <Themes>
-        <Theme category="farewell" basis="title, term" evidence="title:別 送 歸, term:離別 何處">송별</Theme>
+        <Theme category="farewell" basis="title, term" evidence="title:別 歸 送, term:何處 離別">송별</Theme>
       </Themes>
       <Context></Context>
     </Metadata>
@@ -30527,7 +30527,7 @@
         <Charactercount>칠언</Charactercount>
     </Form>
       <Themes>
-        <Theme category="farewell" basis="title, term" evidence="title:送, term:兩地 何處">송별</Theme>
+        <Theme category="farewell" basis="title, term" evidence="title:送, term:何處 兩地">송별</Theme>
       </Themes>
       <Context></Context>
     </Metadata>
@@ -30749,7 +30749,7 @@
         <Charactercount>칠언</Charactercount>
     </Form>
       <Themes>
-        <Theme category="farewell" basis="title, term" evidence="title:送, term:送君 別離">송별</Theme>
+        <Theme category="farewell" basis="title, term" evidence="title:送, term:別離 送君">송별</Theme>
       </Themes>
       <Context></Context>
     </Metadata>
@@ -30845,7 +30845,7 @@
         <Charactercount>칠언</Charactercount>
     </Form>
       <Themes>
-        <Theme category="donate" basis="title" evidence="title:寄 簡 謝">기증</Theme>
+        <Theme category="donate" basis="title" evidence="title:謝 寄 簡">기증</Theme>
       </Themes>
       <Context></Context>
     </Metadata>
@@ -30958,7 +30958,7 @@
         <Charactercount>칠언</Charactercount>
     </Form>
       <Themes>
-        <Theme category="farewell" basis="title, term" evidence="title:送, term:相逢 何處">송별</Theme>
+        <Theme category="farewell" basis="title, term" evidence="title:送, term:何處 相逢">송별</Theme>
       </Themes>
       <Context></Context>
     </Metadata>
@@ -31427,7 +31427,7 @@
     <text>
       <Line id="P0130601" order="1"><term>五坊</term><term>隨處</term>咽<term>笙<rhyme>歌</rhyme></term></Line>
       <Line id="P0130602" order="2">半是<term>朱門</term><term>富貴</term><rhyme>家</rhyme></Line>
-      <Line id="P0130603" order="3"><d>強項</d><term>向來</term>無不問</Line>
+      <Line id="P0130603" order="3">強項<term>向來</term>無不問</Line>
       <Line id="P0130604" order="4"><d>擧杯</d>相賀戶<term>增<rhyme>多</rhyme></term></Line>
     </text>
   </Poem>
@@ -31966,7 +31966,7 @@
         <Charactercount>칠언</Charactercount>
     </Form>
       <Themes>
-        <Theme category="travel" basis="title, term" evidence="title:發 路, term:去去 風光">유람</Theme>
+        <Theme category="travel" basis="title, term" evidence="title:發 路, term:風光 去去">유람</Theme>
       </Themes>
       <Context></Context>
     </Metadata>
@@ -32062,7 +32062,7 @@
       <Couplet><Line id="P0133005" order="5">雖處<term>江湖</term>師范子</Line>
         <Line id="P0133006" order="6">不應<term>農圃</term>學樊<rhyme>須</rhyme></Line></Couplet>
       <Line id="P0133007" order="7"><term>門閭</term>日有<term>躊躇</term>望</Line>
-      <Line id="P0133008" order="8">莫負<d>徐卿</d>待二<rhyme>雛</rhyme></Line>
+      <Line id="P0133008" order="8">莫負徐卿待二<rhyme>雛</rhyme></Line>
 </text>
   </Poem>
 <Poem id="P01331">
@@ -32504,7 +32504,7 @@
         <Charactercount>칠언</Charactercount>
     </Form>
       <Themes>
-        <Theme category="tranquility" basis="term" evidence="term:黃花 村醪">한적</Theme>
+        <Theme category="tranquility" basis="term" evidence="term:村醪 黃花">한적</Theme>
       </Themes>
       <Context></Context>
     </Metadata>
@@ -32528,7 +32528,7 @@
         <Charactercount>칠언</Charactercount>
     </Form>
       <Themes>
-        <Theme category="picture" basis="title" evidence="title:圖 題">도화</Theme>
+        <Theme category="picture" basis="title" evidence="title:題 圖">도화</Theme>
       </Themes>
       <Context></Context>
     </Metadata>
@@ -32612,7 +32612,7 @@
         <Charactercount>칠언</Charactercount>
     </Form>
       <Themes>
-        <Theme category="sympathy" basis="term" evidence="term:靑楓 寂寞 悠悠">애상</Theme>
+        <Theme category="sympathy" basis="term" evidence="term:寂寞 靑楓 悠悠">애상</Theme>
       </Themes>
       <Context></Context>
     </Metadata>
@@ -32664,7 +32664,7 @@
         <Charactercount>칠언</Charactercount>
     </Form>
       <Themes>
-        <Theme category="farewell" basis="title, term" evidence="title:送 赴京, term:送君 天涯 何處">송별</Theme>
+        <Theme category="farewell" basis="title, term" evidence="title:赴京 送, term:何處 送君 天涯">송별</Theme>
       </Themes>
       <Context></Context>
     </Metadata>
@@ -32808,7 +32808,7 @@
     </Metadata>
     <text>
       <Line id="P0135801" order="1"><term>雲羅</term>一掛作<term>羈<rhyme>孤</rhyme></term></Line>
-      <Line id="P0135802" order="2">厭伴<d>群鷄</d>得食<rhyme>呼</rhyme></Line>
+      <Line id="P0135802" order="2">厭伴群鷄得食<rhyme>呼</rhyme></Line>
       <Line id="P0135803" order="3"><term>轉眄</term>幾看<term>天外</term>月</Line>
       <Line id="P0135804" order="4">却<term>悲聲</term>落<term>小庭</term><rhyme>隅</rhyme></Line>
     </text>
@@ -32928,7 +32928,7 @@
     </Metadata>
     <text>
       <Line id="P0136301" order="1">淸似<term>夷齊</term><term>道中</term><rhyme>權</rhyme></Line>
-      <Line id="P0136302" order="2"><term>髮毛</term>雖毀<d>此心</d><rhyme>全</rhyme></Line>
+      <Line id="P0136302" order="2"><term>髮毛</term>雖毀此心<rhyme>全</rhyme></Line>
       <Line id="P0136303" order="3"><d>誰知</d>一邑<term>岐山</term>下</Line>
       <Line id="P0136304" order="4">終讓<term>謳歌</term>與<term>後<rhyme>賢</rhyme></term></Line>
     </text>
@@ -33761,7 +33761,7 @@
         <Charactercount>칠언</Charactercount>
     </Form>
       <Themes>
-        <Theme category="reminiscence" basis="title, term" evidence="title:詠史, term:故國 先王 鳴琴">회고</Theme>
+        <Theme category="reminiscence" basis="title, term" evidence="title:詠史, term:先王 故國 鳴琴">회고</Theme>
       </Themes>
       <Context></Context>
     </Metadata>
@@ -34455,7 +34455,7 @@
         <Charactercount>칠언</Charactercount>
     </Form>
       <Themes>
-        <Theme category="travel" basis="title" evidence="title:遊 行 陟 入">유람</Theme>
+        <Theme category="travel" basis="title" evidence="title:陟 行 遊 入">유람</Theme>
       </Themes>
       <Context></Context>
     </Metadata>
@@ -34479,7 +34479,7 @@
         <Charactercount>칠언</Charactercount>
     </Form>
       <Themes>
-        <Theme category="travel" basis="title" evidence="title:驛 宿">유람</Theme>
+        <Theme category="travel" basis="title" evidence="title:宿 驛">유람</Theme>
       </Themes>
       <Context></Context>
     </Metadata>
@@ -34491,7 +34491,7 @@
       <Couplet><Line id="P0142805" order="5">身遠尙堪瞻<term>北極</term></Line>
         <Line id="P0142806" order="6">路<term>迷空</term>復憶<term>長<rhyme>安</rhyme></term></Line></Couplet>
       <Line id="P0142807" order="7">更憐<term>杜宇</term><term>啼明</term>月</Line>
-      <Line id="P0142808" order="8"><d>窓外</d>誰栽竹萬<rhyme>竿</rhyme></Line>
+      <Line id="P0142808" order="8">窓外誰栽竹萬<rhyme>竿</rhyme></Line>
 </text>
   </Poem>
 <Poem id="P01429">
@@ -34513,7 +34513,7 @@
     </Metadata>
     <text>
       <Line id="P0142901" order="1">一村<term>孤寂</term><d>萬山</d><rhyme>前</rhyme></Line>
-      <Line id="P0142902" order="2"><term>白石</term><d>淸川</d>儘<term>可<rhyme>憐</rhyme></term></Line>
+      <Line id="P0142902" order="2"><term>白石</term>淸川儘<term>可<rhyme>憐</rhyme></term></Line>
       <Line id="P0142903" order="3"><term>徙倚</term><d>小亭</d>堪畫處</Line>
       <Line id="P0142904" order="4"><term>斷橋</term>人渡<term>夕陽</term><rhyme>邊</rhyme></Line>
     </text>
@@ -34977,7 +34977,7 @@
         <Charactercount>오언</Charactercount>
     </Form>
       <Themes>
-        <Theme category="sympathy" basis="term" evidence="term:消息 孤舟">애상</Theme>
+        <Theme category="sympathy" basis="term" evidence="term:孤舟 消息">애상</Theme>
       </Themes>
       <Context></Context>
     </Metadata>
@@ -34988,7 +34988,7 @@
         <Line id="P0144704" order="4"><d>夕鳥</d><term>日邊</term><rhyme>回</rhyme></Line></Couplet>
       <Couplet><Line id="P0144705" order="5"><term>故國</term>無<term>消息</term></Line>
         <Line id="P0144706" order="6"><term>孤舟</term><term>有酒</term><rhyme>杯</rhyme></Line></Couplet>
-      <Line id="P0144707" order="7"><d>前山</d>侵道峻</Line>
+      <Line id="P0144707" order="7">前山侵道峻</Line>
       <Line id="P0144708" order="8">何處望<term>蓬<rhyme>萊</rhyme></term></Line>
 </text>
   </Poem>
@@ -35005,7 +35005,7 @@
         <Charactercount>오언</Charactercount>
     </Form>
       <Themes>
-        <Theme category="farewell" basis="title, term" evidence="title:送 歸, term:故人">송별</Theme>
+        <Theme category="farewell" basis="title, term" evidence="title:歸 送, term:故人">송별</Theme>
       </Themes>
       <Context></Context>
     </Metadata>
@@ -35327,7 +35327,7 @@
         <Charactercount>칠언</Charactercount>
     </Form>
       <Themes>
-        <Theme category="farewell" basis="title, term" evidence="title:別, term:落日 別離">송별</Theme>
+        <Theme category="farewell" basis="title, term" evidence="title:別, term:別離 落日">송별</Theme>
       </Themes>
       <Context></Context>
     </Metadata>
@@ -35383,7 +35383,7 @@
         <Charactercount>칠언</Charactercount>
     </Form>
       <Themes>
-        <Theme category="travel" basis="term" evidence="term:湖山 登臨">유람</Theme>
+        <Theme category="travel" basis="term" evidence="term:登臨 湖山">유람</Theme>
       </Themes>
       <Context></Context>
     </Metadata>
@@ -35411,13 +35411,13 @@
         <Charactercount>칠언</Charactercount>
     </Form>
       <Themes>
-        <Theme category="season" basis="term" evidence="term:春服 東風">계절</Theme>
+        <Theme category="season" basis="term" evidence="term:東風 春服">계절</Theme>
       </Themes>
       <Context></Context>
     </Metadata>
     <text>
       <Line id="P0146401" order="1"><term>勝日</term><term>登臨</term><term>霽景</term><rhyme>鮮</rhyme></Line>
-      <Line id="P0146402" order="2"><term>江山</term><term>明媚</term><d>艶陽</d><rhyme>天</rhyme></Line>
+      <Line id="P0146402" order="2"><term>江山</term><term>明媚</term>艶<term>陽<rhyme>天</rhyme></term></Line>
       <Couplet><Line id="P0146403" order="3">傍籬紅濕桃含雨</Line>
         <Line id="P0146404" order="4">繞渚靑深<term>柳帶</term><rhyme>煙</rhyme></Line></Couplet>
       <Couplet><Line id="P0146405" order="5"><term>造化</term>着功還有象</Line>
@@ -35467,7 +35467,7 @@
         <Charactercount>칠언</Charactercount>
     </Form>
       <Themes>
-        <Theme category="sympathy" basis="term" evidence="term:歸心 明月">애상</Theme>
+        <Theme category="sympathy" basis="term" evidence="term:明月 歸心">애상</Theme>
       </Themes>
       <Context></Context>
     </Metadata>
@@ -35523,7 +35523,7 @@
         <Charactercount>칠언</Charactercount>
     </Form>
       <Themes>
-        <Theme category="sympathy" basis="term" evidence="term:寂寞 蕭蕭">애상</Theme>
+        <Theme category="sympathy" basis="term" evidence="term:蕭蕭 寂寞">애상</Theme>
       </Themes>
       <Context></Context>
     </Metadata>
@@ -35623,7 +35623,7 @@
         <Charactercount>칠언</Charactercount>
     </Form>
       <Themes>
-        <Theme category="buddhism" basis="term" evidence="term:瞿曇 死灰 蓮花">불교</Theme>
+        <Theme category="buddhism" basis="term" evidence="term:死灰 瞿曇 蓮花">불교</Theme>
       </Themes>
       <Context></Context>
     </Metadata>
@@ -35707,7 +35707,7 @@
         <Charactercount>칠언</Charactercount>
     </Form>
       <Themes>
-        <Theme category="travel" basis="title, term" evidence="title:發 渡 行 路, term:去住 南州">유람</Theme>
+        <Theme category="travel" basis="title, term" evidence="title:發 行 渡 路, term:去住 南州">유람</Theme>
       </Themes>
       <Context></Context>
     </Metadata>
@@ -35865,7 +35865,7 @@
     </Metadata>
     <text>
       <Line id="P0148101" order="1">憶君何處可<d>逢<rhyme>君</rhyme></d></Line>
-      <Line id="P0148102" order="2">路入<d>淸川</d><term>空白</term><rhyme>雲</rhyme></Line>
+      <Line id="P0148102" order="2">路入淸川<term>空白</term><rhyme>雲</rhyme></Line>
       <Line id="P0148103" order="3"><term>見說</term>及春行入洛</Line>
       <Line id="P0148104" order="4">爲傳<term>消息</term><term>客中</term><rhyme>聞</rhyme></Line>
     </text>
@@ -35935,7 +35935,7 @@
         <Charactercount>오언</Charactercount>
     </Form>
       <Themes>
-        <Theme category="farewell" basis="title, term" evidence="title:別, term:相逢 今朝 分手">송별</Theme>
+        <Theme category="farewell" basis="title, term" evidence="title:別, term:分手 相逢 今朝">송별</Theme>
       </Themes>
       <Context></Context>
     </Metadata>
@@ -36227,7 +36227,7 @@
         <Charactercount>칠언</Charactercount>
     </Form>
       <Themes>
-        <Theme category="farewell" basis="title, term" evidence="title:送, term:千里 故人">송별</Theme>
+        <Theme category="farewell" basis="title, term" evidence="title:送, term:故人 千里">송별</Theme>
       </Themes>
       <Context></Context>
     </Metadata>
@@ -36311,7 +36311,7 @@
         <Charactercount>칠언</Charactercount>
     </Form>
       <Themes>
-        <Theme category="farewell" basis="title" evidence="title:送 赴京">송별</Theme>
+        <Theme category="farewell" basis="title" evidence="title:赴京 送">송별</Theme>
       </Themes>
       <Context></Context>
     </Metadata>
@@ -36339,7 +36339,7 @@
         <Charactercount>칠언</Charactercount>
     </Form>
       <Themes>
-        <Theme category="farewell" basis="title, term" evidence="title:送 赴京, term:專對">송별</Theme>
+        <Theme category="farewell" basis="title, term" evidence="title:赴京 送, term:專對">송별</Theme>
       </Themes>
       <Context></Context>
     </Metadata>
@@ -36445,7 +36445,7 @@
         <Charactercount>칠언</Charactercount>
     </Form>
       <Themes>
-        <Theme category="frontier" basis="term" evidence="term:泥沙 風霜">변새</Theme>
+        <Theme category="frontier" basis="term" evidence="term:風霜 泥沙">변새</Theme>
       </Themes>
       <Context></Context>
     </Metadata>
@@ -36473,7 +36473,7 @@
         <Charactercount>칠언</Charactercount>
     </Form>
       <Themes>
-        <Theme category="reminiscence" basis="title, term" evidence="title:懷古 懷, term:千年">회고</Theme>
+        <Theme category="reminiscence" basis="title, term" evidence="title:懷 懷古, term:千年">회고</Theme>
       </Themes>
       <Context></Context>
     </Metadata>
@@ -36509,7 +36509,7 @@
       <Line id="P0150501" order="1">鑾署<term>銀臺</term><term>出入</term><rhyme>榮</rhyme></Line>
       <Line id="P0150502" order="2"><term>久將</term><term>衰朽</term>忝<term>同<rhyme>名</rhyme></term></Line>
       <Couplet><Line id="P0150503" order="3"><term>絲綸</term><term>制誥</term>曾看草</Line>
-        <Line id="P0150504" order="4"><term>罇俎</term><d>臨邊</d>此<term>送<rhyme>行</rhyme></term></Line></Couplet>
+        <Line id="P0150504" order="4"><term>罇俎</term>臨邊此<term>送<rhyme>行</rhyme></term></Line></Couplet>
       <Couplet><Line id="P0150505" order="5"><term>戰艦</term>可輸<term>滄海</term>粟</Line>
         <Line id="P0150506" order="6"><term>鋤耰</term><term>要事</term><term>棘茨</term><rhyme>耕</rhyme></Line></Couplet>
       <Line id="P0150507" order="7"><term>軍門</term>夜寂<term>嚴更</term>永</Line>
@@ -36885,7 +36885,7 @@
         <Charactercount>칠언</Charactercount>
     </Form>
       <Themes>
-        <Theme category="donate" basis="title" evidence="title:寄 謝">기증</Theme>
+        <Theme category="donate" basis="title" evidence="title:謝 寄">기증</Theme>
       </Themes>
       <Context></Context>
     </Metadata>
@@ -37353,7 +37353,7 @@
         <Charactercount>칠언</Charactercount>
     </Form>
       <Themes>
-        <Theme category="farewell" basis="title, term" evidence="title:送 歸, term:離別">송별</Theme>
+        <Theme category="farewell" basis="title, term" evidence="title:歸 送, term:離別">송별</Theme>
       </Themes>
       <Context></Context>
     </Metadata>
@@ -37409,7 +37409,7 @@
         <Charactercount>칠언</Charactercount>
     </Form>
       <Themes>
-        <Theme category="donate" basis="title" evidence="title:寄 謝">기증</Theme>
+        <Theme category="donate" basis="title" evidence="title:謝 寄">기증</Theme>
       </Themes>
       <Context></Context>
     </Metadata>
@@ -37509,7 +37509,7 @@
         <Charactercount>칠언</Charactercount>
     </Form>
       <Themes>
-        <Theme category="sympathy" basis="term" evidence="term:消息 悠悠">애상</Theme>
+        <Theme category="sympathy" basis="term" evidence="term:悠悠 消息">애상</Theme>
       </Themes>
       <Context></Context>
     </Metadata>
@@ -37533,7 +37533,7 @@
         <Charactercount>칠언</Charactercount>
     </Form>
       <Themes>
-        <Theme category="reminiscence" basis="term" evidence="term:遠情 十年">회고</Theme>
+        <Theme category="reminiscence" basis="term" evidence="term:十年 遠情">회고</Theme>
       </Themes>
       <Context></Context>
     </Metadata>
@@ -37707,7 +37707,7 @@
         <Charactercount>칠언</Charactercount>
     </Form>
       <Themes>
-        <Theme category="picture" basis="title" evidence="title:圖 題">도화</Theme>
+        <Theme category="picture" basis="title" evidence="title:題 圖">도화</Theme>
       </Themes>
       <Context></Context>
     </Metadata>
@@ -37735,7 +37735,7 @@
         <Charactercount>칠언</Charactercount>
     </Form>
       <Themes>
-        <Theme category="reminiscence" basis="title, term" evidence="title:夏, term:依然 十年">회고</Theme>
+        <Theme category="reminiscence" basis="title, term" evidence="title:夏, term:十年 依然">회고</Theme>
       </Themes>
       <Context></Context>
     </Metadata>
@@ -37843,7 +37843,7 @@
         <Charactercount>칠언</Charactercount>
     </Form>
       <Themes>
-        <Theme category="tranquility" basis="term" evidence="term:芳草 風光">한적</Theme>
+        <Theme category="tranquility" basis="term" evidence="term:風光 芳草">한적</Theme>
       </Themes>
       <Context></Context>
     </Metadata>
@@ -38011,7 +38011,7 @@
         <Charactercount>칠언</Charactercount>
     </Form>
       <Themes>
-        <Theme category="structure" basis="title" evidence="title:臺 堂">건물</Theme>
+        <Theme category="structure" basis="title" evidence="title:堂 臺">건물</Theme>
       </Themes>
       <Context></Context>
     </Metadata>
@@ -38067,7 +38067,7 @@
         <Charactercount>칠언</Charactercount>
     </Form>
       <Themes>
-        <Theme category="structure" basis="title" evidence="title:臺 堂">건물</Theme>
+        <Theme category="structure" basis="title" evidence="title:堂 臺">건물</Theme>
       </Themes>
       <Context></Context>
     </Metadata>
@@ -38123,7 +38123,7 @@
         <Charactercount>칠언</Charactercount>
     </Form>
       <Themes>
-        <Theme category="farewell" basis="title, term" evidence="title:送, term:征鞍 聚散">송별</Theme>
+        <Theme category="farewell" basis="title, term" evidence="title:送, term:聚散 征鞍">송별</Theme>
       </Themes>
       <Context></Context>
     </Metadata>
@@ -38395,7 +38395,7 @@
         <Charactercount>칠언</Charactercount>
     </Form>
       <Themes>
-        <Theme category="travel" basis="term" evidence="term:客路 異鄕">유람</Theme>
+        <Theme category="travel" basis="term" evidence="term:異鄕 客路">유람</Theme>
       </Themes>
       <Context></Context>
     </Metadata>
@@ -38639,7 +38639,7 @@
         <Charactercount>칠언</Charactercount>
     </Form>
       <Themes>
-        <Theme category="travel" basis="title" evidence="title:自 宿">유람</Theme>
+        <Theme category="travel" basis="title" evidence="title:宿 自">유람</Theme>
       </Themes>
       <Context></Context>
     </Metadata>
@@ -39237,7 +39237,7 @@
     </Metadata>
     <text>
       <Line id="P0160801" order="1">思人空復賦<term>緇<rhyme>衣</rhyme></term></Line>
-      <Line id="P0160802" order="2">且誦<d>岡頭</d><d>別後</d><rhyme>詩</rhyme></Line>
+      <Line id="P0160802" order="2">且誦岡頭<d>別後</d><rhyme>詩</rhyme></Line>
       <Line id="P0160803" order="3">二十八珠藏<term>篋笥</term></Line>
       <Line id="P0160804" order="4"><term>傳家</term>應作<term>萬金</term><rhyme>貲</rhyme></Line>
     </text>
@@ -39255,7 +39255,7 @@
         <Charactercount>칠언</Charactercount>
     </Form>
       <Themes>
-        <Theme category="donate" basis="title" evidence="title:簡 謝">기증</Theme>
+        <Theme category="donate" basis="title" evidence="title:謝 簡">기증</Theme>
       </Themes>
       <Context></Context>
     </Metadata>
@@ -39279,7 +39279,7 @@
         <Charactercount>칠언</Charactercount>
     </Form>
       <Themes>
-        <Theme category="tranquility" basis="term" evidence="term:芳草 春水">한적</Theme>
+        <Theme category="tranquility" basis="term" evidence="term:春水 芳草">한적</Theme>
       </Themes>
       <Context></Context>
     </Metadata>
@@ -39335,7 +39335,7 @@
       <Line id="P0161201" order="1">均<term>均平</term>野南<term>東畝</term></Line>
       <Line id="P0161202" order="2">揷盡<term>春秧</term>雨細<rhyme>時</rhyme></Line>
       <Line id="P0161203" order="3"><term>絲管</term>不曾歌此曲</Line>
-      <Line id="P0161204" order="4">山<d>前山</d>後聽橫<rhyme>伊</rhyme></Line>
+      <Line id="P0161204" order="4">山前山後聽橫<rhyme>伊</rhyme></Line>
     </text>
   </Poem>
 <Poem id="P01613">
@@ -39637,7 +39637,7 @@
       <Couplet><Line id="P0162405" order="5">應藏<term>寂寥</term>聲</Line>
         <Line id="P0162406" order="6">而寓<term>寂寥</term><rhyme>心</rhyme></Line></Couplet>
       <Line id="P0162407" order="7"><term>體用</term>兩不立</Line>
-      <Line id="P0162408" order="8"><d>成虧</d>何處<rhyme>尋</rhyme></Line>
+      <Line id="P0162408" order="8">成虧何處<rhyme>尋</rhyme></Line>
 </text>
   </Poem>
 <Poem id="P01625">
@@ -39659,7 +39659,7 @@
     </Metadata>
     <text>
       <Line id="P0162501" order="1"><term>仙子</term>好棋着</Line>
-      <Line id="P0162502" order="2">是豈<d>多機</d><rhyme>事</rhyme></Line>
+      <Line id="P0162502" order="2">是豈多<term>機<rhyme>事</rhyme></term></Line>
       <Couplet><Line id="P0162503" order="3">自以<d>靜中</d>人</Line>
         <Line id="P0162504" order="4">愛茲<term>塵外</term><rhyme>味</rhyme></Line></Couplet>
       <Couplet><Line id="P0162505" order="5">旣無<term>黑白</term>交</Line>
@@ -39789,12 +39789,12 @@
         <Charactercount>칠언</Charactercount>
     </Form>
       <Themes>
-        <Theme category="donate" basis="title" evidence="title:寄 謝">기증</Theme>
+        <Theme category="donate" basis="title" evidence="title:謝 寄">기증</Theme>
       </Themes>
       <Context></Context>
     </Metadata>
     <text>
-      <Line id="P0163001" order="1"><d>淸川</d>宜號<term>葛天</term><rhyme>民</rhyme></Line>
+      <Line id="P0163001" order="1">淸川宜號<term>葛天</term><rhyme>民</rhyme></Line>
       <Line id="P0163002" order="2"><term>白首</term><term>垂綸</term>是<term>舊<rhyme>臣</rhyme></term></Line>
       <Line id="P0163003" order="3"><term>見說</term><term>一竿</term>恩亦在</Line>
       <Line id="P0163004" order="4">御珍還及<term>釣魚</term><rhyme>人</rhyme></Line>
@@ -39813,7 +39813,7 @@
         <Charactercount>오언</Charactercount>
     </Form>
       <Themes>
-        <Theme category="sympathy" basis="term" evidence="term:客愁 悄悄">애상</Theme>
+        <Theme category="sympathy" basis="term" evidence="term:悄悄 客愁">애상</Theme>
       </Themes>
       <Context></Context>
     </Metadata>
@@ -40166,7 +40166,7 @@
     <text>
       <Line id="P0164401" order="1"><d>家在</d><term>雲山</term>麓</Line>
       <Line id="P0164402" order="2">門臨<term>流水</term><rhyme>頭</rhyme></Line>
-      <Couplet><Line id="P0164403" order="3">心<term>安難</term><d>有夢</d></Line>
+      <Couplet><Line id="P0164403" order="3">心<term>安難</term>有夢</Line>
         <Line id="P0164404" order="4">地遠似無<rhyme>愁</rhyme></Line></Couplet>
       <Couplet><Line id="P0164405" order="5"><term>詩酒</term>閑應數</Line>
         <Line id="P0164406" order="6">招尋老<term>自<rhyme>休</rhyme></term></Line></Couplet>
@@ -40333,7 +40333,7 @@
         <Charactercount>칠언</Charactercount>
     </Form>
       <Themes>
-        <Theme category="water" basis="title" evidence="title:舟中 湖">강해</Theme>
+        <Theme category="water" basis="title" evidence="title:湖 舟中">강해</Theme>
       </Themes>
       <Context></Context>
     </Metadata>
@@ -40425,7 +40425,7 @@
         <Charactercount>칠언</Charactercount>
     </Form>
       <Themes>
-        <Theme category="donate" basis="title" evidence="title:寄 簡 謝">기증</Theme>
+        <Theme category="donate" basis="title" evidence="title:謝 寄 簡">기증</Theme>
       </Themes>
       <Context></Context>
     </Metadata>
@@ -40453,7 +40453,7 @@
         <Charactercount>칠언</Charactercount>
     </Form>
       <Themes>
-        <Theme category="farewell" basis="title" evidence="title:留別 別">송별</Theme>
+        <Theme category="farewell" basis="title" evidence="title:別 留別">송별</Theme>
       </Themes>
       <Context></Context>
     </Metadata>
@@ -40477,7 +40477,7 @@
         <Charactercount>칠언</Charactercount>
     </Form>
       <Themes>
-        <Theme category="farewell" basis="title" evidence="title:留別 別">송별</Theme>
+        <Theme category="farewell" basis="title" evidence="title:別 留別">송별</Theme>
       </Themes>
       <Context></Context>
     </Metadata>
@@ -40549,7 +40549,7 @@
         <Charactercount>칠언</Charactercount>
     </Form>
       <Themes>
-        <Theme category="water" basis="term" evidence="term:孤舟 澄江">강해</Theme>
+        <Theme category="water" basis="term" evidence="term:澄江 孤舟">강해</Theme>
       </Themes>
       <Context></Context>
     </Metadata>
@@ -41074,7 +41074,7 @@
       <Context></Context>
     </Metadata>
     <text>
-      <Line id="P0168001" order="1">前<d>灘流</d><d>月落</d><d>秋<rhyme>江</rhyme></d></Line>
+      <Line id="P0168001" order="1">前<d>灘流</d><d>月落</d>秋<rhyme>江</rhyme></Line>
       <Line id="P0168002" order="2"><d>夢裏</d><term>寒聲</term>滿夜<rhyme>窓</rhyme></Line>
       <Line id="P0168003" order="3"><term>柔櫓</term>暗聞<term>漁艇</term>過</Line>
       <Line id="P0168004" order="4">圓沙<d>驚起</d>宿鷗<rhyme>雙</rhyme></Line>
@@ -41229,7 +41229,7 @@
         <Charactercount>칠언</Charactercount>
     </Form>
       <Themes>
-        <Theme category="donate" basis="title, term" evidence="title:謝 寄 簡, term:書札 遠寄">기증</Theme>
+        <Theme category="donate" basis="title, term" evidence="title:謝 寄 簡, term:遠寄 書札">기증</Theme>
       </Themes>
       <Context></Context>
     </Metadata>
@@ -41333,7 +41333,7 @@
         <Charactercount>칠언</Charactercount>
     </Form>
       <Themes>
-        <Theme category="picture" basis="title" evidence="title:畫竹 畫">도화</Theme>
+        <Theme category="picture" basis="title" evidence="title:畫 畫竹">도화</Theme>
       </Themes>
       <Context></Context>
     </Metadata>
@@ -41817,7 +41817,7 @@
       <Couplet><Line id="P0170905" order="5">已知<term>勝地</term>因人著</Line>
         <Line id="P0170906" order="6">更有新堂爲卜<rhyme>幽</rhyme></Line></Couplet>
       <Line id="P0170907" order="7"><term>遙想</term><term>退公</term>收<term>爽氣</term></Line>
-      <Line id="P0170908" order="8"><d>此心</d><term>常在</term>又何<rhyme>求</rhyme></Line>
+      <Line id="P0170908" order="8">此心<term>常在</term>又何<rhyme>求</rhyme></Line>
 </text>
   </Poem>
 <Poem id="P01710">
@@ -41933,7 +41933,7 @@
         <Charactercount>칠언</Charactercount>
     </Form>
       <Themes>
-        <Theme category="buddhism" basis="term" evidence="term:芙蓉 坐忘">불교</Theme>
+        <Theme category="buddhism" basis="term" evidence="term:坐忘 芙蓉">불교</Theme>
       </Themes>
       <Context></Context>
     </Metadata>
@@ -42179,7 +42179,7 @@
         <Charactercount>칠언</Charactercount>
     </Form>
       <Themes>
-        <Theme category="donate" basis="title" evidence="title:寄 簡 謝">기증</Theme>
+        <Theme category="donate" basis="title" evidence="title:謝 寄 簡">기증</Theme>
       </Themes>
       <Context></Context>
     </Metadata>
@@ -42375,7 +42375,7 @@
         <Charactercount>칠언</Charactercount>
     </Form>
       <Themes>
-        <Theme category="farewell" basis="title, term" evidence="title:送, term:專對 何處">송별</Theme>
+        <Theme category="farewell" basis="title, term" evidence="title:送, term:何處 專對">송별</Theme>
       </Themes>
       <Context></Context>
     </Metadata>
@@ -42431,7 +42431,7 @@
         <Charactercount>오언</Charactercount>
     </Form>
       <Themes>
-        <Theme category="donate" basis="title" evidence="title:寄 謝">기증</Theme>
+        <Theme category="donate" basis="title" evidence="title:謝 寄">기증</Theme>
       </Themes>
       <Context></Context>
     </Metadata>
@@ -42459,7 +42459,7 @@
         <Charactercount>오언</Charactercount>
     </Form>
       <Themes>
-        <Theme category="donate" basis="title" evidence="title:寄 謝">기증</Theme>
+        <Theme category="donate" basis="title" evidence="title:謝 寄">기증</Theme>
       </Themes>
       <Context></Context>
     </Metadata>
@@ -42591,7 +42591,7 @@
         <Charactercount>칠언</Charactercount>
     </Form>
       <Themes>
-        <Theme category="season" basis="term" evidence="term:燈火 佳節">계절</Theme>
+        <Theme category="season" basis="term" evidence="term:佳節 燈火">계절</Theme>
       </Themes>
       <Context></Context>
     </Metadata>
@@ -42619,7 +42619,7 @@
         <Charactercount>칠언</Charactercount>
     </Form>
       <Themes>
-        <Theme category="reminiscence" basis="title" evidence="title:有懷 懷">회고</Theme>
+        <Theme category="reminiscence" basis="title" evidence="title:懷 有懷">회고</Theme>
       </Themes>
       <Context></Context>
     </Metadata>
@@ -43465,7 +43465,7 @@
         <Charactercount>칠언</Charactercount>
     </Form>
       <Themes>
-        <Theme category="sympathy" basis="term" evidence="term:消息 離情 江南 悠悠">애상</Theme>
+        <Theme category="sympathy" basis="term" evidence="term:江南 悠悠 離情 消息">애상</Theme>
       </Themes>
       <Context></Context>
     </Metadata>
@@ -43497,7 +43497,7 @@
       <Line id="P0177301" order="1"><term>幽憂</term><term>悄悄</term><term>擁爐</term>坐</Line>
       <Line id="P0177302" order="2">暫得<term>陽和</term><term>撥火</term><rhyme>間</rhyme></Line>
       <Line id="P0177303" order="3">更怪<term>曉來</term>寒又甚</Line>
-      <Line id="P0177304" order="4">一宵春<d>雪滿</d><d>前<rhyme>山</rhyme></d></Line>
+      <Line id="P0177304" order="4">一宵春<d>雪滿</d>前<rhyme>山</rhyme></Line>
     </text>
   </Poem>
 <Poem id="P01774">
@@ -43891,7 +43891,7 @@
         <Charactercount>오언</Charactercount>
     </Form>
       <Themes>
-        <Theme category="season" basis="title, term" evidence="title:秋月 秋, term:秋風">계절</Theme>
+        <Theme category="season" basis="title, term" evidence="title:秋 秋月, term:秋風">계절</Theme>
       </Themes>
       <Context></Context>
     </Metadata>
@@ -43947,7 +43947,7 @@
         <Charactercount>칠언</Charactercount>
     </Form>
       <Themes>
-        <Theme category="buddhism" basis="title, term" evidence="title:上人, term:雲林 瞿曇">불교</Theme>
+        <Theme category="buddhism" basis="title, term" evidence="title:上人, term:瞿曇 雲林">불교</Theme>
       </Themes>
       <Context></Context>
     </Metadata>
@@ -44193,7 +44193,7 @@
         <Charactercount>칠언</Charactercount>
     </Form>
       <Themes>
-        <Theme category="water" basis="title" evidence="title:楮島 歸帆 島">강해</Theme>
+        <Theme category="water" basis="title" evidence="title:歸帆 楮島 島">강해</Theme>
       </Themes>
       <Context></Context>
     </Metadata>
@@ -44249,7 +44249,7 @@
       <Line id="P0180201" order="1"><term>塵勞</term>欲償坐<term>雲<rhyme>亭</rhyme></term></Line>
       <Line id="P0180202" order="2">掛<term>上疏</term>簾未<term>解<rhyme>酲</rhyme></term></Line>
       <Line id="P0180203" order="3"><term>日脚</term><term>下垂</term><term>飛雨</term>白</Line>
-      <Line id="P0180204" order="4"><d>江風</d>拖過<d>晩山</d><rhyme>靑</rhyme></Line>
+      <Line id="P0180204" order="4"><d>江風</d>拖過晩山<rhyme>靑</rhyme></Line>
     </text>
   </Poem>
 <Poem id="P01803">
@@ -44907,7 +44907,7 @@
         <Charactercount>칠언</Charactercount>
     </Form>
       <Themes>
-        <Theme category="travel" basis="title, term" evidence="title:向 路, term:征鞍 步步">유람</Theme>
+        <Theme category="travel" basis="title, term" evidence="title:路 向, term:征鞍 步步">유람</Theme>
       </Themes>
       <Context></Context>
     </Metadata>
@@ -44916,7 +44916,7 @@
       <Line id="P0182902" order="2"><term>白頭</term><term>凌雪</term>事<term>征<rhyme>鞍</rhyme></term></Line>
       <Couplet><Line id="P0182903" order="3"><d>逢人</d>問<term>路人</term>人異</Line>
         <Line id="P0182904" order="4"><term>窘步</term><term>衝泥</term><term>步步</term><rhyme>艱</rhyme></Line></Couplet>
-      <Couplet><Line id="P0182905" order="5"><d>老樹</d>只應<term>知我</term>過</Line>
+      <Couplet><Line id="P0182905" order="5">老樹只應<term>知我</term>過</Line>
         <Line id="P0182906" order="6"><d>荒山</d>全未識春<rhyme>還</rhyme></Line></Couplet>
       <Line id="P0182907" order="7">猶聞茂嶺村非遠</Line>
       <Line id="P0182908" order="8">擬扣<term>靑川</term><term>月下</term><rhyme>關</rhyme></Line>
@@ -45083,7 +45083,7 @@
         <Charactercount>칠언</Charactercount>
     </Form>
       <Themes>
-        <Theme category="tranquility" basis="term" evidence="term:橫笛 山水">한적</Theme>
+        <Theme category="tranquility" basis="term" evidence="term:山水 橫笛">한적</Theme>
       </Themes>
       <Context></Context>
     </Metadata>
@@ -45505,7 +45505,7 @@
         <Charactercount>칠언</Charactercount>
     </Form>
       <Themes>
-        <Theme category="donate" basis="title" evidence="title:簡 謝">기증</Theme>
+        <Theme category="donate" basis="title" evidence="title:謝 簡">기증</Theme>
       </Themes>
       <Context></Context>
     </Metadata>
@@ -45529,7 +45529,7 @@
         <Charactercount>칠언</Charactercount>
     </Form>
       <Themes>
-        <Theme category="donate" basis="title" evidence="title:簡 謝">기증</Theme>
+        <Theme category="donate" basis="title" evidence="title:謝 簡">기증</Theme>
       </Themes>
       <Context></Context>
     </Metadata>
@@ -45725,7 +45725,7 @@
       <Line id="P0186001" order="1">眞逢<term>江上</term>月<term>星<rhyme>槎</rhyme></term></Line>
       <Line id="P0186002" order="2"><term>姸媸</term>還慙玉映<rhyme>沙</rhyme></Line>
       <Couplet><Line id="P0186003" order="3"><term>方語</term>豈無隨<term>土俗</term></Line>
-        <Line id="P0186004" order="4"><d>此心</d>元不限<term>中<rhyme>華</rhyme></term></Line></Couplet>
+        <Line id="P0186004" order="4">此心元不限<term>中<rhyme>華</rhyme></term></Line></Couplet>
       <Couplet><Line id="P0186005" order="5"><term>皇恩</term>渙作<term>天飛</term>雨</Line>
         <Line id="P0186006" order="6"><term>文焰</term><term>驚看</term>筆<term>吐<rhyme>花</rhyme></term></Line></Couplet>
       <Line id="P0186007" order="7"><term>四海</term>一胞何陋有</Line>
@@ -45857,7 +45857,7 @@
         <Charactercount>칠언</Charactercount>
     </Form>
       <Themes>
-        <Theme category="farewell" basis="term" evidence="term:千里 別離">송별</Theme>
+        <Theme category="farewell" basis="term" evidence="term:別離 千里">송별</Theme>
       </Themes>
       <Context></Context>
     </Metadata>
@@ -45939,7 +45939,7 @@
         <Charactercount>칠언</Charactercount>
     </Form>
       <Themes>
-        <Theme category="travel" basis="title" evidence="title:過 遊 舊遊">유람</Theme>
+        <Theme category="travel" basis="title" evidence="title:舊遊 遊 過">유람</Theme>
       </Themes>
       <Context></Context>
     </Metadata>
@@ -46051,7 +46051,7 @@
         <Charactercount>칠언</Charactercount>
     </Form>
       <Themes>
-        <Theme category="farewell" basis="title, term" evidence="title:別 送, term:離別 相逢 天涯">송별</Theme>
+        <Theme category="farewell" basis="title, term" evidence="title:別 送, term:相逢 天涯 離別">송별</Theme>
       </Themes>
       <Context></Context>
     </Metadata>
@@ -46299,7 +46299,7 @@
         <Charactercount>칠언</Charactercount>
     </Form>
       <Themes>
-        <Theme category="donate" basis="title" evidence="title:寄 謝">기증</Theme>
+        <Theme category="donate" basis="title" evidence="title:謝 寄">기증</Theme>
       </Themes>
       <Context></Context>
     </Metadata>
@@ -46334,7 +46334,7 @@
     <text>
       <Line id="P0188201" order="1"><term>冥鴻</term>曾墮<term>雲羅</term>巧</Line>
       <Line id="P0188202" order="2">彩鴨還隨<term>尺素</term><rhyme>來</rhyme></Line>
-      <Couplet><Line id="P0188203" order="3"><d>一死</d><term>一生</term><term>交道</term>厚</Line>
+      <Couplet><Line id="P0188203" order="3">一死<term>一生</term><term>交道</term>厚</Line>
         <Line id="P0188204" order="4">三鳴三嗅聖情<rhyme>哀</rhyme></Line></Couplet>
       <Couplet><Line id="P0188205" order="5">子輿已識行<term>仁術</term></Line>
         <Line id="P0188206" order="6">莊氏終迷處不<rhyme>村</rhyme></Line></Couplet>
@@ -46451,7 +46451,7 @@
         <Charactercount>오언</Charactercount>
     </Form>
       <Themes>
-        <Theme category="farewell" basis="title, term" evidence="title:別語 別, term:歸來">송별</Theme>
+        <Theme category="farewell" basis="title, term" evidence="title:別 別語, term:歸來">송별</Theme>
       </Themes>
       <Context></Context>
     </Metadata>
@@ -46760,7 +46760,7 @@
       <Line id="P0189802" order="2">何如<d>杜子</d>浣<term>西<rhyme>頭</rhyme></term></Line>
       <Couplet><Line id="P0189803" order="3"><term>湖山</term><term>隱映</term><term>臨風</term>迥</Line>
         <Line id="P0189804" order="4"><term>松竹</term><term>蕭森</term>背日<rhyme>稠</rhyme></Line></Couplet>
-      <Couplet><Line id="P0189805" order="5"><term>淸禁</term>直<term>時空</term><d>有夢</d></Line>
+      <Couplet><Line id="P0189805" order="5"><term>淸禁</term>直<term>時空</term>有夢</Line>
         <Line id="P0189806" order="6"><term>故園</term><term>佳處</term>摠宜<rhyme>秋</rhyme></Line></Couplet>
       <Line id="P0189807" order="7">安能<term>白首</term><term>同歸</term>去</Line>
       <Line id="P0189808" order="8"><term>俛仰</term><term>乾坤</term>一<term>散<rhyme>愁</rhyme></term></Line>
@@ -46803,7 +46803,7 @@
         <Charactercount>칠언</Charactercount>
     </Form>
       <Themes>
-        <Theme category="farewell" basis="title, term" evidence="title:送 歸, term:別離">송별</Theme>
+        <Theme category="farewell" basis="title, term" evidence="title:歸 送, term:別離">송별</Theme>
       </Themes>
       <Context></Context>
     </Metadata>
@@ -46971,7 +46971,7 @@
         <Charactercount>칠언</Charactercount>
     </Form>
       <Themes>
-        <Theme category="travel" basis="title, term" evidence="title:驛 途中, term:湖山">유람</Theme>
+        <Theme category="travel" basis="title, term" evidence="title:途中 驛, term:湖山">유람</Theme>
       </Themes>
       <Context></Context>
     </Metadata>
@@ -46995,7 +46995,7 @@
         <Charactercount>칠언</Charactercount>
     </Form>
       <Themes>
-        <Theme category="travel" basis="title" evidence="title:驛 途中">유람</Theme>
+        <Theme category="travel" basis="title" evidence="title:途中 驛">유람</Theme>
       </Themes>
       <Context></Context>
     </Metadata>
@@ -47323,7 +47323,7 @@
         <Charactercount>칠언</Charactercount>
     </Form>
       <Themes>
-        <Theme category="farewell" basis="title" evidence="title:送別 別 送">송별</Theme>
+        <Theme category="farewell" basis="title" evidence="title:送別 送 別">송별</Theme>
       </Themes>
       <Context></Context>
     </Metadata>
@@ -47333,7 +47333,7 @@
       <Couplet><Line id="P0191903" order="3"><term>功名</term>盡道吾<term>知足</term></Line>
         <Line id="P0191904" order="4"><term>富貴</term>終<term>看死</term>便<rhyme>休</rhyme></Line></Couplet>
       <Couplet><Line id="P0191905" order="5"><d>政簡</d>好將詩<term>遣興</term></Line>
-        <Line id="P0191906" order="6"><d>心閑</d>安用<term>酒禁</term><rhyme>愁</rhyme></Line></Couplet>
+        <Line id="P0191906" order="6">心閑安用<term>酒禁</term><rhyme>愁</rhyme></Line></Couplet>
       <Line id="P0191907" order="7"><term>悠悠</term><term>得失</term>誰非命</Line>
       <Line id="P0191908" order="8"><term>千古</term>驪興亦巨<rhyme>州</rhyme></Line>
 </text>
@@ -47375,7 +47375,7 @@
         <Charactercount>칠언</Charactercount>
     </Form>
       <Themes>
-        <Theme category="travel" basis="title" evidence="title:過 赴">유람</Theme>
+        <Theme category="travel" basis="title" evidence="title:赴 過">유람</Theme>
       </Themes>
       <Context></Context>
     </Metadata>
@@ -47493,7 +47493,7 @@
       <Line id="P0192501" order="1"><term>孤雲</term>獨寄剛金麓</Line>
       <Line id="P0192502" order="2"><term>野水</term><term>三重</term><rhyme>曲</rhyme></Line>
       <Line id="P0192503" order="3"><term>怡然</term><term>俯仰</term><term>百年</term>間</Line>
-      <Line id="P0192504" order="4"><term>山色</term><d>江光</d>能寫<d>此心</d><rhyme>肝</rhyme></Line>
+      <Line id="P0192504" order="4"><term>山色</term><d>江光</d>能寫此<term>心<rhyme>肝</rhyme></term></Line>
       <Line id="P0192505" order="5">自無<term>愧怍</term>方生快</Line>
       <Line id="P0192506" order="6">請看亭銘<rhyme>掛</rhyme></Line>
       <Line id="P0192507" order="7"><term>紛紛</term></Line>
@@ -47656,7 +47656,7 @@
         <Charactercount>오언</Charactercount>
     </Form>
       <Themes>
-        <Theme category="astro" basis="title, term" evidence="title:雪 暮雪, term:風威">천문</Theme>
+        <Theme category="astro" basis="title, term" evidence="title:暮雪 雪, term:風威">천문</Theme>
       </Themes>
       <Context></Context>
     </Metadata>
@@ -48048,7 +48048,7 @@
         <Charactercount>오언</Charactercount>
     </Form>
       <Themes>
-        <Theme category="sympathy" basis="term" evidence="term:寂寞 長夜 浮名">애상</Theme>
+        <Theme category="sympathy" basis="term" evidence="term:寂寞 浮名 長夜">애상</Theme>
       </Themes>
       <Context></Context>
     </Metadata>

@@ -13,22 +13,38 @@ sys.path.insert(0, os.path.join(os.path.dirname(__file__), "lib"))
 from hansi import poemdoc, termdtag, xmlpoem as X
 from hansi.io import read_text
 
-TARGETS = ["기재집", "동명집", "동악집", "현주집"]
 GOLD = "임백호집_3차완본_20260730.txt"
+# 대상데이터(문집 전체 자동태깅) — 무조건 재태깅
+ALL_AUTO = ["기재집", "동명집", "동악집", "현주집"]
+# 수작업 문집은 시(詩) 단위로 판정: <d> 있거나 Themes 채워졌으면 수작업 → 건너뜀
+MANUAL_COLLECTIONS = ["성소부부고", "옥봉집", "고죽유고", "손곡시집", "소재집", "현곡집",
+                      "호음잡고", "눌재집", "어우집", "오산집", "용재집", "읍취헌유고",
+                      "지봉집", "지천집"]
+_NEG_TAG = re.compile(r"<(?:term|d)>(?:不|無|未|莫|勿|非|休|何|豈|寧)[^<]")
+
+
+def poem_is_auto(raw: str) -> bool:
+    """이 시가 '자동태깅(수작업 term/d 안 됨)' 상태인가.
+
+    수작업 근거 = <d> 태그 존재 (작업자가 사전 미등재 시어를 <d>로 구분).
+    <d> 없으면 → 사전 bigram 무차별 태깅으로 간주.
+    (Themes 신호는 쓰지 않음 — 3단계에서 자동 채워지므로.)
+    """
+    return not re.search(r"<d>", raw)
 
 
 def build_d_lexicon():
+    """d-어휘 = 수작업으로 확인된 시(<d> 있는 시)의 term/d 중 사전 미등재 2글자."""
     heads = set(open("assets/hdc_headwords.txt", encoding="utf-8").read().split())
     c = collections.Counter()
     for f in glob.glob("01_enriched/*.xml"):
-        mj = os.path.splitext(os.path.basename(f))[0]
-        if mj in TARGETS:            # 대상데이터는 신뢰 안 함
-            continue
-        t = open(f, encoding="utf-8").read()
-        for m in re.finditer(r"<(term|d)>(.*?)</\1>", t, re.S):
-            w = X.hanja_only(X.strip_tags(m.group(2)))
-            if len(w) == 2 and w not in heads:
-                c[w] += 1
+        for p in poemdoc.parse_poems(open(f, encoding="utf-8").read()):
+            if not re.search(r"<d>", p.raw):
+                continue                     # 수작업 확인된 시만
+            for m in re.finditer(r"<(term|d)>(.*?)</\1>", p.raw, re.S):
+                w = X.hanja_only(X.strip_tags(m.group(2)))
+                if len(w) == 2 and w not in heads:
+                    c[w] += 1
     lex = sorted(w for w, n in c.items() if n >= 2)
     with open("assets/d_lexicon.txt", "w", encoding="utf-8", newline="\n") as f:
         f.write("\n".join(lex))
@@ -63,36 +79,41 @@ def evaluate():
     print(f"임백호집 골드 대비: P {P:.2f}  R {R:.2f}  F1 {2*P*R/(P+R):.2f}")
 
 
+def _retag_poem(raw: str) -> str:
+    return re.sub(r"(<Line\b[^>]*>)(.*?)(</Line\s*>)",
+                  lambda m: m.group(1) + termdtag.retag_line(
+                      re.sub(r"</?(?:term|d)>", "", m.group(2)))[0] + m.group(3),
+                  raw, flags=re.S | re.I)
+
+
 def apply_targets():
     os.makedirs("02_suggested", exist_ok=True)
     os.makedirs("reports", exist_ok=True)
-    for mj in TARGETS:
+    grand = collections.Counter()
+    for mj in ALL_AUTO + MANUAL_COLLECTIONS:
         src = f"02_suggested/{mj}.xml"
         if not os.path.exists(src):
             src = f"01_enriched/{mj}.xml"
         poems = poemdoc.parse_poems(open(src, encoding="utf-8").read())
-        out = []
-        rep = [f"# 3_termd_{mj}", ""]
-        n_line = n_chg = 0
+        out, rep = [], [f"# 3_termd_{mj}", ""]
+        n_retag = n_skip = 0
         for p in poems:
-            raw = p.raw
-            def repl(m):
-                nonlocal n_line, n_chg
-                head, body, tail = m.group(1), m.group(2), m.group(3)
-                new, ntags = termdtag.retag_line(re.sub(r"</?(?:term|d)>", "", body))
-                n_line += 1
-                old_tags = len(re.findall(r"<(?:term|d)>", body))
-                if abs(old_tags - ntags) >= 2:
-                    n_chg += 1
-                return head + new + tail
-            raw = re.sub(r"(<Line\b[^>]*>)(.*?)(</Line\s*>)", repl, raw, flags=re.S | re.I)
-            out.append(raw)
+            if mj in ALL_AUTO or poem_is_auto(p.raw):
+                out.append(_retag_poem(p.raw))
+                n_retag += 1
+            else:
+                out.append(p.raw)
+                n_skip += 1
+                continue
+            rep.append(f"- {p.id} 재태깅")
         with open(f"02_suggested/{mj}.xml", "w", encoding="utf-8", newline="\n") as f:
             f.write(poemdoc.wrap_corpus(out))
-        rep.insert(2, f"**{mj}: {len(poems)}수, {n_line}행 재태깅, 태그수 크게 바뀐 행 {n_chg}**")
+        rep.insert(2, f"**{mj}: {len(poems)}수 — 재태깅 {n_retag} · 수작업유지 {n_skip}**")
         with open(f"reports/3_termd_{mj}.md", "w", encoding="utf-8", newline="\n") as f:
             f.write("\n".join(rep))
-        print(f"{mj}: {len(poems)}수 재태깅 (태그수 급변 행 {n_chg})")
+        grand["retag"] += n_retag; grand["skip"] += n_skip
+        print(f"{mj:9} 재태깅 {n_retag:>5} · 수작업유지 {n_skip:>5}")
+    print(f"\n합계: 재태깅 {grand['retag']} · 수작업유지 {grand['skip']}")
 
 
 def main():

@@ -82,7 +82,7 @@
         <Charactercount>오언</Charactercount>
     </Form>
       <Themes>
-        <Theme category="buddhism" basis="title" evidence="title:僧 僧軸 寺">불교</Theme>
+        <Theme category="buddhism" basis="title" evidence="title:僧軸 寺 僧">불교</Theme>
       </Themes>
       <Context></Context>
     </Metadata>
@@ -106,7 +106,7 @@
         <Charactercount>오언</Charactercount>
     </Form>
       <Themes>
-        <Theme category="buddhism" basis="title, term" evidence="title:僧 僧軸 寺, term:石榻">불교</Theme>
+        <Theme category="buddhism" basis="title, term" evidence="title:僧軸 寺 僧, term:石榻">불교</Theme>
       </Themes>
       <Context></Context>
     </Metadata>
@@ -177,7 +177,7 @@
         <Charactercount>오언</Charactercount>
     </Form>
       <Themes>
-        <Theme category="farewell" basis="title, term" evidence="title:送別 送 別, term:芳草">송별</Theme>
+        <Theme category="farewell" basis="title, term" evidence="title:別 送別 送, term:芳草">송별</Theme>
       </Themes>
       <Context></Context>
     </Metadata>
@@ -201,7 +201,7 @@
         <Charactercount>오언</Charactercount>
     </Form>
       <Themes>
-        <Theme category="farewell" basis="title, term" evidence="title:送別 別 送 赴京, term:送君 一杯酒">송별</Theme>
+        <Theme category="farewell" basis="title, term" evidence="title:赴京 送別 送 別, term:一杯酒 送君">송별</Theme>
       </Themes>
       <Context></Context>
     </Metadata>
@@ -581,7 +581,7 @@
         <Charactercount>오언</Charactercount>
     </Form>
       <Themes>
-        <Theme category="buddhism" basis="title" evidence="title:僧 僧軸">불교</Theme>
+        <Theme category="buddhism" basis="title" evidence="title:僧軸 僧">불교</Theme>
       </Themes>
       <Context></Context>
     </Metadata>
@@ -797,7 +797,7 @@
         <Charactercount>칠언</Charactercount>
     </Form>
       <Themes>
-        <Theme category="tranquility" basis="term" evidence="term:寥寥 深巷">한적</Theme>
+        <Theme category="tranquility" basis="term" evidence="term:深巷 寥寥">한적</Theme>
       </Themes>
       <Context></Context>
     </Metadata>
@@ -1065,7 +1065,7 @@
         <Charactercount>칠언</Charactercount>
     </Form>
       <Themes>
-        <Theme category="buddhism" basis="title" evidence="title:僧 僧軸 寺">불교</Theme>
+        <Theme category="buddhism" basis="title" evidence="title:僧軸 寺 僧">불교</Theme>
       </Themes>
       <Context></Context>
     </Metadata>
@@ -1089,7 +1089,7 @@
         <Charactercount>칠언</Charactercount>
     </Form>
       <Themes>
-        <Theme category="buddhism" basis="title, term" evidence="title:僧 僧軸 寺, term:寂寂 袈裟">불교</Theme>
+        <Theme category="buddhism" basis="title, term" evidence="title:僧軸 寺 僧, term:袈裟 寂寂">불교</Theme>
       </Themes>
       <Context></Context>
     </Metadata>
@@ -1113,7 +1113,7 @@
         <Charactercount>칠언</Charactercount>
     </Form>
       <Themes>
-        <Theme category="buddhism" basis="title" evidence="title:僧 僧軸 寺">불교</Theme>
+        <Theme category="buddhism" basis="title" evidence="title:僧軸 寺 僧">불교</Theme>
       </Themes>
       <Context></Context>
     </Metadata>
@@ -1137,7 +1137,7 @@
         <Charactercount>칠언</Charactercount>
     </Form>
       <Themes>
-        <Theme category="buddhism" basis="title" evidence="title:僧 僧軸 寺">불교</Theme>
+        <Theme category="buddhism" basis="title" evidence="title:僧軸 寺 僧">불교</Theme>
       </Themes>
       <Context></Context>
     </Metadata>
@@ -1399,7 +1399,7 @@
         <Charactercount>칠언</Charactercount>
     </Form>
       <Themes>
-        <Theme category="donate" basis="title" evidence="title:贈 贈僧">기증</Theme>
+        <Theme category="donate" basis="title" evidence="title:贈僧 贈">기증</Theme>
       </Themes>
       <Context></Context>
     </Metadata>
@@ -1471,7 +1471,7 @@
         <Charactercount>칠언</Charactercount>
     </Form>
       <Themes>
-        <Theme category="buddhism" basis="title" evidence="title:僧 僧軸 寺">불교</Theme>
+        <Theme category="buddhism" basis="title" evidence="title:僧軸 寺 僧">불교</Theme>
       </Themes>
       <Context></Context>
     </Metadata>
@@ -1732,7 +1732,7 @@
         <Charactercount>칠언</Charactercount>
     </Form>
       <Themes>
-        <Theme category="farewell" basis="title, term" evidence="title:贈別 別, term:天涯">송별</Theme>
+        <Theme category="farewell" basis="title, term" evidence="title:別 贈別, term:天涯">송별</Theme>
       </Themes>
       <Context></Context>
     </Metadata>
@@ -1926,7 +1926,7 @@
         <Charactercount>칠언</Charactercount>
     </Form>
       <Themes>
-        <Theme category="tranquility" basis="term" evidence="term:春風 寥寥 梅花 獨掩門">한적</Theme>
+        <Theme category="tranquility" basis="term" evidence="term:梅花 獨掩門 春風 寥寥">한적</Theme>
       </Themes>
       <Context></Context>
     </Metadata>
@@ -2089,7 +2089,7 @@
         <Charactercount>칠언</Charactercount>
     </Form>
       <Themes>
-        <Theme category="farewell" basis="title, term" evidence="title:送 赴京, term:天涯">송별</Theme>
+        <Theme category="farewell" basis="title, term" evidence="title:赴京 送, term:天涯">송별</Theme>
       </Themes>
       <Context></Context>
     </Metadata>
@@ -2238,10 +2238,10 @@
       <Context></Context>
     </Metadata>
     <text>
-      <Line id="P0009401" order="1"><term>澄江</term>如練浸紅<rhyme>亭</rhyme></Line>
-      <Line id="P0009402" order="2"><term>煙樹</term>依微極望<rhyme>平</rhyme></Line>
-      <Line id="P0009403" order="3">待得<term>夜深</term><term>歌舞散</term></Line>
-      <Line id="P0009404" order="4"><term>月明</term><term>吹笛</term><term>倚孤<rhyme>城</rhyme></term></Line>
+      <Line id="P0009401" order="1"><term>澄江</term>如練浸<term>紅<rhyme>亭</rhyme></term></Line>
+      <Line id="P0009402" order="2"><term>煙樹</term><term>依微</term><term>極望</term><rhyme>平</rhyme></Line>
+      <Line id="P0009403" order="3"><term>待得</term><term>夜深</term><term>歌舞</term>散</Line>
+      <Line id="P0009404" order="4"><term>月明</term><term>吹笛</term>倚<term>孤<rhyme>城</rhyme></term></Line>
     </text>
   </Poem>
 <Poem id="P00095">
@@ -2281,7 +2281,7 @@
         <Charactercount>칠언</Charactercount>
     </Form>
       <Themes>
-        <Theme category="farewell" basis="title, term" evidence="title:別, term:相逢 何處">송별</Theme>
+        <Theme category="farewell" basis="title, term" evidence="title:別, term:何處 相逢">송별</Theme>
       </Themes>
       <Context></Context>
     </Metadata>
@@ -2567,7 +2567,7 @@
         <Charactercount>칠언</Charactercount>
     </Form>
       <Themes>
-        <Theme category="sympathy" basis="term" evidence="term:銀橋 無消息">애상</Theme>
+        <Theme category="sympathy" basis="term" evidence="term:無消息 銀橋">애상</Theme>
       </Themes>
       <Context></Context>
     </Metadata>
@@ -3005,7 +3005,7 @@
         <Charactercount>칠언</Charactercount>
     </Form>
       <Themes>
-        <Theme category="sympathy" basis="term" evidence="term:寒山 秋風">애상</Theme>
+        <Theme category="sympathy" basis="term" evidence="term:秋風 寒山">애상</Theme>
       </Themes>
       <Context></Context>
     </Metadata>
@@ -3029,7 +3029,7 @@
         <Charactercount>칠언</Charactercount>
     </Form>
       <Themes>
-        <Theme category="tranquility" basis="term" evidence="term:玉簫 天風 歸去">한적</Theme>
+        <Theme category="tranquility" basis="term" evidence="term:玉簫 歸去 天風">한적</Theme>
       </Themes>
       <Context></Context>
     </Metadata>
@@ -3078,7 +3078,7 @@
         <Charactercount>칠언</Charactercount>
     </Form>
       <Themes>
-        <Theme category="farewell" basis="term" evidence="term:楊柳 迢迢">송별</Theme>
+        <Theme category="farewell" basis="term" evidence="term:迢迢 楊柳">송별</Theme>
       </Themes>
       <Context></Context>
     </Metadata>
@@ -3124,7 +3124,7 @@
         <Charactercount>칠언</Charactercount>
     </Form>
       <Themes>
-        <Theme category="buddhism" basis="title" evidence="title:僧 僧軸">불교</Theme>
+        <Theme category="buddhism" basis="title" evidence="title:僧軸 僧">불교</Theme>
       </Themes>
       <Context></Context>
     </Metadata>
@@ -3148,7 +3148,7 @@
         <Charactercount>칠언</Charactercount>
     </Form>
       <Themes>
-        <Theme category="buddhism" basis="title, term" evidence="title:僧 僧軸, term:香臺">불교</Theme>
+        <Theme category="buddhism" basis="title, term" evidence="title:僧軸 僧, term:香臺">불교</Theme>
       </Themes>
       <Context></Context>
     </Metadata>
@@ -3197,7 +3197,7 @@
         <Charactercount>칠언</Charactercount>
     </Form>
       <Themes>
-        <Theme category="donate" basis="title" evidence="title:贈 贈僧">기증</Theme>
+        <Theme category="donate" basis="title" evidence="title:贈僧 贈">기증</Theme>
       </Themes>
       <Context>수종사는 경기도 남양주시 운길산에 있는 사찰로 신라 때 창건되었음</Context>
     </Metadata>
@@ -3245,7 +3245,7 @@
         <Charactercount>칠언</Charactercount>
     </Form>
       <Themes>
-        <Theme category="season" basis="title, term" evidence="title:寒食, term:寒食 東風 梅花">계절</Theme>
+        <Theme category="season" basis="title, term" evidence="title:寒食, term:東風 寒食 梅花">계절</Theme>
       </Themes>
       <Context></Context>
     </Metadata>
@@ -3294,7 +3294,7 @@
         <Charactercount>칠언</Charactercount>
     </Form>
       <Themes>
-        <Theme category="reminiscence" basis="title" evidence="title:懷古 懷">회고</Theme>
+        <Theme category="reminiscence" basis="title" evidence="title:懷 懷古">회고</Theme>
       </Themes>
       <Context>結綺樓는 육조시대 진(陳)나라의 후주가 지은 누각을 말한다.</Context>
     </Metadata>
@@ -3792,7 +3792,7 @@
         <Charactercount>오언</Charactercount>
     </Form>
       <Themes>
-        <Theme category="season" basis="term" evidence="term:黃花 佳節">계절</Theme>
+        <Theme category="season" basis="term" evidence="term:佳節 黃花">계절</Theme>
       </Themes>
       <Context></Context>
     </Metadata>
@@ -3820,7 +3820,7 @@
         <Charactercount>오언</Charactercount>
     </Form>
       <Themes>
-        <Theme category="buddhism" basis="title, term" evidence="title:圓明, term:風塵 石林寺">불교</Theme>
+        <Theme category="buddhism" basis="title, term" evidence="title:圓明, term:石林寺 風塵">불교</Theme>
       </Themes>
       <Context>여기의 석림사는 작자의 고향인 영암에 있던 사찰로 추정된다</Context>
     </Metadata>
@@ -3876,7 +3876,7 @@
         <Charactercount>오언</Charactercount>
     </Form>
       <Themes>
-        <Theme category="farewell" basis="title, term" evidence="title:留別 別, term:別後">송별</Theme>
+        <Theme category="farewell" basis="title, term" evidence="title:別 留別, term:別後">송별</Theme>
       </Themes>
       <Context></Context>
     </Metadata>
@@ -3904,7 +3904,7 @@
         <Charactercount>오언</Charactercount>
     </Form>
       <Themes>
-        <Theme category="sympathy" basis="term" evidence="term:寂寞 孤城">애상</Theme>
+        <Theme category="sympathy" basis="term" evidence="term:孤城 寂寞">애상</Theme>
       </Themes>
       <Context></Context>
     </Metadata>
@@ -3960,7 +3960,7 @@
         <Charactercount>오언</Charactercount>
     </Form>
       <Themes>
-        <Theme category="sympathy" basis="term" evidence="term:殘角 羈愁 驚心">애상</Theme>
+        <Theme category="sympathy" basis="term" evidence="term:羈愁 殘角 驚心">애상</Theme>
       </Themes>
       <Context>금성은 강원도에 있던 현으로 나중에 금화군으로 통합되었다</Context>
     </Metadata>
@@ -4129,7 +4129,7 @@
         <Charactercount>오언</Charactercount>
     </Form>
       <Themes>
-        <Theme category="farewell" basis="title" evidence="title:送 赴京">송별</Theme>
+        <Theme category="farewell" basis="title" evidence="title:赴京 送">송별</Theme>
       </Themes>
       <Context></Context>
     </Metadata>
@@ -4185,7 +4185,7 @@
         <Charactercount>오언</Charactercount>
     </Form>
       <Themes>
-        <Theme category="buddhism" basis="title" evidence="title:僧 僧軸 寺">불교</Theme>
+        <Theme category="buddhism" basis="title" evidence="title:僧軸 寺 僧">불교</Theme>
       </Themes>
       <Context>경기도 남양주에 있는 절</Context>
     </Metadata>
@@ -4213,7 +4213,7 @@
         <Charactercount>오언</Charactercount>
     </Form>
       <Themes>
-        <Theme category="buddhism" basis="title, term" evidence="title:僧 僧軸 寺, term:逢僧">불교</Theme>
+        <Theme category="buddhism" basis="title, term" evidence="title:僧軸 寺 僧, term:逢僧">불교</Theme>
       </Themes>
       <Context></Context>
     </Metadata>
@@ -4409,7 +4409,7 @@
         <Charactercount>오언</Charactercount>
     </Form>
       <Themes>
-        <Theme category="tranquility" basis="term" evidence="term:春風 廢寺 獨立">한적</Theme>
+        <Theme category="tranquility" basis="term" evidence="term:獨立 廢寺 春風">한적</Theme>
       </Themes>
       <Context>무이동은 지금 서울 마포구 성산동에 있었던 마을로 무리울이라는 이름으로도 불렸다고 한다.</Context>
     </Metadata>
@@ -4521,7 +4521,7 @@
         <Charactercount>칠언</Charactercount>
     </Form>
       <Themes>
-        <Theme category="buddhism" basis="title, term" evidence="title:僧 僧軸, term:香臺">불교</Theme>
+        <Theme category="buddhism" basis="title, term" evidence="title:僧軸 僧, term:香臺">불교</Theme>
       </Themes>
       <Context></Context>
     </Metadata>
@@ -4549,7 +4549,7 @@
         <Charactercount>칠언</Charactercount>
     </Form>
       <Themes>
-        <Theme category="buddhism" basis="title, term" evidence="title:菴 僧 僧軸, term:浮生">불교</Theme>
+        <Theme category="buddhism" basis="title, term" evidence="title:僧軸 僧 菴, term:浮生">불교</Theme>
       </Themes>
       <Context></Context>
     </Metadata>
@@ -4605,7 +4605,7 @@
         <Charactercount>칠언</Charactercount>
     </Form>
       <Themes>
-        <Theme category="sympathy" basis="term" evidence="term:鄕夢 秋風 關外">애상</Theme>
+        <Theme category="sympathy" basis="term" evidence="term:秋風 關外 鄕夢">애상</Theme>
       </Themes>
       <Context>검수역은 황해도 봉산에 있던 역이다</Context>
     </Metadata>
@@ -4993,7 +4993,7 @@
         <Charactercount>칠언</Charactercount>
     </Form>
       <Themes>
-        <Theme category="farewell" basis="title, term" evidence="title:留別 別, term:相逢">송별</Theme>
+        <Theme category="farewell" basis="title, term" evidence="title:別 留別, term:相逢">송별</Theme>
       </Themes>
       <Context>함경도 북쪽 국경지역 혹은 두만강 가에 건립된 누각이나 정자로 추정</Context>
     </Metadata>
@@ -5049,7 +5049,7 @@
         <Charactercount>칠언</Charactercount>
     </Form>
       <Themes>
-        <Theme category="reminiscence" basis="term" evidence="term:至今 如今">회고</Theme>
+        <Theme category="reminiscence" basis="term" evidence="term:如今 至今">회고</Theme>
       </Themes>
       <Context>작품의 신흥동은 쌍계사 근처의 어느 곳으로 추정</Context>
     </Metadata>
@@ -5077,7 +5077,7 @@
         <Charactercount>칠언</Charactercount>
     </Form>
       <Themes>
-        <Theme category="sympathy" basis="term" evidence="term:千里 天涯 西風 無限 竟何成">애상</Theme>
+        <Theme category="sympathy" basis="term" evidence="term:竟何成 天涯 無限 西風 千里">애상</Theme>
       </Themes>
       <Context></Context>
     </Metadata>
@@ -5243,7 +5243,7 @@
         <Charactercount>칠언</Charactercount>
     </Form>
       <Themes>
-        <Theme category="frontier" basis="term" evidence="term:北闕 孤城 絶塞">변새</Theme>
+        <Theme category="frontier" basis="term" evidence="term:絶塞 孤城 北闕">변새</Theme>
       </Themes>
       <Context>의순관은 평안도 의주에 있던 국영 여관이다</Context>
     </Metadata>
@@ -5360,7 +5360,7 @@
     <text>
       <Line id="P0021201" order="1"><term>首陽</term>山</Line>
       <Line id="P0021202" order="2"><term>孤竹</term><rhyme>節</rhyme></Line>
-      <Line id="P0021203" order="3">綠葉<term>三冬</term>雪</Line>
+      <Line id="P0021203" order="3"><d>綠葉</d><term>三冬</term>雪</Line>
       <Line id="P0021204" order="4"><term>靑天</term><term>一片</term><rhyme>月</rhyme></Line>
       <Line id="P0021205" order="5"><term>西方</term><term>美人</term><term>歸去</term>來</Line>
       <Line id="P0021206" order="6">山亦摧兮竹可<rhyme>折</rhyme></Line>
@@ -6351,7 +6351,7 @@
         <Charactercount>칠언</Charactercount>
     </Form>
       <Themes>
-        <Theme category="sympathy" basis="term" evidence="term:千里人 折楊柳">애상</Theme>
+        <Theme category="sympathy" basis="term" evidence="term:折楊柳 千里人">애상</Theme>
       </Themes>
       <Context></Context>
     </Metadata>
@@ -6407,7 +6407,7 @@
         <Charactercount>칠언</Charactercount>
     </Form>
       <Themes>
-        <Theme category="sympathy" basis="term" evidence="term:黃昏 寂寞 不見">애상</Theme>
+        <Theme category="sympathy" basis="term" evidence="term:不見 黃昏 寂寞">애상</Theme>
       </Themes>
       <Context></Context>
     </Metadata>
@@ -6449,7 +6449,7 @@
         <Charactercount>칠언</Charactercount>
     </Form>
       <Themes>
-        <Theme category="sympathy" basis="term" evidence="term:天涯 不在 淚痕 千里 斑竹">애상</Theme>
+        <Theme category="sympathy" basis="term" evidence="term:天涯 不在 淚痕 斑竹 千里">애상</Theme>
       </Themes>
       <Context></Context>
     </Metadata>
@@ -6509,7 +6509,7 @@
         <Charactercount>칠언</Charactercount>
     </Form>
       <Themes>
-        <Theme category="sympathy" basis="term" evidence="term:天涯 寂寂 此生 蕭蕭 悠悠 無限">애상</Theme>
+        <Theme category="sympathy" basis="term" evidence="term:天涯 蕭蕭 無限 此生 悠悠 寂寂">애상</Theme>
       </Themes>
       <Context></Context>
     </Metadata>

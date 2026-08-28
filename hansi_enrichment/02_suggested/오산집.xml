@@ -378,7 +378,7 @@
         <Charactercount>오언</Charactercount>
     </Form>
       <Themes>
-        <Theme category="season" basis="title, term" evidence="title:秋, term:氷 河朔飮 秋風">계절</Theme>
+        <Theme category="season" basis="title, term" evidence="title:秋, term:秋風 河朔飮 氷">계절</Theme>
       </Themes>
       <Context></Context>
     </Metadata>
@@ -434,7 +434,7 @@
         <Charactercount>칠언</Charactercount>
     </Form>
       <Themes>
-        <Theme category="frontier" basis="term" evidence="term:鴨江 轅門 玉帳 殺氣 元戎 千古 犬羊">변새</Theme>
+        <Theme category="frontier" basis="term" evidence="term:千古 元戎 玉帳 殺氣 鴨江 轅門 犬羊">변새</Theme>
       </Themes>
       <Context></Context>
     </Metadata>
@@ -669,14 +669,14 @@
 	    <Allusion id="" target="四靈" type="A" source="禮記" chapter="禮運" originaltext= "何謂四靈 麟鳳龜龍 謂之四靈"/>
       <Line id="P1336703" order="3">身<term>是凡</term>鱗主</Line>
       <Line id="P1336704" order="4">虎者乃<term>戾<rhyme>蟲</rhyme></term></Line>
-      <Line id="P1336705" order="5">氣壓<term>百獸</term></Line>
+      <Line id="P1336705" order="5"><term>氣壓</term><term>百獸</term></Line>
       <Line id="P1336706" order="6">雄作<term>毛族</term><rhyme>祖</rhyme></Line>
       <Line id="P1336707" order="7">何人<term>繹思</term>搖<term>彩筆</term></Line>
       <Line id="P1336708" order="8">手發<term>天機</term>掇<term>花<rhyme>露</rhyme></term></Line>
       <Line id="P1336709" order="9">想當<term>解衣</term><term>盤礴</term>臝</Line>
 	    <Allusion id="" target="解衣盤礴" type="E" source="莊子" chapter="田子方" originaltext= "宋元君將畫圖 衆史皆至 受揖而立 舐筆和墨 在外者半 有一史後至者 儃儃然不趨 受揖不立 因之舍 公使人視之 則解衣般礡臝 君曰 可矣 是真畫者也"/>
       <Line id="P1336710" order="10"><term>睥睨</term><term>六合</term>凌<term>千<rhyme>古</rhyme></term></Line>
-      <Line id="P1336711" order="11"><term>經營</term><term>意匠</term>得<term>神助</term></Line>
+      <Line id="P1336711" order="11"><term>經營</term><term>意匠</term><term>得神</term>助</Line>
       <Line id="P1336712" order="12"><term>揮灑</term><term>奇功</term>在<term>毫<rhyme>素</rhyme></term></Line>
       <Line id="P1336713" order="13"><term>鱗甲</term>欲動<term>牙爪</term>奪天</Line>
       <Line id="P1336714" order="14">骨<term>開張</term><term>毛毳</term><rhyme>豎</rhyme></Line>
@@ -696,7 +696,7 @@
         <Charactercount>칠언</Charactercount>
     </Form>
       <Themes>
-        <Theme category="reminiscence" basis="term" evidence="term:當時 至今 遺廟 雄心 十年">회고</Theme>
+        <Theme category="reminiscence" basis="term" evidence="term:十年 當時 遺廟 至今 雄心">회고</Theme>
       </Themes>
       <Context></Context>
     </Metadata>
@@ -813,10 +813,10 @@
       <Context></Context>
     </Metadata>
     <text>
-      <Line id="P1336901" order="1"><term>積雪</term>層峯色</Line>
-      <Line id="P1336902" order="2"><term>寒雲</term>萬木<rhyme>陰</rhyme></Line>
-      <Line id="P1336903" order="3"><term>斜陽</term><term>石棧路</term></Line>
-      <Line id="P1336904" order="4"><term>驢背</term>獨<term>歸<rhyme>心</rhyme></term></Line>
+      <Line id="P1336901" order="1"><term>積雪</term><d>層峯</d>色</Line>
+      <Line id="P1336902" order="2"><term>寒雲</term><d>萬木</d><rhyme>陰</rhyme></Line>
+      <Line id="P1336903" order="3"><term>斜陽</term><term>石棧</term>路</Line>
+      <Line id="P1336904" order="4">驢背獨<term>歸<rhyme>心</rhyme></term></Line>
     </text>
   </Poem>
 <Poem id="P13370">
@@ -839,9 +839,9 @@
     <text>
       <Line id="P1337001" order="1">草入<term>三春</term>綠</Line>
       <Line id="P1337002" order="2">江含<term>萬古</term><rhyme>愁</rhyme></Line>
-      <Line id="P1337003" order="3"><term>仙源</term>花滿樹</Line>
+      <Line id="P1337003" order="3"><term>仙源</term>花<d>滿樹</d></Line>
 	    <Allusion id="" target="仙源" type="D" source="陶淵明集" chapter="桃花源記" originaltext= "從口入 初極狹 纔通人 復行數十步 豁然開朗 土地平曠 屋舍儼然 有良田美池桑竹之屬 阡陌交通 鷄犬相聞 其中往來種作 男女衣著 悉如外人 黃髮垂髫 並怡然自樂"/>
-      <Line id="P1337004" order="4">欲進<term>武陵</term><rhyme>舟</rhyme></Line>
+      <Line id="P1337004" order="4">欲<term>進武</term>陵<rhyme>舟</rhyme></Line>
 	    <Allusion id="" target="仙源" type="D" source="陶淵明集" chapter="桃花源記" originaltext= "從口入 初極狹 纔通人 復行數十步 豁然開朗 土地平曠 屋舍儼然 有良田美池桑竹之屬 阡陌交通 鷄犬相聞 其中往來種作 男女衣著 悉如外人 黃髮垂髫 並怡然自樂"/>
     </text>
   </Poem>
@@ -863,11 +863,11 @@
       <Context></Context>
     </Metadata>
     <text>
-      <Line id="P1337101" order="1"><term>雨後</term>傷<term>春恨</term></Line>
+      <Line id="P1337101" order="1"><term>雨後</term><term>傷春</term>恨</Line>
 	    <Allusion id="" target="春恨" type="" source="" chapter="梅花落" originaltext= "行人斷消息 春恨幾徘徊"/>
-      <Line id="P1337102" order="2"><term>江頭</term>送<term>客<rhyme>愁</rhyme></term></Line>
+      <Line id="P1337102" order="2"><term>江頭</term><d>送客</d><rhyme>愁</rhyme></Line>
       <Line id="P1337103" order="3"><term>寒潮</term>帶<term>落日</term></Line>
-      <Line id="P1337104" order="4">相逐一<term>歸<rhyme>舟</rhyme></term></Line>
+      <Line id="P1337104" order="4">相<term>逐一</term><term>歸<rhyme>舟</rhyme></term></Line>
     </text>
   </Poem>
 <Poem id="P13372">
@@ -911,9 +911,9 @@
     </Metadata>
     <text>
       <Line id="P1337301" order="1"><term>雨後</term><term>碧山</term>如洗</Line>
-      <Line id="P1337302" order="2">風來<term>綠樹</term>微<rhyme>涼</rhyme></Line>
+      <Line id="P1337302" order="2">風來<d>綠樹</d><d>微<rhyme>涼</rhyme></d></Line>
       <Line id="P1337303" order="3"><term>破屋</term>數間<term>日永</term></Line>
-      <Line id="P1337304" order="4"><term>高天</term>萬里雲<rhyme>長</rhyme></Line>
+      <Line id="P1337304" order="4"><term>高天</term><d>萬里</d><d>雲<rhyme>長</rhyme></d></Line>
     </text>
   </Poem>
 <Poem id="P13374">
@@ -935,9 +935,9 @@
     </Metadata>
     <text>
       <Line id="P1337401" order="1"><term>佛燈</term><term>明滅</term><term>篆香</term><rhyme>灰</rhyme></Line>
-      <Line id="P1337402" order="2"><term>靜夜</term><term>江湖</term><term>枕上</term><rhyme>來</rhyme></Line>
-      <Line id="P1337403" order="3">林鳥數聲窓已曙</Line>
-      <Line id="P1337404" order="4"><term>故山</term><term>松桂</term>夢初<rhyme>廻</rhyme></Line>
+      <Line id="P1337402" order="2"><d>靜夜</d><term>江湖</term><term>枕上</term><rhyme>來</rhyme></Line>
+      <Line id="P1337403" order="3">林鳥<d>數聲</d>窓已曙</Line>
+      <Line id="P1337404" order="4"><term>故山</term><d>松桂</d>夢初<rhyme>廻</rhyme></Line>
     </text>
   </Poem>
 <Poem id="P13375">
@@ -953,15 +953,15 @@
         <Charactercount>칠언</Charactercount>
     </Form>
       <Themes>
-        <Theme category="sympathy" basis="term" evidence="term:寂寥 碧雲">애상</Theme>
+        <Theme category="sympathy" basis="term" evidence="term:碧雲 寂寥">애상</Theme>
       </Themes>
       <Context></Context>
     </Metadata>
     <text>
       <Line id="P1337501" order="1">燕塞<term>霜寒</term>雁度<rhyme>遼</rhyme></Line>
-      <Line id="P1337502" order="2"><term>碧雲</term><term>四望</term>><term>海天</term><rhyme>遙</rhyme></Line>
-      <Line id="P1337503" order="3"><term>愁人</term>只結<term>相思夢</term></Line>
-      <Line id="P1337504" order="4">月在<term>虛窓</term>夜<term>寂<rhyme>寥</rhyme></term></Line>
+      <Line id="P1337502" order="2"><term>碧雲</term><term>四望</term><d>海天</d><rhyme>遙</rhyme></Line>
+      <Line id="P1337503" order="3"><term>愁人</term>只結<term>相思</term>夢</Line>
+      <Line id="P1337504" order="4">月在虛窓夜<term>寂<rhyme>寥</rhyme></term></Line>
     </text>
   </Poem>
 <Poem id="P13376">
@@ -980,7 +980,7 @@
       <Context></Context>
     </Metadata>
     <text>
-      <Line id="P1337601" order="1">俠心還向醉中<rhyme>來</rhyme></Line>
+      <Line id="P1337601" order="1">俠心還向<d>醉中</d><rhyme>來</rhyme></Line>
       <Line id="P1337602" order="2"><term>錦瑟</term><term>佳人</term>歌<term>落<rhyme>梅</rhyme></term></Line>
 	    <Allusion id="" target="錦瑟" type="A" source="周禮" chapter="樂器圖" originaltext= "雅瑟二十三弦 頌瑟二十五弦 飾以寶玉者曰寶瑟 繪文如錦者曰錦瑟"/>
 		<Allusion id="" target="落梅" type="" source="" chapter="司馬將軍歌" originaltext= "羌笛橫吹阿嚲回 向月樓中吹落梅"/>
@@ -1008,10 +1008,10 @@
       <Context></Context>
     </Metadata>
     <text>
-      <Line id="P1337701" order="1"><term>爛醉</term>歸來日已<rhyme>斜</rhyme></Line>
-      <Line id="P1337702" order="2">遠林烟暝欲<term>棲<rhyme>鴉</rhyme></term></Line>
-      <Line id="P1337703" order="3"><term>心知</term>有約<term>黃昏</term>後</Line>
-      <Line id="P1337704" order="4">携得<term>瑤琴</term>待<term>月<rhyme>華</rhyme></term></Line>
+      <Line id="P1337701" order="1"><term>爛醉</term><term>歸來</term>日已<rhyme>斜</rhyme></Line>
+      <Line id="P1337702" order="2"><d>遠林</d>烟暝欲<term>棲<rhyme>鴉</rhyme></term></Line>
+      <Line id="P1337703" order="3"><term>心知</term><d>有約</d><term>黃昏</term>後</Line>
+      <Line id="P1337704" order="4">携得<term>瑤琴</term><d>待月</d><rhyme>華</rhyme></Line>
     </text>
   </Poem>
 <Poem id="P13378">
@@ -1056,10 +1056,10 @@
       <Context></Context>
     </Metadata>
     <text>
-      <Line id="P1337901" order="1"><term>怊悵</term><term>佳期</term>不奈<rhyme>何</rhyme></Line>
-      <Line id="P1337902" order="2"><term>彩雲</term>深鎻<term>暮山</term><rhyme>多</rhyme></Line>
+      <Line id="P1337901" order="1"><term>怊悵</term><term>佳期</term>不<term>奈<rhyme>何</rhyme></term></Line>
+      <Line id="P1337902" order="2"><term>彩雲</term>深鎻<d>暮山</d><rhyme>多</rhyme></Line>
       <Line id="P1337903" order="3"><term>朱絃</term>未斷膓先斷</Line>
-      <Line id="P1337904" order="4">遙向<term>秋空</term>望<term>白<rhyme>河</rhyme></term></Line>
+      <Line id="P1337904" order="4">遙向<d>秋空</d>望<term>白<rhyme>河</rhyme></term></Line>
     </text>
   </Poem>
 <Poem id="P13380">
@@ -1080,10 +1080,10 @@
       <Context></Context>
     </Metadata>
     <text>
-      <Line id="P1338001" order="1"><term>啣蘆</term>避雪共<term>聯<rhyme>翩</rhyme></term></Line>
-      <Line id="P1338002" order="2">夜到<term>金河</term>萬里<rhyme>天</rhyme></Line>
-      <Line id="P1338003" order="3">想得一聲西塞月</Line>
-      <Line id="P1338004" order="4">來時應過<term>玉窓</term><rhyme>前</rhyme></Line>
+      <Line id="P1338001" order="1">啣蘆避雪共<term>聯<rhyme>翩</rhyme></term></Line>
+      <Line id="P1338002" order="2">夜到<term>金河</term><d>萬里</d><rhyme>天</rhyme></Line>
+      <Line id="P1338003" order="3">想<term>得一</term>聲<term>西塞</term>月</Line>
+      <Line id="P1338004" order="4"><d>來時</d>應過<term>玉窓</term><rhyme>前</rhyme></Line>
     </text>
   </Poem>
 <Poem id="P13381">
@@ -1106,9 +1106,9 @@
     <text>
       <Line id="P1338101" order="1">沈約<term>高名</term>謝眺<rhyme>才</rhyme></Line>
       <Line id="P1338102" order="2"><term>薄遊</term><term>江海</term>出<term>蓬<rhyme>萊</rhyme></term></Line>
-      <Line id="P1338103" order="3"><term>君王</term>愛爇<term>金蓮燭</term></Line>
+      <Line id="P1338103" order="3"><term>君王</term>愛爇<term>金蓮</term>燭</Line>
 	    <Allusion id="" target="金蓮燭" type="B" source="宋史" chapter="蘇軾列傳" originaltext= "已而命坐賜茶 徹御前金蓮燭送歸院"/></Line>
-      <Line id="P1338104" order="4">爲待<term>上如</term><term>視草</term><rhyme>來</rhyme></Line>
+      <Line id="P1338104" order="4">爲待上如<term>視草</term><rhyme>來</rhyme></Line>
 	    <Allusion id="" target="上如視草" type="B" source="漢書" chapter="淮南衡山濟北王傳" originaltext= "每爲報書及賜 常召司馬相如等視草乃遣"/></Line>
     </text>
   </Poem>
@@ -1130,7 +1130,7 @@
       <Context></Context>
     </Metadata>
     <text>
-      <Line id="P1338201" order="1">滿山<term>紅葉</term>錦<term>斒<rhyme>斕</rhyme></term></Line>
+      <Line id="P1338201" order="1"><d>滿山</d><term>紅葉</term>錦<term>斒<rhyme>斕</rhyme></term></Line>
       <Line id="P1338202" order="2"><term>落日</term><term>秋光</term>畫裡<rhyme>顔</rhyme></Line>
       <Line id="P1338203" order="3">蹔借<term>蒲團</term>成穏睡</Line>
       <Line id="P1338204" order="4">不知身在<term>白雲</term><rhyme>間</rhyme></Line>
@@ -1154,9 +1154,9 @@
       <Context></Context>
     </Metadata>
     <text>
-      <Line id="P1338301" order="1">重逢脉脉兩無<rhyme>言</rhyme></Line>
-      <Line id="P1338302" order="2">强進<term>深盃</term>暗<term>斷<rhyme>魂</rhyme></term></Line>
-      <Line id="P1338303" order="3"><term>明月</term><term>淸風</term>獨歸路</Line>
+      <Line id="P1338301" order="1"><term>重逢</term><d>脉脉</d>兩無<rhyme>言</rhyme></Line>
+      <Line id="P1338302" order="2"><term>强進</term><term>深盃</term>暗<term>斷<rhyme>魂</rhyme></term></Line>
+      <Line id="P1338303" order="3"><term>明月</term><term>淸風</term>獨<d>歸路</d></Line>
       <Line id="P1338304" order="4"><term>靑山</term>更隔幾家<rhyme>村</rhyme></Line>
     </text>
   </Poem>
@@ -1202,12 +1202,12 @@
       <Context></Context>
     </Metadata>
     <text>
-      <Line id="P1338501" order="1"><term>紅蓮幕</term>下</term>是何<rhyme>人</rhyme></Line>
+      <Line id="P1338501" order="1"><term>紅蓮</term><term>幕下</term>是何<rhyme>人</rhyme></Line>
 	    <Allusion id="" target="紅蓮幕下" type="B" source="南史" chapter="庾杲之列傳" originaltext= "安陸侯蕭緬與儉書曰 盛府元僚 實難其選 庾景行泛淥水 依芙蓉 何其麗也 時人以入儉府爲蓮花池 故緬書美之"/></Line>
       <Line id="P1338502" order="2">醉擁<term>笙歌</term>吐<term>錦<rhyme>茵</rhyme></term></Line>
 	    <Allusion id="" target="吐錦茵" type="B" source="漢書" chapter="魏相丙吉傳" originaltext= "於官屬掾史 務掩過揚善 吉馭吏耆酒 數逋蕩 嘗從吉出 醉歐丞相車上 西曹主吏白欲斥之 吉曰 以醉飽之失去士 使此人將復何所容 西曹地忍之 此不過汙丞相車茵耳"/></Line>
-      <Line id="P1338503" order="3">撫跡十年搔<term>白首</term></Line>
-      <Line id="P1338504" order="4">至今猶作夢中<rhyme>春</rhyme></Line>
+      <Line id="P1338503" order="3">撫跡<term>十年</term>搔<term>白首</term></Line>
+      <Line id="P1338504" order="4"><term>至今</term>猶作<term>夢中</term><rhyme>春</rhyme></Line>
     </text>
   </Poem>
 <Poem id="P13386">
@@ -1223,14 +1223,14 @@
         <Charactercount>칠언</Charactercount>
     </Form>
       <Themes>
-        <Theme category="water" basis="term" evidence="term:江上 海門">강해</Theme>
+        <Theme category="water" basis="term" evidence="term:海門 江上">강해</Theme>
       </Themes>
       <Context></Context>
     </Metadata>
     <text>
       <Line id="P1338601" order="1"><term>江上</term>晴峯<term>雪色</term><rhyme>高</rhyme></Line>
       <Line id="P1338602" order="2"><term>碧天</term><term>斜日</term>接<term>雲<rhyme>濤</rhyme></term></Line>
-      <Line id="P1338603" order="3"><term>海門</term>萬里<term>三山</term>在</Line>
+      <Line id="P1338603" order="3"><term>海門</term><d>萬里</d><term>三山</term>在</Line>
       <Line id="P1338604" order="4">欲挂<term>風帆</term>製<term>六<rhyme>鼇</rhyme></term></Line>
 	    <Allusion id="" target="六鼇" type="C" source="列子" chapter="湯問" originaltext= "渤海之東不知幾億萬里 有大壑焉 實惟無底之谷 其下無底 名曰歸墟 八紘九野之水 天漢之流 莫不注之 而無增無減焉 其中有五山焉 一曰岱輿 二曰員嶠 三曰方壺 四曰瀛洲 五曰蓬萊"/></Line>
 	  
@@ -1254,7 +1254,7 @@
       <Context></Context>
     </Metadata>
     <text>
-      <Line id="P1338701" order="1"><term>玉匣</term><term>龍泉</term>吼<term>不<rhyme>平</rhyme></term></Line>
+      <Line id="P1338701" order="1"><term>玉匣</term><term>龍泉</term>吼不<rhyme>平</rhyme></Line>
 	    <Allusion id="" target="龍泉" type=B" source="晉書" chapter="張華列傳" originaltext= "煥到縣 掘獄屋基 入地四丈餘 得一石函 光氣非常 中有雙劍 並刻題 一曰龍泉 一曰太阿"/></Line>
       <Line id="P1338702" order="2"><term>壯心</term><term>中夜</term>惜<term>談<rhyme>兵</rhyme></term></Line>
       <Line id="P1338703" order="3"><term>孫吳</term><term>讀破</term>知何用</Line>
@@ -1281,7 +1281,7 @@
     <text>
       <Line id="P1338801" order="1"><term>金宮</term><term>寶字</term>篆<term>宜<rhyme>春</rhyme></term></Line>
       <Line id="P1338802" order="2"><term>暖氣</term>潛催<term>物候</term><rhyme>新</rhyme></Line>
-      <Line id="P1338803" order="3"><term>天地</term><term>無私</term>均<term>雨露</term></Line>
+      <Line id="P1338803" order="3"><term>天地</term>無私均<term>雨露</term></Line>
       <Line id="P1338804" order="4"><term>君王</term>育物亦<term>同<rhyme>仁</rhyme></term></Line>
     </text>
   </Poem>
@@ -1304,7 +1304,7 @@
       <Line id="P1338901" order="1">暖草如烟<term>黃犢</term><rhyme>肥</rhyme></Line>
       <Line id="P1338902" order="2">綠簑<term>靑篛</term><term>牧兒</term><rhyme>隨</rhyme></Line>
       <Line id="P1338903" order="3">倒騎<term>日夕</term>橫<term>長笛</term></Line>
-      <Line id="P1338904" order="4">帶雨歸來<term>一捻</term><rhyme>吹</rhyme></Line>
+      <Line id="P1338904" order="4"><d>帶雨</d><term>歸來</term><term>一捻</term><rhyme>吹</rhyme></Line>
     </text>
   </Poem>
 <Poem id="P13390">
@@ -1325,11 +1325,11 @@
       <Context></Context>
     </Metadata>
     <text>
-      <Line id="P1339001" order="1">蹔時<term>披霧</term>覩<term>靑<rhyme>天</rhyme></term></Line>
+      <Line id="P1339001" order="1"><term>蹔時</term><term>披霧</term>覩<term>靑<rhyme>天</rhyme></term></Line>
 	    <Allusion id="" target="披霧覩靑天" type="C" source="世說新語" chapter="賞譽" originaltext= "命子弟造之曰 此人 人之水鏡也 見之若披雲霧覩青天"/></Line>
       <Line id="P1339002" order="2">却把<term>離盃</term>意<term>惘<rhyme>然</rhyme></term></Line>
       <Line id="P1339003" order="3"><term>芳草</term>不知<term>生別</term>苦</Line>
-      <Line id="P1339004" order="4">滿山<term>烟雨</term><term>碧芊<rhyme>芊</rhyme></term></Line>
+      <Line id="P1339004" order="4"><d>滿山</d><d>烟雨</d>碧<term>芊<rhyme>芊</rhyme></term></Line>
     </text>
   </Poem>
 <Poem id="P13391">
@@ -1350,8 +1350,8 @@
       <Context></Context>
     </Metadata>
     <text>
-      <Line id="P1339101" order="1">楓岳<term>雄盤</term><term>東海</term><rhyme>東</rhyme></Line>
-      <Line id="P1339102" order="2"><term>鑱天</term>一萬二千<rhyme>峯</rhyme></Line>
+      <Line id="P1339101" order="1"><d>楓岳</d><term>雄盤</term><term>東海</term><rhyme>東</rhyme></Line>
+      <Line id="P1339102" order="2"><term>鑱天</term>一萬二<d>千<rhyme>峯</rhyme></d></Line>
       <Line id="P1339103" order="3"><term>餘生</term>已老空<term>回首</term></Line>
       <Line id="P1339104" order="4">留與<term>山僧</term>說<term>舊<rhyme>蹤</rhyme></term></Line>
     </text>
@@ -1396,14 +1396,14 @@
       <Context></Context>
     </Metadata>
     <text>
-      <Line id="P1339301" order="1">有客<term>何爲</term>者</Line>
+      <Line id="P1339301" order="1">有客何爲者</Line>
       <Line id="P1339302" order="2"><term>風塵</term>已<term>白<rhyme>頭</rhyme></term></Line>
-      <Couplet><Line id="P1339303" order="3"><term>劍心</term>猶未折</Line>
+      <Couplet><Line id="P1339303" order="3"><d>劍心</d>猶未折</Line>
         <Line id="P1339304" order="4"><term>才命</term>不<term>相<rhyme>謀</rhyme></term></Line></Couplet>
-      <Couplet><Line id="P1339305" order="5">自古傷<term>流落</term></Line>
+      <Couplet><Line id="P1339305" order="5"><term>自古</term>傷<term>流落</term></Line>
         <Line id="P1339306" order="6"><term>于今</term>任<term>汎<rhyme>浮</rhyme></term></Line></Couplet>
       <Line id="P1339307" order="7">久知無<term>適用</term></Line>
-      <Line id="P1339308" order="8">只合謝鯤<rhyme>丘</rhyme></Line>
+      <Line id="P1339308" order="8"><term>只合</term>謝鯤<rhyme>丘</rhyme></Line>
 </text>
   </Poem>
 <Poem id="P13394">
@@ -1419,7 +1419,7 @@
         <Charactercount>오언</Charactercount>
     </Form>
       <Themes>
-        <Theme category="sympathy" basis="term" evidence="term:悲 寂寞 薄宦">애상</Theme>
+        <Theme category="sympathy" basis="term" evidence="term:薄宦 寂寞 悲">애상</Theme>
       </Themes>
       <Context></Context>
     </Metadata>
@@ -1541,8 +1541,7 @@
       <Line id="P1339804" order="4"><term>薄産</term>未<term>歸<rhyme>休</rhyme></term></Line></quatrain>
       <quatrain><Line id="P1339805" order="5"><term>日下</term>徇<term>微祿</term></Line>
       <Line id="P1339806" order="6"><term>天邊</term>懷<term>壯<rhyme>遊</rhyme></term></Line></quatrain>
-      <Line id="P1339807" order="7">十年猶<term>一夢</term<>/Line>
-      <Line id="P1339808" order="8">關月幾<term>回頭</term></Line>
+      <Line id="P1339807" order="7"><term>十年</term>猶<d>一夢</d><d>關月</d>幾<term>回頭</term></Line>
     </text>
   </Poem>
 <Poem id="P13399">
@@ -1558,19 +1557,19 @@
         <Charactercount>오언</Charactercount>
     </Form>
       <Themes>
-        <Theme category="sympathy" basis="term" evidence="term:傷心 微官">애상</Theme>
+        <Theme category="sympathy" basis="term" evidence="term:微官 傷心">애상</Theme>
       </Themes>
       <Context></Context>
     </Metadata>
     <text>
-      <Line id="P1339901" order="1"><term>步兵</term>偏愛酒</Line>
-      <Line id="P1339902" order="2"><term>宋玉</term>獨悲<rhyme>秋</rhyme></Line>
+      <Line id="P1339901" order="1"><term>步兵</term><term>偏愛</term>酒</Line>
+      <Line id="P1339902" order="2"><term>宋玉</term>獨<term>悲<rhyme>秋</rhyme></term></Line>
       <Couplet><Line id="P1339903" order="3"><term>俠氣</term>何曾餒</Line>
         <Line id="P1339904" order="4"><term>微官</term>訖可<rhyme>休</rhyme></Line></Couplet>
-      <Couplet><Line id="P1339905" order="5"><term>傷心</term>千里夢</Line>
-        <Line id="P1339906" order="6">撫跡十年<rhyme>遊</rhyme></Line></Couplet>
-      <Line id="P1339907" order="7"><term>多少</term><term>殘生事</term></Line>
-      <Line id="P1339908" order="8">塵中已<term>白<rhyme>頭</rhyme></term></Line>
+      <Couplet><Line id="P1339905" order="5"><term>傷心</term><term>千里</term>夢</Line>
+        <Line id="P1339906" order="6">撫跡<term>十年</term><rhyme>遊</rhyme></Line></Couplet>
+      <Line id="P1339907" order="7"><term>多少</term><term>殘生</term>事</Line>
+      <Line id="P1339908" order="8"><d>塵中</d>已<term>白<rhyme>頭</rhyme></term></Line>
 </text>
   </Poem>
 <Poem id="P13400">
@@ -1624,7 +1623,7 @@
       <Couplet><Line id="P1340103" order="3">已將詩<term>遣興</term></Line>
         <Line id="P1340104" order="4">更<term>把酒</term><term>消<rhyme>愁</rhyme></term></Line></Couplet>
       <Couplet><Line id="P1340105" order="5">霜入雙<term>蓬鬢</term></Line>
-        <Line id="P1340106" order="6">風凋萬木<rhyme>秋</rhyme></Line></Couplet>
+        <Line id="P1340106" order="6">風凋<d>萬木</d><rhyme>秋</rhyme></Line></Couplet>
       <Line id="P1340107" order="7"><term>微官</term>是吾分</Line>
       <Line id="P1340108" order="8">不敢望<term>封<rhyme>留</rhyme></term></Line>
 </text>
@@ -1646,13 +1645,13 @@
     </Metadata>
     <text>
       <Line id="P1340201" order="1"><term>風起</term><term>亂雲</term>動</Line>
-      <Line id="P1340202" order="2">日斜<term>高鳥</term><rhyme>歸</rhyme></Line>
+      <Line id="P1340202" order="2"><d>日斜</d><term>高鳥</term><rhyme>歸</rhyme></Line>
       <Couplet><Line id="P1340203" order="3"><term>長吟</term>正<term>愁絶</term></Line>
         <Line id="P1340204" order="4"><term>一念</term>更<term>依<rhyme>微</rhyme></term></Line></Couplet>
       <Couplet><Line id="P1340205" order="5"><term>鄕里</term>不知遠</Line>
         <Line id="P1340206" order="6"><term>音書</term>還覺<rhyme>稀</rhyme></Line></Couplet>
       <Line id="P1340207" order="7">仍嫌<term>回望</term>處</Line>
-      <Line id="P1340208" order="8">千疊暮山<rhyme>圍</rhyme></Line>
+      <Line id="P1340208" order="8"><term>千疊</term><d>暮山</d><rhyme>圍</rhyme></Line>
 </text>
   </Poem>
 <Poem id="P13403">
@@ -1673,7 +1672,7 @@
     <text>
       <Line id="P1340301" order="1"><term>小智</term>那<term>千慮</term></Line>
       <Line id="P1340302" order="2">愁膓自<term>九<rhyme>廻</rhyme></term></Line>
-      <Couplet><Line id="P1340303" order="3"><term>田園</term>從此去</Line>
+      <Couplet><Line id="P1340303" order="3"><term>田園</term><term>從此</term>去</Line>
         <Line id="P1340304" order="4"><term>風月</term><term>至今</term><rhyme>來</rhyme></Line></Couplet>
       <Couplet><Line id="P1340305" order="5"><term>竹杖</term>身堪倚</Line>
         <Line id="P1340306" order="6"><term>茅齋</term>手可<rhyme>開</rhyme></Line></Couplet>
@@ -1702,11 +1701,11 @@
       <Line id="P1340401" order="1"><term>澤國</term>兼<term>鄕國</term></Line>
       <Line id="P1340402" order="2"><term>長亭</term>復<term>短<rhyme>亭</rhyme></term></Line>
       <Couplet><Line id="P1340403" order="3">猶連<term>大江</term>碧</Line>
-        <Line id="P1340404" order="4"><term>未了</term>亂山<rhyme>靑</rhyme></Line></Couplet>
-      <Couplet><Line id="P1340405" order="5">自笑雙<term>蓬鬢</term></Line>
-        <Line id="P1340406" order="6">誰憐一<term>客<rhyme>星</rhyme></term></Line></Couplet>
+        <Line id="P1340404" order="4">未了<d>亂山</d><rhyme>靑</rhyme></Line></Couplet>
+      <Couplet><Line id="P1340405" order="5"><d>自笑</d>雙<term>蓬鬢</term></Line>
+        <Line id="P1340406" order="6"><d>誰憐</d>一<term>客<rhyme>星</rhyme></term></Line></Couplet>
       <Line id="P1340407" order="7"><term>悠悠</term>江畔夢</Line>
-      <Line id="P1340408" order="8">不離舊<term>林<rhyme>坰</rhyme></term></Line>
+      <Line id="P1340408" order="8">不離<term>舊林</term><rhyme>坰</rhyme></Line>
 </text>
   </Poem>
 <Poem id="P13405">
@@ -1781,9 +1780,9 @@
       <Line id="P1340702" order="2">且復撫<term>龍<rhyme>泉</rhyme></term></Line>
       <Couplet><Line id="P1340703" order="3"><term>把酒</term>惟須飮</Line>
         <Line id="P1340704" order="4"><term>吟詩</term>莫許<rhyme>傳</rhyme></Line></Couplet>
-      <Couplet><Line id="P1340705" order="5"><term>神仙</term>應有分</Line>
-        <Line id="P1340706" order="6"><term>風月</term>自<term>無<rhyme>邊</rhyme></term></Line></Couplet>
-      <Line id="P1340707" order="7">樂處酬陶冶</Line>
+      <Couplet><Line id="P1340705" order="5"><term>神仙</term><term>應有</term>分</Line>
+        <Line id="P1340706" order="6"><term>風月</term>自無<rhyme>邊</rhyme></Line></Couplet>
+      <Line id="P1340707" order="7">樂處酬<term>陶冶</term></Line>
       <Line id="P1340708" order="8"><term>狂歌</term>亦<term>浩<rhyme>然</rhyme></term></Line>
 </text>
   </Poem>
@@ -1805,12 +1804,12 @@
     <text>
       <Line id="P1340801" order="1">老矣無能役</Line>
       <Line id="P1340802" order="2">愁來不<term>自<rhyme>强</rhyme></term></Line>
-      <Couplet><Line id="P1340803" order="3">猶嫌雙鬢短</Line>
+      <Couplet><Line id="P1340803" order="3">猶嫌<d>雙鬢</d>短</Line>
         <Line id="P1340804" order="4">但取<term>寸心</term><rhyme>長</rhyme></Line></Couplet>
       <Couplet><Line id="P1340805" order="5">語寶非<term>珠玉</term></Line>
-        <Line id="P1340806" order="6">論材愧<term>驌<rhyme>驦</rhyme></term></Line></Couplet>
+        <Line id="P1340806" order="6"><term>論材</term>愧<term>驌<rhyme>驦</rhyme></term></Line></Couplet>
       <Line id="P1340807" order="7"><term>秋天</term>正<term>搖落</term></Line>
-      <Line id="P1340808" order="8"><term>白露</term>結<term lemma="蒼葭">葭<rhyme>蒼</rhyme><term></Line>
+      <Line id="P1340808" order="8"><term>白露</term>結葭<rhyme>蒼</rhyme></Line>
 </text>
   </Poem>
 <Poem id="P13409">
@@ -1852,17 +1851,17 @@
         <Charactercount>오언</Charactercount>
     </Form>
       <Themes>
-        <Theme category="sympathy" basis="term" evidence="term:秋風 寒江 落日">애상</Theme>
+        <Theme category="sympathy" basis="term" evidence="term:秋風 落日 寒江">애상</Theme>
       </Themes>
       <Context></Context>
     </Metadata>
     <text>
       <Line id="P1341001" order="1"><term>落日</term><term>寒江</term>上</Line>
-      <Line id="P1341002" order="2"><term>秋風</term>亂樹<rhyme>間</rhyme></Line>
+      <Line id="P1341002" order="2"><term>秋風</term><d>亂樹</d><rhyme>間</rhyme></Line>
       <Couplet><Line id="P1341003" order="3">拓窓臨<term>曠野</term></Line>
-        <Line id="P1341004" order="4">倚杖看前<rhyme>山</rhyme></Line></Couplet>
-      <Couplet><Line id="P1341005" order="5">杳杳羣鴻去</Line>
-        <Line id="P1341006" order="6">茫茫獨鳥<rhyme>還</rhyme></Line></Couplet>
+        <Line id="P1341004" order="4"><term>倚杖</term>看前<rhyme>山</rhyme></Line></Couplet>
+      <Couplet><Line id="P1341005" order="5"><term>杳杳</term>羣鴻去</Line>
+        <Line id="P1341006" order="6"><term>茫茫</term><d>獨鳥</d><rhyme>還</rhyme></Line></Couplet>
       <Line id="P1341007" order="7"><term>他鄕</term>饒<term>物色</term></Line>
       <Line id="P1341008" order="8"><term>蕭颯</term>鬢催<rhyme>斑</rhyme></Line>
 </text>
@@ -1885,11 +1884,11 @@
       <Context></Context>
     </Metadata>
     <text>
-      <Line id="P1341101" order="1">野<term>草蟲</term>吟暮</Line>
+      <Line id="P1341101" order="1"><d>野草</d>蟲吟暮</Line>
       <Line id="P1341102" order="2"><term>江天</term>雁叫<rhyme>羣</rhyme></Line>
-      <Couplet><Line id="P1341103" order="3">亂峯低<term>落日</term></Line>
-        <Line id="P1341104" order="4">遠樹帶<term>層<rhyme>雲</rhyme></term></Line></Couplet>
-      <Couplet><Line id="P1341105" order="5"><term>去國</term>非千里</Line>
+      <Couplet><Line id="P1341103" order="3"><d>亂峯</d><term>低落</term>日</Line>
+        <Line id="P1341104" order="4"><d>遠樹</d>帶<term>層<rhyme>雲</rhyme></term></Line></Couplet>
+      <Couplet><Line id="P1341105" order="5"><term>去國</term>非<term>千里</term></Line>
         <Line id="P1341106" order="6"><term>歸心</term>已<term>十<rhyme>分</rhyme></term></Line></Couplet>
       <Line id="P1341107" order="7">獨歌還<term>獨笑</term></Line>
       <Line id="P1341108" order="8"><term>荒僻</term>斷<term>知<rhyme>聞</rhyme></term></Line>
@@ -1941,12 +1940,12 @@
     <text>
       <Line id="P1341301" order="1"><term>來賓</term>雁識序</Line>
       <Line id="P1341302" order="2">如客燕<term>知<rhyme>歸</rhyme></term></Line>
-      <Couplet><Line id="P1341303" order="3"><term>漠漠</term>江雲色</Line>
+      <Couplet><Line id="P1341303" order="3"><term>漠漠</term><d>江雲</d>色</Line>
         <Line id="P1341304" order="4"><term>荒荒</term>野日<rhyme>輝</rhyme></Line></Couplet>
       <Couplet><Line id="P1341305" order="5"><term>愁吟</term>還咄咜</Line>
-        <Line id="P1341306" order="6"><term>癡坐</term>未飜<rhyme>飛</rhyme></Line></Couplet>
-      <Line id="P1341307" order="7"><term>旅恨</term>已如此</Line>
-      <Line id="P1341308" order="8">况論<term>丁令<rhyme>威</rhyme></term></Line>
+        <Line id="P1341306" order="6"><term>癡坐</term>未<term>飜<rhyme>飛</rhyme></term></Line></Couplet>
+      <Line id="P1341307" order="7"><term>旅恨</term>已<term>如此</term></Line>
+      <Line id="P1341308" order="8">况論<term>丁令</term><rhyme>威</rhyme></Line>
 </text>
   </Poem>
 <Poem id="P13414">
@@ -1972,7 +1971,7 @@
       <Couplet><Line id="P1341403" order="3">但令<term>心事</term>在</Line>
         <Line id="P1341404" order="4">未見<term>淚痕</term><rhyme>乾</rhyme></Line></Couplet>
       <Couplet><Line id="P1341405" order="5"><term>土木</term><term>形骸</term>老</Line>
-        <Line id="P1341406" order="6"><term>蛟龍</term>匣劍<rhyme>寒</rhyme></Line></Couplet>
+        <Line id="P1341406" order="6"><term>蛟龍</term><term>匣劍</term><rhyme>寒</rhyme></Line></Couplet>
       <Line id="P1341407" order="7">尙堪揮<term>健筆</term></Line>
       <Line id="P1341408" order="8"><term>賈勇</term>上<term>騷<rhyme>壇</rhyme></term></Line>
 </text>
@@ -2027,8 +2026,8 @@
         <Line id="P1341604" order="4"><term>把酒</term>蹔<term>逡<rhyme>巡</rhyme></term></Line></Couplet>
       <Couplet><Line id="P1341605" order="5"><term>白日</term><term>亭亭</term>近</Line>
         <Line id="P1341606" order="6"><term>靑山</term><term>望望</term><rhyme>新</rhyme></Line></Couplet>
-      <Line id="P1341607" order="7"><term>皇風</term><term>無內</term>外</Line>
-      <Line id="P1341608" order="8">相見卽<term>相<rhyme>親</rhyme></term></Line>
+      <Line id="P1341607" order="7"><term>皇風</term>無<term>內外</term></Line>
+      <Line id="P1341608" order="8"><term>相見</term>卽<term>相<rhyme>親</rhyme></term></Line>
 </text>
   </Poem>
 <Poem id="P13417">
@@ -2078,13 +2077,13 @@
     </Metadata>
     <text>
       <Line id="P1341801" order="1"><term>旅舍</term>鷄<term>三唱</term></Line>
-      <Line id="P1341802" order="2"><term>寒江</term>雁數<rhyme>聲</rhyme></Line>
+      <Line id="P1341802" order="2"><term>寒江</term>雁<d>數<rhyme>聲</rhyme></d></Line>
       <Couplet><Line id="P1341803" order="3"><term>讀書</term>聊<term>自遣</term></Line>
-        <Line id="P1341804" order="4">不寐若爲<rhyme>情</rhyme></Line></Couplet>
-      <Couplet><Line id="P1341805" order="5"><term>星落</term>催<term lemma="曙天">天曙</term></Line>
+        <Line id="P1341804" order="4">不寐<term>若爲</term><rhyme>情</rhyme></Line></Couplet>
+      <Couplet><Line id="P1341805" order="5"><term>星落</term>催天曙</Line>
         <Line id="P1341806" order="6"><term>風生</term>報雨<rhyme>晴</rhyme></Line></Couplet>
       <Line id="P1341807" order="7"><term>愁吟</term>轉<term>悽切</term></Line>
-      <Line id="P1341808" order="8">獨對小燈<rhyme>明</rhyme></Line>
+      <Line id="P1341808" order="8"><term>獨對</term><d>小燈</d><rhyme>明</rhyme></Line>
 </text>
   </Poem>
 <Poem id="P13419">
@@ -2134,12 +2133,12 @@
     </Metadata>
     <text>
       <Line id="P1342001" order="1">地老樓非舊</Line>
-      <Line id="P1342002" order="2">仙歸鶴不<rhyme>留</rhyme></Line>
+      <Line id="P1342002" order="2">仙<term>歸鶴</term>不<rhyme>留</rhyme></Line>
       <Couplet><Line id="P1342003" order="3"><term>分符</term>幸<term>循吏</term></Line>
-        <Line id="P1342004" order="4"><term>爲政</term>亦<term>風<rhyme>流</rhyme></term></Line></Couplet>
-      <Couplet><Line id="P1342005" order="5">俯仰<term>人間世</term></Line>
-        <Line id="P1342006" order="6">登臨水上<rhyme>頭</rhyme></Line></Couplet>
-      <Line id="P1342007" order="7">可能分物色</Line>
+        <Line id="P1342004" order="4">爲政亦<term>風<rhyme>流</rhyme></term></Line></Couplet>
+      <Couplet><Line id="P1342005" order="5"><term>俯仰</term><term>人間</term>世</Line>
+        <Line id="P1342006" order="6"><term>登臨</term><term>水上</term><rhyme>頭</rhyme></Line></Couplet>
+      <Line id="P1342007" order="7"><term>可能</term><term>分物</term>色</Line>
       <Line id="P1342008" order="8">吾亦共<term>淸<rhyme>遊</rhyme></term></Line>
 </text>
   </Poem>
@@ -2161,14 +2160,14 @@
       <Context></Context>
     </Metadata>
     <text>
-      <Line id="P1342101" order="1"><term>暮景</term>千峯色</Line>
-      <Line id="P1342102" order="2"><term>佳辰</term>九月<rhyme>秋</rhyme></Line>
+      <Line id="P1342101" order="1"><term>暮景</term><d>千峯</d>色</Line>
+      <Line id="P1342102" order="2"><term>佳辰</term><d>九月</d><rhyme>秋</rhyme></Line>
       <Couplet><Line id="P1342103" order="3">揷茱追<term>故事</term></Line>
-        <Line id="P1342104" order="4"><term>落帽</term>破<term>閒<rhyme>愁</rhyme></term></Line></Couplet>
+        <Line id="P1342104" order="4"><term>落帽</term><term>破閒</term><rhyme>愁</rhyme></Line></Couplet>
       <Couplet><Line id="P1342105" order="5">天凈<term>高雲</term>捲</Line>
         <Line id="P1342106" order="6">山寒<term>宿雨</term><rhyme>收</rhyme></Line></Couplet>
-      <Line id="P1342107" order="7">百年無限興</Line>
-      <Line id="P1342108" order="8">一醉是<term>淸<rhyme>遊</rhyme></term></Line>
+      <Line id="P1342107" order="7"><term>百年</term><term>無限</term>興</Line>
+      <Line id="P1342108" order="8"><d>一醉</d>是<term>淸<rhyme>遊</rhyme></term></Line>
 </text>
   </Poem>
 <Poem id="P13422">
@@ -2193,10 +2192,10 @@
       <Line id="P1342202" order="2"><term>靑旗</term>簇仗<rhyme>齊</rhyme></Line>
       <Couplet><Line id="P1342203" order="3">射城祥旭近</Line>
         <Line id="P1342204" order="4">去殿<term>彩雲</term><rhyme>低</rhyme></Line></Couplet>
-      <Couplet><Line id="P1342205" order="5"><term>扇影</term>隨龍轉</Line>
+      <Couplet><Line id="P1342205" order="5"><term>扇影</term><term>隨龍</term>轉</Line>
         <Line id="P1342206" order="6"><term>爐烟</term>繞獸<rhyme>迷</rhyme></Line></Couplet>
       <Line id="P1342207" order="7"><term>桃符</term>從<term>故事</term></Line>
-      <Line id="P1342208" order="8">取次換天<rhyme>題</rhyme></Line>
+      <Line id="P1342208" order="8"><term>取次</term>換天<rhyme>題</rhyme></Line>
 </text>
   </Poem>
 <Poem id="P13423">
@@ -2221,8 +2220,8 @@
       <Line id="P1342302" order="2"><term>湛恩</term>被<term>萬<rhyme>殊</rhyme></term></Line>
       <Couplet><Line id="P1342303" order="3"><term>陽春</term>天<term>北極</term></Line>
         <Line id="P1342304" order="4"><term>化日</term><term>海東</term><rhyme>隅</rhyme></Line></Couplet>
-      <Couplet><Line id="P1342305" order="5"><term>本自</term>酧<term>無象</term></Line>
-        <Line id="P1342306" order="6">何曾戒<term>不<rhyme>虞</rhyme></term></Line></Couplet>
+      <Couplet><Line id="P1342305" order="5"><term>本自</term>酧無象</Line>
+        <Line id="P1342306" order="6">何曾戒不<rhyme>虞</rhyme></Line></Couplet>
       <Line id="P1342307" order="7">較除<term>琛賮</term>譯</Line>
       <Line id="P1342308" order="8"><term>王母</term>獻<term>瑤<rhyme>圖</rhyme></term></Line>
 </text>
@@ -2303,9 +2302,9 @@
       <Line id="P1342602" order="2">推<term>仁體</term><term>六<rhyme>宮</rhyme></term></Line>
       <Couplet><Line id="P1342603" order="3">已流<term>樛木</term>化</Line>
         <Line id="P1342604" order="4">終恨<term>桂華</term><rhyme>空</rhyme></Line></Couplet>
-      <Couplet><Line id="P1342605" order="5"><term>羽衛</term>歸天上</Line>
+      <Couplet><Line id="P1342605" order="5"><term>羽衛</term><term>歸天</term>上</Line>
         <Line id="P1342606" order="6"><term>容衣</term>出殿<rhyme>中</rhyme></Line></Couplet>
-      <Line id="P1342607" order="7">年年<term>長信</term>草</Line>
+      <Line id="P1342607" order="7"><term>年年</term><term>長信</term>草</Line>
       <Line id="P1342608" order="8">應綠舊<term>春<rhyme>風</rhyme></term></Line>
 </text>
   </Poem>
@@ -2322,19 +2321,19 @@
         <Charactercount>오언</Charactercount>
     </Form>
       <Themes>
-        <Theme category="tranquility" basis="term" evidence="term:故人 山色">한적</Theme>
+        <Theme category="tranquility" basis="term" evidence="term:山色 故人">한적</Theme>
       </Themes>
       <Context></Context>
     </Metadata>
     <text>
-      <Line id="P1342701" order="1">亂草穿<term>幽逕</term></Line>
+      <Line id="P1342701" order="1"><d>亂草</d>穿<term>幽逕</term></Line>
       <Line id="P1342702" order="2"><term>荒村</term>訪<term>故<rhyme>人</rhyme></term></Line>
       <Couplet><Line id="P1342703" order="3"><term>秋光</term><term>蛩語</term>露</Line>
         <Line id="P1342704" order="4"><term>山色</term><term>馬蹄</term><rhyme>塵</rhyme></Line></Couplet>
       <Couplet><Line id="P1342705" order="5"><term>直道</term>餘<term>三黜</term></Line>
         <Line id="P1342706" order="6"><term>農談</term>博<term>四<rhyme>隣</rhyme></term></Line></Couplet>
-      <Line id="P1342707" order="7">可庭還得月</Line>
-      <Line id="P1342708" order="8">共此醉中<rhyme>眞</rhyme></Line>
+      <Line id="P1342707" order="7">可庭還<term>得月</term></Line>
+      <Line id="P1342708" order="8">共此<d>醉中</d><rhyme>眞</rhyme></Line>
 </text>
   </Poem>
 <Poem id="P13428">
@@ -2497,11 +2496,11 @@
     <text>
       <Line id="P1343301" order="1"><term>蕭寺</term>倚<term>懸石</term></Line>
       <Line id="P1343302" order="2"><term>白雲</term>生石<rhyme>中</rhyme></Line>
-      <Couplet><Line id="P1343303" order="3"><term>靑天</term>望<term>不極</term></Line>
-        <Line id="P1343304" order="4"><term>碧水</term>去<term>何<rhyme>窮</rhyme></term></Line></Couplet>
-      <Couplet><Line id="P1343305" order="5">日下<term>長洲</term>畔</Line>
+      <Couplet><Line id="P1343303" order="3"><term>靑天</term>望不極</Line>
+        <Line id="P1343304" order="4"><term>碧水</term>去何<rhyme>窮</rhyme></Line></Couplet>
+      <Couplet><Line id="P1343305" order="5"><term>日下</term><term>長洲</term>畔</Line>
         <Line id="P1343306" order="6">風鳴<term>苦竹</term><rhyme>叢</rhyme></Line></Couplet>
-      <Line id="P1343307" order="7">登樓一盃酒</Line>
+      <Line id="P1343307" order="7"><term>登樓</term><d>一盃</d>酒</Line>
       <Line id="P1343308" order="8"><term>豪氣</term>與誰<rhyme>雄</rhyme></Line>
 </text>
   </Poem>
@@ -2527,10 +2526,10 @@
       <Line id="P1343402" order="2"><term>蘧蘧</term>夢已<rhyme>驚</rhyme></Line>
       <Couplet><Line id="P1343403" order="3"><term>虛舟</term>應不繫</Line>
         <Line id="P1343404" order="4"><term>流水</term>本<term>無<rhyme>情</rhyme></term></Line></Couplet>
-      <Couplet><Line id="P1343405" order="5"><term>丹桂</term>天垂澤</Line>
-        <Line id="P1343406" order="6"><term>靑雲</term>鬼割<rhyme>榮</rhyme></Line></Couplet>
+      <Couplet><Line id="P1343405" order="5"><term>丹桂</term><term>天垂</term>澤</Line>
+        <Line id="P1343406" order="6"><term>靑雲</term>鬼<term>割<rhyme>榮</rhyme></term></Line></Couplet>
       <Line id="P1343407" order="7"><term>佳城</term>沈<term>白日</term></Line>
-      <Line id="P1343408" order="8">凄斷<term>薤歌</term><rhyme>聲</rhyme></Line>
+      <Line id="P1343408" order="8"><term>凄斷</term><term>薤歌</term><rhyme>聲</rhyme></Line>
 </text>
   </Poem>
 <Poem id="P13435">
@@ -2581,11 +2580,11 @@
     <text>
       <Line id="P1343601" order="1"><term>委巷</term>誰<term>相問</term></Line>
       <Line id="P1343602" order="2"><term>柴扉</term><term>盡日</term><rhyme>關</rhyme></Line>
-      <Couplet><Line id="P1343603" order="3">幽花一樹老</Line>
-        <Line id="P1343604" order="4">啼鳥數聲<rhyme>閒</rhyme></Line></Couplet>
+      <Couplet><Line id="P1343603" order="3"><d>幽花</d>一樹老</Line>
+        <Line id="P1343604" order="4"><d>啼鳥</d><d>數聲</d><rhyme>閒</rhyme></Line></Couplet>
       <Couplet><Line id="P1343605" order="5"><term>隱几</term>看<term>黃卷</term></Line>
-        <Line id="P1343606" order="6">開窓對<term>碧<rhyme>山</rhyme></term></Line></Couplet>
-      <Line id="P1343607" order="7">此時驚<term>倒屣</term></Line>
+        <Line id="P1343606" order="6"><d>開窓</d>對<term>碧<rhyme>山</rhyme></term></Line></Couplet>
+      <Line id="P1343607" order="7"><term>此時</term><term>驚倒</term>屣</Line>
       <Line id="P1343608" order="8">爲有慰<term>容<rhyme>顔</rhyme></term></Line>
 </text>
   </Poem>
@@ -2660,11 +2659,11 @@
     </Metadata>
     <text>
       <Line id="P1343901" order="1"><term>當代</term>論<term>詞伯</term></Line>
-      <Line id="P1343902" order="2">公爲第一<rhyme>才</rhyme></Line>
+      <Line id="P1343902" order="2">公爲<term>第一</term><rhyme>才</rhyme></Line>
       <Couplet><Line id="P1343903" order="3"><term>盛名</term>懸<term>日月</term></Line>
-        <Line id="P1343904" order="4"><term>餘力</term>鼓<term>風<rhyme>雷</rhyme></term></Line></Couplet>
+        <Line id="P1343904" order="4"><term>餘力</term><term>鼓風</term><rhyme>雷</rhyme></Line></Couplet>
       <Couplet><Line id="P1343905" order="5"><term>憂國</term>頻投筯</Line>
-        <Line id="P1343906" order="6">逢人數擧<rhyme>盃</rhyme></Line></Couplet>
+        <Line id="P1343906" order="6"><d>逢人</d>數擧<rhyme>盃</rhyme></Line></Couplet>
       <Line id="P1343907" order="7">應憐老<term>賓客</term></Line>
       <Line id="P1343908" order="8"><term>眉宇</term>不能<rhyme>開</rhyme></Line>
 </text>
@@ -2691,9 +2690,9 @@
       <Line id="P1344002" order="2">何曾惡<term>鼠<rhyme>肝</rhyme></term></Line>
       <Couplet><Line id="P1344003" order="3"><term>謀身</term>元<term>抹摋</term></Line>
         <Line id="P1344004" order="4">到骨是<term>淸<rhyme>寒</rhyme></term></Line></Couplet>
-      <Couplet><Line id="P1344005" order="5"><term>紫塞</term>遙鳴劍</Line>
+      <Couplet><Line id="P1344005" order="5"><term>紫塞</term>遙<term>鳴劍</term></Line>
         <Line id="P1344006" order="6"><term>靑山</term>幾<term>卸<rhyme>鞍</rhyme></term></Line></Couplet>
-      <Line id="P1344007" order="7">論文一尊酒</Line>
+      <Line id="P1344007" order="7"><term>論文</term><term>一尊</term>酒</Line>
       <Line id="P1344008" order="8">莫惜夜將<rhyme>䦨</rhyme></Line>
 </text>
   </Poem>
@@ -2710,7 +2709,7 @@
         <Charactercount>오언</Charactercount>
     </Form>
       <Themes>
-        <Theme category="sympathy" basis="title, term" evidence="title:遣懷, term:風塵 傷神">애상</Theme>
+        <Theme category="sympathy" basis="title, term" evidence="title:遣懷, term:傷神 風塵">애상</Theme>
       </Themes>
       <Context></Context>
     </Metadata>
@@ -2822,7 +2821,7 @@
         <Charactercount>오언</Charactercount>
     </Form>
       <Themes>
-        <Theme category="person" basis="term" evidence="term:意氣 文章">인물</Theme>
+        <Theme category="person" basis="term" evidence="term:文章 意氣">인물</Theme>
       </Themes>
       <Context></Context>
     </Metadata>
@@ -2885,11 +2884,11 @@
     <text>
       <Line id="P1344701" order="1"><term>大夢</term><term>寰中</term>近八<rhyme>旬</rhyme></Line>
       <Line id="P1344702" order="2"><term>淑身</term>曾是範<term>家<rhyme>人</rhyme></term></Line>
-      <Couplet><Line id="P1344703" order="3">會知焜燿<term>班姑</term>傳</Line>
-        <Line id="P1344704" order="4">忍見荒蕪<term>孟母</term><rhyme>隣</rhyme></Line></Couplet>
+      <Couplet><Line id="P1344703" order="3">會知<term>焜燿</term><term>班姑</term>傳</Line>
+        <Line id="P1344704" order="4"><d>忍見</d><term>荒蕪</term><term>孟母</term><rhyme>隣</rhyme></Line></Couplet>
       <Couplet><Line id="P1344705" order="5"><term>丹旐</term><term>緖風</term>翻<term>朔雪</term></Line>
-        <Line id="P1344706" order="6"><term>靑鳥</term>遠日卜<term>殘<rhyme>春</rhyme></term></Line></Couplet>
-      <Line id="P1344707" order="7">爲緣<term>鼎貴</term>三郞在</Line>
+        <Line id="P1344706" order="6"><term>靑鳥</term><term>遠日</term>卜<term>殘<rhyme>春</rhyme></term></Line></Couplet>
+      <Line id="P1344707" order="7">爲緣<term>鼎貴</term><term>三郞</term>在</Line>
       <Line id="P1344708" order="8">又餙<term>幽泉</term><term>寵渥</term><rhyme>新</rhyme></Line>
 </text>
   </Poem>
@@ -3025,12 +3024,12 @@
     </Metadata>
     <text>
       <Line id="P1345201" order="1"><term>賞音</term><term>千古</term>一<term>鍾<rhyme>期</rhyme></term></Line>
-      <Line id="P1345202" order="2">敢恨吾生已後<rhyme>時</rhyme></Line>
-      <Couplet><Line id="P1345203" order="3"><term>養拙</term>只緣全<term>性命</term></Line>
-        <Line id="P1345204" order="4">貪名豈坐愛<term>文<rhyme>辭</rhyme></term></Line></Couplet>
+      <Line id="P1345202" order="2">敢恨<term>吾生</term>已<term>後<rhyme>時</rhyme></term></Line>
+      <Couplet><Line id="P1345203" order="3"><term>養拙</term><term>只緣</term><term>全性</term>命</Line>
+        <Line id="P1345204" order="4"><term>貪名</term>豈坐愛<term>文<rhyme>辭</rhyme></term></Line></Couplet>
       <Couplet><Line id="P1345205" order="5"><term>丹心</term><term>許國</term><term>寶刀</term>在</Line>
         <Line id="P1345206" order="6"><term>白髮</term>欺人<term>明鏡</term><rhyme>知</rhyme></Line></Couplet>
-      <Line id="P1345207" order="7">賴有淸風北窓下</Line>
+      <Line id="P1345207" order="7">賴<term>有淸</term>風<d>北窓</d>下</Line>
       <Line id="P1345208" order="8">醉來<term>長嘯</term>更<term>題<rhyme>詩</rhyme></term></Line>
 </text>
   </Poem>
@@ -3209,7 +3208,7 @@
         <Charactercount>칠언</Charactercount>
     </Form>
       <Themes>
-        <Theme category="sympathy" basis="title, term" evidence="title:有感, term:淚 秋聲">애상</Theme>
+        <Theme category="sympathy" basis="title, term" evidence="title:有感, term:秋聲 淚">애상</Theme>
       </Themes>
       <Context></Context>
     </Metadata>
@@ -3382,14 +3381,14 @@
       <Context></Context>
     </Metadata>
     <text>
-      <Line id="P1346501" order="1"><term>王命</term><term>分符</term>養<term>母<rhyme>慈</rhyme></term></Line>
+      <Line id="P1346501" order="1"><term>王命</term><term>分符</term><term>養母</term><rhyme>慈</rhyme></Line>
       <Line id="P1346502" order="2"><term>一麾</term><term>江海</term>尙<term>恩<rhyme>私</rhyme></term></Line>
-      <Couplet><Line id="P1346503" order="3"><term>股肱</term>蹔作湖西牧</Line>
+      <Couplet><Line id="P1346503" order="3"><term>股肱</term>蹔作<d>湖西</d>牧</Line>
         <Line id="P1346504" order="4"><term>喉舌</term>初辭斗<term>北<rhyme>司</rhyme></term></Line></Couplet>
       <Couplet><Line id="P1346505" order="5"><term>愛日</term>心長<term>萱草</term>在</Line>
         <Line id="P1346506" order="6"><term>傾陽</term><term>誠切</term><term>露葵</term><rhyme>知</rhyme></Line></Couplet>
-      <Line id="P1346507" order="7">此行剰<term>得君</term>親報</Line>
-      <Line id="P1346508" order="8"><term>拄笏</term>看山賦幾<rhyme>詩</rhyme></Line>
+      <Line id="P1346507" order="7"><d>此行</d>剰<term>得君</term>親報</Line>
+      <Line id="P1346508" order="8"><term>拄笏</term><d>看山</d>賦幾<rhyme>詩</rhyme></Line>
 </text>
   </Poem>
 <Poem id="P13466">
@@ -3465,12 +3464,12 @@
     </Metadata>
     <text>
       <Line id="P1346801" order="1"><term>江海</term><term>頻年</term>作<term>遠<rhyme>遊</rhyme></term></Line>
-      <Line id="P1346802" order="2">重來今日感兼<rhyme>羞</rhyme></Line>
-      <Couplet><Line id="P1346803" order="3"><term>烟花</term><term>紫禁</term><term>尋常</term>夢</Line>
+      <Line id="P1346802" order="2"><term>重來</term><term>今日</term>感兼<rhyme>羞</rhyme></Line>
+      <Couplet><Line id="P1346803" order="3"><d>烟花</d><term>紫禁</term><term>尋常</term>夢</Line>
         <Line id="P1346804" order="4"><term>雨露</term><term>銀臺</term>十六<rhyme>秋</rhyme></Line></Couplet>
       <Couplet><Line id="P1346805" order="5"><term>三省</term><term>吏人</term>新<term>面目</term></Line>
         <Line id="P1346806" order="6"><term>九霄</term><term>簪笏</term>舊<term>風<rhyme>流</rhyme></term></Line></Couplet>
-      <Line id="P1346807" order="7">欲將筋刀酬<term>恩寵</term></Line>
+      <Line id="P1346807" order="7">欲將筋刀<term>酬恩</term>寵</Line>
       <Line id="P1346808" order="8">未覺<term>摧頹</term>已<term>白<rhyme>頭</rhyme></term></Line>
 </text>
   </Poem>
@@ -3824,14 +3823,14 @@
       <Context></Context>
     </Metadata>
     <text>
-      <Line id="P1348101" order="1">三分<term>春色</term>二分<rhyme>䦨</rhyme></Line>
+      <Line id="P1348101" order="1"><term>三分</term><term>春色</term><term>二分</term><rhyme>䦨</rhyme></Line>
       <Line id="P1348102" order="2"><term>惆悵</term><term>佳辰</term>夢裡<rhyme>還</rhyme></Line>
-      <Couplet><Line id="P1348103" order="3">烟染<term>柳條</term>纔着眼</Line>
+      <Couplet><Line id="P1348103" order="3">烟染<term>柳條</term>纔<term>着眼</term></Line>
         <Line id="P1348104" order="4">日烘<term>桃萼</term>欲生<rhyme>顔</rhyme></Line></Couplet>
       <Couplet><Line id="P1348105" order="5"><term>功名</term>任拙<term>風塵</term>下</Line>
-        <Line id="P1348106" order="6"><term>詩酒</term>論交<term>宇宙</term><rhyme>間</rhyme></Line></Couplet>
-      <Line id="P1348107" order="7">拌醉一塲難盡興</Line>
-      <Line id="P1348108" order="8"><term>杖藜</term>重肯款<term>紫<rhyme>關</rhyme></term></Line>
+        <Line id="P1348106" order="6"><term>詩酒</term><term>論交</term><term>宇宙</term><rhyme>間</rhyme></Line></Couplet>
+      <Line id="P1348107" order="7">拌醉一塲難<term>盡興</term></Line>
+      <Line id="P1348108" order="8"><term>杖藜</term>重肯款紫<rhyme>關</rhyme></Line>
 </text>
   </Poem>
 <Poem id="P13482">
@@ -3876,12 +3875,12 @@
       <Context></Context>
     </Metadata>
     <text>
-      <Line id="P1348301" order="1"><term>鳳巢</term><term>天骨</term><term>嶧陽<rhyme>桐</rhyme></term></Line>
+      <Line id="P1348301" order="1"><term>鳳巢</term><term>天骨</term><term>嶧陽</term><rhyme>桐</rhyme></Line>
       <Line id="P1348302" order="2"><term>樵斧</term>爲薪恨指<rhyme>窮</rhyme></Line>
       <Couplet><Line id="P1348303" order="3">猶<term>幸賞</term>音求㸑下</Line>
         <Line id="P1348304" order="4"><term>絶勝</term><term>斷木</term>在溝<rhyme>中</rhyme></Line></Couplet>
-      <Couplet><Line id="P1348305" order="5">人<term>將命</term>會如相待</Line>
-        <Line id="P1348306" order="6">物遇時來亦自<rhyme>通</rhyme></Line></Couplet>
+      <Couplet><Line id="P1348305" order="5">人<term>將命</term>會如<term>相待</term></Line>
+        <Line id="P1348306" order="6">物<term>遇時</term>來亦自<rhyme>通</rhyme></Line></Couplet>
       <Line id="P1348307" order="7"><term>焦尾</term>不妨絃<term>玉軫</term></Line>
       <Line id="P1348308" order="8"><term>伯喈</term><term>心匠</term>敓<term>神<rhyme>工</rhyme></term></Line>
 </text>
@@ -3932,14 +3931,14 @@
       <Context></Context>
     </Metadata>
     <text>
-      <Line id="P1348501" order="1">曾是<term>先朝</term>老<term>大<rhyme>臣</rhyme></term></Line>
-      <Line id="P1348502" order="2"><term>功名</term>圖畫在<term>麒<rhyme>麟</rhyme></term></Line>
-      <Couplet><Line id="P1348503" order="3"><term lemma="犀帶">帶犀</term>不覺<term>黃金</term>重</Line>
+      <Line id="P1348501" order="1">曾是<term>先朝</term><term>老大</term><rhyme>臣</rhyme></Line>
+      <Line id="P1348502" order="2"><term>功名</term><d>圖畫</d>在<term>麒<rhyme>麟</rhyme></term></Line>
+      <Couplet><Line id="P1348503" order="3">帶犀不覺<term>黃金</term>重</Line>
         <Line id="P1348504" order="4"><term>齒杖</term>還看<term>白髮</term><rhyme>新</rhyme></Line></Couplet>
       <Couplet><Line id="P1348505" order="5">只把<term>丹心</term>輸<term>聖主</term></Line>
-        <Line id="P1348506" order="6">肯回<term>靑眼</term>向<term>時<rhyme>人</rhyme></term></Line></Couplet>
+        <Line id="P1348506" order="6">肯<term>回靑</term>眼<term>向時</term><rhyme>人</rhyme></Line></Couplet>
       <Line id="P1348507" order="7">閒中自有<term>園林</term>趣</Line>
-      <Line id="P1348508" order="8"><term>柳暗</term>花明剰借<rhyme>春</rhyme></Line>
+      <Line id="P1348508" order="8"><term>柳暗</term>花明剰<term>借<rhyme>春</rhyme></term></Line>
 </text>
   </Poem>
 <Poem id="P13486">
@@ -3960,14 +3959,14 @@
       <Context></Context>
     </Metadata>
     <text>
-      <Line id="P1348601" order="1"><term>西海</term><term>過從</term>一夢<rhyme>圓</rhyme></Line>
+      <Line id="P1348601" order="1"><term>西海</term><term>過從</term><d>一夢</d><rhyme>圓</rhyme></Line>
       <Line id="P1348602" order="2"><term>春光</term>二十八回<rhyme>年</rhyme></Line>
       <Couplet><Line id="P1348603" order="3"><term>池臺</term><term>命酒</term>憐<term>風月</term></Line>
         <Line id="P1348604" order="4"><term>樓閣</term><term>題詩</term>聽<term>管<rhyme>絃</rhyme></term></Line></Couplet>
       <Couplet><Line id="P1348605" order="5"><term>寂寞</term><term>壯心</term>那有此</Line>
-        <Line id="P1348606" order="6"><term>悲涼</term><term>往事</term>尙依<rhyme>然</rhyme></Line></Couplet>
+        <Line id="P1348606" order="6"><term>悲涼</term><term>往事</term>尙<term>依<rhyme>然</rhyme></term></Line></Couplet>
       <Line id="P1348607" order="7"><term>白頭</term>又作<term>膺門</term>客</Line>
-      <Line id="P1348608" order="8">爲近城南<term>尺五</term><rhyme>天</rhyme></Line>
+      <Line id="P1348608" order="8">爲近<d>城南</d><term>尺五</term><rhyme>天</rhyme></Line>
 </text>
   </Poem>
 <Poem id="P13487">
@@ -4063,7 +4062,7 @@
         <Charactercount>칠언</Charactercount>
     </Form>
       <Themes>
-        <Theme category="reminiscence" basis="term" evidence="term:如今 往事">회고</Theme>
+        <Theme category="reminiscence" basis="term" evidence="term:往事 如今">회고</Theme>
       </Themes>
       <Context></Context>
     </Metadata>
@@ -4595,14 +4594,14 @@
       <Context></Context>
     </Metadata>
     <text>
-      <Line id="P1350901" order="1"><term>流落</term>塵中鬢似<rhyme>銀</rhyme></Line>
-      <Line id="P1350902" order="2">休廻<term>白眼</term>向<term>時<rhyme>人</rhyme></term></Line>
-      <Couplet><Line id="P1350903" order="3"><term>半生</term><term>文字</term>五千卷</Line>
-        <Line id="P1350904" order="4">未死<term>形骸</term>七尺<rhyme>身</rhyme></Line></Couplet>
-      <Couplet><Line id="P1350905" order="5">有分<term>功名</term>唯我老</Line>
-        <Line id="P1350906" order="6"><term>無私</term><term>天地</term>豈吾<rhyme>貧</rhyme></Line></Couplet>
+      <Line id="P1350901" order="1"><term>流落</term><d>塵中</d>鬢似<rhyme>銀</rhyme></Line>
+      <Line id="P1350902" order="2">休廻<term>白眼</term><term>向時</term><rhyme>人</rhyme></Line>
+      <Couplet><Line id="P1350903" order="3"><term>半生</term><term>文字</term>五<d>千卷</d></Line>
+        <Line id="P1350904" order="4">未死<term>形骸</term><term>七尺</term><rhyme>身</rhyme></Line></Couplet>
+      <Couplet><Line id="P1350905" order="5"><term>有分</term><term>功名</term>唯我老</Line>
+        <Line id="P1350906" order="6">無私<term>天地</term>豈吾<rhyme>貧</rhyme></Line></Couplet>
       <Line id="P1350907" order="7"><term>閒情</term>更入<term>沙鷗</term>夢</Line>
-      <Line id="P1350908" order="8">萬里<term>烟波</term>不可<rhyme>馴</rhyme></Line>
+      <Line id="P1350908" order="8"><d>萬里</d>烟波不可<rhyme>馴</rhyme></Line>
 </text>
   </Poem>
 <Poem id="P13510">
@@ -4618,17 +4617,17 @@
         <Charactercount>칠언</Charactercount>
     </Form>
       <Themes>
-        <Theme category="sympathy" basis="term" evidence="term:霜毛 空山 徒勞">애상</Theme>
+        <Theme category="sympathy" basis="term" evidence="term:霜毛 徒勞 空山">애상</Theme>
       </Themes>
       <Context></Context>
     </Metadata>
     <text>
-      <Line id="P1351001" order="1"><term>厖眉</term>誰念一<term>潛<rhyme>郞</rhyme></term></Line>
+      <Line id="P1351001" order="1"><term>厖眉</term>誰<term>念一</term><term>潛<rhyme>郞</rhyme></term></Line>
       <Line id="P1351002" order="2">猶得<term>虛名</term>厠<term>鷺<rhyme>行</rhyme></term></Line>
       <Couplet><Line id="P1351003" order="3"><term>郢客</term><term>徒勞</term>歌<term>白雪</term></Line>
         <Line id="P1351004" order="4">子雲休道賦<term>長<rhyme>楊</rhyme></term></Line></Couplet>
       <Couplet><Line id="P1351005" order="5"><term>衝星</term><term>紫氣</term>誰能識</Line>
-        <Line id="P1351006" order="6">照鏡<term>霜毛</term><term>獨自</term><rhyme>傷</rhyme></Line></Couplet>
+        <Line id="P1351006" order="6"><term>照鏡</term><term>霜毛</term><term>獨自</term><rhyme>傷</rhyme></Line></Couplet>
       <Line id="P1351007" order="7"><term>歲暮</term><term>窮陰</term>方<term>殺節</term></Line>
       <Line id="P1351008" order="8"><term>空山</term>何處訪<term>梅<rhyme>香</rhyme></term></Line>
 </text>
@@ -4702,7 +4701,7 @@
         <Charactercount>칠언</Charactercount>
     </Form>
       <Themes>
-        <Theme category="farewell" basis="title, term" evidence="title:留別 別, term:南陌">송별</Theme>
+        <Theme category="farewell" basis="title, term" evidence="title:別 留別, term:南陌">송별</Theme>
       </Themes>
       <Context></Context>
     </Metadata>
@@ -6089,13 +6088,13 @@
     </Metadata>
     <text>
       <Line id="P1356201" order="1"><term>甲胄</term>升陵出<term>漢<rhyme>關</rhyme></term></Line>
-      <Line id="P1356202" order="2"><term>貔貅</term>選飽有餘<rhyme>閒</rhyme></Line>
-      <Couplet><Line id="P1356203" order="3"><term>元戎</term>尙自提刀立</Line>
+      <Line id="P1356202" order="2"><term>貔貅</term>選飽<term>有餘</term><rhyme>閒</rhyme></Line>
+      <Couplet><Line id="P1356203" order="3"><term>元戎</term><term>尙自</term><term>提刀</term>立</Line>
         <Line id="P1356204" order="4"><term>醜虜</term>何能<term>匹馬</term><rhyme>還</rhyme></Line></Couplet>
-      <Couplet><Line id="P1356205" order="5">不戰屈人方剋敵</Line>
+      <Couplet><Line id="P1356205" order="5">不戰<term>屈人</term>方剋敵</Line>
         <Line id="P1356206" order="6">以奇爲正卽平<rhyme>蠻</rhyme></Line></Couplet>
-      <Line id="P1356207" order="7"><term>發縱</term>只在<term>睢盱</term>裏</Line>
-      <Line id="P1356208" order="8">十萬<term>全師</term>奉詔<rhyme>班</rhyme></Line>
+      <Line id="P1356207" order="7"><term>發縱</term><term>只在</term><term>睢盱</term>裏</Line>
+      <Line id="P1356208" order="8"><term>十萬</term><term>全師</term><term>奉詔</term><rhyme>班</rhyme></Line>
 </text>
   </Poem>
 <Poem id="P13563">
@@ -7521,10 +7520,10 @@
       <Line id="P1361301" order="1"><term>戰士</term><term>三千</term>盡<term>百<rhyme>金</rhyme></term></Line>
       <Line id="P1361302" order="2"><term>四圍</term><term>矛戟</term>列<term>森<rhyme>森</rhyme></term></Line>
       <Couplet><Line id="P1361303" order="3"><term>風雲</term><term>有氣</term><term>軍容</term>壯</Line>
-        <Line id="P1361304" order="4"><term>刁斗</term><term>無聲</term><term>月色</term><rhyme>深</rhyme></Line></Couplet>
-      <Couplet><Line id="P1361305" order="5"><term>南海</term><term>明珠</term>當使貢</Line>
+        <Line id="P1361304" order="4"><term>刁斗</term>無聲<term>月色</term><rhyme>深</rhyme></Line></Couplet>
+      <Couplet><Line id="P1361305" order="5"><term>南海</term><term>明珠</term><term>當使</term>貢</Line>
         <Line id="P1361306" order="6">西焦<term>浮玉</term>可輸<rhyme>琛</rhyme></Line></Couplet>
-      <Line id="P1361307" order="7"><term>用賢</term><term>無敵</term><term>長城</term>壯</Line>
+      <Line id="P1361307" order="7"><term>用賢</term>無敵<term>長城</term>壯</Line>
       <Line id="P1361308" order="8"><term>天子</term>憑公作<term>劍<rhyme>鐔</rhyme></term></Line>
 </text>
   </Poem>
@@ -7653,7 +7652,7 @@
         <Charactercount>칠언</Charactercount>
     </Form>
       <Themes>
-        <Theme category="tranquility" basis="term" evidence="term:寂寂 雲霞">한적</Theme>
+        <Theme category="tranquility" basis="term" evidence="term:雲霞 寂寂">한적</Theme>
       </Themes>
       <Context></Context>
     </Metadata>
@@ -7821,7 +7820,7 @@
         <Charactercount>칠언</Charactercount>
     </Form>
       <Themes>
-        <Theme category="donate" basis="title" evidence="title:求和 呈 奉呈">기증</Theme>
+        <Theme category="donate" basis="title" evidence="title:呈 求和 奉呈">기증</Theme>
       </Themes>
       <Context></Context>
     </Metadata>
@@ -7933,7 +7932,7 @@
         <Charactercount>칠언</Charactercount>
     </Form>
       <Themes>
-        <Theme category="tranquility" basis="term" evidence="term:松根 山翠">한적</Theme>
+        <Theme category="tranquility" basis="term" evidence="term:山翠 松根">한적</Theme>
       </Themes>
       <Context></Context>
     </Metadata>
@@ -8099,7 +8098,7 @@
         <Charactercount>칠언</Charactercount>
     </Form>
       <Themes>
-        <Theme category="sympathy" basis="term" evidence="term:風 三逕 夜深">애상</Theme>
+        <Theme category="sympathy" basis="term" evidence="term:夜深 三逕 風">애상</Theme>
       </Themes>
       <Context></Context>
     </Metadata>
@@ -8745,7 +8744,7 @@
         <Charactercount>칠언</Charactercount>
     </Form>
       <Themes>
-        <Theme category="astro" basis="title" evidence="title:雨 雲">천문</Theme>
+        <Theme category="astro" basis="title" evidence="title:雲 雨">천문</Theme>
       </Themes>
       <Context></Context>
     </Metadata>
@@ -9109,7 +9108,7 @@
         <Charactercount>칠언</Charactercount>
     </Form>
       <Themes>
-        <Theme category="sympathy" basis="term" evidence="term:愁 知己 年華">애상</Theme>
+        <Theme category="sympathy" basis="term" evidence="term:年華 愁 知己">애상</Theme>
       </Themes>
       <Context></Context>
     </Metadata>
@@ -9163,7 +9162,7 @@
         <Charactercount>칠언</Charactercount>
     </Form>
       <Themes>
-        <Theme category="sympathy" basis="term" evidence="term:寒 鴻雁 秋">애상</Theme>
+        <Theme category="sympathy" basis="term" evidence="term:秋 鴻雁 寒">애상</Theme>
       </Themes>
       <Context></Context>
     </Metadata>
@@ -10522,7 +10521,7 @@
         <Charactercount>칠언</Charactercount>
     </Form>
       <Themes>
-        <Theme category="farewell" basis="title, term" evidence="title:送, term:專對 悵望 驛樓">송별</Theme>
+        <Theme category="farewell" basis="title, term" evidence="title:送, term:悵望 專對 驛樓">송별</Theme>
       </Themes>
       <Context></Context>
     </Metadata>
@@ -12328,13 +12327,13 @@
     <text>
       <Line id="P1377901" order="1"><term>心火</term>難灰<term>鬢雪</term><rhyme>明</rhyme></Line>
       <Line id="P1377902" order="2">唯將<term>雲物</term>卜<term>陰<rhyme>晴</rhyme></term></Line>
-      <Couplet><Line id="P1377903" order="3">誰知<term>一顧</term><term>千金</term>重</Line>
+      <Couplet><Line id="P1377903" order="3"><d>誰知</d><term>一顧</term><term>千金</term>重</Line>
 	    <Allusion id="" target="誰知一顧千金重" type="B" source="戰國策" chapter="燕策二" originaltext="蘇代爲燕說齊 未見齊王 先說淳于髡曰 三旦立市 人莫之知 往見伯樂曰 臣有駿馬 欲賣之 比三旦立於市 人莫與言 願子還而視之 去而顧之 臣請獻一朝之賈 伯樂乃還而視之 去而顧之 一旦而馬價十倍"/></Line>
-      <Line id="P1377904" order="4">只在三盃<term>五岳</term><rhyme>輕</rhyme></Line></Couplet>
+      <Line id="P1377904" order="4"><term>只在</term>三盃<term>五岳</term><rhyme>輕</rhyme></Line></Couplet>
       <Couplet><Line id="P1377905" order="5"><term>末路</term><term>炎涼</term>看<term>俗態</term></Line>
       <Line id="P1377906" order="6"><term>暮年</term><term>羈旅</term>惜<term>人<rhyme>情</rhyme></term></Line></Couplet>
-      <Line id="P1377907" order="7">不緣<term>王事</term>供多病</Line>
-      <Line id="P1377908" order="8">那復<term>天涯</term>有此<rhyme>行</rhyme></Line>
+      <Line id="P1377907" order="7">不緣<term>王事</term>供<d>多病</d></Line>
+      <Line id="P1377908" order="8">那復<term>天涯</term>有<d>此<rhyme>行</rhyme></d></Line>
     </text>
   </Poem>
 <Poem id="P13780">
