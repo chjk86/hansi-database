@@ -516,9 +516,9 @@
 <title>抵唐縣</title>,<text>雪壓靑松樹。風吹翠竹林。三杯碧香酒。白馬走駸駸。</text>
 <title>途中吟</title>,<text>蒼崖斷處有人煙。𪚥𪚥𪚥𪚥𪚥𪚥𪚥。數三老叟星星語。如此凶年又量田。</text>
 <title>東湖</title>,<text>蕭瑟秋風候雁過。淸江萬里夕陽多。溪鱗村酒堪乘興。𪚥𪚥𪚥𪚥印碧波。</text>
-<title>贈別舍弟</title>,<text>時俗謗君文字上。江山助我別離情。全篇逸</text>
-<title>金書狀德承還自燕京。病中書贈。</title>,<text>司馬病中無日起。張騫槎上有時廻。全篇逸</text>
+<title>贈別舍弟</title>,<text>時俗謗君文字上。江山助我別離情。</text>
+<title>金書狀德承還自燕京。病中書贈。</title>,<text>司馬病中無日起。張騫槎上有時廻。</text>
 <title>贈人</title>,<text>今春又負東歸約。江上漁舟屬別人。</text>
-<title>贈人  其2</title>,<text>唯有竹君淸似我。雨中相對旦含杯。</text>
+<title>贈人 其二</title>,<text>唯有竹君淸似我。雨中相對旦含杯。</text>
 <title>洪川鳳城亭</title>,<text>吾弟洪川在。來誇一小亭。𪚥𪚥𪚥𪚥𪚥。𪚥𪚥𪚥𪚥𪚥。水愛圍仙洞。山憐隔縣廳。聞言解君意。不媿草堂靈。</text>
-<title>途中</title>,<text>孤雲衆壑暮。小雨一秋寒。全篇逸</text>
+<title>途中</title>,<text>孤雲衆壑暮。小雨一秋寒。</text>
